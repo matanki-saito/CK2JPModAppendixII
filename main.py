@@ -223,7 +223,7 @@ def main():
     # packする
     mod_pack_file_path = pack_mod(
         out_file_path=_(".", "out", "ck2_ap2_mod"),
-        mod_file_name="jpmod_ap2_mod",
+        mod_file_name="JPMOD Sub 1: Character Names",
         mod_zip_path=app_mod_zip_file_path,
         mod_title_name="Japanese Language Mod App-II",
         mod_tags={"Translation", "Localisation"},
