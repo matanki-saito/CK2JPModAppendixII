@@ -8,9 +8,13 @@ import shutil
 import tempfile
 import urllib.request
 import zipfile
+import re
 from os.path import join
+from pathlib import Path
 
 from boto3.session import Session
+
+from special_escape import generate_encoder, generate_printer
 
 _ = join
 
@@ -38,14 +42,34 @@ def download_trans_zip_from_paratranz(project_id,
     return out_file_path
 
 
-# TODO: フォント側を調整する必要がある。
-def filter_f(item):
-    if item.startswith("aoyagireisyo60-aoyagi") or \
-            item.startswith("aoyagireisyo60-appb") or \
-            item.startswith("tuikafont1"):
-        return False
-    else:
-        return True
+def build_dynasties_csv_from_raw(in_dir_path,
+                                 out_dir_path):
+    """
+    raw jsonからymlを組み立てる
+    :param in_dir_path: 入力パス
+    :param out_dir_path: 出力パス
+    :return:
+    """
+
+    encoder = generate_encoder("ck2", "txt")
+    printer = generate_printer("ck2", "txt")
+
+    def subf(m):
+        t = m.group(1)
+        if re.search(r"[あ-んア-ン一-鿐]", t) is not None:
+            return "name = \"" + t + "✐" + "\""
+        else:
+            return "name = \"" + t + "\""
+
+    for f in Path(in_dir_path).glob("00_dynasties.txt"):
+        # TXTを読み込んでcsvに変換
+        with open(str(f), "rt", encoding='utf-8') as fr:
+            text = fr.read()
+            result = re.sub(r'name\s*=\s*"([^"]+)"', subf, text)
+
+        # ファイルに保存
+        encode = encoder(src_array=map(ord, result))
+        printer(src_array=encode, out_file_path=_(out_dir_path, f.name))
 
 
 def assembly_app_mod_zip_file(resource_image_file_path,
@@ -66,12 +90,24 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         # common
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "history"),
                                                folder_list=["history"],
-                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path)
+                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                               base_folder_name="special")
 
         # history
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "common"),
                                                folder_list=["common"],
-                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path)
+                                               paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                               base_folder_name="special")
+
+        with tempfile.TemporaryDirectory() as temp_dir_path2:
+            # common/
+            salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path2, "common"),
+                                                   folder_list=["common"],
+                                                   paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                                   base_folder_name="utf8")
+
+            build_dynasties_csv_from_raw(in_dir_path=_(temp_dir_path2, "common", "dynasties"),
+                                         out_dir_path=_(temp_dir_path, "common", "dynasties"))
 
         # zip化する
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
@@ -79,15 +115,16 @@ def assembly_app_mod_zip_file(resource_image_file_path,
 
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
                                            paratranz_zip_path,
-                                           folder_list=[]):
+                                           folder_list,
+                                           base_folder_name):
     with zipfile.ZipFile(paratranz_zip_path) as paratranz_zip:
-        special_files = filter(lambda name: name.startswith("special/"), paratranz_zip.namelist())
+        special_files = filter(lambda name: name.startswith(base_folder_name + "/"), paratranz_zip.namelist())
 
         with tempfile.TemporaryDirectory() as temp_dir_path:
             paratranz_zip.extractall(path=temp_dir_path, members=special_files)
 
             for folder in folder_list:
-                shutil.copytree(_(temp_dir_path, "special", folder), out_dir_path)
+                shutil.copytree(_(temp_dir_path, base_folder_name, folder), out_dir_path)
 
 
 def generate_dot_mod_file(mod_title_name,
@@ -205,10 +242,12 @@ def main():
     os.makedirs(_(".", "out"), exist_ok=True)
 
     # 翻訳の最新版をダウンロードする
-    p_file_path = download_trans_zip_from_paratranz(
-        project_id=91,
-        secret=os.environ.get("PARATRANZ_SECRET"),
-        out_file_path=_(".", "tmp", "paratranz.zip"))
+    # p_file_path = download_trans_zip_from_paratranz(
+    #     project_id=91,
+    #     secret=os.environ.get("PARATRANZ_SECRET"),
+    #     out_file_path=_(".", "tmp", "paratranz.zip"))
+
+    p_file_path = _(".", "tmp", "paratranz.zip")
 
     print("p_file_path:{}".format(p_file_path))
 
@@ -231,6 +270,8 @@ def main():
         mod_user_dir_name="JLM")
 
     print("mod_pack_file_path:{}".format(mod_pack_file_path))
+
+    return;
 
     # S3にアップロード from datetime import datetime as dt
     from datetime import datetime as dt
