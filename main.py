@@ -4,11 +4,11 @@
 import hashlib
 import json
 import os
+import re
 import shutil
 import tempfile
 import urllib.request
 import zipfile
-import re
 from os.path import join
 from pathlib import Path
 
@@ -17,6 +17,63 @@ from boto3.session import Session
 from special_escape import generate_encoder, generate_printer
 
 _ = join
+
+replace_key_pattern_map = {
+    "DYNAMIC_NAME_1": "[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_1_ADJ": "[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_2": "[target_name.GetFirstName]ア",
+    "DYNAMIC_NAME_2_ADJ": "[target_name.GetFirstName]ア",
+    "DYNAMIC_NAME_3": "[target_name.GetLastWordInDynastyName]ランド",
+    "DYNAMIC_NAME_3_ADJ": "[target_name.GetLastWordInDynastyName]ランド",
+    "DYNAMIC_NAME_4": "[target_name.GetLastWordInDynastyName]ン",
+    "DYNAMIC_NAME_4_ADJ": "[target_name.GetLastWordInDynastyName]ン",
+    "DYNAMIC_NAME_5": "[target_name.GetFirstName]スタン",
+    "DYNAMIC_NAME_5_ADJ": "[target_name.GetFirstName]スタン",
+    "DYNAMIC_NAME_6": "[target_name.GetLastWordInDynastyName]リア",
+    "DYNAMIC_NAME_6_ADJ": "[target_name.GetLastWordInDynastyName]リア",
+    "DYNAMIC_NAME_7": "[target_name.GetLastWordInDynastyName]ニア",
+    "DYNAMIC_NAME_7_ADJ": "[target_name.GetLastWordInDynastyName]ニア",
+    "DYNAMIC_NAME_8": "[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_8_ADJ": "[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_9": "[target_name.GetFirstName]ランド",
+    "DYNAMIC_NAME_9_ADJ": "[target_name.GetFirstName]ランド",
+    "DYNAMIC_NAME_10": "[target_name.GetLastWordInDynastyName]",
+    "DYNAMIC_NAME_10_ADJ": "[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_11": "上[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_11_ADJ": "上[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_12": "下[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_12_ADJ": "下[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_13": "小[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_13_ADJ": "小[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_14": "大[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_14_ADJ": "大[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_15": "[target_name.GetLastWordInDynastyName]クス",
+    "DYNAMIC_NAME_15_ADJ": "[target_name.GetLastWordInDynastyName]クス",
+    "DYNAMIC_NAME_16": "[target_name.GetLastWordInDynastyName]ヴァニア",
+    "DYNAMIC_NAME_16_ADJ": "[target_name.GetLastWordInDynastyName]ヴァニア",
+    "DYNAMIC_NAME_17": "[target_name.GetLastWordInDynastyName]ニ",
+    "DYNAMIC_NAME_17_ADJ": "[target_name.GetLastWordInDynastyName]ニ",
+    "DYNAMIC_NAME_18": "低[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_18_ADJ": "低[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_19": "高[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_19_ADJ": "高[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_20": "新[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_20_ADJ": "新[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_21": "古[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_21_ADJ": "古[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_22": "中央[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_22_ADJ": "中央[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_23": "ノヴァ・[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_23_ADJ": "ノヴァ・[target_name.GetLastWordInDynastyName]ア",
+    "DYNAMIC_NAME_24": "[target_name.GetLastWordInDynastyName]ン",
+    "DYNAMIC_NAME_24_ADJ": "[target_name.GetLastWordInDynastyName]ン",
+    "DYNAMIC_NAME_25": "[target_name.GetLastWordInDynastyName]リク",
+    "DYNAMIC_NAME_25_ADJ": "[target_name.GetLastWordInDynastyName]リク",
+    "DYNAMIC_NAME_26": "[target_name.GetLastWordInDynastyName]ニア",
+    "DYNAMIC_NAME_26_ADJ": "[target_name.GetLastWordInDynastyName]ニア",
+    "DYNAMIC_NAME_27": "[target_name.GetLastWordInDynastyName]ケニア",
+    "DYNAMIC_NAME_27_ADJ": "[target_name.GetLastWordInDynastyName]ケニア",
+}
 
 
 def download_trans_zip_from_paratranz(project_id,
@@ -72,6 +129,47 @@ def build_dynasties_csv_from_raw(in_dir_path,
         printer(src_array=encode, out_file_path=_(out_dir_path, f.name))
 
 
+def build_yml_from_raw_json(in_dir_path,
+                            out_dir_path,
+                            pattern_map):
+    """
+    raw jsonからymlを組み立てる
+    :param in_dir_path: 入力パス
+    :param out_dir_path: 出力パス
+    :param pattern_map: マッチキーパターン
+    :return:
+    """
+
+    encoder = generate_encoder("ck2", "csv")
+    printer = generate_printer("ck2", "csv")
+
+    os.makedirs(out_dir_path, exist_ok=True)
+
+    for f in Path(in_dir_path).glob("HolyFury.csv.json"):
+        result = ["#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x"]
+
+        # JSONを読み込んでymlに変換
+        with open(str(f), "rt", encoding='utf-8') as fr:
+            for item in json.loads(fr.read()):
+                key = item['key']
+                original = item['original']
+                translation = item['translation']
+
+                if key in pattern_map:
+                    text = pattern_map[key]
+                elif translation == "":
+                    text = original
+                else:
+                    text = translation
+
+                result.append('{};{};;;;;;;;;;;;x'.format(key, text))
+
+        # ファイルに保存
+        root, ext = os.path.splitext(f.name)
+        encode = encoder(src_array=map(ord, "\n".join(result)))
+        printer(src_array=encode, out_file_path=_(out_dir_path, root))
+
+
 def assembly_app_mod_zip_file(resource_image_file_path,
                               resource_paratranz_trans_zip_file_path,
                               out_file_path):
@@ -106,8 +204,18 @@ def assembly_app_mod_zip_file(resource_image_file_path,
                                                    paratranz_zip_path=resource_paratranz_trans_zip_file_path,
                                                    base_folder_name="utf8")
 
+            # localisation
+            salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path2, "localisation"),
+                                                   folder_list=["localisation"],
+                                                   paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                                   base_folder_name="raw")
+
             build_dynasties_csv_from_raw(in_dir_path=_(temp_dir_path2, "common", "dynasties"),
                                          out_dir_path=_(temp_dir_path, "common", "dynasties"))
+
+            build_yml_from_raw_json(in_dir_path=_(temp_dir_path2, "localisation"),
+                                    out_dir_path=_(temp_dir_path, "localisation"),
+                                    pattern_map=replace_key_pattern_map)
 
         # zip化する
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
