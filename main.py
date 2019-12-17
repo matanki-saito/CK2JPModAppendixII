@@ -165,7 +165,7 @@ def build_yml_from_raw_json(in_dir_path,
                 result.append('{};{};;;;;;;;;;;;x'.format(key, text))
 
         # ファイルに保存
-        root, ext = os.path.splitext(f.name)
+        root = "HolyFury.csv"
         encode = encoder(src_array=map(ord, "\n".join(result)))
         printer(src_array=encode, out_file_path=_(out_dir_path, root))
 
