@@ -9,6 +9,7 @@ import shutil
 import tempfile
 import urllib.request
 import zipfile
+import time
 from os.path import join
 from pathlib import Path
 
@@ -81,13 +82,22 @@ def download_trans_zip_from_paratranz(project_id,
                                       out_file_path,
                                       base_url="https://paratranz.cn"):
     """
-    paratranzからzipをダウンロードする
+    paratranzからzipをダウンロードする。ダウンロード前にre-generateする
     :param project_id:
     :param secret:
     :param base_url:
     :param out_file_path:
     :return:
     """
+
+    regenerate_request_url = "{}/api/projects/{}/artifacts".format(base_url, project_id)
+    req = urllib.request.Request(regenerate_request_url, method="POST")
+    req.add_header("Authorization", secret)
+    with urllib.request.urlopen(req) as response:
+        print(response.read().decode("utf-8"))
+
+    # wait for regenerate
+    time.sleep(90)
 
     request_url = "{}/api/projects/{}/artifacts/download".format(base_url, project_id)
     req = urllib.request.Request(request_url)
@@ -185,30 +195,30 @@ def assembly_app_mod_zip_file(resource_image_file_path,
         # 画像ファイル
         shutil.copy(resource_image_file_path, temp_dir_path)
 
-        # common
+        # history
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "history"),
                                                folder_list=["history"],
                                                paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                               base_folder_name="special")
+                                               head_folder_name="special")
 
-        # history
+        # common
         salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path, "common"),
                                                folder_list=["common"],
                                                paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                               base_folder_name="special")
+                                               head_folder_name="special")
 
         with tempfile.TemporaryDirectory() as temp_dir_path2:
             # common/
             salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path2, "common"),
                                                    folder_list=["common"],
                                                    paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                                   base_folder_name="utf8")
+                                                   head_folder_name="utf8")
 
             # localisation
             salvage_files_from_paratranz_trans_zip(out_dir_path=_(temp_dir_path2, "localisation"),
                                                    folder_list=["localisation"],
                                                    paratranz_zip_path=resource_paratranz_trans_zip_file_path,
-                                                   base_folder_name="raw")
+                                                   head_folder_name="raw")
 
             build_dynasties_csv_from_raw(in_dir_path=_(temp_dir_path2, "common", "dynasties"),
                                          out_dir_path=_(temp_dir_path, "common", "dynasties"))
@@ -224,15 +234,15 @@ def assembly_app_mod_zip_file(resource_image_file_path,
 def salvage_files_from_paratranz_trans_zip(out_dir_path,
                                            paratranz_zip_path,
                                            folder_list,
-                                           base_folder_name):
+                                           head_folder_name):
     with zipfile.ZipFile(paratranz_zip_path) as paratranz_zip:
-        special_files = filter(lambda name: name.startswith(base_folder_name + "/"), paratranz_zip.namelist())
+        special_files = filter(lambda name: name.startswith(head_folder_name + "/"), paratranz_zip.namelist())
 
         with tempfile.TemporaryDirectory() as temp_dir_path:
             paratranz_zip.extractall(path=temp_dir_path, members=special_files)
 
             for folder in folder_list:
-                shutil.copytree(_(temp_dir_path, base_folder_name, folder), out_dir_path)
+                shutil.copytree(_(temp_dir_path, head_folder_name, folder), out_dir_path)
 
 
 def generate_dot_mod_file(mod_title_name,
@@ -344,6 +354,20 @@ def pack_mod(out_file_path,
         return shutil.make_archive(out_file_path, 'zip', root_dir=temp_dir_path)
 
 
+def update_source(resource_paratranz_trans_zip_file_path):
+    shutil.rmtree("source", ignore_errors=True)
+    os.makedirs("source", exist_ok=True)
+
+    salvage_files_from_paratranz_trans_zip(out_dir_path=_("source", "history"),
+                                           folder_list=["history"],
+                                           paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                           head_folder_name="utf8")
+
+    salvage_files_from_paratranz_trans_zip(out_dir_path=_("source", "common"),
+                                           folder_list=["common"],
+                                           paratranz_zip_path=resource_paratranz_trans_zip_file_path,
+                                           head_folder_name="utf8")
+
 def main():
     # 一時フォルダ用意
     os.makedirs(_(".", "tmp"), exist_ok=True)
@@ -394,6 +418,8 @@ def main():
                                out_file_path=_(".", "out", "dist.v2.json"),
                                mod_file_path=mod_pack_file_path)
 
+    # utf8ファイルを移動する（この後git pushする）
+    update_source(resource_paratranz_trans_zip_file_path=p_file_path)
 
 if __name__ == "__main__":
     main()
