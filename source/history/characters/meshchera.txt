@@ -1,0 +1,271 @@
+﻿159710 = {
+  name = "ヴェチカス"  # Vechkas
+  religion = "finnish_pagan"
+  culture = meshchera
+  dynasty = 1029106
+  father = 194158
+  840.1.1 = {
+    birth = yes
+  }
+  907.1.1 = {
+    death = yes
+  }
+}
+160121 = {
+  name = "デリャブ"  # Deryab
+  religion = "finnish_pagan"
+  culture = meshchera
+  dynasty = 1029106
+  father = 159710
+  861.1.1 = {
+    birth = "861.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160122 = {
+  name = "ヴェルマイカ"  # Velmayka
+  religion = "finnish_pagan"
+  culture = meshchera
+  dynasty = 1029106
+  father = 159710
+  862.1.1 = {
+    birth = "862.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160123 = {
+  name = "マリー"  # Malyy
+  religion = "finnish_pagan"
+  culture = meshchera
+  dynasty = 1029106
+  father = 159710
+  863.1.1 = {
+    birth = "863.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+194156 = {
+  name = "パラッシュ"  # Parush
+  dynasty = 1029106
+  religion = finnish_pagan
+  culture = meshchera
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194157 = {
+  name = "キニャク"  # Kinyak
+  dynasty = 1029106
+  religion = finnish_pagan
+  culture = meshchera
+  father = 194156
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194158 = {
+  name = "コシェル"  # Koshel
+  dynasty = 1029106
+  religion = finnish_pagan
+  culture = meshchera
+  father = 194157
+  810.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    death = yes
+  }
+}
+194165 = {
+  name = "インザイ"  # Inzhay
+  dynasty = 1045027
+  religion = finnish_pagan
+  culture = meshchera
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+256052 = {
+  name = "ピニャス"  # Pinyas
+  dynasty = 1061032
+  religion = "finnish_pagan"
+  culture = "meshchera"
+  736.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+256105 = {
+  name = "オヴタイ"  # Ovtay
+  dynasty = 1029106
+  religion = orthodox
+  culture = meshchera
+  1032.7.13 = {
+    birth = yes
+  }
+  1084.6.23 = {
+    death = yes
+  }
+}
+256106 = {
+  name = "ヴァルダヴァ"  # Valdava
+  dynasty = 1029106
+  father = 256105
+  female = yes
+  religion = orthodox
+  culture = meshchera
+  1050.9.20 = {
+    birth = yes
+  }
+  1119.2.4 = {
+    death = yes
+  }
+}
+256107 = {
+  name = "ウザーラ"  # Uzhara
+  dynasty = 1029106
+  father = 256105
+  religion = orthodox
+  culture = meshchera
+  1052.4.30 = {
+    birth = yes
+  }
+  1106.11.7 = {
+    death = yes
+  }
+}
+256108 = {
+  name = "アズィレン"  # Azyren
+  dynasty = 1029106
+  father = 256107
+  religion = orthodox
+  culture = meshchera
+  1074.8.18 = {
+    birth = yes
+  }
+  1133.12.1 = {
+    death = yes
+  }
+}
+256109 = {
+  name = "エルズィヤ"  # Erziya
+  dynasty = 1029106
+  father = 256108
+  religion = orthodox
+  culture = meshchera
+  1098.10.10 = {
+    birth = yes
+  }
+  1160.7.6 = {
+    death = yes
+  }
+}
+256110 = {
+  name = "スルト"  # Surt
+  dynasty = 1029106
+  father = 256108
+  religion = orthodox
+  culture = meshchera
+  1101.8.20 = {
+    birth = yes
+  }
+  1165.1.19 = {
+    death = yes
+  }
+}
+256111 = {
+  name = "ヴァルマンパス"  # Varmanpaz
+  dynasty = 1029106
+  father = 256109
+  religion = orthodox
+  culture = meshchera
+  1122.9.9 = {
+    birth = yes
+  }
+  1190.7.7 = {
+    death = yes
+  }
+}
+256112 = {
+  name = "ヴィリャス"  # Viryas
+  dynasty = 1029106
+  father = 256111
+  religion = orthodox
+  culture = meshchera
+  1150.6.21 = {
+    birth = yes
+  }
+  1238.2.4 = {
+    death = yes
+  }
+}
+256113 = {
+  name = "リタヴァ"  # Litava
+  dynasty = 1029106
+  father = 256112
+  female = yes
+  religion = orthodox
+  culture = meshchera
+  1173.2.19 = {
+    birth = yes
+  }
+  1255.7.7 = {
+    death = yes
+  }
+}
+256114 = {
+  name = "リヤヴァ"  # Liyava
+  dynasty = 1029106
+  father = 256112
+  female = yes
+  religion = orthodox
+  culture = meshchera
+  1174.11.14 = {
+    birth = yes
+  }
+  1201.2.2 = {
+    death = yes
+  }
+}
+256124 = {
+  name = "コシェル"  # Koshel
+  dynasty = 1061063
+  religion = orthodox
+  culture = meshchera
+  1047.1.1 = {
+    birth = yes
+  }
+  1099.1.2 = {
+    death = yes
+  }
+}
+256125 = {
+  name = "ヌアンザ"  # Nuyanza
+  dynasty = 1061063
+  father = 256124
+  religion = orthodox
+  culture = meshchera
+  1065.1.1 = {
+    birth = yes
+  }
+  1099.1.2 = {
+    death = yes
+  }
+}

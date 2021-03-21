@@ -1,0 +1,1316 @@
+﻿2000000 = {
+  name = "イクサウマ"  # Warhorse
+  culture = "horse"
+}
+2000001 = {
+  name = "エクウス・フェルス"  # Equus Ferus
+  culture = "horse"
+}
+2000002 = {
+  name = "エクイダエ"  # Equidae
+  culture = "horse"
+}
+2000003 = {
+  name = "エオヒップス"  # Eohippus
+  culture = "horse"
+}
+2000004 = {
+  name = "アラタテガミ"  # Wildmane
+  culture = "horse"
+}
+2000005 = {
+  name = "クラカツギ"  # Saddle
+  culture = "horse"
+}
+2000006 = {
+  name = "アラウマ"  # Hotblood
+  culture = "horse"
+}
+2000007 = {
+  name = "バンバ"  # Drafthorse
+  culture = "horse"
+}
+2000008 = {
+  name = "センバ"  # Gelding
+  culture = "horse"
+}
+2000009 = {
+  name = "コルト"  # Colt
+  culture = "horse"
+}
+2000010 = {
+  name = "ポニー"  # Pony
+  culture = "horse"
+}
+2000011 = {
+  name = "ファラベラ"  # Falabella
+  culture = "horse"
+}
+2000012 = {
+  name = "クリゲ"  # Chestnut
+  culture = "horse"
+}
+2000013 = {
+  name = "ソレル"  # Sorrel
+  culture = "horse"
+}
+2000014 = {
+  name = "グレイザー"  # Grazer
+  culture = "horse"
+}
+2000015 = {
+  name = "トロッター"  # Trotter
+  culture = "horse"
+}
+2000016 = {
+  name = "ペイサー"  # Pacer
+  culture = "horse"
+}
+2000017 = {
+  name = "カケアシ"  # Canter
+  culture = "horse"
+}
+2000018 = {
+  name = "ギャロップ"  # Galop
+  culture = "horse"
+}
+2000019 = {
+  name = "クアッガ"  # Quagga
+  culture = "horse"
+}
+2000020 = {
+  name = "ラバ"  # Mule
+  culture = "horse"
+}
+2000021 = {
+  name = "ケッテイ"  # Hinny
+  culture = "horse"
+}
+2000022 = {
+  name = "スレイプニル"  # Sleipnir
+  culture = "horse"
+}
+2000023 = {
+  name = "ハミ"  # Bit
+  culture = "horse"
+}
+2000024 = {
+  name = "オホグラヒ"  # Bolting
+  culture = "horse"
+}
+2000025 = {
+  name = "バロク"  # Bridle
+  culture = "horse"
+}
+2000026 = {
+  name = "ブルードメア"  # Broodmare
+  culture = "horse"
+}
+2000027 = {
+  name = "ハネウマ"  # Bucking
+  culture = "horse"
+}
+2000028 = {
+  name = "コールドバック"  # Coldback
+  culture = "horse"
+}
+2000029 = {
+  name = "カネハカセ"  # Farrier
+  culture = "horse"
+}
+2000030 = {
+  name = "サイアー"  # Sire
+  culture = "horse"
+}
+2000031 = {
+  name = "ハロン"  # Furlong
+  culture = "horse"
+}
+2000032 = {
+  name = "ホルター"  # Halter
+  culture = "horse"
+}
+2000033 = {
+  name = "イナナキ"  # Neigh
+  culture = "horse"
+}
+2000034 = {
+  name = "ブルルヒヒン"  # Whinny
+  culture = "horse"
+}
+2000035 = {
+  name = "アウトロー"  # Outlaw
+  culture = "horse"
+}
+2000036 = {
+  name = "オビエウマ"  # Shying
+  culture = "horse"
+}
+2000037 = {
+  name = "ストライド"  # Stride
+  culture = "horse"
+}
+2000038 = {
+  name = "ウルスス"  # Ursus
+  culture = "bear"
+}
+2000039 = {
+  name = "クマノテ"  # Paw
+  culture = "bear"
+}
+2000040 = {
+  name = "クロー"  # Claw
+  culture = "bear"
+}
+2000041 = {
+  name = "グラウラー"  # Growler
+  culture = "bear"
+}
+2000042 = {
+  name = "マンチャー"  # Muncher
+  culture = "bear"
+}
+2000043 = {
+  name = "イーダ"  # Ide
+  culture = "bear"
+}
+2000044 = {
+  name = "アザラシグイ"  # Sealchomper
+  culture = "bear"
+}
+2000045 = {
+  name = "ブラウン"  # Brown
+  culture = "bear"
+}
+2000046 = {
+  name = "ウルス"  # Ours
+  culture = "bear"
+}
+2000047 = {
+  name = "ウルシダエ"  # Ursidae
+  culture = "bear"
+}
+2000048 = {
+  name = "スナゥト"  # Snout
+  culture = "bear"
+}
+2000049 = {
+  name = "ベラ"  # Bera
+  culture = "bear"
+}
+2000050 = {
+  name = "クマ"  # Bear
+  culture = "bear"
+}
+2000051 = {
+  name = "アルクトイデア"  # Arctoidea
+  culture = "bear"
+}
+2000052 = {
+  name = "ヘラルクトス"  # Helarctos
+  culture = "bear"
+}
+2000053 = {
+  name = "ウルサ"  # Ursa
+  culture = "bear"
+}
+2000054 = {
+  name = "ベーア"  # Bär
+  culture = "bear"
+}
+2000055 = {
+  name = "メタル"  # Metal
+  culture = "bear"
+}
+2000056 = {
+  name = "ベアクロー"  # Bearclaw
+  culture = "bear"
+}
+2000057 = {
+  name = "エリシャ"  # Elisha
+  culture = "bear"
+}
+2000058 = {
+  name = "ジョーズ"  # Jaws
+  culture = "bear"
+}
+2000059 = {
+  name = "スリーベア"  # Threebear
+  culture = "bear"
+}
+2000060 = {
+  name = "テディ"  # Teddy
+  culture = "bear"
+}
+2000061 = {
+  name = "ツキ"  # Moon
+  culture = "bear"
+}
+2000062 = {
+  name = "タイヨウ"  # Sun
+  culture = "bear"
+}
+2000063 = {
+  name = "ディガー"  # Digger
+  culture = "bear"
+}
+2000064 = {
+  name = "ダンサー"  # Dancer
+  culture = "bear"
+}
+2000065 = {
+  name = "カニバル"  # Carnivora
+  culture = "bear"
+}
+2000066 = {
+  name = "シャギー"  # Shaggy
+  culture = "bear"
+}
+2000067 = {
+  name = "デン"  # Den
+  culture = "bear"
+}
+2000068 = {
+  name = "ファー"  # Fur
+  culture = "bear"
+}
+2000069 = {
+  name = "ホラアナ"  # Cave
+  culture = "bear"
+}
+2000070 = {
+  name = "ベーコン"  # Baconi
+  culture = "bear"
+}
+2000071 = {
+  name = "キャッツラン"  # Katturan
+  culture = "cat"
+}
+2000072 = {
+  name = "コネコ"  # Kitten
+  culture = "cat"
+}
+2000073 = {
+  name = "フェリクス"  # Felix
+  culture = "cat"
+}
+2000074 = {
+  name = "フェリン"  # Feline
+  culture = "cat"
+}
+2000075 = {
+  name = "フェリス・カトゥス"  # Felis Catus
+  culture = "cat"
+}
+2000076 = {
+  name = "ノラ"  # Feral
+  culture = "cat"
+}
+2000077 = {
+  name = "フェリディ"  # Felidae
+  culture = "cat"
+}
+2000078 = {
+  name = "ファーリー"  # Furry
+  culture = "cat"
+}
+2000079 = {
+  name = "バーミン"  # Vermin
+  culture = "cat"
+}
+2000080 = {
+  name = "ライオン"  # Lion
+  culture = "cat"
+}
+2000081 = {
+  name = "トラ"  # Tiger
+  culture = "cat"
+}
+2000082 = {
+  name = "レパード"  # Leopard
+  culture = "cat"
+}
+2000083 = {
+  name = "ネコ"  # Cat
+  culture = "cat"
+}
+2000084 = {
+  name = "プッスコット"  # Pusekatt
+  culture = "cat"
+}
+2000085 = {
+  name = "ヤマネコ"  # Wildcat
+  culture = "cat"
+}
+2000086 = {
+  name = "ネズミトリ"  # Ratcatcher
+  culture = "cat"
+}
+2000087 = {
+  name = "デウクラウ"  # Dewclaw
+  culture = "cat"
+}
+2000088 = {
+  name = "ジャンパー"  # Jumper
+  culture = "cat"
+}
+2000089 = {
+  name = "クラヤミ"  # Night
+  culture = "cat"
+}
+2000090 = {
+  name = "ミミ"  # Ears
+  culture = "cat"
+}
+2000091 = {
+  name = "マンクス"  # Manx
+  culture = "cat"
+}
+2000092 = {
+  name = "ゴロゴロ"  # Purr
+  culture = "cat"
+}
+2000093 = {
+  name = "シャー"  # Hiss
+  culture = "cat"
+}
+2000094 = {
+  name = "ニャァ"  # Meow
+  culture = "cat"
+}
+2000095 = {
+  name = "ジャガー"  # Jaguar
+  culture = "cat"
+}
+2000096 = {
+  name = "ケダマ"  # Hairball
+  culture = "cat"
+}
+2000097 = {
+  name = "トラネコ"  # Tabby
+  culture = "cat"
+}
+2000098 = {
+  name = "シノビアシ"  # Stalker
+  culture = "cat"
+}
+2000099 = {
+  name = "ファミリア"  # Familiar
+  culture = "cat"
+}
+2000100 = {
+  name = "フレイヤ"  # Freyja
+  culture = "cat"
+}
+2000101 = {
+  name = "アテレリクス"  # Atelerix
+  culture = "hedgehog_culture"
+}
+2000102 = {
+  name = "エリナケウス"  # Erinaceus
+  culture = "hedgehog_culture"
+}
+2000103 = {
+  name = "ヘミエキヌス"  # Hemiechinus
+  culture = "hedgehog_culture"
+}
+2000104 = {
+  name = "メセキヌス"  # Mesechinus
+  culture = "hedgehog_culture"
+}
+2000105 = {
+  name = "パラエキヌス"  # Paraechinus
+  culture = "hedgehog_culture"
+}
+2000106 = {
+  name = "デイノガレリクス"  # Deinogalerix
+  culture = "hedgehog_culture"
+}
+2000107 = {
+  name = "エキノソレクス"  # Echinosorex
+  culture = "hedgehog_culture"
+}
+2000108 = {
+  name = "ヒュロミュス"  # Hylomys
+  culture = "hedgehog_culture"
+}
+2000109 = {
+  name = "ネオヒュロミュス"  # Neohylomys
+  culture = "hedgehog_culture"
+}
+2000110 = {
+  name = "ネオテトラクス"  # Neotetracus
+  culture = "hedgehog_culture"
+}
+2000111 = {
+  name = "ポドギュムヌラ"  # Podogymnura
+  culture = "hedgehog_culture"
+}
+2000112 = {
+  name = "タルピダエ"  # Talpidae
+  culture = "hedgehog_culture"
+}
+2000113 = {
+  name = "ソリキダエ"  # Soricidae
+  culture = "hedgehog_culture"
+}
+2000114 = {
+  name = "フォリドケルクス"  # Pholidocercus
+  culture = "hedgehog_culture"
+}
+2000115 = {
+  name = "シルヴァコラ"  # Silvacola
+  culture = "hedgehog_culture"
+}
+2000116 = {
+  name = "エリナケイナエ"  # Erinaceinae
+  culture = "hedgehog_culture"
+}
+2000117 = {
+  name = "アンフェキヌス"  # Amphechinus
+  culture = "hedgehog_culture"
+}
+2000118 = {
+  name = "スクティソレクス"  # Scutisorex
+  culture = "hedgehog_culture"
+}
+2000119 = {
+  name = "クロキドゥラ"  # Crocidura
+  culture = "hedgehog_culture"
+}
+2000120 = {
+  name = "ディプロメソドン"  # Diplomesodon
+  culture = "hedgehog_culture"
+}
+2000121 = {
+  name = "パラクロキドゥラ"  # Paracrocidura
+  culture = "hedgehog_culture"
+}
+2000122 = {
+  name = "ルウェンゾリソレクス"  # Ruwenzorisorex
+  culture = "hedgehog_culture"
+}
+2000123 = {
+  name = "ソリソレクス"  # Solisorex
+  culture = "hedgehog_culture"
+}
+2000124 = {
+  name = "シルヴィソレクス"  # Sylvisorex
+  culture = "hedgehog_culture"
+}
+2000125 = {
+  name = "エウリポテュフラ"  # Eulipotyphla
+  culture = "hedgehog_culture"
+}
+2000126 = {
+  name = "コンゴソレクス"  # Congosorex
+  culture = "hedgehog_culture"
+}
+2000127 = {
+  name = "ミオソレクス"  # Myosorex
+  culture = "hedgehog_culture"
+}
+2000128 = {
+  name = "スルディソレクス"  # Surdisorex
+  culture = "hedgehog_culture"
+}
+2000129 = {
+  name = "キマルロガレ"  # Chimarrogale
+  culture = "hedgehog_culture"
+}
+2000130 = {
+  name = "コドシゴア"  # Chodsigoa
+  culture = "hedgehog_culture"
+}
+2000131 = {
+  name = "フォン・ダッキントン"  # von Duckington
+  culture = "duck_culture"
+}
+2000132 = {
+  name = "ネオケン"  # Neochen
+  culture = "duck_culture"
+}
+2000133 = {
+  name = "クロエファガ"  # Chloephaga
+  culture = "duck_culture"
+}
+2000134 = {
+  name = "キュアノケン"  # Cyanochen
+  culture = "duck_culture"
+}
+2000135 = {
+  name = "タドルナ"  # Tadorna
+  culture = "duck_culture"
+}
+2000136 = {
+  name = "ラジャ"  # Radjah
+  culture = "duck_culture"
+}
+2000137 = {
+  name = "アロポケン"  # Alopochen
+  culture = "duck_culture"
+}
+2000138 = {
+  name = "カイリナ"  # Cairina
+  culture = "duck_culture"
+}
+2000139 = {
+  name = "ダックリング"  # Duckling
+  culture = "duck_culture"
+}
+2000140 = {
+  name = "タキエレス"  # Tachyeres
+  culture = "duck_culture"
+}
+2000141 = {
+  name = "アイクス"  # Aix
+  culture = "duck_culture"
+}
+2000142 = {
+  name = "カロネッタ"  # Callonetta
+  culture = "duck_culture"
+}
+2000143 = {
+  name = "ケノネッタ"  # Chenonetta
+  culture = "duck_culture"
+}
+2000144 = {
+  name = "ビジウラ"  # Biziura
+  culture = "duck_culture"
+}
+2000145 = {
+  name = "プテロネッタ"  # Pteronetta
+  culture = "duck_culture"
+}
+2000146 = {
+  name = "マルマロネッタ"  # Marmaronetta
+  culture = "duck_culture"
+}
+2000147 = {
+  name = "アサルコルニス"  # Asarcornis
+  culture = "duck_culture"
+}
+2000148 = {
+  name = "ネッタ"  # Netta
+  culture = "duck_culture"
+}
+2000149 = {
+  name = "ロフォネッタ"  # Lophonetta
+  culture = "duck_culture"
+}
+2000150 = {
+  name = "アマゾネッタ"  # Amazonetta
+  culture = "duck_culture"
+}
+2000151 = {
+  name = "ドゥンスタネッタ"  # Dunstanetta
+  culture = "duck_culture"
+}
+2000152 = {
+  name = "オクシウリニ"  # Oxyurini
+  culture = "duck_culture"
+}
+2000153 = {
+  name = "ハウンダー"  # Houndyr
+  culture = "dog_culture"
+}
+2000154 = {
+  name = "アーフェンピンシャー"  # Affenpinecher
+  culture = "dog_culture"
+}
+2000155 = {
+  name = "ブラッカス"  # Braccus
+  culture = "dog_culture"
+}
+2000156 = {
+  name = "ブラッコ"  # Bracco
+  culture = "dog_culture"
+}
+2000157 = {
+  name = "エスキモー"  # Eekimo
+  culture = "dog_culture"
+}
+2000158 = {
+  name = "シェパード"  # Sheperd
+  culture = "dog_culture"
+}
+2000159 = {
+  name = "アッペンツェラー"  # Appenzeller
+  culture = "dog_culture"
+}
+2000160 = {
+  name = "クーンハウンド"  # Coonhound
+  culture = "dog_culture"
+}
+2000161 = {
+  name = "ビション"  # Bichon
+  culture = "dog_culture"
+}
+2000162 = {
+  name = "ブルーティック"  # Bluetick
+  culture = "dog_culture"
+}
+2000163 = {
+  name = "バルビー"  # Barbet
+  culture = "dog_culture"
+}
+2000164 = {
+  name = "ボクサー"  # Boxer
+  culture = "dog_culture"
+}
+2000165 = {
+  name = "カナーン"  # Canaan
+  culture = "dog_culture"
+}
+2000166 = {
+  name = "コルソ"  # Corso
+  culture = "dog_culture"
+}
+2000167 = {
+  name = "スパニエル"  # Spaniel
+  culture = "dog_culture"
+}
+2000168 = {
+  name = "チヌーク"  # Chinook
+  culture = "dog_culture"
+}
+2000169 = {
+  name = "コリー"  # Collie
+  culture = "dog_culture"
+}
+2000170 = {
+  name = "セター"  # Setter
+  culture = "dog_culture"
+}
+2000171 = {
+  name = "デーン"  # Dane
+  culture = "dog_culture"
+}
+2000172 = {
+  name = "ピンシャー"  # Pinscher
+  culture = "dog_culture"
+}
+2000173 = {
+  name = "ラブラドゥードル"  # Labradoodle
+  culture = "dog_culture"
+}
+2000174 = {
+  name = "ラブラドール"  # Labrador
+  culture = "dog_culture"
+}
+2000175 = {
+  name = "テリア"  # Terrier
+  culture = "dog_culture"
+}
+2000176 = {
+  name = "レオンベルガー"  # Loenberger
+  culture = "dog_culture"
+}
+2000177 = {
+  name = "ノイギド"  # Noighyd
+  culture = "dragon_culture"
+}
+2000178 = {
+  name = "グラウタレイン"  # Grautarrein
+  culture = "dragon_culture"
+}
+2000179 = {
+  name = "ラッカート"  # Rackart
+  culture = "dragon_culture"
+}
+2000180 = {
+  name = "コリキル"  # Colichir
+  culture = "dragon_culture"
+}
+2000181 = {
+  name = "カラフュルト"  # Carrafyrt
+  culture = "dragon_culture"
+}
+2000182 = {
+  name = "ドラコラン"  # Draokoran
+  culture = "dragon_culture"
+}
+2000183 = {
+  name = "エオリカマアト"  # Eorikamat
+  culture = "dragon_culture"
+}
+2000184 = {
+  name = "セセリフ"  # Seserriff
+  culture = "dragon_culture"
+}
+2000185 = {
+  name = "ヴィリシンター"  # Vilisynther
+  culture = "dragon_culture"
+}
+2000186 = {
+  name = "ヴォルカシュマト"  # Vorcasymath
+  culture = "dragon_culture"
+}
+2000187 = {
+  name = "ドラガレット"  # Dragaret
+  culture = "dragon_culture"
+}
+2000188 = {
+  name = "ケロカルヴァル"  # Kerokarvar
+  culture = "dragon_culture"
+}
+2000189 = {
+  name = "キトラパン"  # Kytrapan
+  culture = "dragon_culture"
+}
+2000190 = {
+  name = "コソーラト"  # Kosorrat
+  culture = "dragon_culture"
+}
+2000191 = {
+  name = "アンカ"  # Anka
+  culture = "duck_culture"
+}
+2000192 = {
+  name = "ドゥナンゲ"  # Dununge
+  culture = "duck_culture"
+}
+2000193 = {
+  name = "イッヌ"  # Doggo
+  culture = "dog_culture"
+}
+2000194 = {
+  name = "ジェリクル"  # Jellicle
+  culture = "cat"
+}
+2000195 = {
+  name = "ヘヴィサイド"  # Heavyside
+  culture = "cat"
+}
+2000196 = {
+  name = "ポリクル"  # Pollicle
+  culture = "dog_culture"
+}
+2000197 = {
+  name = "マルタ"  # Malta
+  culture = "duck_culture"
+}
+2000198 = {
+  name = "ケーキダック"  # Cakeduck
+  culture = "duck_culture"
+}
+2000199 = {
+  name = "グッドボウイ"  # Goodboye
+  culture = "dog_culture"
+}
+2000200 = {
+  name = "ウーハー"  # Woofer
+  culture = "dog_culture"
+}
+2000201 = {
+  name = "ワンワン"  # Bork
+  culture = "dog_culture"
+}
+2000202 = {
+  name = "イヌ"  # Dog
+  culture = "dog_culture"
+}
+2000203 = {
+  name = "ガーガー"  # Quackel
+  culture = "duck_culture"
+}
+2000204 = {
+  name = "ボウイ"  # Boy
+  culture = "dog_culture"
+}
+2000205 = {
+  name = "ガール"  # Girl
+  culture = "dog_culture"
+}
+2000206 = {
+  name = "イッヌ"  # Pupper
+  culture = "dog_culture"
+}
+2000207 = {
+  name = "ワンコ"  # Puppy
+  culture = "dog_culture"
+}
+2000208 = {
+  name = "イエラー"  # Yeller
+  culture = "dog_culture"
+}
+2000209 = {
+  name = "ランナー"  # Runner
+  culture = "duck_culture"
+}
+2000210 = {
+  name = "ナキアヒル"  # Callduck
+  culture = "duck_culture"
+}
+2000211 = {
+  name = "カモ"  # Mallard
+  culture = "duck_culture"
+}
+2000212 = {
+  name = "オマリー"  # O'Malley
+  culture = "cat"
+}
+2000213 = {
+  name = "パーラ"  # Pala
+  culture = "elephant_culture"
+}
+2000214 = {
+  name = "ランバカナ"  # Lambakanna
+  culture = "elephant_culture"
+}
+2000215 = {
+  name = "ムレッチャ"  # Mlechchha
+  culture = "elephant_culture"
+}
+2000216 = {
+  name = "ラーシュトラクータ"  # Rashtrakuta
+  culture = "elephant_culture"
+}
+2000217 = {
+  name = "ハバリ"  # Habbari
+  culture = "elephant_culture"
+}
+2000218 = {
+  name = "シャヒ"  # Shahi
+  culture = "elephant_culture"
+}
+2000219 = {
+  name = "パッラヴァ"  # Pallava
+  culture = "elephant_culture"
+}
+2000220 = {
+  name = "ドゥート"  # Doot
+  culture = "elephant_culture"
+}
+2000221 = {
+  name = "メアリー"  # Marely
+  culture = "horse"
+}
+2000222 = {
+  name = "フッフィングトン"  # Hoofington
+  culture = "horse"
+}
+2000223 = {
+  name = "ナイトスロープ"  # Neighthorpe
+  culture = "horse"
+}
+2000224 = {
+  name = "フォーリー"  # Foaley
+  culture = "horse"
+}
+2000225 = {
+  name = "ラム"  # Rum
+  culture = "horse"
+}
+2000226 = {
+  name = "マルクェス"  # Marquis
+  culture = "horse"
+}
+2000227 = {
+  name = "ヴェルサイユ"  # Versailles
+  culture = "horse"
+}
+2000228 = {
+  name = "クリゲ"  # Chestnut
+  culture = "horse"
+}
+2000229 = {
+  name = "リピッツァナー"  # Lipizzaner
+  culture = "horse"
+}
+2000230 = {
+  name = "アパルーサ"  # Appaloosa
+  culture = "horse"
+}
+2000231 = {
+  name = "シェトランド"  # Shetlands
+  culture = "horse"
+}
+2000232 = {
+  name = "スコティッシュフォールド"  # Scottish Folds
+  culture = "cat"
+}
+2000233 = {
+  name = "メインクーン"  # Maine Coons
+  culture = "cat"
+}
+2000234 = {
+  name = "スフィンクス"  # Sphynxes
+  culture = "cat"
+}
+2000235 = {
+  name = "トラネコ"  # Tabby
+  culture = "cat"
+}
+2000236 = {
+  name = "トム"  # Tom
+  culture = "cat"
+}
+2000237 = {
+  name = "・ナガグツ"  # -in-Boots
+  culture = "cat"
+}
+2000238 = {
+  name = "ニャァ"  # Meow
+  culture = "cat"
+}
+2000239 = {
+  name = "イツツヒゲ"  # Fivewhiskers
+  culture = "cat"
+}
+2000240 = {
+  name = "ネズミトリ"  # Rateater
+  culture = "cat"
+}
+2000241 = {
+  name = "ネズミゴロシ"  # Critterkiller
+  culture = "cat"
+}
+2000242 = {
+  name = "コカゲ・デ・ウタタネ"  # Naps-in-Shade
+  culture = "cat"
+}
+2000243 = {
+  name = "ブランブルペルト"  # Bramblepelt
+  culture = "cat"
+}
+2000244 = {
+  name = "アーイ"  # Ay
+  culture = "cat"
+}
+2000245 = {
+  name = "バハリ"  # Bahari
+  culture = "cat"
+}
+2000246 = {
+  name = "フォン ファーリントン"  # von Furrington
+  culture = "cat"
+}
+2000247 = {
+  name = "スリーベア"  # Threebear
+  culture = "bear"
+}
+2000248 = {
+  name = "ビョルンソン"  # Björnsson
+  culture = "bear"
+}
+2000249 = {
+  name = "ブラウン"  # Brown
+  culture = "bear"
+}
+2000250 = {
+  name = "ブラック"  # Black
+  culture = "bear"
+}
+2000251 = {
+  name = "イバラ"  # Thorn
+  culture = "hedgehog_culture"
+}
+2000252 = {
+  name = "トゲトゲ"  # Prickles
+  culture = "hedgehog_culture"
+}
+2000253 = {
+  name = "フワフワ"  # Floof
+  culture = "hedgehog_culture"
+}
+2000254 = {
+  name = "クイル"  # Quill
+  culture = "hedgehog_culture"
+}
+2000255 = {
+  name = "テジャ"  # Teja
+  culture = "hedgehog_culture"
+}
+2000256 = {
+  name = "マクダック"  # McDuck
+  culture = "duck_culture"
+}
+2000257 = {
+  name = "フラッパー"  # Flapper
+  culture = "duck_culture"
+}
+2000258 = {
+  name = "カナダガン"  # Honker
+  culture = "duck_culture"
+}
+2000259 = {
+  name = "アンカ"  # Anka
+  culture = "duck_culture"
+}
+2000260 = {
+  name = "グッドボーイ"  # Goodboy
+  culture = "dog_culture"
+}
+2000261 = {
+  name = "バスカヴィル"  # Baskerville
+  culture = "dog_culture"
+}
+2000262 = {
+  name = "マクドグフェイス"  # McDogface
+  culture = "dog_culture"
+}
+2000263 = {
+  name = "ハウラー"  # Howler
+  culture = "dog_culture"
+}
+2000264 = {
+  name = "パウザー"  # Pawser
+  culture = "dog_culture"
+}
+2000265 = {
+  name = "ゴールデンボーイ"  # Goldenboi
+  culture = "dog_culture"
+}
+2000266 = {
+  name = "ウルフィントン"  # Woofington
+  culture = "dog_culture"
+}
+2000267 = {
+  name = "ブレッパー"  # Blepper
+  culture = "dog_culture"
+}
+2000268 = {
+  name = "フォン・スプルート"  # von Sploot
+  culture = "dog_culture"
+}
+2000269 = {
+  name = "トスク"  # Tusk
+  culture = "elephant_culture"
+}
+2000270 = {
+  name = "アイボリー"  # Ivory
+  culture = "elephant_culture"
+}
+2000271 = {
+  name = "ランブラー"  # Rumbler
+  culture = "elephant_culture"
+}
+2000272 = {
+  name = "ハーティ"  # Haathee
+  culture = "elephant_culture"
+}
+2000273 = {
+  name = "オブ ザ スカイ"  # of the Skies
+  culture = "dragon_culture"
+}
+2000274 = {
+  name = "オブ ザ アース"  # of the Earths
+  culture = "dragon_culture"
+}
+2000275 = {
+  name = "オブ ザ ウォーター"  # of the Waters
+  culture = "dragon_culture"
+}
+2000276 = {
+  name = "オブ ザ ファイヤー"  # of the Fires
+  culture = "dragon_culture"
+}
+2000277 = {
+  name = "オブ ザ スター"  # of the Stars
+  culture = "dragon_culture"
+}
+2000278 = {
+  name = "オブ ザ ムーン"  # of the Moon
+  culture = "dragon_culture"
+}
+2000279 = {
+  name = "オブ ザ サン"  # of the Sun
+  culture = "dragon_culture"
+}
+2000280 = {
+  name = "マクスケイル"  # Mc’scale
+  culture = "dragon_culture"
+}
+2000281 = {
+  name = "ナナイロウロコ"  # Rainbowscale
+  culture = "dragon_culture"
+}
+2000282 = {
+  name = "コガネウロコ"  # Goldscale
+  culture = "dragon_culture"
+}
+2000283 = {
+  name = "コガネノツメ"  # Goldclaw
+  culture = "dragon_culture"
+}
+2000284 = {
+  name = "タカラカクシ"  # Gemhide
+  culture = "dragon_culture"
+}
+2000300 = {
+  name = "パンドルフ"  # Pandolf
+  culture = "red_panda"
+}
+2000301 = {
+  name = "レッサー"  # Red
+  culture = "red_panda"
+}
+2000302 = {
+  name = "パンダルフ"  # Pandulf
+  culture = "red_panda"
+}
+2000303 = {
+  name = "シッポフサフサ"  # Bushytail
+  culture = "red_panda"
+}
+2000304 = {
+  name = "ノビノビ"  # Snuggler
+  culture = "red_panda"
+}
+2000305 = {
+  name = "タケ"  # Bamboo
+  culture = "red_panda"
+}
+2000306 = {
+  name = "コノハ"  # Leaf
+  culture = "red_panda"
+}
+2000307 = {
+  name = "サビ"  # Rust
+  culture = "red_panda"
+}
+2000308 = {
+  name = "ファイア＝フォックス"  # Fire-Fox
+  culture = "red_panda"
+}
+2000309 = {
+  name = "ポンヤ"  # Ponya
+  culture = "red_panda"
+}
+2000310 = {
+  name = "アイルリダエ"  # Ailuridae
+  culture = "red_panda"
+}
+2000311 = {
+  name = "クマライグマ"  # Bear-Raccoon
+  culture = "red_panda"
+}
+2000312 = {
+  name = "オーケルブロム"  # Åkerblom
+  culture = "red_panda"
+}
+2000313 = {
+  name = "パンダモニウム"  # Pandamonium
+  culture = "red_panda"
+}
+2000314 = {
+  name = "アイルルス・フルゲンス"  # Ailurus Fulgens
+  culture = "red_panda"
+}
+2000315 = {
+  name = "フォフー"  # Hun-Ho
+  culture = "red_panda"
+}
+2000316 = {
+  name = "ステュアニ"  # Styani
+  culture = "red_panda"
+}
+2000317 = {
+  name = "サク ナム"  # Sak Nam
+  culture = "red_panda"
+}
+2000318 = {
+  name = "バウ ビラウ"  # Bhalu Biralo
+  culture = "red_panda"
+}
+2000319 = {
+  name = "ハブリ"  # Habre
+  culture = "red_panda"
+}
+2000320 = {
+  name = "イェ ニグルバ ポンバ"  # Ye Niglva Ponva
+  culture = "red_panda"
+}
+2000322 = {
+  name = "カアラ"  # Kaala
+  culture = "red_panda"
+}
+2000323 = {
+  name = "ホプトンガ"  # Hoptongar
+  culture = "red_panda"
+}
+2000324 = {
+  name = "アクドンガ"  # Oakdonga
+  culture = "red_panda"
+}
+2000325 = {
+  name = "シャオシオンマオ"  # Xiaoxióngmao
+  culture = "red_panda"
+}
+2000326 = {
+  name = "ホンシオンマオ"  # Hóngxióngmao
+  culture = "red_panda"
+}
+2000327 = {
+  name = "ヒネコ"  # Fire-Cat
+  culture = "red_panda"
+}
+2000328 = {
+  name = "アカネコ"  # Red-Cat
+  culture = "red_panda"
+}
+2000329 = {
+  name = "キツネグマ"  # Fox-Bear
+  culture = "red_panda"
+}
+2000330 = {
+  name = "キラキラパンダ"  # Bright-Panda
+  culture = "red_panda"
+}
+2000331 = {
+  name = "ヒマラヤ"  # Himalaya
+  culture = "red_panda"
+}
+2000332 = {
+  name = "クロー"  # Claws
+  culture = "red_panda"
+}
+2000333 = {
+  name = "レッサ"  # Blep
+  culture = "red_panda"
+}
+2000334 = {
+  name = "カワユス"  # Adorable
+  culture = "red_panda"
+}
+2000335 = {
+  name = "フェイブル"  # Fable
+  culture = "red_panda"
+}
+2000336 = {
+  name = "バク"  # Mo
+  culture = "red_panda"
+}
+2000337 = {
+  name = "キュヴィエ"  # Cuvier
+  culture = "red_panda"
+}
+2000338 = {
+  name = "ブレイズ"  # Blaze
+  culture = "red_panda"
+}
+2000339 = {
+  name = "グロー"  # Glow
+  culture = "red_panda"
+}
+2000340 = {
+  name = "フトッチョ"  # Megachonker
+  culture = "cat"
+}
+20003201 = {
+  name = "ワフ ドンカ"  # Wah Donka
+  culture = "red_panda"
+}
+2000131 = {
+  name = "マクダッカー"  # mcDucker
+  culture = "duck_culture"
+}
+2000176 = {
+  name = "マルチーズ"  # Maltese
+  culture = "dog_culture"
+}
+2000176 = {
+  name = "マルチプー"  # Maltipoo
+  culture = "dog_culture"
+}

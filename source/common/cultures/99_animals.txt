@@ -1,0 +1,1541 @@
+﻿horse_group = {
+  graphical_cultures = {
+    horsegfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  horse = {
+    graphical_cultures = {
+      horsegfx
+    }
+    color = {
+      0.3
+      0.1
+      0.1
+    }
+    male_names = {
+      "カガヤクヒヅメ"  # Glitterhoof
+      "チェタック"  # Chetak
+      "ブケパロス"  # Bucephalus
+      "トラベラー"  # Traveller
+      "マレンゴ"  # Marengo
+      "パロモ"  # Palomo
+      "シンシナティ"  # Cincinnati
+      "コマンチ"  # Comanche
+      "クレバーハンス"  # Clever Hans
+      "ヴェイヤンティフ"  # Veillantif
+      "インキタトゥス"  # Incitatus
+      "ラスティー"  # Rusty
+      "ブルンテ"  # Brunte
+      "ちび年寄り"  # Lilla Gubben
+      "ルーカス"  # Lukas
+      "ビューティ"  # Beauty
+      "稲妻"  # Lightning
+      "閃光号"  # Flash
+      "アルフォンソ"  # Alfonso
+      "アルトラックス"  # Artax
+      "ブラックジャック"  # Blackjack
+      "ボクサー"  # Boxer
+      "フェルド"  # Ferd
+      "フーリア"  # Furia
+      "灼熱号"  # Flame
+      "フウイヌム"  # The Houyhnhnm
+      "フイン"  # Hwin
+      "浮足号"  # Merrylegs
+      "ナポレオン"  # Napoleon
+      "パイロン"  # Pylon
+      "ラッシャー"  # Rusher
+      "アロド"  # Arod
+      "アスファロス"  # Asfaloth
+      "小馬のビル"  # Bill the Pony
+      "ブレゴ"  # Brego
+      "田吾作"  # Bumpkin
+      "ファッティ"  # Fatty
+      "ずんぐりや"  # Lumpkin
+      "火の足"  # Firefoot
+      "ハスフェル"  # Hasufel
+      "快足号"  # Lightfoot
+      "ナハール"  # Nahar
+      "ロヘリン"  # Roheryn
+      "早耳"  # Sharp-ears
+      "雪の鬣"  # Snowmane
+      "スティッバ"  # Stybba
+      "尻尾ふり"  # Swish-tail
+      "風の道"  # Windfola
+      "鼻利き"  # Wise-nose
+      "レインボウ"  # Rainbow
+      "馬"  # Horse
+      "黄泉の馬"  # Helhest
+      "ヒッポ"  # Hippo
+      "トロイ"  # Trojan
+      "ベッカヘスト"  # Bäckahäst
+      "レッド"  # Red
+      "ヴィクトリー"  # Victory
+      "小夜啼鳥"  # Nightingale
+      "ストライフ"  # Streiff
+      "マルティニーク"  # Martinique
+      "スレイプニル"  # Sleipnir
+      "ボージャック"  # Bojack
+      "グルボーイ"  # Glue-Boy
+      "グイード"  # Guido
+      "ルーカス"  # Lukas
+      "ストゥーレ"  # Sture
+      "ジム"  # Jim
+      "グロール"  # Grolle
+      "カケアシ"  # Dasher
+      "鹿毛"  # Bayard
+      "ブラッグ"  # Brag
+      "ネック"  # Neck
+      "ノッケン"  # Näcken
+      "コピアド"  # Copiad
+      "ヤルフソーファクス"  # Järvsöfaks
+      "ゴールデン"  # Golden
+      "ホーンライン"  # Hornline
+      "ヴァーナー"  # Verner
+      "ブレゴ"  # Brego
+      "ブケパロス"  # Bucephalus
+      "ドミノ"  # Domino
+      "モンティ"  # Monty
+      "ボルト"  # Bolt
+      "オークリー"  # Oakley
+      "デール"  # Dale
+      "リオ"  # Rio
+      "ヴァンダービルト"  # Vanderbilt
+      "ニュートン"  # Newton
+      "トリガー"  # Trigger
+      "サリヴァン"  # Sullivan
+      "バーナビー"  # Barnaby
+      "テリー"  # Terry
+      "ハンター"  # Hunter
+      "タイク"  # Tyke
+    }
+    female_names = {
+      "キラビヤカナヒヅメ"  # Glitterhoof
+      "カスタンカ"  # Kasztanka
+      "サージェントレックレス"  # Sergeant Reckless
+      "バターミルク"  # Buttermilk
+      "レディーワンダー"  # Lady Wonder
+      "シルエット"  # Silhouette
+      "ビューティ"  # Beauty
+      "稲妻"  # Lightning
+      "閃光号"  # Flash
+      "アルフォンソ"  # Alfonso
+      "アータックス"  # Artax
+      "ブラックジャック"  # Blackjack
+      "ボクサー"  # Boxer
+      "フェルド"  # Ferd
+      "フーリア"  # Furia
+      "灼熱号"  # Flame
+      "フウイヌム"  # The Houyhnhnm
+      "フイン"  # Hwin
+      "浮足号"  # Merrylegs
+      "ナポレオン"  # Napoleon
+      "パイロン"  # Pylon
+      "ラッシャー"  # Rusher
+      "アロド"  # Arod
+      "アスファロス"  # Asfaloth
+      "小馬のビル"  # Bill the Pony
+      "ブレゴ"  # Brego
+      "田吾作"  # Bumpkin
+      "ファッティ"  # Fatty
+      "ずんぐりや"  # Lumpkin
+      "火の足"  # Firefoot
+      "ハスフェル"  # Hasufel
+      "快足号"  # Lightfoot
+      "ナハール"  # Nahar
+      "ロヘリン"  # Roheryn
+      "早耳"  # Sharp-ears
+      "雪の鬣"  # Snowmane
+      "スティッバ"  # Stybba
+      "尻尾ふり"  # Swish-tail
+      "風の道"  # Windfola
+      "鼻利き"  # Wise-nose
+      "レインボウ"  # Rainbow
+      "馬"  # Horse
+      "黄泉の馬"  # Helhest
+      "ヒッポ"  # Hippo
+      "トロイ"  # Trojan
+      "ベッカヘスト"  # Bäckahäst
+      "レッド"  # Red
+      "ヴィクトリー"  # Victory
+      "ナイチンゲール"  # Nightingale
+      "ティンカーベル"  # Tingeling
+      "サリー"  # Sallie
+      "パンプキン"  # Pumpkin
+      "スパイス"  # Spice
+      "チョンリマ"  # Chollima
+      "グルファクシ"  # Gullfaxi
+      "カラ"  # Kara
+      "パール"  # Pearl
+      "マジック"  # Magic
+      "ザローナ"  # Zarona
+      "エポナ"  # Epona
+      "モノミ"  # Scout
+      "ボニー"  # Bonney
+      "パリ"  # Paris
+      "シャーロット"  # Charlotte
+      "モナ"  # Mona
+      "ハイジ"  # Heidi
+      "マギー"  # Maggie
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      clan_sentiment = 10
+      mongol_opinion = 20
+    }
+    nomadic_in_alt_start = yes
+  }
+}
+cat_group = {
+  graphical_cultures = {
+    catgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  cat = {
+    graphical_cultures = {
+      catgfx
+    }
+    color = {
+      0.1
+      0.3
+      0.1
+    }
+    male_names = {
+      "ミトン"  # Mittens
+      "モフモフ"  # Fluffy
+      "トム"  # Tom
+      "スマッジ"  # Smudge
+      "くろ"  # Shadow
+      "ジム"  # Zimm
+      "サム"  # Samm
+      "ミストーフェリーズ"  # Misstoffelees
+      "デュトロノミー"  # Deuteronomy
+      "パウンシバル"  # Pouncival
+      "クァクソー"  # Quaxo
+      "マンゴジェリー"  # Mungojerrie
+      "モーツァルト"  # Mozart
+      "シンバ"  # Simba
+      "トラ"  # Tiger
+      "ソクラテス"  # Socrates
+      "セーラム"  # Salem
+      "トゥールーズ"  # Toulouse
+      "ベルリオーズ"  # Berlioz
+      "トーマス"  # Thomas
+      "バーク"  # Birk
+      "ニクキュウ"  # Paws
+      "バシレウス・ハーロック・スプープス"  # Basileus Harlocke Spoops
+      "バズキャット"  # Bazcat
+      "毛玉"  # Furball
+      "怒りん坊"  # Angry
+      "スナグル"  # Snuggles
+      "ラッキー"  # Lucky
+      "ボタン"  # Buttons
+      "スノウベル"  # Snowbell
+      "カドル"  # Cuddles
+      "クルックシャンクス"  # Crookshanks
+      "ビグルズワース"  # Mr. Bigglesworth
+      "ぶち"  # Spot
+      "ウィスカー"  # Whiskers
+      "ラッキー"  # Lucky
+      "ジュニ"  # Juni
+      "ナーォ"  # Maow
+      "ネコ"  # Cat
+      "コイン"  # Coins
+      "パンサー"  # Panther
+      "フランプキン"  # Frumpkin
+      "チェアマン"  # Chairman
+      "ニャァ"  # Meow
+      "フルーフ"  # Floof
+      "ニンジャ"  # Ninja
+      "オリオン"  # Orion
+      "フェリックス"  # Felix
+      "ティム"  # Tim
+      "ロール"  # Rowl
+      "リスター"  # Lister
+      "クロケット"  # Crockett
+      "ゼベデウス"  # Zebedeus
+      "シド"  # Syd
+      "ベア"  # Bear
+      "リッパー"  # Ripper
+      "モーリス"  # Maurice
+      "ジェイク"  # Jake
+      "シルベスター"  # Sylvester
+      "ビッグ"  # Big
+      "おしゃべり"  # Talking
+      "トム"  # Tom
+      "アトラス"  # Atlas
+      "シェラフェッティン"  # Serafettin
+      "シモン"  # Simon
+      "サンタ"  # Santa
+      "ニクキュウ"  # Paws
+      "ムアイク"  # M'aiq
+      "ヴィンセント"  # Vincent
+      "ハデス"  # Hades
+      "フェア"  # Fëa
+      "ティキ"  # Tyki
+      "ラヴィ"  # Lavi
+      "パン"  # Pan
+      "太っちょ"  # Tjockisen
+      "ロータス"  # Lotus
+      "モリス"  # Morris
+      "くろ"  # Shadow
+      "オスカー"  # Oscar
+      "エスキル"  # Eskil
+      "くろ"  # Shadow
+      "トムキャット"  # Tommiecat
+      "ボッセ"  # Bosse
+      "ラッセ"  # Lasse
+      "バジル"  # Basil
+      "ジリン"  # Zylyn
+      "スヌーカ"  # Snooka
+      "マアト"  # Maat
+      "Keso"
+      "海軍提督エドワード・ホーク、初代ホーク男爵、第一海軍卿"  # Lord-Admiral-Edward-Hawke-First-Baron-Hawke-First-Lord-of-the-Admiralty
+      "ニミッツ"  # Nimitz
+      "カッツ"  # Katz
+      "Milo"
+    }
+    female_names = {
+      "ミッシー"  # Missy
+      "キティ"  # Kitty
+      "ミトン"  # Mittens
+      "ショウガ"  # Ginger
+      "ひめ"  # Princess
+      "ベラ"  # Bella
+      "シグマ"  # Sigma
+      "メイサン"  # Mysan
+      "ミッサン"  # Missan
+      "ヴィクトリア"  # Victoria
+      "ランペルティーザ"  # Rumpelteazer
+      "グリザベラ"  # Grizabella
+      "ディミータ"  # Demeter
+      "ボンバルリーナ"  # Bombalurina
+      "薄黒"  # Sooty
+      "スージー"  # Suzie
+      "シラバブ"  # Syllabub
+      "ルナ"  # Luna
+      "ミッドナイト"  # Midnight
+      "ナーラ"  # Nala
+      "タッサン"  # Tussan
+      "ゼルマ"  # Selma
+      "セーラム"  # Salem
+      "ダッチェス"  # Duchess
+      "マリー"  # Marie
+      "スィーネ"  # Signe
+      "ニクキュウ"  # Paws
+      "バシレウス・ハーロック・スプープス"  # Basileus Harlocke Spoops
+      "バズキャット"  # Bazcat
+      "毛玉"  # Furball
+      "怒りん坊"  # Angry
+      "スナグル"  # Snuggles
+      "ラッキー"  # Lucky
+      "ボタン"  # Buttons
+      "スノウベル"  # Snowbell
+      "カドル"  # Cuddles
+      "クルックシャンクス"  # Crookshanks
+      "ビグルズワース"  # Mr. Bigglesworth
+      "ぶち"  # Spot
+      "ウィスカーズ"  # Whiskers
+      "ラッキー"  # Lucky
+      "ジュニ"  # Juni
+      "ナーォ"  # Maow
+      "ネコ"  # Cat
+      "コイン"  # Coins
+      "パンサー"  # Panther
+      "フランプキン"  # Frumpkin
+      "チェアマン"  # Chairman
+      "ニャァ"  # Meow
+      "フルーフ"  # Floof
+      "ポピー"  # Poppy
+      "ユキ"  # Yuki
+      "ミミー"  # Mimmy
+      "スティナ"  # Stina
+      "ウィッチ"  # Witch
+      "カリーヌ"  # Caline
+      "ドロゥチェ"  # Doortje
+      "コゥチ"  # Cwtch
+      "ティナ"  # Tina
+      "リバー"  # River
+      "クレオ"  # Cleo
+      "ウィロー"  # Willow
+      "クロエ"  # Chloe
+      "バステト"  # Bastet
+      "マフート"  # Mafdet
+      "エアリス"  # Aeris
+      "トンクス"  # Tonks
+      "リサ"  # Lisa
+      "マイラン"  # Myran
+      "リリーキッセン"  # Lillkissen
+      "デイジー"  # Daisy
+      "セクメト"  # Sekhmet
+      "ノヴァ"  # Nova
+      "バーディ"  # Birdie
+      "ミント"  # Mynta
+      "モリー"  # Molly
+      "おてんば"  # Tjoppan
+      "ニャンナーズ"  # Nyanners
+      "スキ"  # Suki
+      "イシス"  # Isis
+      "マシカ"  # Masika
+      "カリオペ"  # Caliope
+      "ソル・フアナ・イネス・デ・ラ・クルス"  # Sor-Juana-Inés-de-la-Cruz
+      "ミッツィ"  # Mitzi
+      "ミスチーフ"  # Mischief
+      "スミラ"  # Smilla
+      "アギー"  # Aggi
+      "Keso"
+      "Milla"
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      murder_plot_power_modifier = 0.2
+      vassal_opinion = -5
+      fertility = 0.25
+    }
+  }
+}
+bear_group = {
+  graphical_cultures = {
+    beargfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  bear = {
+    graphical_cultures = {
+      beargfx
+    }
+    color = {
+      0.1
+      0.1
+      0.3
+    }
+    male_names = {
+      "ビョルン"  # Björn
+      "ビョルン"  # Bjørn
+      "トールビョルン"  # Torbjørn
+      "ナヌーク"  # Nanuk
+      "ウルスス"  # Ursus
+      "イスビォン"  # Isbjörn
+      "がうー"  # Grrrowr
+      "ぐるる"  # Grrgrrr
+      "ガオー"  # Rawr
+      "バムス"  # Bamse
+      "スモーキー"  # Smokey
+      "バニー"  # Barnie
+      "ベアリングトン卿"  # Sir Bearington
+      "ベアナバス"  # Bearnabus
+      "バーナード"  # Bernard
+      "アスビヨルン"  # Asabjörn
+      "ストゥルビョン"  # Styrbjörn
+      "エスビョルン"  # Esbjörn
+      "ボリェ"  # Börje
+      "クマ"  # Björne
+      "バルー"  # Baloo
+      "ブーブー"  # Boo-Boo
+      "モフモフ"  # Fluffy
+      "グリズリー"  # Grizzly
+      "オッソ"  # Otso
+      "ミーシャ"  # Misha
+      "トリンケット"  # Trinket
+      "クマモドキ"  # Notabear
+      "ブリザード"  # Blizzard
+      "シークレット"  # Secret
+      "シュガー"  # Sugar
+      "くまモン"  # Kumamon
+      "ボボ"  # Bobo
+      "ディスコ"  # Disco
+      "カドル"  # Cuddles
+      "ルパート"  # Rupert
+      "ヴォイテック"  # Wojtek
+      "ウシャテク"  # Uszatek
+      "ベアナルド"  # Bearnard
+      "ビャーネ"  # Bjarne
+      "ジョン"  # John
+      "ベアクロー"  # Bearclaw
+      "コーダ"  # Koda
+      "ガー"  # Gurr
+      "ナァレ"  # Nalle
+    }
+    female_names = {
+      "がうー"  # Grrrowr
+      "ぐるる"  # Grrgrrr
+      "ガオー"  # Rawr
+      "バムス"  # Bamse
+      "くま"  # Ursine
+      "スノーボール"  # Snowball
+      "ウルスラ"  # Urszula
+      "レディ・ベアリングトン"  # Lady Bearington
+      "ベルナディン"  # Bernardine
+      "バーナデット"  # Bernadette
+      "モフモフ"  # Fluffy
+      "オッソ"  # Otso
+      "ブルムメリサ"  # Brummelisa
+      "ナァレ・マヤ"  # Nalle-Maja
+      "ブルマ"  # Brumma
+      "トリンケット"  # Trinket
+      "クマモドキ"  # Notabear
+      "ブリザード"  # Blizzard
+      "シークレット"  # Secret
+      "ヨギ"  # Yogi
+      "シュガー"  # Sugar
+      "くまモン"  # Kumamon
+      "ボボ"  # Bobo
+      "ディスコ"  # Disco
+      "グリズリー"  # Grizzly
+      "カドル"  # Cuddles
+      "ベアナルディン"  # Bearnardine
+      "ベアナルデッテ"  # Bearnadette
+      "ミーシャ"  # Misha
+      "シンディ"  # Cindy
+      "ゴルディ"  # Goldi
+      "ナァレ"  # Nalle
+      "マヤ"  # Maja
+      "ナジャ"  # Nadja
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      land_morale = 0.15
+      combat_rating = 10
+    }
+  }
+}
+hedgehog_group = {
+  graphical_cultures = {
+    hedgehoggfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  hedgehog_culture = {
+    graphical_cultures = {
+      hedgehoggfx
+    }
+    color = {
+      0.2
+      0.3
+      1.0
+    }
+    male_names = {
+      "ヒューズ"  # Hughues
+      "ウニ"  # Echinus
+      "ロベリア"  # Erinus
+      "キドニー"  # Kidnae
+      "ミクロ"  # Micro
+      "メショ"  # Mesyo
+      "オーリオン"  # Aurion
+      "スレーテリオン"  # Sclaterion
+      "リックス"  # Rix
+      "スパイク"  # Spike
+      "ポーキー"  # Pokey
+      "クィレム"  # Quillem
+      "クゥイリアム"  # Quilliam
+      "クゥイリントン"  # Quillington
+      "サニック"  # Sanic
+      "ナックルズ"  # Knucklys
+      "シルヴァー"  # Silver
+      "ランスロット"  # Lancelot
+      "ガラハッド"  # Galahad
+      "キュロス"  # Cyrus
+      "ハリヤマ"  # Pincushion
+      "ハリネズミ"  # Hedgehog
+      "グルンピー"  # Grumpy
+      "クリスプ"  # Crisp
+      "マツボックリ"  # Pinecone
+      "サム"  # Sam
+      "ウィグルス"  # Wiggles
+      "スティーグ"  # Stig
+      "クセルクセス"  # Xerxes
+      "ティギーウィンクル"  # Mr. Tiggy-Winkle
+      "クギ"  # Nails
+      "イバラ"  # Thorn
+      "リンゴ"  # Ringo
+      "グルーギー"  # Groogy
+      "パンク"  # Punk
+      "ハリネズミ"  # Hedgepig
+      "オーガスト"  # August
+      "ブレーン"  # Blaine
+      "サウル"  # Saul
+    }
+    female_names = {
+      "エリナ"  # Erina
+      "エキドニー"  # Ekidney
+      "リアリクス"  # Leerix
+      "アルギラ"  # Algira
+      "ヘミー"  # Hemy
+      "コリー"  # Collie
+      "ダウラ"  # Daura
+      "パーラ"  # Para
+      "ベントリア"  # Ventria
+      "シャキーラ"  # Shaquilla
+      "プリッキル"  # Prickquille
+      "スプリンシア"  # Splinthia
+      "ニムエ"  # Nimue
+      "エイミー"  # Amy
+      "ニックス"  # Nix
+      "スパイク"  # Spike
+      "ハリヤマ"  # Pincushion
+      "ハリネズミ"  # Hedgehog
+      "グルンピー"  # Grumpy
+      "ポーキー"  # Pokey
+      "クリスプ"  # Crisp
+      "マツボックリ"  # Pinecone
+      "サム"  # Sam
+      "ウィグルス"  # Wiggles
+      "ローズ"  # Rose
+      "ペブルス"  # Pebbles
+      "ペギー"  # Peggy
+      "ホガサ"  # Hogatha
+      "ブライア"  # Briar
+      "ハナ"  # Flower
+      "メグ"  # Meg
+      "スカーレット"  # Scarlet
+      "ヴェンデラ"  # Vendela
+      "ショウガ"  # Ginger
+      "メナ"  # Mena
+      "ティーシャ"  # Tisha
+      "ウーナ"  # Oona
+      "ウルスラ"  # Ursula
+      "ユディト"  # Judit
+      "ティーガン"  # Tegan
+      "サンシャイン"  # Sunshine
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      defensive_plot_power_modifier = 0.2
+      fertility = 0.25
+    }
+    allow_looting = yes
+    seafarer = yes
+  }
+}
+duck_group = {
+  graphical_cultures = {
+    duckgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  duck_culture = {
+    graphical_cultures = {
+      duckgfx
+    }
+    color = {
+      1.0
+      1.0
+      1.0
+    }
+    male_names = {
+      "ダッフィー"  # Daffy
+      "ガーガー"  # Quacker
+      "ハック"  # Huck
+      "よちよち歩き"  # Waddles
+      "ドナルド"  # Donald
+      "ドミニク"  # Dominic
+      "ホワイトウィング"  # Whitewing
+      "ダッカス"  # Duckus
+      "グァーマイア"  # Quackmire
+      "エッグバート"  # Eggbert
+      "ハワード"  # Howard
+      "スクルージ"  # Scrooge
+      "ウィングヘルム"  # Winghelm
+      "ルートヴィング"  # Ludwing
+      "グラッドストン"  # Gladstone
+      "ケーキ"  # Cake
+      "千鳥足"  # Blunder
+      "アヒル"  # Duck
+      "ガーガー"  # Quackers
+      "ピッピ"  # Pippi
+      "フェイス"  # Face
+      "グレープ"  # Grape
+      "アナハイム"  # Anaheim
+      "ガー太"  # Quackel
+      "クチバシ"  # Beaky
+      "ノッティントン"  # Nottington
+      "ドレーク"  # Drake
+      "カモ"  # Mallard
+      "ハンス"  # Hans
+      "スクルージ"  # Scrooge
+      "ダークウィング"  # Darkwing
+      "ヒューイ"  # Huey
+      "デューイ"  # Dewey
+      "ローウィ"  # Louie
+      "ボリバル"  # Bolivar
+      "モルテン"  # Mårten
+      "マーティン"  # Maarten
+      "コーネリアス"  # Cornelius
+      "ハヴバード"  # Havbard
+      "キネース"  # Knase
+      "カッレ"  # Kalle
+      "アーネ"  # Arne
+      "ディラン"  # Dylan
+      "エメリオ"  # Emelio
+      "グレッグ"  # Greg
+      "ポール"  # Paul
+    }
+    female_names = {
+      "デイジー"  # Daisy
+      "イリン"  # Irynn
+      "ネイリー"  # Neilly
+      "エイヴィス"  # Aves
+      "ウィングヘルミナ"  # Winghelmina
+      "ビークトリス"  # Beaktrice
+      "モリー"  # Molly
+      "ウェビゲイル"  # Webbygail
+      "ベンチナ"  # Bentina
+      "ゴーディ"  # Goldie
+      "ジマイマ"  # Jemima
+      "ケーキ"  # Cake
+      "千鳥足"  # Blunder
+      "アヒル"  # Duck
+      "ガーガー"  # Quackers
+      "ピッピ"  # Pippi
+      "フェイス"  # Face
+      "グレープ"  # Grape
+      "アナハイム"  # Anaheim
+      "フェザー"  # Feathers
+      "カイサ"  # Kajsa
+      "ドナ"  # Donna
+      "ホルテンシア"  # Hortensia
+      "コガラ"  # Chickadee
+      "タイラ"  # Tyra
+      "グッラン"  # Gullan
+      "ウーナ"  # Oona
+      "アンパ"  # Umpa
+      "ギッタン"  # Gittan
+      "ローラ"  # Lola
+      "ペチューニア"  # Petunia
+      "ドリス"  # Doris
+      "マチルダ"  # Matilda
+      "ルシンダ"  # Lucinda
+      "ダンベラ"  # Dumbella
+      "セルマ"  # Selma
+      "ドーラ"  # Dora
+      "ファニー"  # Fanny
+      "キッキ"  # Kicki
+      "ティッティ"  # Titti
+      "アンキ"  # Anki
+      "ガンドラ"  # Gandra
+      "ゴーサリン"  # Gåsalin
+      "ゴサリン"  # Gosalyn
+      "アンモニア"  # Ammonia
+      "ジーナ"  # Zeena
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      siege_speed = 0.2
+      fertility = 0.25
+    }
+    allow_looting = yes
+    seafarer = yes
+  }
+}
+dog_group = {
+  graphical_cultures = {
+    doggfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  dog_culture = {
+    graphical_cultures = {
+      doggfx
+    }
+    color = {
+      0.4
+      0.3
+      0.0
+    }
+    male_names = {
+      "フィド"  # Fido
+      "アルフォンソ"  # Alfonso
+      "バジル"  # Basil
+      "アルバート"  # Albert
+      "アリスティア"  # Alistair
+      "エルマー"  # Elmer
+      "ギルバート"  # Gilbert
+      "アルヴィン"  # Alwin
+      "ブラントリー"  # Brantley
+      "ケンドリック"  # Kendrik
+      "プシュケー"  # Psyche
+      "プラック"  # Pluck
+      "バックラー"  # Buckler
+      "スピゴット"  # Spigot
+      "ランス"  # Lance
+      "ラーチャー"  # Lurcher
+      "ウォッチ"  # Watch
+      "キーパー"  # Keeper
+      "ブリガーデ"  # Brigade
+      "フェンサー"  # Fencer
+      "ブッチャー"  # Butcher
+      "ブレイザー"  # Blazer
+      "プラワス"  # Prowess
+      "クラフトマン"  # Craftsman
+      "フォレスター"  # Forester
+      "カウンセラー"  # Counsellor
+      "スポイラー"  # Spoiler
+      "ハリー"  # Hurry
+      "フューリー"  # Fury
+      "グラウラー"  # Growler
+      "ライオット"  # Riot
+      "ブルマ"  # Bloomer
+      "ローマ"  # Rome
+      "ハナノ"  # Blossom
+      "ヘーベー"  # Hebe
+      "ヒラリ"  # Hilary
+      "ジョリティ"  # Jolity
+      "ゲザー"  # Gazer
+      "アイブライト"  # Eyebright
+      "マッチ"  # Much
+      "フォース"  # Force
+      "トルーパー"  # Trooper
+      "バソル"  # Bustle
+      "バブラー"  # Bubbler
+      "ラックドヴェ"  # Rockdove
+      "スタブーン"  # Stubborn
+      "イェルプ"  # Yelp
+      "ペールメール"  # Pele-mele
+      "ストロングボーイ"  # Strongboy
+      "スカイ"  # Sky
+      "サンビーム"  # Sunbeam
+      "ボーキン"  # Bodkin
+      "ウィストフル"  # Wistful
+      "ノーム"  # Gnome
+      "足跡"  # Tracks
+      "ダッシュ"  # Dash
+      "ブレイク"  # Blake
+      "バディ"  # Buddy
+      "グーフィー"  # Goofy
+      "プルートー"  # Pluto
+      "キラー"  # Killer
+      "マックス"  # Max
+      "ボンゾ"  # Bonzo
+      "ジーコ"  # Zico
+      "サンティ"  # Santi
+      "コット"  # Cotte
+      "ラフ"  # Ruff
+      "トリガー"  # Trigger
+      "ミニ"  # Mini
+      "トビー"  # Toby
+      "ドッグラス"  # Doglas
+      "グッド"  # Good
+      "バッド"  # Bad
+      "クジョー"  # Cujo
+      "ルイ"  # Louis
+      "ミスターワッフル"  # Mr Wuffles
+      "インキー"  # Inky
+      "サウル"  # Saurr
+      "バブル"  # Bubbles
+      "狗"  # Dog
+      "ワンワン"  # Doggo
+      "くろ"  # Shadow
+      "ぶち"  # Spot
+      "ベイブ"  # Babe
+      "スポティントン"  # Spotington
+      "ウェスレー"  # Wesley
+      "レックス"  # Rex
+      "プルートー"  # Pluto
+      "ティミー"  # Timmi
+      "エド"  # Ed
+      "ベンジャミン"  # Benjamin
+      "サファイア"  # Sapphire
+      "ホーマー"  # Homer
+      "グリフ"  # Grif
+      "ゴースト"  # Ghost
+      "グレイウインド"  # Greywind
+      "サマー"  # Summer
+      "むく毛の犬"  # Shaggydog
+      "スクービー"  # Scooby
+      "ドルーピー"  # Droopy
+      "ゑぬ"  # Dogge
+      "ヘンリー"  # Henry
+      "Casey"
+      "Sam"
+      "Maxx"
+      "Kelvin"
+      "Rozz"
+      "Ajax"
+      "Zorro"
+      "Clifford"
+      "Dali"
+      "Milton"
+      "Watson"
+      "Laddie"
+      "Amundsen"
+      "Hercules"
+      "Hackenschmidt"
+      "Samson"
+      "Sammy"
+      "Skipper"
+      "Caruso"
+      "Sub"
+      "Ulysses"
+      "Spotty"
+      "Bosun"
+      "Slobbers"
+      "Splitlip"
+      "Swanker"
+      "Chirgwin"
+      "Steamer"
+      "Wuffler"
+      "Myggen"
+      "Petter"
+      "Mischa"
+      "Mikki"
+    }
+    female_names = {
+      "カルメン"  # Carmen
+      "エレノア"  # Eleanor
+      "ドリー"  # Dolly
+      "イヴ"  # Eve
+      "Fergie"
+      "Golda"
+      "Guinevere"
+      "インディラ"  # Indira
+      "ミネルヴァ"  # Minerva
+      "オクタヴィア"  # Octavia
+      "Psyche"
+      "プラック"  # Pluck
+      "Buckler"
+      "Spigot"
+      "Lance"
+      "Lurcher"
+      "Watch"
+      "Keeper"
+      "Brigade"
+      "Fencer"
+      "Butcher"
+      "Blazer"
+      "Prowess"
+      "Craftsman"
+      "Forester"
+      "Counsellor"
+      "Spoiler"
+      "Hurry"
+      "Fury"
+      "Growler"
+      "Riot"
+      "Bloomer"
+      "Rome"
+      "ハナノ"  # Blossom
+      "Hebe"
+      "Hilary"
+      "Jolity"
+      "Gazer"
+      "Eyebright"
+      "Much"
+      "Force"
+      "Trooper"
+      "Bustle"
+      "Bubbler"
+      "Rockdove"
+      "Stubborn"
+      "Yelp"
+      "キラー"  # Killer
+      "Pele-mele"
+      "Sky"
+      "Sunbeam"
+      "Bodkin"
+      "Wistful"
+      "Gnome"
+      "Tracks"
+      "DashAnnie"
+      "Swix"
+      "Bella"
+      "Xohla"
+      "Lassie"
+      "Laika"
+      "Odine"
+      "Inky"
+      "Alice"
+      "Good"
+      "Bad"
+      "Bubbles"
+      "Dog"
+      "Doggo"
+      "Shadow"
+      "Spot"
+      "Babe"
+      "Twiggy"
+      "Nikki"
+      "ノヴァ"  # Nova
+      "Yippie"
+      "キシャ"  # Kisha
+      "Tavi"
+      "Naevia"
+      "Alice"
+      "Berta"
+      "Domino"
+      "Blondi"
+      "Bella"
+      "Lottie"
+      "Danny"
+      "Lyra"
+      "Lady"
+      "Nymeria"
+      "Zoe"
+      "Jemma"
+      "Ronja"
+      "Maus"
+      "Bessie"
+      "Flecka"
+      "Tira"
+      "メンチ"  # Menchi
+      "Lily"
+      "Gala"
+      "Bitta"
+      "Mia"
+      "Laika"
+      "Sadie"
+      "Sue"
+      "Sally"
+      "Songster"
+      "Wuffler"
+      "Maybe"
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      general_opinion = 5
+      fertility = 0.25
+    }
+  }
+}
+elephant_group = {
+  graphical_cultures = {
+    elephantgfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  elephant_culture = {
+    graphical_cultures = {
+      elephantgfx
+    }
+    color = {
+      0.8
+      0.8
+      0.8
+    }
+    male_names = {
+      "Doot"
+      "Trumpo"
+      "ナガイハナ"  # Snoot
+      "ピュロス"  # Pyyrhus
+      "カンドゥラ"  # Kandula
+      "ジャンボ"  # Jumbo
+      "ゾウ"  # Elephant
+      "Setu"
+      "Dhriti"
+      "Bhaanu"
+      "Bhadra"
+      "Zain"
+      "ババール"  # Barbar
+      "ポンパドゥール"  # Pompadour
+      "Booper"
+      "ダンボ"  # Dombo
+      "アブール"  # Abul
+      "Abbas"
+      "ハンノ"  # Hanno
+      "Zaeem"
+      "ハンニバル"  # Hannibal
+      "バアル"  # Baal
+      "ハスドルバル"  # Hasdrubal
+      "バーブル"  # Babur
+      "Batyr"
+      "ポルックス"  # Pollux
+      "カストル"  # Castor
+      "ムル・トスク"  # Mr-Tusk
+      "Gaj"
+      "Brant"
+      "Kamboj"
+      "Hastin"
+      "Gajendra"
+      "Airawat"
+      "Tej"
+      "Toti"
+      "Yathra"
+      "Ghaazi"
+      "Chotu"
+      "Baahi"
+      "Bakhsh"
+      "Behru"
+      "ザキ"  # Zaki
+      "コルネリウス"  # Cornelius
+      "Surus"
+    }
+    female_names = {
+      "Doot"
+      "Trumpo"
+      "ナガイハナ"  # Snoot
+      "ピュロス"  # Pyyrhus
+      "カンドゥラ"  # Kandula
+      "ジャンボ"  # Jumbo
+      "ゾウ"  # Elephant
+      "Setu"
+      "Dhriti"
+      "Bhaanu"
+      "Bhadra"
+      "Zain"
+      "ババール"  # Barbar
+      "ポンパドゥール"  # Pompadour
+      "Booper"
+      "ダンボ"  # Dombo
+      "Celestial"
+      "Hansken"
+      "Ruby"
+      "Miraan"
+      "Moksha"
+      "Dhruti"
+      "Zahara"
+      "Yasha"
+      "ジャイナ"  # Jaina
+      "Fria"
+      "Aashi"
+      "Hruti"
+      "Sia"
+      "Daksha"
+      "Zia"
+      "Xara"
+      "Zyva"
+      "Okki"
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      health = 2
+      learning = 2
+      defensive_plot_power_modifier = -0.2
+      fertility = -0.25
+      combat_rating = 10
+    }
+  }
+}
+dragon_group = {
+  graphical_cultures = {
+    dragongfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  dragon_culture = {
+    graphical_cultures = {
+      dragongfx
+    }
+    color = {
+      0.6
+      0.0
+      0.0
+    }
+    male_names = {
+      "ファフニール"  # Fafnir
+      "ミズガルズ"  # Midgard
+      "アポピス"  # Apopis
+      "ラードーン"  # Ladon
+      "Colchidei"
+      "Piton"
+      "ヴィーヴル"  # Vouivre
+      "Drac"
+      "ゴルイニチ"  # Gorynych
+      "バヌトゥ"  # Bantu
+      "マヌー"  # Mannu
+      "ショーゼン"  # Khozen
+      "モーゼス"  # Morzas
+      "ゼムセル"  # Xemcel
+      "メディウス"  # Medeus
+      "ムルヴァ"  # Morva
+      "ニルス"  # Nils
+      "バハムート"  # Bahamut
+      "レヴィアタン"  # Leviathan
+      "タケミナカタ"  # Ryujin
+      "ジラント"  # Zilant
+      "テューポーン"  # Typhos
+      "パフ"  # Puff
+      "ニュクス"  # Nyx
+      "トゥース"  # Teethless
+      "スモーキー"  # Smokey
+      "デスウィング"  # Deathwing
+      "スイギン"  # Quicksilver
+      "グレイゴースト"  # Grey Ghost
+      "シースモーク"  # Seasmoke
+      "パイル"  # Pyre
+      "クロコゲ"  # Scorch
+      "ドラゴン"  # Dragon
+      "ワーム"  # Wyrm
+      "リントヴルム"  # Lindwurm
+      "ドヴァー"  # Dovah
+      "ヴラド"  # Vlad
+      "Rattleskin"
+      "アシュ"  # Ash
+      "ベネディクト"  # Benedict
+      "ラークシャサ"  # Rakshasha
+      "りゅう"  # Draco
+      "ドラクル"  # Dracul
+      "ドラゴ"  # Drago
+      "ファフナー"  # Fafner
+      "エロール"  # Errol
+      "グレイダー"  # Glaedr
+      "グラウルング"  # Glaurung
+      "アイスファイア"  # Icefyre
+      "ファルコン"  # Falkor
+      "ナギニ"  # Nagini
+      "リオレウス"  # Rathalos
+      "ピフ"  # Piff
+      "フレッド"  # Fred
+      "ヴォイダルタラー"  # Voidaltarah
+      "ズライグ"  # Ddraig
+      "Drdrake"
+      "モータリス"  # Morttalis
+      "バーニー"  # Barney
+    }
+    female_names = {
+      "ティアマト"  # Tiomat
+      "ティンタグリア"  # Tintaglia
+      "カトラ"  # Katla
+      "ドラカイナ"  # Drakaina
+      "Gegheiss"
+      "Jesasdess"
+      "Semoth"
+      "Heirel"
+      "Taynnelth"
+      "ナーガ"  # Naga
+      "チキ"  # Tiki
+      "ナギ"  # Nagi
+      "ミルラ"  # Myrrh
+      "ニニアン"  # Ninian
+      "ンン"  # Nah
+      "ニュクス"  # Nyx
+      "トゥース"  # Teethless
+      "スモーキー"  # Smokey
+      "バハムート"  # Bahamut
+      "デスウィング"  # Deathwing
+      "スイギン"  # Quicksilver
+      "グレイゴースト"  # Grey Ghost
+      "シースモーク"  # Seasmoke
+      "パフ"  # Puff
+      "パイル"  # Pyre
+      "クロコゲ"  # Scorch
+      "ドラゴン"  # Dragon
+      "ワーム"  # Wyrm
+      "リントヴルム"  # Lindwurm
+      "ドヴァー"  # Dovah
+      "ステラ"  # Stella
+      "ラークシャサ"  # Rakshesha
+      "ノーバート"  # Norberta
+      "パクセナリオン"  # Paksenarrion
+      "サフィラ"  # Saphira
+      "エイスーザ"  # Aithusa
+      "コーディリア"  # Cordelia
+      "リオレイア"  # Rathian
+      "カルナ"  # Charna
+      "ザナドゥ"  # Xanadu
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      health = 4
+      fertility = -0.5
+      global_tax_modifier = 0.1
+      general_opinion = -10
+      combat_rating = 30
+    }
+    allow_looting = yes
+  }
+}
+panda_group = {
+  graphical_cultures = {
+    redpandagfx
+  }
+  alternate_start = {
+    OR = {
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_kingdoms
+      }
+      has_alternate_start_parameter = {
+        key = special_culture
+        value = animal_world
+      }
+    }
+  }
+  red_panda = {
+    graphical_cultures = {
+      redpandagfx
+    }
+    color = {
+      1.0
+      0.3
+      0.0
+    }
+    male_names = {
+      "パンドルフ"  # Pandolf
+      "パンダルフ"  # Pandulf
+      "シーフー"  # Shifu
+      "パンダ"  # Panda
+      "Basil"
+      "Spark"
+      "Ning"
+      "ベンジャミン"  # Benjamin
+      "ソーヤー"  # Sawyer
+      "Ceba"
+      "Pabu"
+      "Ponga"
+      "タケ"  # Bamboo
+      "カアラ"  # Kaala
+      "Puffball"
+      "ウーロン"  # Oolong
+      "チャイ"  # Chai
+      "Semper"
+      "Vira"
+      "Song"
+      "マサラ"  # Masala
+      "イーラ"  # Ila
+      "ゼイア"  # Zeya
+      "カーソン"  # Carson
+      "Harold"
+      "ステラ"  # Stellar
+      "ロートシー"  # Lhotse
+      "ワサビ"  # Wasabi
+      "サビ"  # Sabi
+      "Khusi"
+      "Sundar"
+      "Manasa"
+      "Bo"
+      "Mohini"
+      "Kevyn"
+      "Phoenix"
+      "Avi"
+      "Katar"
+      "Berry"
+      "Barrie"
+      "Pumori"
+      "Ambrus"
+      "Albert"
+      "Feng"
+      "Chonk"
+      "ジャッキー"  # Jackie
+      "ナツメグ"  # Nutmeg
+      "Sabal"
+      "Peyton"
+      "Eli"
+      "Red"
+      "Babu"
+    }
+    female_names = {
+      "Josefin"
+      "パンドルフィナ"  # Pandolfina
+      "シーフー"  # Shifu
+      "パンダ"  # Panda
+      "Susana"
+      "Liling"
+      "Betsy"
+      "Scarlett"
+      "Ceba"
+      "Pabu"
+      "Ponga"
+      "タケ"  # Bamboo
+      "カアラ"  # Kaala
+      "Puffball"
+      "ウーロン"  # Oolong
+      "チャイ"  # Chai
+      "Semper"
+      "Vira"
+      "Song"
+      "Sonya"
+      "Miko"
+      "Nava"
+      "Cini"
+      "マサラ"  # Masala
+      "Panna"
+      "Piya"
+      "Satya"
+      "Sonika"
+      "イーラ"  # Ila
+      "ゼイア"  # Zeya
+      "ユキコ"  # Yukiko
+      "Hazel"
+      "Maude"
+      "Jaya"
+      "ワサビ"  # Wasabi
+      "サビ"  # Sabi
+      "Khusi"
+      "Sundar"
+      "Manasa"
+      "Leafa"
+      "Phoenix"
+      "Beatrix"
+      "Ruth"
+      "Avi"
+      "Katar"
+      "Berry"
+      "シモーネ"  # Simone
+      "Chota"
+      "Mali"
+      "Aurora"
+      "Eriel"
+      "Chonk"
+      "Mambo"
+      "ナツメグ"  # Nutmeg
+      "Sabal"
+    }
+    prefix = no
+    pat_grf_name_chance = 50
+    mat_grf_name_chance = 0
+    father_name_chance = 0
+    pat_grm_name_chance = 10
+    mat_grm_name_chance = 50
+    mother_name_chance = 0
+    used_for_random = no
+    allow_in_ruler_designer = no
+    modifier = default_culture_modifier
+    character_modifier = {
+      vassal_opinion = 5
+      land_morale = 0.05
+      fertility = -0.15
+    }
+  }
+}
