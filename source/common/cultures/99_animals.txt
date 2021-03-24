@@ -951,11 +951,11 @@ dog_group = {
       "ドルーピー"  # Droopy
       "ゑぬ"  # Dogge
       "ヘンリー"  # Henry
-      "Casey"
-      "Sam"
-      "Maxx"
-      "Kelvin"
-      "Rozz"
+      "ケイシー"  # Casey
+      "サム"  # Sam
+      "マックス"  # Maxx
+      "ケルヴィン"  # Kelvin
+      "ロッズ"  # Rozz
       "Ajax"
       "Zorro"
       "Clifford"

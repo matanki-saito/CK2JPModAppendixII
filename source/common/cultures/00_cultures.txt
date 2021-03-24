@@ -14432,7 +14432,7 @@ east_slavic = {
     }
     from_dynasty_prefix = "オブ・"  # of 
     male_patronym = "ヴィチ"  # ovich
-    female_patronym = "ovna"
+    female_patronym = "ヴナ"  # ovna
     prefix = no
     pat_grf_name_chance = 50
     mat_grf_name_chance = 40
@@ -14548,7 +14548,7 @@ east_slavic = {
     }
     from_dynasty_prefix = "オブ・"  # of 
     male_patronym = "ヴィチ"  # ovich
-    female_patronym = "ovna"
+    female_patronym = "ヴナ"  # ovna
     prefix = no
     pat_grf_name_chance = 50
     mat_grf_name_chance = 40
@@ -14664,7 +14664,7 @@ east_slavic = {
     }
     from_dynasty_prefix = "オブ・"  # of 
     male_patronym = "ヴィチ"  # ovich
-    female_patronym = "ovna"
+    female_patronym = "ヴナ"  # ovna
     prefix = no
     pat_grf_name_chance = 50
     mat_grf_name_chance = 40
@@ -14780,7 +14780,7 @@ east_slavic = {
     }
     from_dynasty_prefix = "オブ・"  # of 
     male_patronym = "ヴィチ"  # ovich
-    female_patronym = "ovna"
+    female_patronym = "ヴナ"  # ovna
     prefix = no
     pat_grf_name_chance = 50
     mat_grf_name_chance = 40
