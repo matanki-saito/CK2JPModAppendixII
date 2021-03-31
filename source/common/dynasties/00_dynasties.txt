@@ -2355,7 +2355,7 @@
   culture = "frankish"
 }
 341 = {
-  name = "de St. Hilary"
+  name = "ド・サン・ヒラリ"  # de St. Hilary
   culture = "frankish"
   religion = "catholic"
 }
@@ -8875,7 +8875,7 @@
   used_for_random = no
 }
 952 = {
-  name = "Berg"
+  name = "ベルク"  # Berg
   culture = "norse"
   religion = "norse_pagan"
   coat_of_arms = {
@@ -8935,7 +8935,7 @@
   used_for_random = no
 }
 972 = {
-  name = "Verna"
+  name = "ヴァーナ"  # Verna
   culture = "italian"
   religion = "catholic"
   coat_of_arms = {

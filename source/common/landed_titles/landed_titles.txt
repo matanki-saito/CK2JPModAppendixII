@@ -12865,7 +12865,7 @@ e_scandinavia = {
         b_solleftea = {}
         b_harnosand = {
           norwegian = "ヘネーサン"  # Hærnøsand
-          danish = "Hærnøsand"
+          danish = "ヘネーサン"  # Hærnøsand
         }
         b_ornskoldsvik = {
           norwegian = "エルンスケッルスヴィーク"  # Ørnskøldsvik
@@ -12887,12 +12887,12 @@ e_scandinavia = {
         b_selanger = {}
         b_alno = {
           norwegian = "アルネ"  # Alnø
-          danish = "Alnø"
+          danish = "アルネ"  # Alnø
         }
         b_njurunda = {}
         b_skon = {
           norwegian = "スケーン"  # Skøn
-          danish = "Skøn"
+          danish = "スケーン"  # Skøn
         }
         b_liden = {}
         b_otman = {}
@@ -12917,7 +12917,7 @@ e_scandinavia = {
         b_hog = {}
         b_jattendal = {
           norwegian = "イェッテナール"  # Jættendal
-          danish = "Jættendal"
+          danish = "イェッテナール"  # Jættendal
         }
         b_forsa = {}
         b_tasta = {}
@@ -12950,7 +12950,7 @@ e_scandinavia = {
           255
         }
         norwegian = "イェルンベーララン"  # Jernbæraland
-        danish = "Jernbæraland"
+        danish = "イェルンベーララン"  # Jernbæraland
         english = "ダーラナ"  # Dalecarlia
         norse = "ヤールンベラランド"  # Járnberaland
         b_borganas = {}
@@ -13044,7 +13044,7 @@ e_scandinavia = {
           255
           255
         }
-        danish = "Møre"
+        danish = "メーレ"  # Møre
         norwegian = "メーレ"  # Møre
         b_kalmar = {}
         b_kalmar_hus = {}
@@ -13136,7 +13136,7 @@ e_scandinavia = {
         b_gardby = {}
         b_gronhogen = {
           norwegian = "グレンヘーゲン"  # Grønhøgen
-          danish = "Grønhøgen"
+          danish = "グレンヘーゲン"  # Grønhøgen
         }
         b_kopingsvik = {
           danish = "Købingsvik"
@@ -13285,7 +13285,7 @@ e_scandinavia = {
         b_uppakra = {}
         b_herrevad = {}
         b_lillohus = {
-          danish = "Lilløhus"
+          danish = "リッレーフス"  # Lilløhus
           norwegian = "リッレーフス"  # Lilløhus
         }
         b_helsingborg = {}
@@ -13971,7 +13971,7 @@ e_scandinavia = {
         swedish = "オルクネ"  # Orknö
         danish = "オールクノー"  # Orknø
         norse = "オルクネ"  # Orknö
-        pictish = "Insee Orc"
+        pictish = "インシー・オルク"  # Insee Orc
         welsh = "アナソウィズ・オルク"  # Ynysoedd Orc
         irish = "イーンシュ・オルク"  # Innse Orc
         b_kirkwall = {
@@ -14698,7 +14698,7 @@ e_scandinavia = {
           norse = "ケクスホルム"  # Kexholm
           norwegian = "ケックスホルム"  # Kexholm
           danish = "ケックスホルム"  # Kexholm
-          russian = "Korela"
+          russian = "コレラ"  # Korela
         }
         b_jekaborg = {}
         b_koivisto = {}

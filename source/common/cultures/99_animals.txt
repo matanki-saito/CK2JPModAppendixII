@@ -956,19 +956,19 @@ dog_group = {
       "マックス"  # Maxx
       "ケルヴィン"  # Kelvin
       "ロッズ"  # Rozz
-      "Ajax"
-      "Zorro"
-      "Clifford"
-      "Dali"
-      "Milton"
-      "Watson"
-      "Laddie"
-      "Amundsen"
-      "Hercules"
-      "Hackenschmidt"
-      "Samson"
-      "Sammy"
-      "Skipper"
+      "エイジャックス"  # Ajax
+      "ゾロ"  # Zorro
+      "クリフォード"  # Clifford
+      "ダリ"  # Dali
+      "ミルトン"  # Milton
+      "ワトソン"  # Watson
+      "ラディ"  # Laddie
+      "アムンセン"  # Amundsen
+      "ヘラクレス"  # Hercules
+      "ハッケンシュミット"  # Hackenschmidt
+      "サムソン"  # Samson
+      "サミー"  # Sammy
+      "スキパー"  # Skipper
       "Caruso"
       "Sub"
       "Ulysses"

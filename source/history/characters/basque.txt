@@ -6852,7 +6852,7 @@
   }
 }
 475551 = {
-  name = "Ana"
+  name = "アナ"  # Ana
   female = yes
   martial = 7
   diplomacy = 5

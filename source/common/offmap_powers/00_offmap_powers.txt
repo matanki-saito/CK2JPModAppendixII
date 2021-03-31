@@ -193,7 +193,7 @@
       "世祖"  # Shizu
       "昭祖"  # Zhaozu
       "敬祖"  # Jingzu
-      "先主"  # Xianzu
+      "顕祖"  # Xianzu
       "烈祖"  # Liezu
       "成祖"  # Chengzu
     }
