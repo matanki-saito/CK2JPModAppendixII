@@ -969,16 +969,16 @@ dog_group = {
       "サムソン"  # Samson
       "サミー"  # Sammy
       "スキパー"  # Skipper
-      "Caruso"
-      "Sub"
-      "Ulysses"
-      "Spotty"
-      "Bosun"
-      "Slobbers"
+      "カルーソ"  # Caruso
+      "サブ"  # Sub
+      "ユリシーズ"  # Ulysses
+      "スポッティ"  # Spotty
+      "ボースン"  # Bosun
+      "スロバース"  # Slobbers
       "Splitlip"
-      "Swanker"
-      "Chirgwin"
-      "Steamer"
+      "スワンカー"  # Swanker
+      "チャーグウィン"  # Chirgwin
+      "スチーマー"  # Steamer
       "Wuffler"
       "Myggen"
       "Petter"
@@ -996,51 +996,51 @@ dog_group = {
       "インディラ"  # Indira
       "ミネルヴァ"  # Minerva
       "オクタヴィア"  # Octavia
-      "Psyche"
+      "プシュケー"  # Psyche
       "プラック"  # Pluck
-      "Buckler"
-      "Spigot"
+      "バックラー"  # Buckler
+      "スピゴット"  # Spigot
       "Lance"
-      "Lurcher"
-      "Watch"
-      "Keeper"
-      "Brigade"
-      "Fencer"
-      "Butcher"
-      "Blazer"
-      "Prowess"
-      "Craftsman"
-      "Forester"
-      "Counsellor"
-      "Spoiler"
-      "Hurry"
-      "Fury"
-      "Growler"
-      "Riot"
-      "Bloomer"
+      "ラーチャー"  # Lurcher
+      "ウォッチ"  # Watch
+      "キーパー"  # Keeper
+      "ブリガーデ"  # Brigade
+      "フェンサー"  # Fencer
+      "ブッチャー"  # Butcher
+      "ブレイザー"  # Blazer
+      "プラワス"  # Prowess
+      "クラフトマン"  # Craftsman
+      "フォレスター"  # Forester
+      "カウンセラー"  # Counsellor
+      "スポイラー"  # Spoiler
+      "ハリー"  # Hurry
+      "フューリー"  # Fury
+      "グラウラー"  # Growler
+      "ライオット"  # Riot
+      "ブルマ"  # Bloomer
       "Rome"
       "ハナノ"  # Blossom
-      "Hebe"
+      "ヘーベー"  # Hebe
       "Hilary"
-      "Jolity"
-      "Gazer"
-      "Eyebright"
-      "Much"
-      "Force"
-      "Trooper"
-      "Bustle"
-      "Bubbler"
-      "Rockdove"
-      "Stubborn"
+      "ジョリティ"  # Jolity
+      "ゲザー"  # Gazer
+      "アイブライト"  # Eyebright
+      "マッチ"  # Much
+      "フォース"  # Force
+      "トルーパー"  # Trooper
+      "バソル"  # Bustle
+      "バブラー"  # Bubbler
+      "ラックドヴェ"  # Rockdove
+      "スタブーン"  # Stubborn
       "Yelp"
       "キラー"  # Killer
-      "Pele-mele"
+      "ペールメール"  # Pele-mele
       "Sky"
-      "Sunbeam"
-      "Bodkin"
-      "Wistful"
-      "Gnome"
-      "Tracks"
+      "サンビーム"  # Sunbeam
+      "ボーキン"  # Bodkin
+      "ウィストフル"  # Wistful
+      "ノーム"  # Gnome
+      "足跡"  # Tracks
       "DashAnnie"
       "Swix"
       "Bella"
@@ -1053,11 +1053,11 @@ dog_group = {
       "Good"
       "Bad"
       "Bubbles"
-      "Dog"
-      "Doggo"
+      "狗"  # Dog
+      "ワンワン"  # Doggo
       "Shadow"
-      "Spot"
-      "Babe"
+      "ぶち"  # Spot
+      "ベイブ"  # Babe
       "Twiggy"
       "Nikki"
       "ノヴァ"  # Nova
