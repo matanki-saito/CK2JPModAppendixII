@@ -979,7 +979,7 @@ dog_group = {
       "スワンカー"  # Swanker
       "チャーグウィン"  # Chirgwin
       "スチーマー"  # Steamer
-      "Wuffler"
+      "ワフラー"  # Wuffler
       "Myggen"
       "Petter"
       "Mischa"
@@ -990,8 +990,8 @@ dog_group = {
       "エレノア"  # Eleanor
       "ドリー"  # Dolly
       "イヴ"  # Eve
-      "Fergie"
-      "Golda"
+      "ファーギー"  # Fergie
+      "ゴルダ"  # Golda
       "Guinevere"
       "インディラ"  # Indira
       "ミネルヴァ"  # Minerva
