@@ -992,7 +992,7 @@ dog_group = {
       "イヴ"  # Eve
       "ファーギー"  # Fergie
       "ゴルダ"  # Golda
-      "Guinevere"
+      "グィネヴィア"  # Guinevere
       "インディラ"  # Indira
       "ミネルヴァ"  # Minerva
       "オクタヴィア"  # Octavia
@@ -1000,7 +1000,7 @@ dog_group = {
       "プラック"  # Pluck
       "バックラー"  # Buckler
       "スピゴット"  # Spigot
-      "Lance"
+      "ランス"  # Lance
       "ラーチャー"  # Lurcher
       "ウォッチ"  # Watch
       "キーパー"  # Keeper
@@ -1018,10 +1018,10 @@ dog_group = {
       "グラウラー"  # Growler
       "ライオット"  # Riot
       "ブルマ"  # Bloomer
-      "Rome"
+      "ローマ"  # Rome
       "ハナノ"  # Blossom
       "ヘーベー"  # Hebe
-      "Hilary"
+      "ヒラリ"  # Hilary
       "ジョリティ"  # Jolity
       "ゲザー"  # Gazer
       "アイブライト"  # Eyebright
@@ -1032,21 +1032,21 @@ dog_group = {
       "バブラー"  # Bubbler
       "ラックドヴェ"  # Rockdove
       "スタブーン"  # Stubborn
-      "Yelp"
+      "イェルプ"  # Yelp
       "キラー"  # Killer
       "ペールメール"  # Pele-mele
-      "Sky"
+      "スカイ"  # Sky
       "サンビーム"  # Sunbeam
       "ボーキン"  # Bodkin
       "ウィストフル"  # Wistful
       "ノーム"  # Gnome
       "足跡"  # Tracks
-      "DashAnnie"
-      "Swix"
-      "Bella"
-      "Xohla"
-      "Lassie"
-      "Laika"
+      "ダッシュアニー"  # DashAnnie
+      "スウィックス"  # Swix
+      "ベラ"  # Bella
+      "コーラ"  # Xohla
+      "ラッシー"  # Lassie
+      "ライカ"  # Laika
       "Odine"
       "Inky"
       "Alice"
@@ -1069,7 +1069,7 @@ dog_group = {
       "Berta"
       "Domino"
       "Blondi"
-      "Bella"
+      "ベラ"  # Bella
       "Lottie"
       "Danny"
       "Lyra"
@@ -1087,7 +1087,7 @@ dog_group = {
       "Gala"
       "Bitta"
       "Mia"
-      "Laika"
+      "ライカ"  # Laika
       "Sadie"
       "Sue"
       "Sally"
