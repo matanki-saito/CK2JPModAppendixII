@@ -1047,25 +1047,25 @@ dog_group = {
       "コーラ"  # Xohla
       "ラッシー"  # Lassie
       "ライカ"  # Laika
-      "Odine"
-      "Inky"
-      "Alice"
-      "Good"
-      "Bad"
-      "Bubbles"
+      "オダイン"  # Odine
+      "インキー"  # Inky
+      "アリス"  # Alice
+      "グッド"  # Good
+      "バッド"  # Bad
+      "バブル"  # Bubbles
       "狗"  # Dog
       "ワンワン"  # Doggo
-      "Shadow"
+      "くろ"  # Shadow
       "ぶち"  # Spot
       "ベイブ"  # Babe
-      "Twiggy"
-      "Nikki"
+      "ツイッギー"  # Twiggy
+      "ニッキ"  # Nikki
       "ノヴァ"  # Nova
-      "Yippie"
+      "イッピー"  # Yippie
       "キシャ"  # Kisha
       "Tavi"
       "Naevia"
-      "Alice"
+      "アリス"  # Alice
       "Berta"
       "Domino"
       "Blondi"
