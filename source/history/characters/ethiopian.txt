@@ -576,7 +576,7 @@
   }
 }
 145633 = {
-  name = "Nizam"
+  name = "ニザーム"  # Nizam
   dynasty = 1022240
   religion = "sunni"
   culture = "ethiopian"

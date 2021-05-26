@@ -8279,7 +8279,7 @@
   used_for_random = no
 }
 930 = {
-  name = "Kabar"
+  name = "カバール"  # Kabar
   culture = "khazar"
   religion = "zun_pagan"
   coat_of_arms = {
@@ -51448,7 +51448,7 @@
   religion = sunni
 }
 1062541 = {
-  name = "Nizamuddin"
+  name = "ニザームッディーン"  # Nizamuddin
   culture = sindhi
   religion = sunni
 }

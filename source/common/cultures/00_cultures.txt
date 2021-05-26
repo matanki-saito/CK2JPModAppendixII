@@ -2223,7 +2223,7 @@ west_germanic = {
       "ブルグヴリャド"  # Burgflæd
       "チェオルヴリャド"  # Ceolflæd
       "クリスティナ_Christina"  # Cristina_Christina
-      "クズブルグ"  # Cuthburg
+      "カスブルグ"  # Cuthburg
       "クェンブルグ"  # Cwenburg
       "キュネブルグ"  # Cyneburg
       "キュネギュス"  # Cynegyth
@@ -13580,7 +13580,7 @@ arabic = {
       "ナスル_Nasr"  # Nasr_Nasr
       "Nazar"
       "ニプタサン"  # Niptasan
-      "Nizamaddin"
+      "ニザマディン"  # Nizamaddin
       "Ptolemee_Ptolemy"
       "Qutaiba"
       "ラシード"  # Rashid
@@ -22516,7 +22516,7 @@ indo_aryan_group = {
       "Muhammed-Tur"
       "Munzir"
       "Nangar"
-      "Nizamuddin"
+      "ニザームッディーン"  # Nizamuddin
       "Pahtu"
       "Punhun"
       "Raidhan"
