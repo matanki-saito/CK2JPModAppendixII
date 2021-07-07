@@ -1872,7 +1872,7 @@
   culture = "german"
 }
 265 = {
-  name = "ドォトヴィル"  # d'Hauteville
+  name = "ドートヴィル"  # d'Hauteville
   culture = "frankish"
 }
 266 = {
@@ -1894,7 +1894,7 @@
   culture = "catalan"
 }
 270 = {
-  name = "フォガッサ"  # Fogaça
+  name = "フォガサ"  # Fogaça
   culture = "portuguese"
 }
 271 = {
@@ -1919,7 +1919,7 @@
   }
 }
 273 = {
-  name = "デ・ボルゴナ"  # de Borgonha
+  name = "デ・ボルゴーニャ"  # de Borgonha
   culture = "portuguese"
 }
 274 = {
@@ -2025,7 +2025,7 @@
   religion = "catholic"
 }
 288 = {
-  name = "ファン・シュルスバッハ"  # van Sulzbach
+  name = "ファン・ズルツバッハ"  # van Sulzbach
   culture = "dutch"
 }
 289 = {
@@ -2043,11 +2043,11 @@
   culture = "dutch"
 }
 292 = {
-  name = "ファン・ヘルデーン"  # van Geldern
+  name = "ファン・ゲルダーン"  # van Geldern
   culture = "dutch"
 }
 293 = {
-  name = "ファン・ベァーフ"  # van Bergh
+  name = "ファン・ベルグ"  # van Bergh
   culture = "dutch"
 }
 294 = {
@@ -2187,7 +2187,7 @@
   }
 }
 313 = {
-  name = "ド・ポルオエ"  # de Porhoët
+  name = "ド・ポルウェト"  # de Porhoët
   culture = "breton"
   religion = "catholic"
 }
@@ -2360,7 +2360,7 @@
   religion = "catholic"
 }
 342 = {
-  name = "ド・オービニー"  # d'Aubigny
+  name = "ドービニー"  # d'Aubigny
   culture = "frankish"
   religion = "catholic"
 }
@@ -14777,7 +14777,7 @@
   religion = "catholic"
 }
 9103 = {
-  name = "ド・オービニー"  # d'Aubigny
+  name = "ドービニー"  # d'Aubigny
   culture = "norman"
 }
 9104 = {

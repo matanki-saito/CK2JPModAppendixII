@@ -16871,9 +16871,9 @@ e_wendish_empire = {
           255
           255
         }
-        pommeranian = "ボウォゴシュチ"  # Wologoszcz
+        pommeranian = "ヴォウォゴシュチ"  # Wologoszcz
         b_wolgast = {
-          pommeranian = "ボウォゴシュチ"  # Wologoszcz
+          pommeranian = "ヴォウォゴシュチ"  # Wologoszcz
         }
         b_usedom = {
           pommeranian = "Uznjöm"
