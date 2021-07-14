@@ -6719,9 +6719,9 @@ e_byzantium = {
         muslim = 250
         top_de_jure_capital = yes
         holy_site = orthodox
-        turkish = "コンスタンティーニーイェ"  # Kostantiniyye
+        turkish = "コスタンティーニーイェ"  # Kostantiniyye
         b_constantinople = {
-          turkish = "コンスタンティーニーイェ"  # Kostantiniyye
+          turkish = "コスタンティーニーイェ"  # Kostantiniyye
         }
         b_hagiasophia = {
           pentarchy = yes
@@ -7679,7 +7679,7 @@ e_byzantium = {
         }
         turkish = "ブルサ"  # Bursa
         b_prusa = {
-          turkish = "ヒュダヴェンディギャール"  # Hüdavendigar
+          turkish = "ヒュダヴェンディガル"  # Hüdavendigar
         }
         b_darieium = {
           greek = "ドリエイオン"  # Dorieion
