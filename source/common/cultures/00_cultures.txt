@@ -703,7 +703,7 @@
       "クリスティーナ_Christina"  # Christina_Christina
       "ダウマ"  # Dagmar
       "ドロティーア_Dorothy"  # Dorothea_Dorothy
-      "Elisabeth_Elizabeth"
+      "エリーザベト"  # Elisabeth_Elizabeth
       "エリノ_Eleanor"  # Ellinor_Eleanor
       "イミーリェ_Emily"  # Emilie_Emily
       "イーリカ"  # Erika
@@ -1316,7 +1316,7 @@ central_germanic = {
       "アルカンヴァルド"  # Arcambald
       "Aregisel"
       "Arnegisel"
-      "Arnulf_Arnulf"
+      "アルヌルフ"  # Arnulf_Arnulf
       "アスカリック"  # Ascaric
       "Audovald"
       "Austregisel"
@@ -1328,14 +1328,14 @@ central_germanic = {
       "Balduin_Baldwin"
       "Barnard"
       "Berald"
-      "Bernard_Bernard"
-      "Berneri"
-      "Bero"
+      "ベルナルド"  # Bernard_Bernard
+      "ベルネリ"  # Berneri
+      "ベロ"  # Bero
       "ベロール"  # Berold
       "Berthefried"
       "Bertlin"
       "Bertram_Bertrand"
-      "Bertrand"
+      "ベルトラン"  # Bertrand
       "Burchard_Bouchard"
       "カールマン_Carloman"  # Karloman_Carloman
       "Ceslin"
