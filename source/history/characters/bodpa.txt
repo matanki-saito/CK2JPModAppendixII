@@ -149,20 +149,6 @@
     death = yes
   }
 }
-12011 = {
-  name = "デマ"  # Dema
-  dynasty = 19100
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  father = 12010
-  799.1.1 = {
-    birth = yes
-  }
-  841.1.1 = {
-    death = yes
-  }
-}
 12012 = {
   name = "ナンドル"  # Namdol
   dynasty = 19100
@@ -174,6 +160,20 @@
     birth = yes
   }
   836.1.1 = {
+    death = yes
+  }
+}
+12011 = {
+  name = "デマ"  # Dema
+  dynasty = 19100
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  father = 12010
+  799.1.1 = {
+    birth = yes
+  }
+  841.1.1 = {
     death = yes
   }
 }
@@ -219,20 +219,6 @@
     death = yes
   }
 }
-12016 = {
-  name = "ペンバ"  # Pemba
-  dynasty = 19100
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  father = 12015
-  875.1.1 = {
-    birth = yes
-  }
-  930.1.1 = {
-    death = yes
-  }
-}
 12017 = {
   name = "リグズィン"  # Rigzin
   dynasty = 19100
@@ -244,6 +230,20 @@
     birth = yes
   }
   912.1.1 = {
+    death = yes
+  }
+}
+12016 = {
+  name = "ペンバ"  # Pemba
+  dynasty = 19100
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  father = 12015
+  875.1.1 = {
+    birth = yes
+  }
+  930.1.1 = {
     death = yes
   }
 }
@@ -678,137 +678,6 @@
     birth = yes
   }
   1189.1.1 = {
-    death = yes
-  }
-}
-12051 = {
-  name = "クリマロド"  # Khrimalod
-  dynasty = 19100
-  female = yes
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  father = 12005
-  723.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-12060 = {
-  name = "ダールゲイ"  # Dhargey
-  dynasty = 19101
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  730.1.1 = {
-    birth = yes
-  }
-  792.1.1 = {
-    death = yes
-  }
-}
-12061 = {
-  name = "パルテン"  # Palden
-  dynasty = 19113
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  744.1.1 = {
-    birth = yes
-  }
-  796.1.1 = {
-    death = yes
-  }
-}
-12062 = {
-  name = "パルテン"  # Palden
-  dynasty = 19114
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  740.1.1 = {
-    birth = yes
-  }
-  791.1.1 = {
-    death = yes
-  }
-}
-12063 = {
-  name = "チョエドン"  # Choedon
-  dynasty = 19115
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  739.1.1 = {
-    birth = yes
-  }
-  791.1.1 = {
-    death = yes
-  }
-}
-12064 = {
-  name = "パッサン"  # Passang
-  dynasty = 19124
-  culture = bodpa
-  religion = bon
-  1045.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-12065 = {
-  name = "カンドー"  # Khando
-  dynasty = 19126
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  840.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-12066 = {
-  name = "トリツク"  # Tritsuk
-  dynasty = 19127
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  1045.1.1 = {
-    birth = yes
-  }
-  1111.1.1 = {
-    death = yes
-  }
-}
-12067 = {
-  name = "トリツク"  # Tritsuk
-  dynasty = 19127
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  1045.1.1 = {
-    birth = yes
-  }
-  1111.1.1 = {
-    death = yes
-  }
-}
-12069 = {
-  name = "ワンチュク"  # Wangchuk
-  dynasty = 19130
-  culture = bodpa
-  religion = buddhist
-  trait = vajrayana_buddhist
-  840.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
     death = yes
   }
 }
@@ -1338,6 +1207,137 @@
     death = yes
   }
 }
+12051 = {
+  name = "クリマロド"  # Khrimalod
+  dynasty = 19100
+  female = yes
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  father = 12005
+  723.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+12060 = {
+  name = "ダールゲイ"  # Dhargey
+  dynasty = 19101
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  730.1.1 = {
+    birth = yes
+  }
+  792.1.1 = {
+    death = yes
+  }
+}
+12061 = {
+  name = "パルテン"  # Palden
+  dynasty = 19113
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  744.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+12062 = {
+  name = "パルテン"  # Palden
+  dynasty = 19114
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  740.1.1 = {
+    birth = yes
+  }
+  791.1.1 = {
+    death = yes
+  }
+}
+12063 = {
+  name = "チョエドン"  # Choedon
+  dynasty = 19115
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  739.1.1 = {
+    birth = yes
+  }
+  791.1.1 = {
+    death = yes
+  }
+}
+12064 = {
+  name = "パッサン"  # Passang
+  dynasty = 19124
+  culture = bodpa
+  religion = bon
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+12065 = {
+  name = "カンドー"  # Khando
+  dynasty = 19126
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  840.1.1 = {
+    birth = yes
+  }
+  910.1.1 = {
+    death = yes
+  }
+}
+12066 = {
+  name = "トリツク"  # Tritsuk
+  dynasty = 19127
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  1045.1.1 = {
+    birth = yes
+  }
+  1111.1.1 = {
+    death = yes
+  }
+}
+12067 = {
+  name = "トリツク"  # Tritsuk
+  dynasty = 19127
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  1045.1.1 = {
+    birth = yes
+  }
+  1111.1.1 = {
+    death = yes
+  }
+}
+12069 = {
+  name = "ワンチュク"  # Wangchuk
+  dynasty = 19130
+  culture = bodpa
+  religion = buddhist
+  trait = vajrayana_buddhist
+  840.1.1 = {
+    birth = yes
+  }
+  910.1.1 = {
+    death = yes
+  }
+}
 12107 = {
   name = "トリツク"  # Tritsuk
   dynasty = 19131
@@ -1455,216 +1455,6 @@
     birth = yes
   }
   792.1.1 = {
-    death = yes
-  }
-}
-243000 = {
-  name = "ジャンチャップ"  # Jangchup
-  dynasty = 1053024
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  840.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-243001 = {
-  name = "Chophel"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  1045.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-243002 = {
-  name = "Paljor"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  father = 243001
-  1084.1.1 = {
-    birth = yes
-  }
-  1154.1.1 = {
-    death = yes
-  }
-}
-243003 = {
-  name = "Tsomo"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  father = 243002
-  1134.1.1 = {
-    birth = yes
-  }
-  1208.1.1 = {
-    death = yes
-  }
-}
-243004 = {
-  name = "Wangmo"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  father = 243003
-  1192.1.1 = {
-    birth = yes
-  }
-  1262.1.1 = {
-    death = yes
-  }
-}
-243005 = {
-  name = "Pelgyi"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  father = 243004
-  1246.1.1 = {
-    birth = yes
-  }
-  1316.1.1 = {
-    death = yes
-  }
-}
-243006 = {
-  name = "Yangkey"
-  dynasty = 1053025
-  culture = bodpa
-  religion = "buddhist"
-  trait = "vajrayana_buddhist"
-  father = 243005
-  1300.1.1 = {
-    birth = yes
-  }
-  1370.1.1 = {
-    death = yes
-  }
-}
-243008 = {
-  name = "Rigsang"
-  dynasty = 1053028
-  culture = bodpa
-  religion = bon
-  1045.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-243009 = {
-  name = "タクパ"  # Dragpa
-  dynasty = 1053028
-  culture = bodpa
-  religion = bon
-  father = 243008
-  1084.1.1 = {
-    birth = yes
-  }
-  1154.1.1 = {
-    death = yes
-  }
-}
-243010 = {
-  name = "Pyidetsan"
-  dynasty = 1053028
-  culture = bodpa
-  religion = bon
-  father = 243009
-  1134.1.1 = {
-    birth = yes
-  }
-  1208.1.1 = {
-    death = yes
-  }
-}
-243011 = {
-  name = "チョケイ"  # Chokey
-  dynasty = 1053028
-  culture = bodpa
-  religion = bon
-  father = 243010
-  1192.1.1 = {
-    birth = yes
-  }
-  1262.1.1 = {
-    death = yes
-  }
-}
-243012 = {
-  name = "ラブテン"  # Rabten
-  dynasty = 1053029
-  culture = bodpa
-  religion = bon
-  840.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-243013 = {
-  name = "ジュングネイ"  # Jungney
-  dynasty = 1053027
-  culture = bodpa
-  religion = bon
-  1045.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-243014 = {
-  name = "Lekhshey"
-  dynasty = 1053027
-  culture = bodpa
-  religion = bon
-  father = 243013
-  1084.1.1 = {
-    birth = yes
-  }
-  1154.1.1 = {
-    death = yes
-  }
-}
-243015 = {
-  name = "Namgyal"
-  dynasty = 1053027
-  culture = bodpa
-  religion = bon
-  father = 243014
-  1134.1.1 = {
-    birth = yes
-  }
-  1208.1.1 = {
-    death = yes
-  }
-}
-243016 = {
-  name = "Tsering"
-  dynasty = 1053027
-  culture = bodpa
-  religion = bon
-  father = 243015
-  1192.1.1 = {
-    birth = yes
-  }
-  1262.1.1 = {
     death = yes
   }
 }
@@ -3322,6 +3112,21 @@
     }
   }
   815.1.1 = {
+    death = yes
+  }
+}
+252020 = {
+  name = "ラギェルマンモジェ"  # Lhagyal Mangmorje
+  female = yes
+  dynasty = 105907
+  religion = "buddhist"
+  culture = "bodpa"
+  father = 247213
+  trait = "vajrayana_buddhist"
+  768.1.1 = {
+    birth = yes
+  }
+  798.1.1 = {
     death = yes
   }
 }
@@ -6246,6 +6051,20 @@
     death = yes
   }
 }
+247719 = {
+  name = "Sengge Yeshe"
+  dynasty = 105816
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  culture = "bodpa"
+  father = 247317
+  1281.1.1 = {
+    birth = yes
+  }
+  1352.1.1 = {
+    death = yes
+  }
+}
 247318 = {
   name = "Rinchen Zangpo"
   dynasty = 105816
@@ -6549,17 +6368,213 @@
     death = yes
   }
 }
-247719 = {
-  name = "Sengge Yeshe"
-  dynasty = 105816
+243000 = {
+  name = "ジャンチャップ"  # Jangchup
+  dynasty = 1053024
+  culture = bodpa
   religion = "buddhist"
   trait = "vajrayana_buddhist"
-  culture = "bodpa"
-  father = 247317
-  1281.1.1 = {
+  840.1.1 = {
     birth = yes
   }
-  1352.1.1 = {
+  910.1.1 = {
+    death = yes
+  }
+}
+243001 = {
+  name = "Chophel"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+243002 = {
+  name = "Paljor"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  father = 243001
+  1084.1.1 = {
+    birth = yes
+  }
+  1154.1.1 = {
+    death = yes
+  }
+}
+243003 = {
+  name = "Tsomo"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  father = 243002
+  1134.1.1 = {
+    birth = yes
+  }
+  1208.1.1 = {
+    death = yes
+  }
+}
+243004 = {
+  name = "Wangmo"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  father = 243003
+  1192.1.1 = {
+    birth = yes
+  }
+  1262.1.1 = {
+    death = yes
+  }
+}
+243005 = {
+  name = "Pelgyi"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  father = 243004
+  1246.1.1 = {
+    birth = yes
+  }
+  1316.1.1 = {
+    death = yes
+  }
+}
+243006 = {
+  name = "Yangkey"
+  dynasty = 1053025
+  culture = bodpa
+  religion = "buddhist"
+  trait = "vajrayana_buddhist"
+  father = 243005
+  1300.1.1 = {
+    birth = yes
+  }
+  1370.1.1 = {
+    death = yes
+  }
+}
+243008 = {
+  name = "Rigsang"
+  dynasty = 1053028
+  culture = bodpa
+  religion = bon
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+243009 = {
+  name = "タクパ"  # Dragpa
+  dynasty = 1053028
+  culture = bodpa
+  religion = bon
+  father = 243008
+  1084.1.1 = {
+    birth = yes
+  }
+  1154.1.1 = {
+    death = yes
+  }
+}
+243010 = {
+  name = "Pyidetsan"
+  dynasty = 1053028
+  culture = bodpa
+  religion = bon
+  father = 243009
+  1134.1.1 = {
+    birth = yes
+  }
+  1208.1.1 = {
+    death = yes
+  }
+}
+243011 = {
+  name = "チョケイ"  # Chokey
+  dynasty = 1053028
+  culture = bodpa
+  religion = bon
+  father = 243010
+  1192.1.1 = {
+    birth = yes
+  }
+  1262.1.1 = {
+    death = yes
+  }
+}
+243012 = {
+  name = "ラブテン"  # Rabten
+  dynasty = 1053029
+  culture = bodpa
+  religion = bon
+  840.1.1 = {
+    birth = yes
+  }
+  910.1.1 = {
+    death = yes
+  }
+}
+243013 = {
+  name = "ジュングネイ"  # Jungney
+  dynasty = 1053027
+  culture = bodpa
+  religion = bon
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+243014 = {
+  name = "Lekhshey"
+  dynasty = 1053027
+  culture = bodpa
+  religion = bon
+  father = 243013
+  1084.1.1 = {
+    birth = yes
+  }
+  1154.1.1 = {
+    death = yes
+  }
+}
+243015 = {
+  name = "Namgyal"
+  dynasty = 1053027
+  culture = bodpa
+  religion = bon
+  father = 243014
+  1134.1.1 = {
+    birth = yes
+  }
+  1208.1.1 = {
+    death = yes
+  }
+}
+243016 = {
+  name = "Tsering"
+  dynasty = 1053027
+  culture = bodpa
+  religion = bon
+  father = 243015
+  1192.1.1 = {
+    birth = yes
+  }
+  1262.1.1 = {
     death = yes
   }
 }
@@ -6770,21 +6785,6 @@
     birth = yes
   }
   790.1.1 = {
-    death = yes
-  }
-}
-252020 = {
-  name = "ラギェルマンモジェ"  # Lhagyal Mangmorje
-  female = yes
-  dynasty = 105907
-  religion = "buddhist"
-  culture = "bodpa"
-  father = 247213
-  trait = "vajrayana_buddhist"
-  768.1.1 = {
-    birth = yes
-  }
-  798.1.1 = {
     death = yes
   }
 }

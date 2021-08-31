@@ -275,18 +275,6 @@
     death = "1350.1.1"
   }
 }
-183501 = {
-  name = "ハルガニー"  # Hargani
-  dynasty = 1042631
-  religion = west_african_pagan
-  culture = soninke
-  825.1.1 = {
-    birth = "825.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
 184010 = {
   name = "ドラマネ"  # Dramane
   dynasty = 1030000
@@ -414,6 +402,18 @@
   }
   1040.1.1 = {
     death = "1040.1.1"
+  }
+}
+183501 = {
+  name = "ハルガニー"  # Hargani
+  dynasty = 1042631
+  religion = west_african_pagan
+  culture = soninke
+  825.1.1 = {
+    birth = "825.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
   }
 }
 188752 = {

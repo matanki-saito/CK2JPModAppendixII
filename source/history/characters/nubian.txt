@@ -1,24 +1,4 @@
-﻿20572 = {
-  name = "ゲオルギウス"  # Georgios
-  dynasty = 101777
-  martial = 5
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "miaphysite"
-  culture = "nubian"
-  trait = "arbitrary"
-  trait = "humble"
-  trait = "tough_soldier"
-  father = 31725
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-31710 = {
+﻿31710 = {
   name = "ザカリアス"  # Zakharias
   dynasty = 101777
   religion = "miaphysite"
@@ -316,6 +296,19 @@
     death = "1274.1.1"
   }
 }
+31740 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 31732
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1276.1.1 = {
+    death = "1276.1.1"
+  }
+}
 31733 = {
   name = "Shakanda"
   dynasty = 101777
@@ -407,17 +400,727 @@
     death = "1323.1.1"
   }
 }
-31740 = {
+20572 = {
+  name = "ゲオルギウス"  # Georgios
+  dynasty = 101777
+  martial = 5
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "miaphysite"
+  culture = "nubian"
+  trait = "arbitrary"
+  trait = "humble"
+  trait = "tough_soldier"
+  father = 31725
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+166133 = {
+  name = "Moise"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  875.1.1 = {
+    birth = "875.1.1"
+  }
+  940.1.1 = {
+    death = "940.1.1"
+  }
+}
+166134 = {
+  name = "ゲオルギウス"  # Georgios
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166133
+  920.1.1 = {
+    birth = "920.1.1"
+  }
+  975.1.1 = {
+    death = "975.1.1"
+  }
+}
+166135 = {
+  name = "Zakharias"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166134
+  952.1.1 = {
+    birth = "952.1.1"
+  }
+  1010.1.1 = {
+    death = "1010.1.1"
+  }
+}
+166136 = {
+  name = "ステファノス"  # Stephanos
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166135
+  997.1.1 = {
+    birth = "997.1.1"
+  }
+  1032.1.1 = {
+    death = "1032.1.1"
+  }
+}
+166137 = {
+  name = "バシレイオス"  # Basileios
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166136
+  1023.1.1 = {
+    birth = "1023.1.1"
+  }
+  1063.1.1 = {
+    death = "1063.1.1"
+  }
+}
+166138 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166137
+  1058.1.1 = {
+    birth = "1048.1.1"
+  }
+  1097.1.1 = {
+    death = "1097.1.1"
+  }
+}
+166139 = {
+  name = "Iohannes"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166138
+  1077.1.1 = {
+    birth = "1077.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+166140 = {
+  name = "Israel"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166139
+  1093.1.1 = {
+    birth = "1093.1.1"
+  }
+  1144.1.1 = {
+    death = "1144.1.1"
+  }
+}
+166141 = {
+  name = "Moise"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166140
+  1126.1.1 = {
+    birth = "1126.1.1"
+  }
+  1171.1.1 = {
+    death = "1171.1.1"
+  }
+}
+166142 = {
+  name = "ゲオルギウス"  # Georgios
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166141
+  1157.1.1 = {
+    birth = "1157.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+166143 = {
+  name = "バシレイオス"  # Basileios
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166142
+  1185.1.1 = {
+    birth = "1185.1.1"
+  }
+  1250.1.1 = {
+    death = "1250.1.1"
+  }
+}
+166144 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166143
+  1220.1.1 = {
+    birth = "1220.1.1"
+  }
+  1287.1.1 = {
+    death = "1287.1.1"
+  }
+}
+166145 = {
+  name = "Georgios Shamumun"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166144
+  1245.1.1 = {
+    birth = "1245.1.1"
+  }
+  1327.1.1 = {
+    death = "1327.1.1"
+  }
+}
+166146 = {
+  name = "Saba-Nol"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166145
+  1289.1.1 = {
+    birth = "1289.1.1"
+  }
+  1334.1.1 = {
+    death = "1334.1.1"
+  }
+}
+166147 = {
+  name = "Siti"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166146
+  1309.1.1 = {
+    birth = "1309.1.1"
+  }
+  1397.1.1 = {
+    death = "1397.1.1"
+  }
+}
+166148 = {
+  name = "ナスル"  # Nasr
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166147
+  1335.1.1 = {
+    birth = "1335.1.1"
+  }
+  1410.1.1 = {
+    death = "1410.1.1"
+  }
+}
+166149 = {
+  name = "Eltey"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166148
+  1380.1.1 = {
+    birth = "1380.1.1"
+  }
+  1430.1.1 = {
+    death = "1430.1.1"
+  }
+}
+166150 = {
+  name = "Siti"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166149
+  1404.1.1 = {
+    birth = "1404.1.1"
+  }
+  1460.1.1 = {
+    death = "1460.1.1"
+  }
+}
+166151 = {
+  name = "Quadlaniel"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166150
+  1437.1.1 = {
+    birth = "1437.1.1"
+  }
+  1484.1.1 = {
+    death = "1484.1.1"
+  }
+}
+166152 = {
+  name = "Djoel"
+  dynasty = 1040008
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166151
+  1463.1.1 = {
+    birth = "1463.1.1"
+  }
+  1504.1.1 = {
+    death = "1504.1.1"
+  }
+}
+166153 = {
+  name = "Asabysos"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  562.1.1 = {
+    birth = "562.1.1"
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+166154 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166153
+  606.1.1 = {
+    birth = "606.1.1"
+  }
+  687.1.1 = {
+    death = "687.1.1"
+  }
+}
+166155 = {
+  name = "ガブリエル"  # Gabriel
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166154
+  653.1.1 = {
+    birth = "653.1.1"
+  }
+  720.1.1 = {
+    death = "720.1.1"
+  }
+}
+166156 = {
+  name = "Shamumun"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166155
+  694.1.1 = {
+    birth = "694.1.1"
+  }
+  772.1.1 = {
+    death = "772.1.1"
+  }
+}
+166157 = {
+  name = "Zakharias"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166156
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  803.1.1 = {
+    death = "803.1.1"
+  }
+}
+166158 = {
+  name = "Simeon"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166157
+  776.1.1 = {
+    birth = "776.1.1"
+  }
+  831.1.1 = {
+    death = "831.1.1"
+  }
+}
+166159 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166158
+  815.1.1 = {
+    birth = "815.1.1"
+  }
+  887.1.1 = {
+    death = "887.1.1"
+  }
+}
+166160 = {
+  name = "ラファエル"  # Raphael
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166159
+  870.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = "920.1.1"
+  }
+}
+166161 = {
+  name = "ガブリエル"  # Gabriel
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166160
+  888.1.1 = {
+    birth = yes
+  }
+  943.1.1 = {
+    death = "943.1.1"
+  }
+}
+166162 = {
+  name = "Eusebius Guryuh"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166161
+  904.1.1 = {
+    birth = yes
+  }
+  958.1.1 = {
+    death = "958.1.1"
+  }
+}
+166163 = {
+  name = "Esteve"
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166162
+  920.1.1 = {
+    birth = "920.1.1"
+  }
+  969.1.1 = {
+    death = "969.1.1"
+  }
+}
+166164 = {
+  name = "Tewodroa"
+  female = yes
+  dynasty = 1040009
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166163
+  941.1.1 = {
+    birth = "941.1.1"
+  }
+  960.1.1 = {
+    death = "960.1.1"
+  }
+}
+166165 = {
   name = "ダビデ"  # Dauid
   dynasty = 101777
   religion = "miaphysite"
   culture = "nubian"
-  father = 31732
-  1240.1.1 = {
-    birth = "1240.1.1"
+  father = 31722
+  mother = 166164
+  960.1.1 = {
+    birth = "960.1.1"
   }
-  1276.1.1 = {
-    death = "1276.1.1"
+  1015.1.1 = {
+    death = "1015.1.1"
+  }
+}
+166166 = {
+  name = "Georgois"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166165
+  991.1.1 = {
+    birth = "991.1.1"
+  }
+  1052.1.1 = {
+    death = "1052.1.1"
+  }
+}
+166167 = {
+  name = "Tienossi"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166166
+  1023.1.1 = {
+    birth = "1023.1.1"
+  }
+  1094.1.1 = {
+    death = "1094.1.1"
+  }
+}
+166168 = {
+  name = "Moise"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166167
+  1073.1.1 = {
+    birth = "1073.1.1"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
+  }
+}
+166169 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166168
+  1106.1.1 = {
+    birth = "1106.1.1"
+  }
+  1157.1.1 = {
+    death = "1157.1.1"
+  }
+}
+166170 = {
+  name = "Mikael"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166169
+  1123.1.1 = {
+    birth = "1123.1.1"
+  }
+  1174.1.1 = {
+    death = "1174.1.1"
+  }
+}
+166171 = {
+  name = "Kyriakos"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166170
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+166172 = {
+  name = "Israel"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166171
+  1177.1.1 = {
+    birth = "1177.1.1"
+  }
+  1233.1.1 = {
+    death = "1233.1.1"
+  }
+}
+166173 = {
+  name = "マルコス"  # Markos
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166172
+  1198.1.1 = {
+    birth = "1198.1.1"
+  }
+  1255.1.1 = {
+    death = "1255.1.1"
+  }
+}
+166174 = {
+  name = "Djoel"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166173
+  1221.1.1 = {
+    birth = "1221.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+166175 = {
+  name = "Ador"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166174
+  1244.1.1 = {
+    birth = "1244.1.1"
+  }
+  1304.1.1 = {
+    death = "1304.1.1"
+  }
+}
+166176 = {
+  name = "Guryuh"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166175
+  1274.1.1 = {
+    birth = "1274.1.1"
+  }
+  1338.1.1 = {
+    death = "1338.1.1"
+  }
+}
+166177 = {
+  name = "Georgios"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166176
+  1297.1.1 = {
+    birth = "1297.1.1"
+  }
+  1355.1.1 = {
+    death = "1355.1.1"
+  }
+}
+166178 = {
+  name = "ダビデ"  # Dauid
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166177
+  1322.1.1 = {
+    birth = "1322.1.1"
+  }
+  1388.1.1 = {
+    death = "1388.1.1"
+  }
+}
+166179 = {
+  name = "Ador"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166178
+  1353.1.1 = {
+    birth = "1353.1.1"
+  }
+  1414.1.1 = {
+    death = "1414.1.1"
+  }
+}
+166180 = {
+  name = "Iohannes"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166179
+  1382.1.1 = {
+    birth = "1382.1.1"
+  }
+  1445.1.1 = {
+    death = "1445.1.1"
+  }
+}
+166181 = {
+  name = "Mikael"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166180
+  1406.1.1 = {
+    birth = "1406.1.1"
+  }
+  1467.1.1 = {
+    death = "1467.1.1"
+  }
+}
+166182 = {
+  name = "Basileios"
+  dynasty = 101777
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166181
+  1438.1.1 = {
+    birth = "1438.1.1"
+  }
+  1480.1.1 = {
+    death = "1480.1.1"
+  }
+}
+166183 = {
+  name = "Silko"
+  dynasty = 101778
+  religion = "miaphysite"
+  culture = "nubian"
+  502.1.1 = {
+    birth = "502.1.1"
+  }
+  555.1.1 = {
+    death = "555.1.1"
+  }
+}
+166184 = {
+  name = "Tokiltoeton"
+  dynasty = 101778
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166183
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  578.1.1 = {
+    death = "578.1.1"
+  }
+}
+166185 = {
+  name = "Eirpanome"
+  dynasty = 101778
+  religion = "miaphysite"
+  culture = "nubian"
+  father = 166184
+  537.1.1 = {
+    birth = "537.1.1"
+  }
+  590.1.1 = {
+    death = "590.1.1"
+  }
+}
+145767 = {
+  name = "Christophoros"
+  dynasty = 1022245
+  religion = "miaphysite"
+  culture = "nubian"
+  828.1.1 = {
+    birth = "828.1.1"
+  }
+  853.1.1 = {
+    capital = c_kassala
+  }
+  882.1.1 = {
+    death = "882.1.1"
   }
 }
 145677 = {
@@ -1179,21 +1882,6 @@
     death = "1358.1.1"
   }
 }
-145767 = {
-  name = "Christophoros"
-  dynasty = 1022245
-  religion = "miaphysite"
-  culture = "nubian"
-  828.1.1 = {
-    birth = "828.1.1"
-  }
-  853.1.1 = {
-    capital = c_kassala
-  }
-  882.1.1 = {
-    death = "882.1.1"
-  }
-}
 145959 = {
   name = "クリアコス"  # Kuriakos
   dynasty = 1022349
@@ -1264,694 +1952,6 @@
   }
   801.1.1 = {
     death = "801.1.1"
-  }
-}
-166133 = {
-  name = "Moise"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  875.1.1 = {
-    birth = "875.1.1"
-  }
-  940.1.1 = {
-    death = "940.1.1"
-  }
-}
-166134 = {
-  name = "ゲオルギウス"  # Georgios
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166133
-  920.1.1 = {
-    birth = "920.1.1"
-  }
-  975.1.1 = {
-    death = "975.1.1"
-  }
-}
-166135 = {
-  name = "Zakharias"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166134
-  952.1.1 = {
-    birth = "952.1.1"
-  }
-  1010.1.1 = {
-    death = "1010.1.1"
-  }
-}
-166136 = {
-  name = "ステファノス"  # Stephanos
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166135
-  997.1.1 = {
-    birth = "997.1.1"
-  }
-  1032.1.1 = {
-    death = "1032.1.1"
-  }
-}
-166137 = {
-  name = "バシレイオス"  # Basileios
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166136
-  1023.1.1 = {
-    birth = "1023.1.1"
-  }
-  1063.1.1 = {
-    death = "1063.1.1"
-  }
-}
-166138 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166137
-  1058.1.1 = {
-    birth = "1048.1.1"
-  }
-  1097.1.1 = {
-    death = "1097.1.1"
-  }
-}
-166139 = {
-  name = "Iohannes"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166138
-  1077.1.1 = {
-    birth = "1077.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-166140 = {
-  name = "Israel"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166139
-  1093.1.1 = {
-    birth = "1093.1.1"
-  }
-  1144.1.1 = {
-    death = "1144.1.1"
-  }
-}
-166141 = {
-  name = "Moise"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166140
-  1126.1.1 = {
-    birth = "1126.1.1"
-  }
-  1171.1.1 = {
-    death = "1171.1.1"
-  }
-}
-166142 = {
-  name = "ゲオルギウス"  # Georgios
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166141
-  1157.1.1 = {
-    birth = "1157.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-166143 = {
-  name = "バシレイオス"  # Basileios
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166142
-  1185.1.1 = {
-    birth = "1185.1.1"
-  }
-  1250.1.1 = {
-    death = "1250.1.1"
-  }
-}
-166144 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166143
-  1220.1.1 = {
-    birth = "1220.1.1"
-  }
-  1287.1.1 = {
-    death = "1287.1.1"
-  }
-}
-166145 = {
-  name = "Georgios Shamumun"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166144
-  1245.1.1 = {
-    birth = "1245.1.1"
-  }
-  1327.1.1 = {
-    death = "1327.1.1"
-  }
-}
-166146 = {
-  name = "Saba-Nol"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166145
-  1289.1.1 = {
-    birth = "1289.1.1"
-  }
-  1334.1.1 = {
-    death = "1334.1.1"
-  }
-}
-166147 = {
-  name = "Siti"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166146
-  1309.1.1 = {
-    birth = "1309.1.1"
-  }
-  1397.1.1 = {
-    death = "1397.1.1"
-  }
-}
-166148 = {
-  name = "ナスル"  # Nasr
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166147
-  1335.1.1 = {
-    birth = "1335.1.1"
-  }
-  1410.1.1 = {
-    death = "1410.1.1"
-  }
-}
-166149 = {
-  name = "Eltey"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166148
-  1380.1.1 = {
-    birth = "1380.1.1"
-  }
-  1430.1.1 = {
-    death = "1430.1.1"
-  }
-}
-166150 = {
-  name = "Siti"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166149
-  1404.1.1 = {
-    birth = "1404.1.1"
-  }
-  1460.1.1 = {
-    death = "1460.1.1"
-  }
-}
-166151 = {
-  name = "Quadlaniel"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166150
-  1437.1.1 = {
-    birth = "1437.1.1"
-  }
-  1484.1.1 = {
-    death = "1484.1.1"
-  }
-}
-166152 = {
-  name = "Djoel"
-  dynasty = 1040008
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166151
-  1463.1.1 = {
-    birth = "1463.1.1"
-  }
-  1504.1.1 = {
-    death = "1504.1.1"
-  }
-}
-166153 = {
-  name = "Asabysos"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  562.1.1 = {
-    birth = "562.1.1"
-  }
-  634.1.1 = {
-    death = "634.1.1"
-  }
-}
-166154 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166153
-  606.1.1 = {
-    birth = "606.1.1"
-  }
-  687.1.1 = {
-    death = "687.1.1"
-  }
-}
-166155 = {
-  name = "ガブリエル"  # Gabriel
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166154
-  653.1.1 = {
-    birth = "653.1.1"
-  }
-  720.1.1 = {
-    death = "720.1.1"
-  }
-}
-166156 = {
-  name = "Shamumun"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166155
-  694.1.1 = {
-    birth = "694.1.1"
-  }
-  772.1.1 = {
-    death = "772.1.1"
-  }
-}
-166157 = {
-  name = "Zakharias"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166156
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  803.1.1 = {
-    death = "803.1.1"
-  }
-}
-166158 = {
-  name = "Simeon"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166157
-  776.1.1 = {
-    birth = "776.1.1"
-  }
-  831.1.1 = {
-    death = "831.1.1"
-  }
-}
-166159 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166158
-  815.1.1 = {
-    birth = "815.1.1"
-  }
-  887.1.1 = {
-    death = "887.1.1"
-  }
-}
-166160 = {
-  name = "ラファエル"  # Raphael
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166159
-  870.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = "920.1.1"
-  }
-}
-166161 = {
-  name = "ガブリエル"  # Gabriel
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166160
-  888.1.1 = {
-    birth = yes
-  }
-  943.1.1 = {
-    death = "943.1.1"
-  }
-}
-166162 = {
-  name = "Eusebius Guryuh"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166161
-  904.1.1 = {
-    birth = yes
-  }
-  958.1.1 = {
-    death = "958.1.1"
-  }
-}
-166163 = {
-  name = "Esteve"
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166162
-  920.1.1 = {
-    birth = "920.1.1"
-  }
-  969.1.1 = {
-    death = "969.1.1"
-  }
-}
-166164 = {
-  name = "Tewodroa"
-  female = yes
-  dynasty = 1040009
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166163
-  941.1.1 = {
-    birth = "941.1.1"
-  }
-  960.1.1 = {
-    death = "960.1.1"
-  }
-}
-166165 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 31722
-  mother = 166164
-  960.1.1 = {
-    birth = "960.1.1"
-  }
-  1015.1.1 = {
-    death = "1015.1.1"
-  }
-}
-166166 = {
-  name = "Georgois"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166165
-  991.1.1 = {
-    birth = "991.1.1"
-  }
-  1052.1.1 = {
-    death = "1052.1.1"
-  }
-}
-166167 = {
-  name = "Tienossi"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166166
-  1023.1.1 = {
-    birth = "1023.1.1"
-  }
-  1094.1.1 = {
-    death = "1094.1.1"
-  }
-}
-166168 = {
-  name = "Moise"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166167
-  1073.1.1 = {
-    birth = "1073.1.1"
-  }
-  1125.1.1 = {
-    death = "1125.1.1"
-  }
-}
-166169 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166168
-  1106.1.1 = {
-    birth = "1106.1.1"
-  }
-  1157.1.1 = {
-    death = "1157.1.1"
-  }
-}
-166170 = {
-  name = "Mikael"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166169
-  1123.1.1 = {
-    birth = "1123.1.1"
-  }
-  1174.1.1 = {
-    death = "1174.1.1"
-  }
-}
-166171 = {
-  name = "Kyriakos"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166170
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-166172 = {
-  name = "Israel"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166171
-  1177.1.1 = {
-    birth = "1177.1.1"
-  }
-  1233.1.1 = {
-    death = "1233.1.1"
-  }
-}
-166173 = {
-  name = "マルコス"  # Markos
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166172
-  1198.1.1 = {
-    birth = "1198.1.1"
-  }
-  1255.1.1 = {
-    death = "1255.1.1"
-  }
-}
-166174 = {
-  name = "Djoel"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166173
-  1221.1.1 = {
-    birth = "1221.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-166175 = {
-  name = "Ador"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166174
-  1244.1.1 = {
-    birth = "1244.1.1"
-  }
-  1304.1.1 = {
-    death = "1304.1.1"
-  }
-}
-166176 = {
-  name = "Guryuh"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166175
-  1274.1.1 = {
-    birth = "1274.1.1"
-  }
-  1338.1.1 = {
-    death = "1338.1.1"
-  }
-}
-166177 = {
-  name = "Georgios"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166176
-  1297.1.1 = {
-    birth = "1297.1.1"
-  }
-  1355.1.1 = {
-    death = "1355.1.1"
-  }
-}
-166178 = {
-  name = "ダビデ"  # Dauid
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166177
-  1322.1.1 = {
-    birth = "1322.1.1"
-  }
-  1388.1.1 = {
-    death = "1388.1.1"
-  }
-}
-166179 = {
-  name = "Ador"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166178
-  1353.1.1 = {
-    birth = "1353.1.1"
-  }
-  1414.1.1 = {
-    death = "1414.1.1"
-  }
-}
-166180 = {
-  name = "Iohannes"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166179
-  1382.1.1 = {
-    birth = "1382.1.1"
-  }
-  1445.1.1 = {
-    death = "1445.1.1"
-  }
-}
-166181 = {
-  name = "Mikael"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166180
-  1406.1.1 = {
-    birth = "1406.1.1"
-  }
-  1467.1.1 = {
-    death = "1467.1.1"
-  }
-}
-166182 = {
-  name = "Basileios"
-  dynasty = 101777
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166181
-  1438.1.1 = {
-    birth = "1438.1.1"
-  }
-  1480.1.1 = {
-    death = "1480.1.1"
-  }
-}
-166183 = {
-  name = "Silko"
-  dynasty = 101778
-  religion = "miaphysite"
-  culture = "nubian"
-  502.1.1 = {
-    birth = "502.1.1"
-  }
-  555.1.1 = {
-    death = "555.1.1"
-  }
-}
-166184 = {
-  name = "Tokiltoeton"
-  dynasty = 101778
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166183
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  578.1.1 = {
-    death = "578.1.1"
-  }
-}
-166185 = {
-  name = "Eirpanome"
-  dynasty = 101778
-  religion = "miaphysite"
-  culture = "nubian"
-  father = 166184
-  537.1.1 = {
-    birth = "537.1.1"
-  }
-  590.1.1 = {
-    death = "590.1.1"
   }
 }
 260879 = {

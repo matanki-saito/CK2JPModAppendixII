@@ -4943,6 +4943,19 @@
     death = yes
   }
 }
+457681 = {
+  name = "ゴメス"  # Gomez
+  dynasty = 7012
+  father = 73765
+  religion = catholic
+  culture = visigothic
+  880.1.1 = {
+    birth = yes
+  }
+  932.5.1 = {
+    death = yes
+  }
+}
 217303 = {
   name = "ムニオ"  # Munio
   dynasty = 75
@@ -4965,19 +4978,6 @@
     birth = yes
   }
   938.1.1 = {
-    death = yes
-  }
-}
-457681 = {
-  name = "ゴメス"  # Gomez
-  dynasty = 7012
-  father = 73765
-  religion = catholic
-  culture = visigothic
-  880.1.1 = {
-    birth = yes
-  }
-  932.5.1 = {
     death = yes
   }
 }

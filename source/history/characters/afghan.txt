@@ -1,4 +1,17 @@
-﻿74723 = {
+﻿175060 = {
+  name = "カラル"  # Kallar
+  dynasty = 1043006
+  religion = hindu
+  culture = afghan
+  trait = brahmin
+  841.1.1 = {
+    birth = yes
+  }
+  895.1.1 = {
+    death = yes
+  }
+}
+74723 = {
   name = "ハサン"  # Hasan
   dynasty = 12334
   religion = "sunni"
@@ -39,19 +52,6 @@
     birth = yes
   }
   1362.1.1 = {
-    death = yes
-  }
-}
-175060 = {
-  name = "カラル"  # Kallar
-  dynasty = 1043006
-  religion = hindu
-  culture = afghan
-  trait = brahmin
-  841.1.1 = {
-    birth = yes
-  }
-  895.1.1 = {
     death = yes
   }
 }
@@ -174,22 +174,6 @@
     death = yes
   }
 }
-188628 = {
-  name = "ジモフタ"  # Jimofuta
-  dna = aehzcotudbu
-  properties = hb0ccd000000000000
-  dynasty = 1042110
-  religion = "zun_pagan"
-  culture = "afghan"
-  father = 188703
-  trait = sympathy_indian
-  711.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
 188700 = {
   name = "バルハタキン"  # Barhatakin
   dynasty = 1042110
@@ -238,6 +222,22 @@
     birth = yes
   }
   738.1.1 = {
+    death = yes
+  }
+}
+188628 = {
+  name = "ジモフタ"  # Jimofuta
+  dna = aehzcotudbu
+  properties = hb0ccd000000000000
+  dynasty = 1042110
+  religion = "zun_pagan"
+  culture = "afghan"
+  father = 188703
+  trait = sympathy_indian
+  711.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
     death = yes
   }
 }

@@ -76,6 +76,32 @@
     death = yes
   }
 }
+251188 = {
+  name = "ダーバワ"  # Durbawa
+  dynasty = 1060027
+  religion = "west_african_pagan"
+  culture = "hausa"
+  father = 251186
+  910.1.1 = {
+    birth = yes
+  }
+  976.1.1 = {
+    death = yes
+  }
+}
+251204 = {
+  name = "ビラム"  # Biram
+  dynasty = 1060027
+  religion = "west_african_pagan"
+  culture = "hausa"
+  father = 251188
+  960.1.1 = {
+    birth = yes
+  }
+  1015.1.1 = {
+    death = yes
+  }
+}
 251182 = {
   name = "クマヨ"  # Kumayo
   dynasty = 1060027
@@ -174,19 +200,6 @@
     }
   }
   910.1.1 = {
-    death = yes
-  }
-}
-251188 = {
-  name = "ダーバワ"  # Durbawa
-  dynasty = 1060027
-  religion = "west_african_pagan"
-  culture = "hausa"
-  father = 251186
-  910.1.1 = {
-    birth = yes
-  }
-  976.1.1 = {
     death = yes
   }
 }
@@ -389,19 +402,6 @@
     birth = yes
   }
   863.1.1 = {
-    death = yes
-  }
-}
-251204 = {
-  name = "ビラム"  # Biram
-  dynasty = 1060027
-  religion = "west_african_pagan"
-  culture = "hausa"
-  father = 251188
-  960.1.1 = {
-    birth = yes
-  }
-  1015.1.1 = {
     death = yes
   }
 }

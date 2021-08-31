@@ -1,4 +1,768 @@
-﻿500 = {
+﻿212057 = {
+  name = "コンラート"  # Konrád
+  dynasty = 506
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "diligent"
+  trait = "just"
+  trait = "ambitious"
+  trait = "patient"
+  trait = "charismatic_negotiator"
+  father = 221522
+  mother = 218512
+  1136.1.1 = {
+    birth = "1136.1.1"
+  }
+  1191.9.9 = {
+    death = "1191.9.9"
+  }
+}
+212560 = {
+  name = "ソビェスラフ"  # Sobieslav
+  dynasty = 506
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "kind"
+  trait = "paranoid"
+  trait = "skilled_tactician"
+  father = 212872
+  mother = 219533
+  1128.1.1 = {
+    birth = "1128.1.1"
+  }
+  1173.1.1 = {
+    add_spouse = 221563
+  }
+  1176.1.1 = {
+    trait = "excommunicated"
+  }
+  1178.1.1 = {
+    remove_trait = "excommunicated"
+  }
+  1180.1.29 = {
+    death = "1180.1.29"
+  }
+}
+212850 = {
+  name = "ベドルジフ"  # Bedrich
+  dynasty = 506
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "craven"
+  trait = "envious"
+  trait = "flamboyant_schemer"
+  father = 212851
+  mother = 212852
+  1141.1.1 = {
+    birth = "1141.1.1"
+  }
+  1157.1.1 = {
+    add_spouse = 219512
+  }
+  1189.3.25 = {
+    death = "1189.3.25"
+  }
+}
+212851 = {
+  name = "ウラディスラフ"  # Vladislav
+  dynasty = 506
+  martial = 7
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "brave"
+  trait = "slothful"
+  trait = "skilled_tactician"
+  father = 212861
+  mother = 212862
+  1110.10.2 = {
+    birth = "1110.10.2"
+  }
+  1139.1.1 = {
+    add_spouse = 212852
+  }
+  1154.1.1 = {
+    add_spouse = 212441
+  }
+  1174.1.18 = {
+    death = "1174.1.18"
+  }
+}
+212853 = {
+  name = "ジョフィエ"  # Zofie
+  female = yes
+  dynasty = 506
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "kind"
+  trait = "underhanded_rogue"
+  father = 212850
+  mother = 219512
+  1168.1.1 = {
+    birth = "1168.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+212854 = {
+  name = "ルドミラ"  # Ludmila
+  female = yes
+  dynasty = 506
+  martial = 5
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "charitable"
+  trait = "temperate"
+  trait = "scholarly_theologian"
+  father = 212850
+  mother = 219512
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1240.8.5 = {
+    death = "1240.8.5"
+  }
+}
+212855 = {
+  name = "プシェミスル"  # Premysl
+  dynasty = 506
+  martial = 8
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "proud"
+  trait = "lustful"
+  trait = "quick"
+  trait = "intricate_webweaver"
+  father = 212851
+  mother = 212441
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1178.1.1 = {
+    add_spouse = 212044
+  }
+  1199.1.1 = {
+    add_spouse = 219503
+  }
+  1230.12.15 = {
+    death = "1230.12.15"
+  }
+}
+212856 = {
+  name = "ウラディスラフ"  # Vladislav
+  dynasty = 506
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "just"
+  trait = "humble"
+  trait = "fortune_builder"
+  father = 212851
+  mother = 212441
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1222.8.12 = {
+    death = "1222.8.12"
+  }
+}
+212858 = {
+  name = "ヴォイチェフ"  # Vojtech
+  dynasty = 506
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = catholic
+  culture = bohemian
+  trait = "stutter"
+  trait = "temperate"
+  trait = "martial_cleric"
+  father = 212851
+  mother = 212852
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1200.4.8 = {
+    death = "1200.4.8"
+  }
+}
+212859 = {
+  name = "アネジカ"  # Anezka
+  female = yes
+  dynasty = 506
+  martial = 5
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "ambitious"
+  trait = "scholarly_theologian"
+  father = 212851
+  mother = 212852
+  1148.1.1 = {
+    birth = "1148.1.1"
+  }
+  1228.6.7 = {
+    death = "1228.6.7"
+  }
+}
+212860 = {
+  name = "リヘザ"  # Richeza
+  female = yes
+  dynasty = 506
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "lustful"
+  trait = "deceitful"
+  trait = "scholarly_theologian"
+  father = 212851
+  mother = 212441
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1183.4.19 = {
+    death = "1183.4.19"
+  }
+}
+212861 = {
+  name = "ヴラディスラフ"  # Vladislav
+  dynasty = 506
+  martial = 5
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "trusting"
+  trait = "tough_soldier"
+  father = 522
+  mother = 765
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1110.1.1 = {
+    add_spouse = 212862
+  }
+  1125.4.12 = {
+    death = "1125.4.12"
+  }
+}
+212863 = {
+  name = "ジエポルト"  # Diepold
+  dynasty = 506
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = catholic
+  culture = bohemian
+  trait = "content"
+  trait = "diligent"
+  trait = "skilled_tactician"
+  father = 212861
+  mother = 212862
+  1113.1.1 = {
+    birth = "1113.1.1"
+  }
+  1154.1.1 = {
+    add_spouse = 212033
+  }
+  1167.8.14 = {
+    death = "1167.8.14"
+  }
+}
+212864 = {
+  name = "ジエポルト"  # Diepold
+  dynasty = 506
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = catholic
+  culture = bohemian
+  trait = "chaste"
+  trait = "patient"
+  trait = "skilled_tactician"
+  father = 212863
+  mother = 212033
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1190.11.21 = {
+    death = "1190.11.21"
+  }
+}
+212865 = {
+  name = "ヘドヴィカ"  # Hedvika
+  female = yes
+  dynasty = 506
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = catholic
+  culture = bohemian
+  trait = "proud"
+  trait = "lustful"
+  trait = "scholarly_theologian"
+  father = 212863
+  mother = 212033
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1210.2.19 = {
+    death = "1210.2.19"
+  }
+}
+212866 = {
+  name = "ジエポルト"  # Diepold
+  dynasty = 506
+  martial = 7
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "wroth"
+  trait = "just"
+  trait = "martial_cleric"
+  father = 212864
+  1170.10.2 = {
+    birth = "1170.10.2"
+  }
+  1196.1.1 = {
+    add_spouse = 221540
+  }
+  1223.1.1 = {
+    death = "1223.1.1"
+  }
+}
+212868 = {
+  name = "インドルジフ"  # Jindrich
+  dynasty = 506
+  martial = 7
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 5
+  religion = catholic
+  culture = bohemian
+  trait = "humble"
+  trait = "indulgent_wastrel"
+  father = 212861
+  mother = 212862
+  1116.1.1 = {
+    birth = "1116.1.1"
+  }
+  1169.8.1 = {
+    death = "1169.8.1"
+  }
+}
+212869 = {
+  name = "インドルジフ"  # Jindrich
+  dynasty = 506
+  martial = 6
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "zealous"
+  trait = "diligent"
+  trait = "scholarly_theologian"
+  father = 212868
+  1151.1.1 = {
+    birth = "1151.1.1"
+  }
+  1197.6.15 = {
+    death = "1197.6.15"
+  }
+}
+212870 = {
+  name = "エリシュカ"  # Eliska
+  female = yes
+  dynasty = 506
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = catholic
+  culture = bohemian
+  trait = "kind"
+  trait = "deceitful"
+  trait = "scholarly_theologian"
+  father = 212868
+  1161.1.1 = {
+    birth = "1161.1.1"
+  }
+  1211.1.1 = {
+    death = "1211.1.1"
+  }
+}
+212871 = {
+  name = "マルケータ"  # Markéta
+  female = yes
+  dynasty = 506
+  martial = 4
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "harelip"
+  trait = "proud"
+  trait = "naive_appeaser"
+  father = 212868
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1215.1.1 = {
+    death = "1215.1.1"
+  }
+}
+212872 = {
+  name = "ソビェスラフ"  # Sobieslav
+  dynasty = 506
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = catholic
+  culture = bohemian
+  trait = "brave"
+  trait = "patient"
+  trait = "brilliant_strategist"
+  father = 522
+  mother = 765
+  1075.1.1 = {
+    birth = "1075.1.1"
+  }
+  1123.1.1 = {
+    add_spouse = 219533
+  }
+  1140.2.14 = {
+    death = "1140.2.14"
+  }
+}
+212873 = {
+  name = "オルドルジフ"  # Oldrich
+  dynasty = 506
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "just"
+  trait = "amateurish_plotter"
+  father = 212872
+  mother = 219533
+  1134.1.1 = {
+    birth = "1134.1.1"
+  }
+  1170.1.1 = {
+    add_spouse = 212043
+  }
+  1177.1.1 = {
+    death = "1177.1.1"
+  }
+}
+212875 = {
+  name = "ヴァーツラフ"  # Václav
+  dynasty = 506
+  martial = 3
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "amateurish_plotter"
+  father = 212872
+  mother = 219533
+  1137.1.1 = {
+    birth = "1137.1.1"
+  }
+  1192.1.9 = {
+    death = "1192.1.9"
+  }
+}
+212881 = {
+  name = "ユジタ"  # Judita
+  female = yes
+  dynasty = 506
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 4
+  religion = catholic
+  culture = bohemian
+  trait = "charitable"
+  trait = "humble"
+  trait = "patient"
+  trait = "detached_priest"
+  father = 522
+  mother = 477
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1086.8.26 = {
+    death = "1086.8.26"
+  }
+}
+212889 = {
+  name = "リトルト"  # Litold
+  dynasty = 506
+  martial = 5
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "tough_soldier"
+  father = 526
+  mother = 531
+  1086.1.1 = {
+    birth = "1086.1.1"
+  }
+  1107.1.1 = {
+    add_spouse = 212890
+  }
+  1112.3.15 = {
+    death = "1112.3.15"
+  }
+}
+212892 = {
+  name = "オタ"  # Ota
+  dynasty = 506
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "fair"
+  trait = "skilled_tactician"
+  give_nickname = nick_the_handsome
+  father = 518
+  mother = 1437
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1066.1.1 = {
+    add_spouse = 473
+  }
+  1087.6.9 = {
+    death = "1087.6.9"
+  }
+}
+212893 = {
+  name = "オタ"  # Ota
+  dynasty = 506
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "tough_soldier"
+  father = 96009
+  mother = 96073
+  1122.1.1 = {
+    birth = "1122.1.1"
+  }
+  1160.5.12 = {
+    death = "1160.5.12"
+  }
+}
+212894 = {
+  name = "ヴラジミール"  # Vladimír
+  dynasty = 506
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "wroth"
+  trait = "diligent"
+  trait = "tough_soldier"
+  father = 212893
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+212895 = {
+  name = "ブルジェチスラフ"  # Bretislav
+  dynasty = 506
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "chaste"
+  trait = "patient"
+  trait = "diligent"
+  trait = "scholarly_theologian"
+  father = 212893
+  1148.1.1 = {
+    birth = "1148.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+221521 = {
+  name = "ヘレナ"  # Helena
+  female = yes
+  dynasty = 506
+  martial = 8
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 6
+  religion = catholic
+  culture = bohemian
+  trait = "lustful"
+  trait = "quick"
+  trait = "charismatic_negotiator"
+  father = 221522
+  mother = 218512
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+221522 = {
+  name = "コンラート"  # Konrád
+  dynasty = 506
+  martial = 4
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "ambitious"
+  trait = "thrifty_clerk"
+  father = 212889
+  mother = 212890
+  1111.1.1 = {
+    birth = "1111.1.1"
+  }
+  1132.1.1 = {
+    add_spouse = 218512
+  }
+  1162.1.2 = {
+    death = "1162.1.2"
+  }
+}
+232526 = {
+  name = "ヘレナ"  # Helena
+  female = yes
+  dynasty = 506
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "patient"
+  trait = "flamboyant_schemer"
+  father = 212850
+  mother = 219512
+  1158.1.1 = {
+    birth = "1158.1.1"
+  }
+  1164.1.1 = {
+    name = "エイレーネー"  # Eirene
+  }
+  1221.1.1 = {
+    death = "1221.1.1"
+  }
+}
+462855 = {
+  name = "エリシュカ"  # Eliska
+  female = yes
+  dynasty = 506
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = catholic
+  culture = bohemian
+  trait = "just"
+  trait = "stressed"
+  trait = "proud"
+  trait = "fair"
+  trait = "martial_cleric"
+  father = 96002
+  mother = 7526
+  1292.1.20 = {
+    birth = "1292.1.20"
+  }
+  1330.9.28 = {
+    death = "1330.9.28"
+  }
+}
+470161 = {
+  name = "ズデスラフ"  # Zdeslav
+  dynasty = 12474
+  martial = 7
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = catholic
+  culture = bohemian
+  trait = "chaste"
+  trait = "tough_soldier"
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1298.1.1 = {
+    add_spouse = 470162
+  }
+  1309.1.10 = {
+    death = "1309.1.10"
+  }
+}
+500 = {
   name = "ボルジヴォイ"  # Borivoj
   dynasty = 506
   martial = 7
@@ -1620,6 +2384,41 @@
     death = "1351.9.27"
   }
 }
+222623 = {
+  name = "ヴラジスラヴァ"  # Vladislava
+  female = yes
+  dynasty = 506
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = catholic
+  culture = bohemian
+  trait = "martial_cleric"
+  father = 212851
+  mother = 212852
+  1141.1.1 = {
+    birth = "1141.1.1"
+  }
+  1182.1.1 = {
+    death = "1182.1.1"
+  }
+}
+471525 = {
+  name = "エウフェミア"  # Eufemia
+  female = yes
+  dynasty = 10110
+  religion = catholic
+  culture = bohemian
+  father = 96053
+  mother = 125972
+  1319.1.2 = {
+    birth = "1319.1.2"
+  }
+  1352.1.2 = {
+    death = "1352.1.2"
+  }
+}
 96070 = {
   name = "ラジム・ガウデンチウス"  # Radim-Gaudentius
   dynasty = 9588
@@ -1647,6 +2446,18 @@
   }
   1295.1.1 = {
     death = "1295.1.1"
+  }
+}
+221551 = {
+  name = "ルドミラ"  # Ludmila
+  female = yes
+  religion = catholic
+  culture = bohemian
+  1150.1.2 = {
+    birth = "1150.1.2"
+  }
+  1211.1.2 = {
+    death = "1211.1.2"
   }
 }
 168344 = {
@@ -1930,757 +2741,6 @@
     death = yes
   }
 }
-212057 = {
-  name = "コンラート"  # Konrád
-  dynasty = 506
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "diligent"
-  trait = "just"
-  trait = "ambitious"
-  trait = "patient"
-  trait = "charismatic_negotiator"
-  father = 221522
-  mother = 218512
-  1136.1.1 = {
-    birth = "1136.1.1"
-  }
-  1191.9.9 = {
-    death = "1191.9.9"
-  }
-}
-212560 = {
-  name = "ソビェスラフ"  # Sobieslav
-  dynasty = 506
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "kind"
-  trait = "paranoid"
-  trait = "skilled_tactician"
-  father = 212872
-  mother = 219533
-  1128.1.1 = {
-    birth = "1128.1.1"
-  }
-  1173.1.1 = {
-    add_spouse = 221563
-  }
-  1176.1.1 = {
-    trait = "excommunicated"
-  }
-  1178.1.1 = {
-    remove_trait = "excommunicated"
-  }
-  1180.1.29 = {
-    death = "1180.1.29"
-  }
-}
-212850 = {
-  name = "ベドルジフ"  # Bedrich
-  dynasty = 506
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "craven"
-  trait = "envious"
-  trait = "flamboyant_schemer"
-  father = 212851
-  mother = 212852
-  1141.1.1 = {
-    birth = "1141.1.1"
-  }
-  1157.1.1 = {
-    add_spouse = 219512
-  }
-  1189.3.25 = {
-    death = "1189.3.25"
-  }
-}
-212851 = {
-  name = "ウラディスラフ"  # Vladislav
-  dynasty = 506
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "brave"
-  trait = "slothful"
-  trait = "skilled_tactician"
-  father = 212861
-  mother = 212862
-  1110.10.2 = {
-    birth = "1110.10.2"
-  }
-  1139.1.1 = {
-    add_spouse = 212852
-  }
-  1154.1.1 = {
-    add_spouse = 212441
-  }
-  1174.1.18 = {
-    death = "1174.1.18"
-  }
-}
-212853 = {
-  name = "ジョフィエ"  # Zofie
-  female = yes
-  dynasty = 506
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "kind"
-  trait = "underhanded_rogue"
-  father = 212850
-  mother = 219512
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-212854 = {
-  name = "ルドミラ"  # Ludmila
-  female = yes
-  dynasty = 506
-  martial = 5
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "charitable"
-  trait = "temperate"
-  trait = "scholarly_theologian"
-  father = 212850
-  mother = 219512
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1240.8.5 = {
-    death = "1240.8.5"
-  }
-}
-212855 = {
-  name = "プシェミスル"  # Premysl
-  dynasty = 506
-  martial = 8
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "proud"
-  trait = "lustful"
-  trait = "quick"
-  trait = "intricate_webweaver"
-  father = 212851
-  mother = 212441
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1178.1.1 = {
-    add_spouse = 212044
-  }
-  1199.1.1 = {
-    add_spouse = 219503
-  }
-  1230.12.15 = {
-    death = "1230.12.15"
-  }
-}
-212856 = {
-  name = "ウラディスラフ"  # Vladislav
-  dynasty = 506
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "just"
-  trait = "humble"
-  trait = "fortune_builder"
-  father = 212851
-  mother = 212441
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1222.8.12 = {
-    death = "1222.8.12"
-  }
-}
-212858 = {
-  name = "ヴォイチェフ"  # Vojtech
-  dynasty = 506
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 4
-  religion = catholic
-  culture = bohemian
-  trait = "stutter"
-  trait = "temperate"
-  trait = "martial_cleric"
-  father = 212851
-  mother = 212852
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1200.4.8 = {
-    death = "1200.4.8"
-  }
-}
-212859 = {
-  name = "アネジカ"  # Anezka
-  female = yes
-  dynasty = 506
-  martial = 5
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "ambitious"
-  trait = "scholarly_theologian"
-  father = 212851
-  mother = 212852
-  1148.1.1 = {
-    birth = "1148.1.1"
-  }
-  1228.6.7 = {
-    death = "1228.6.7"
-  }
-}
-212860 = {
-  name = "リヘザ"  # Richeza
-  female = yes
-  dynasty = 506
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "lustful"
-  trait = "deceitful"
-  trait = "scholarly_theologian"
-  father = 212851
-  mother = 212441
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1183.4.19 = {
-    death = "1183.4.19"
-  }
-}
-212861 = {
-  name = "ヴラディスラフ"  # Vladislav
-  dynasty = 506
-  martial = 5
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "trusting"
-  trait = "tough_soldier"
-  father = 522
-  mother = 765
-  1065.1.1 = {
-    birth = "1065.1.1"
-  }
-  1110.1.1 = {
-    add_spouse = 212862
-  }
-  1125.4.12 = {
-    death = "1125.4.12"
-  }
-}
-212863 = {
-  name = "ジエポルト"  # Diepold
-  dynasty = 506
-  martial = 6
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = catholic
-  culture = bohemian
-  trait = "content"
-  trait = "diligent"
-  trait = "skilled_tactician"
-  father = 212861
-  mother = 212862
-  1113.1.1 = {
-    birth = "1113.1.1"
-  }
-  1154.1.1 = {
-    add_spouse = 212033
-  }
-  1167.8.14 = {
-    death = "1167.8.14"
-  }
-}
-212864 = {
-  name = "ジエポルト"  # Diepold
-  dynasty = 506
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = catholic
-  culture = bohemian
-  trait = "chaste"
-  trait = "patient"
-  trait = "skilled_tactician"
-  father = 212863
-  mother = 212033
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1190.11.21 = {
-    death = "1190.11.21"
-  }
-}
-212865 = {
-  name = "ヘドヴィカ"  # Hedvika
-  female = yes
-  dynasty = 506
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = catholic
-  culture = bohemian
-  trait = "proud"
-  trait = "lustful"
-  trait = "scholarly_theologian"
-  father = 212863
-  mother = 212033
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1210.2.19 = {
-    death = "1210.2.19"
-  }
-}
-212866 = {
-  name = "ジエポルト"  # Diepold
-  dynasty = 506
-  martial = 7
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "wroth"
-  trait = "just"
-  trait = "martial_cleric"
-  father = 212864
-  1170.10.2 = {
-    birth = "1170.10.2"
-  }
-  1196.1.1 = {
-    add_spouse = 221540
-  }
-  1223.1.1 = {
-    death = "1223.1.1"
-  }
-}
-212868 = {
-  name = "インドルジフ"  # Jindrich
-  dynasty = 506
-  martial = 7
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 5
-  religion = catholic
-  culture = bohemian
-  trait = "humble"
-  trait = "indulgent_wastrel"
-  father = 212861
-  mother = 212862
-  1116.1.1 = {
-    birth = "1116.1.1"
-  }
-  1169.8.1 = {
-    death = "1169.8.1"
-  }
-}
-212869 = {
-  name = "インドルジフ"  # Jindrich
-  dynasty = 506
-  martial = 6
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "zealous"
-  trait = "diligent"
-  trait = "scholarly_theologian"
-  father = 212868
-  1151.1.1 = {
-    birth = "1151.1.1"
-  }
-  1197.6.15 = {
-    death = "1197.6.15"
-  }
-}
-212870 = {
-  name = "エリシュカ"  # Eliska
-  female = yes
-  dynasty = 506
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = catholic
-  culture = bohemian
-  trait = "kind"
-  trait = "deceitful"
-  trait = "scholarly_theologian"
-  father = 212868
-  1161.1.1 = {
-    birth = "1161.1.1"
-  }
-  1211.1.1 = {
-    death = "1211.1.1"
-  }
-}
-212871 = {
-  name = "マルケータ"  # Markéta
-  female = yes
-  dynasty = 506
-  martial = 4
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "harelip"
-  trait = "proud"
-  trait = "naive_appeaser"
-  father = 212868
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1215.1.1 = {
-    death = "1215.1.1"
-  }
-}
-212872 = {
-  name = "ソビェスラフ"  # Sobieslav
-  dynasty = 506
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = catholic
-  culture = bohemian
-  trait = "brave"
-  trait = "patient"
-  trait = "brilliant_strategist"
-  father = 522
-  mother = 765
-  1075.1.1 = {
-    birth = "1075.1.1"
-  }
-  1123.1.1 = {
-    add_spouse = 219533
-  }
-  1140.2.14 = {
-    death = "1140.2.14"
-  }
-}
-212873 = {
-  name = "オルドルジフ"  # Oldrich
-  dynasty = 506
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "just"
-  trait = "amateurish_plotter"
-  father = 212872
-  mother = 219533
-  1134.1.1 = {
-    birth = "1134.1.1"
-  }
-  1170.1.1 = {
-    add_spouse = 212043
-  }
-  1177.1.1 = {
-    death = "1177.1.1"
-  }
-}
-212875 = {
-  name = "ヴァーツラフ"  # Václav
-  dynasty = 506
-  martial = 3
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "amateurish_plotter"
-  father = 212872
-  mother = 219533
-  1137.1.1 = {
-    birth = "1137.1.1"
-  }
-  1192.1.9 = {
-    death = "1192.1.9"
-  }
-}
-212881 = {
-  name = "ユジタ"  # Judita
-  female = yes
-  dynasty = 506
-  martial = 4
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 4
-  religion = catholic
-  culture = bohemian
-  trait = "charitable"
-  trait = "humble"
-  trait = "patient"
-  trait = "detached_priest"
-  father = 522
-  mother = 477
-  1056.1.1 = {
-    birth = "1056.1.1"
-  }
-  1086.8.26 = {
-    death = "1086.8.26"
-  }
-}
-212889 = {
-  name = "リトルト"  # Litold
-  dynasty = 506
-  martial = 5
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "tough_soldier"
-  father = 526
-  mother = 531
-  1086.1.1 = {
-    birth = "1086.1.1"
-  }
-  1107.1.1 = {
-    add_spouse = 212890
-  }
-  1112.3.15 = {
-    death = "1112.3.15"
-  }
-}
-212892 = {
-  name = "オタ"  # Ota
-  dynasty = 506
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "fair"
-  trait = "skilled_tactician"
-  give_nickname = nick_the_handsome
-  father = 518
-  mother = 1437
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1066.1.1 = {
-    add_spouse = 473
-  }
-  1087.6.9 = {
-    death = "1087.6.9"
-  }
-}
-212893 = {
-  name = "オタ"  # Ota
-  dynasty = 506
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "tough_soldier"
-  father = 96009
-  mother = 96073
-  1122.1.1 = {
-    birth = "1122.1.1"
-  }
-  1160.5.12 = {
-    death = "1160.5.12"
-  }
-}
-212894 = {
-  name = "ヴラジミール"  # Vladimír
-  dynasty = 506
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "wroth"
-  trait = "diligent"
-  trait = "tough_soldier"
-  father = 212893
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-212895 = {
-  name = "ブルジェチスラフ"  # Bretislav
-  dynasty = 506
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "chaste"
-  trait = "patient"
-  trait = "diligent"
-  trait = "scholarly_theologian"
-  father = 212893
-  1148.1.1 = {
-    birth = "1148.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-221521 = {
-  name = "ヘレナ"  # Helena
-  female = yes
-  dynasty = 506
-  martial = 8
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 6
-  religion = catholic
-  culture = bohemian
-  trait = "lustful"
-  trait = "quick"
-  trait = "charismatic_negotiator"
-  father = 221522
-  mother = 218512
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-221522 = {
-  name = "コンラート"  # Konrád
-  dynasty = 506
-  martial = 4
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "ambitious"
-  trait = "thrifty_clerk"
-  father = 212889
-  mother = 212890
-  1111.1.1 = {
-    birth = "1111.1.1"
-  }
-  1132.1.1 = {
-    add_spouse = 218512
-  }
-  1162.1.2 = {
-    death = "1162.1.2"
-  }
-}
-221551 = {
-  name = "ルドミラ"  # Ludmila
-  female = yes
-  religion = catholic
-  culture = bohemian
-  1150.1.2 = {
-    birth = "1150.1.2"
-  }
-  1211.1.2 = {
-    death = "1211.1.2"
-  }
-}
-222623 = {
-  name = "ヴラジスラヴァ"  # Vladislava
-  female = yes
-  dynasty = 506
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = catholic
-  culture = bohemian
-  trait = "martial_cleric"
-  father = 212851
-  mother = 212852
-  1141.1.1 = {
-    birth = "1141.1.1"
-  }
-  1182.1.1 = {
-    death = "1182.1.1"
-  }
-}
-232526 = {
-  name = "ヘレナ"  # Helena
-  female = yes
-  dynasty = 506
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "patient"
-  trait = "flamboyant_schemer"
-  father = 212850
-  mother = 219512
-  1158.1.1 = {
-    birth = "1158.1.1"
-  }
-  1164.1.1 = {
-    name = "エイレーネー"  # Eirene
-  }
-  1221.1.1 = {
-    death = "1221.1.1"
-  }
-}
 261350 = {
   name = "Hynek"
   dynasty = 1062276
@@ -2939,6 +2999,19 @@
     birth = yes
   }
   780.1.1 = {
+    death = yes
+  }
+}
+273052 = {
+  name = "カストネフ"  # Castohnev
+  dynasty = 1069074
+  religion = slavic_pagan
+  culture = bohemian
+  father = 273024
+  753.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
     death = yes
   }
 }
@@ -3319,19 +3392,6 @@
     death = yes
   }
 }
-273052 = {
-  name = "カストネフ"  # Castohnev
-  dynasty = 1069074
-  religion = slavic_pagan
-  culture = bohemian
-  father = 273024
-  753.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
 273053 = {
   name = "Spytimir"
   dynasty = 9588
@@ -3436,65 +3496,5 @@
   }
   903.1.1 = {
     death = yes
-  }
-}
-462855 = {
-  name = "エリシュカ"  # Eliska
-  female = yes
-  dynasty = 506
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = catholic
-  culture = bohemian
-  trait = "just"
-  trait = "stressed"
-  trait = "proud"
-  trait = "fair"
-  trait = "martial_cleric"
-  father = 96002
-  mother = 7526
-  1292.1.20 = {
-    birth = "1292.1.20"
-  }
-  1330.9.28 = {
-    death = "1330.9.28"
-  }
-}
-470161 = {
-  name = "ズデスラフ"  # Zdeslav
-  dynasty = 12474
-  martial = 7
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = catholic
-  culture = bohemian
-  trait = "chaste"
-  trait = "tough_soldier"
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1298.1.1 = {
-    add_spouse = 470162
-  }
-  1309.1.10 = {
-    death = "1309.1.10"
-  }
-}
-471525 = {
-  name = "エウフェミア"  # Eufemia
-  female = yes
-  dynasty = 10110
-  religion = catholic
-  culture = bohemian
-  father = 96053
-  mother = 125972
-  1319.1.2 = {
-    birth = "1319.1.2"
-  }
-  1352.1.2 = {
-    death = "1352.1.2"
   }
 }

@@ -1,183 +1,753 @@
-﻿6358 = {
-  name = "ブレイドゥン"  # Bleddyn
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 40503
-  mother = 40501
-  trait = "kind"
-  trait = "lustful"
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1041.1.1 = {
-    add_spouse = 81849
-  }
-  1043.1.1 = {
-    remove_spouse = 81849
-  }
-  1044.1.1 = {
-    add_spouse = 40507
-  }
-  1050.1.1 = {
-    remove_spouse = 40507
-  }
-  1052.1.1 = {
-    add_spouse = 81856
-  }
-  1075.1.1 = {
-    death = "1075.1.1"
-  }
-}
-6360 = {
-  name = "マレードゥズ"  # Maredudd
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 6358
-  mother = 40507
-  trait = "skilled_tactician"
-  1047.1.1 = {
-    birth = "1047.1.1"
-  }
-  1111.1.1 = {
-    employer = 138452
-  }
-  1132.2.9 = {
-    death = "1132.2.9"
-  }
-}
-6362 = {
-  name = "カドゥーガン"  # Cadwgan
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 40513
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1074.1.1 = {
-    death = "1074.1.1"
-  }
-}
-6368 = {
-  name = "トラヘアーウィルン・ドィヴナシュト"  # Traheaern Dyfnallt
-  dynasty = 20158
-  martial = 8
-  diplomacy = 5
+﻿131700 = {
+  name = "ブレイズド"  # Bleiddud
+  dynasty = 20172
+  martial = 3
+  diplomacy = 4
   intrigue = 5
   stewardship = 4
   religion = "catholic"
   culture = "welsh"
-  trait = "slothful"
-  trait = "greedy"
-  trait = "patient"
-  trait = "charismatic_negotiator"
-  father = 8189
-  1036.1.2 = {
-    birth = "1036.1.2"
+  trait = "mastermind_theologian"
+  trait = "just"
+  1020.1.2 = {
+    birth = "1020.1.2"
   }
-  1086.1.2 = {
-    death = "1086.1.2"
+  1070.1.2 = {
+    death = "1070.1.2"
   }
 }
-6376 = {
-  name = "イエストィン"  # Iestyn
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 40515
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1061.1.1 = {
-    add_spouse = 40516
-  }
-  1093.1.1 = {
-    death = "1093.1.1"
-  }
-}
-6378 = {
-  name = "カドゥーガン"  # Cadwgan
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 6358
-  mother = 81849
-  trait = "skilled_tactician"
-  trait = "lustful"
-  1041.1.1 = {
-    birth = "1041.1.1"
-  }
-  1098.1.1 = {
-    add_spouse = 81853
-  }
-  1111.1.1 = {
-    death = "1111.1.1"
-  }
-}
-6382 = {
-  name = "ルィス"  # Rhys
-  dynasty = 547
-  martial = 7
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "welsh"
-  father = 40513
-  trait = "diligent"
-  trait = "zealous"
-  trait = "martial_cleric"
-  1053.1.2 = {
-    birth = "1053.1.2"
-  }
-  1103.1.2 = {
-    death = "1103.1.2"
-  }
-}
-6384 = {
-  name = "ルィス"  # Rhys
-  dynasty = 101724
-  martial = 8
-  diplomacy = 6
+131701 = {
+  name = "エルィースタン"  # Elystan
+  dynasty = 200067
+  martial = 9
+  diplomacy = 2
   intrigue = 7
-  stewardship = 8
+  stewardship = 4
   religion = "catholic"
   culture = "welsh"
   trait = "tough_soldier"
-  997.1.1 = {
-    birth = "997.1.1"
+  father = 184125
+  950.1.1 = {
+    birth = "950.1.1"
   }
-  1047.1.2 = {
-    death = "1047.1.2"
+  1010.1.1 = {
+    death = "1010.1.1"
   }
 }
-8187 = {
-  name = "イードネルス"  # Idnerth
+131702 = {
+  name = "マードグ"  # Madog
   dynasty = 200067
-  father = 184126
   religion = "catholic"
   culture = "welsh"
-  1017.1.1 = {
-    birth = "1017.1.1"
+  trait = "tough_soldier"
+  father = 8187
+  1050.1.1 = {
+    birth = "1050.1.1"
   }
-  1056.2.1 = {
-    death = "1056.2.1"
+  1140.1.1 = {
+    death = "1140.1.1"
   }
 }
-8189 = {
-  name = "エデールヴィズ"  # Ederfydd
-  dynasty = 14278
+131703 = {
+  name = "カドゥアルション"  # Cadwallon
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 131702
+  1118.1.1 = {
+    birth = "1118.1.1"
+  }
+  1171.1.1 = {
+    add_spouse = 138445
+  }
+  1179.1.1 = {
+    death = "1179.1.1"
+  }
+}
+131704 = {
+  name = "ブレーズィン"  # Bleddyn
+  dynasty = 1042817
+  martial = 4
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "welsh"
+  father = 159312
+  mother = 159374
+  trait = "cynical"
+  trait = "underhanded_rogue"
+  1040.1.2 = {
+    birth = "1040.1.2"
+  }
+  1090.1.2 = {
+    death = "1090.1.2"
+  }
+}
+204051 = {
+  name = "アンハラッド"  # Angharad
+  female = yes
+  dynasty = 101905
+  religion = "catholic"
+  culture = "welsh"
+  father = 204056
+  mother = 204057
+  1126.1.1 = {
+    birth = "1126.1.1"
+  }
+  1176.1.1 = {
+    death = "1176.1.1"
+  }
+}
+204057 = {
+  name = "ネスト"  # Nest
+  female = yes
+  dynasty = 101919
   religion = "catholic"
   culture = "welsh"
   trait = "bastard"
-  father = 81820
-  985.1.1 = {
-    birth = "985.1.1"
+  father = 81816
+  1085.1.1 = {
+    birth = "1085.1.1"
   }
-  1038.1.1 = {
-    death = "1038.1.1"
+  1136.1.1 = {
+    death = "1136.1.1"
+  }
+}
+205830 = {
+  name = "アンドレフ"  # Andrev
+  dynasty = 310
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "welsh"
+  trait = "tough_soldier"
+  father = 205831
+  mother = 205840
+  1150.1.2 = {
+    birth = "1150.1.2"
+  }
+  1183.1.2 = {
+    add_spouse = 205785
+  }
+  1200.1.2 = {
+    death = "1200.1.2"
+  }
+}
+205831 = {
+  name = "ローナン"  # Ronan
+  dynasty = 310
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "welsh"
+  trait = "scholarly_theologian"
+  1118.1.2 = {
+    birth = "1118.1.2"
+  }
+  1148.1.2 = {
+    add_spouse = 205840
+  }
+  1173.1.31 = {
+    death = "1173.1.31"
+  }
+}
+214700 = {
+  name = "ダーヴィズ"  # Dafydd
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  trait = "kinslayer"
+  father = 214710
+  mother = 214808
+  1137.1.1 = {
+    birth = "1137.1.1"
+  }
+  1173.1.1 = {
+    add_spouse = 204499
+  }
+  1203.1.1 = {
+    death = "1203.1.1"
+  }
+}
+214701 = {
+  name = "オウアイン"  # Owain
+  dynasty = 101920
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "welsh"
+  trait = "deceitful"
+  trait = "humble"
+  trait = "tough_soldier"
+  father = 214700
+  mother = 204499
+  1174.1.2 = {
+    birth = "1174.1.2"
+  }
+  1224.1.2 = {
+    death = "1224.1.2"
+  }
+}
+214702 = {
+  name = "グエンフイヴァル"  # Gwenhwyfar
+  female = yes
+  dynasty = 101920
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "welsh"
+  trait = "craven"
+  trait = "thrifty_clerk"
+  father = 214700
+  mother = 204499
+  1175.1.2 = {
+    birth = "1175.1.2"
+  }
+  1225.1.2 = {
+    death = "1225.1.2"
+  }
+}
+214703 = {
+  name = "グエンシアン"  # Gwenllian
+  female = yes
+  dynasty = 101920
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "welsh"
+  trait = "chaste"
+  trait = "arbitrary"
+  trait = "thrifty_clerk"
+  father = 214700
+  mother = 204499
+  1176.1.2 = {
+    birth = "1176.1.2"
+  }
+  1226.1.2 = {
+    death = "1226.1.2"
+  }
+}
+214704 = {
+  name = "エイニオン"  # Einion
+  dynasty = 101920
+  martial = 6
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "welsh"
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 214700
+  mother = 204499
+  1177.1.2 = {
+    birth = "1177.1.2"
+  }
+  1227.1.2 = {
+    death = "1227.1.2"
+  }
+}
+214710 = {
+  name = "オウアイン"  # Owain
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81031
+  mother = 214814
+  trait = "lustful"
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1130.1.1 = {
+    add_spouse = 214711
+  }
+  1135.1.1 = {
+    remove_spouse = 214711
+  }
+  1136.1.1 = {
+    add_spouse = 214808
+  }
+  1169.11.1 = {
+    death = "1169.11.1"
+  }
+}
+214711 = {
+  name = "グラドゥス"  # Gwladus
+  dynasty = 101920
+  female = yes
+  religion = "catholic"
+  culture = "welsh"
+  father = 138478
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1161.1.1 = {
+    death = "1161.1.1"
+  }
+}
+214712 = {
+  name = "イオルウエルス・ドルインドゥイン"  # Iorwerth Drwyndwyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 214710
+  mother = 214711
+  trait = "ugly"
+  1132.1.1 = {
+    birth = "1132.1.1"
+  }
+  1167.1.1 = {
+    add_spouse = 214717
+  }
+  1174.1.1 = {
+    death = "1174.1.1"
+  }
+}
+214714 = {
+  name = "シウエルィン"  # Llywelyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  trait = "charismatic_negotiator"
+  trait = "brave"
+  trait = "diligent"
+  trait = "just"
+  trait = "patient"
+  disallow_random_traits = yes
+  father = 214712
+  mother = 214717
+  give_nickname = nick_the_great
+  1173.1.1 = {
+    birth = "1173.1.1"
+  }
+  1205.4.16 = {
+    add_spouse = 138451
+  }
+  1237.1.1 = {
+    trait = "incapable"
+  }
+  1240.4.11 = {
+    death = "1240.4.11"
+  }
+}
+214715 = {
+  name = "ルン"  # Rhun
+  dynasty = 101920
+  martial = 9
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "welsh"
+  trait = "brave"
+  trait = "diligent"
+  trait = "just"
+  trait = "patient"
+  father = 214710
+  mother = 214713
+  1130.1.2 = {
+    birth = "1130.1.2"
+  }
+  1146.1.8 = {
+    death = "1146.1.8"
+  }
+}
+214716 = {
+  name = "フィウエル"  # Hywel
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 214710
+  mother = 214713
+  trait = "bastard"
+  1131.1.1 = {
+    birth = "1131.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+214717 = {
+  name = "マラーレド"  # Marared
+  female = yes
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 214718
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1207.1.1 = {
+    death = "1207.1.1"
+  }
+}
+214718 = {
+  name = "マードグ"  # Madog
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 6360
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1126.1.1 = {
+    add_spouse = 138449
+  }
+  1159.1.1 = {
+    death = "1159.1.1"
+  }
+}
+214720 = {
+  name = "オウアイン・クィフェイリオグ"  # Owain Cyfeiliog
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 214722
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1156.1.1 = {
+    add_spouse = 214721
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+214721 = {
+  name = "グエンシアン"  # Gwenllian
+  female = yes
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 214710
+  trait = "bastard"
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+214722 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 6360
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+214724 = {
+  name = "マードグ"  # Madog
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 81854
+  mother = 252368
+  1175.1.1 = {
+    birth = yes
+  }
+  1236.1.1 = {
+    death = yes
+  }
+}
+214800 = {
+  name = "ルィス"  # Rhys
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214810
+  mother = 214811
+  1132.1.2 = {
+    birth = "1132.1.2"
+  }
+  1153.1.1 = {
+    add_spouse = 214801
+  }
+  1197.4.28 = {
+    death = "1197.4.28"
+  }
+}
+214801 = {
+  name = "グエンシアン"  # Gwenllian
+  female = yes
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 214718
+  mother = 138449
+  1136.1.1 = {
+    birth = "1136.1.1"
+  }
+  1186.1.1 = {
+    death = "1186.1.1"
+  }
+}
+214802 = {
+  name = "グエンシアン"  # Gwenllian
+  female = yes
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1236.1.1 = {
+    death = "1236.1.1"
+  }
+}
+214803 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1164.1.1 = {
+    birth = "1164.1.1"
+  }
+  1189.1.1 = {
+    add_spouse = 204010
+  }
+  1201.8.1 = {
+    death = "1201.8.1"
+  }
+}
+214804 = {
+  name = "ルィス"  # Rhys
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1166.1.2 = {
+    birth = "1166.1.2"
+  }
+  1234.1.1 = {
+    death = "1234.1.1"
+  }
+}
+214805 = {
+  name = "ネスト"  # Nest
+  female = yes
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1167.1.1 = {
+    birth = "1167.1.1"
+  }
+  1217.1.1 = {
+    death = "1217.1.1"
+  }
+}
+214806 = {
+  name = "カトリン"  # Catrin
+  female = yes
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  trait = "bastard"
+  father = 214800
+  1172.1.1 = {
+    birth = "1172.1.1"
+  }
+  1222.1.1 = {
+    death = "1222.1.1"
+  }
+}
+214807 = {
+  name = "アンハラッド"  # Angharad
+  female = yes
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1172.1.1 = {
+    birth = "1172.1.1"
+  }
+  1226.1.1 = {
+    death = "1226.1.1"
+  }
+}
+214808 = {
+  name = "クリシアント"  # Crisiant
+  female = yes
+  dynasty = 101680
+  religion = "catholic"
+  culture = "welsh"
+  father = 214809
+  1118.1.1 = {
+    birth = "1118.1.1"
+  }
+  1161.1.2 = {
+    death = "1161.1.2"
+  }
+}
+214809 = {
+  name = "ゴローヌイ"  # Goronwy
+  dynasty = 101680
+  religion = "catholic"
+  culture = "welsh"
+  father = 214815
+  1063.1.1 = {
+    birth = "1063.1.1"
+  }
+  1124.1.1 = {
+    death = "1124.1.1"
+  }
+}
+214810 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 81816
+  mother = 40506
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1120.1.1 = {
+    add_spouse = 214811
+  }
+  1137.1.1 = {
+    death = "1137.1.1"
+  }
+}
+214811 = {
+  name = "グエンシアン"  # Gwenllian
+  female = yes
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81031
+  mother = 214814
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1136.1.1 = {
+    death = "1136.1.1"
+  }
+}
+214814 = {
+  name = "アンハラッド"  # Angharad
+  female = yes
+  dynasty = 101680
+  religion = "catholic"
+  culture = "welsh"
+  father = 214815
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1161.1.1 = {
+    death = "1161.1.1"
+  }
+}
+214815 = {
+  name = "オウアイン"  # Owain
+  dynasty = 101680
+  religion = "catholic"
+  culture = "welsh"
+  father = 40508
+  mother = 40505
+  1044.1.1 = {
+    birth = "1044.1.1"
+  }
+  1100.1.1 = {
+    trait = "pneumonic"
+  }
+  1102.1.1 = {
+    death = "1102.1.1"
+  }
+}
+232002 = {
+  name = "ロードリ"  # Rhodri
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  trait = "kinslayer"
+  father = 214710
+  mother = 214808
+  1136.1.1 = {
+    birth = "1136.1.1"
+  }
+  1179.1.1 = {
+    add_spouse = 214805
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+232003 = {
+  name = "トーマス"  # Tomas
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 232002
+  1179.1.1 = {
+    birth = "1179.1.1"
+  }
+  1229.1.1 = {
+    death = "1229.1.1"
+  }
+}
+232004 = {
+  name = "グルーフィド"  # Gruffyd
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 232002
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
+232005 = {
+  name = "エイニオン"  # Einion
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 232002
+  1181.1.1 = {
+    birth = "1181.1.1"
+  }
+  1231.1.1 = {
+    death = "1231.1.1"
+  }
+}
+332039 = {
+  name = "マーイルグン"  # Maelgwn
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 214800
+  mother = 214801
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1231.1.1 = {
+    death = "1231.1.1"
   }
 }
 40500 = {
@@ -563,6 +1133,326 @@
   }
   1099.1.2 = {
     death = "1099.1.2"
+  }
+}
+420000 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 214714
+  trait = "bastard"
+  1204.1.1 = {
+    birth = "1204.1.1"
+  }
+  1244.3.1 = {
+    death = "1244.3.1"
+  }
+}
+420001 = {
+  name = "シウエルィン"  # Llywelyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420000
+  1234.1.1 = {
+    birth = "1234.1.1"
+  }
+  1278.10.13 = {
+    add_spouse = 144182
+  }
+  1282.12.10 = {
+    death = "1282.12.10"
+  }
+}
+420002 = {
+  name = "ダーヴィズ"  # Dafydd
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420000
+  1235.1.1 = {
+    birth = "1235.1.1"
+  }
+  1283.9.29 = {
+    death = "1283.9.29"
+  }
+}
+420003 = {
+  name = "オウアイン・ゴフ"  # Owain Goch
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420000
+  1221.1.1 = {
+    birth = "1221.1.1"
+  }
+  1282.1.1 = {
+    death = "1282.1.1"
+  }
+}
+420004 = {
+  name = "ロードリ"  # Rhodri
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420000
+  1231.1.1 = {
+    birth = "1231.1.1"
+  }
+  1315.1.1 = {
+    death = "1315.1.1"
+  }
+}
+420005 = {
+  name = "トーマス"  # Tomas
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420004
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1363.1.1 = {
+    death = "1363.1.1"
+  }
+}
+420006 = {
+  name = "オウアイン"  # Owain
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 420005
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1380.1.1 = {
+    death = "1380.1.1"
+  }
+}
+420007 = {
+  name = "グエヌーイヌイン"  # Gwenwynwyn
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 214720
+  mother = 214721
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1216.1.1 = {
+    death = "1216.1.1"
+  }
+}
+420008 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 200069
+  religion = "catholic"
+  culture = "welsh"
+  father = 420007
+  1212.1.1 = {
+    birth = "1212.1.1"
+  }
+  1286.1.1 = {
+    death = "1286.1.1"
+  }
+}
+420009 = {
+  name = "オウアイン"  # Owain
+  dynasty = 200069
+  religion = "catholic"
+  culture = "welsh"
+  father = 420008
+  1257.1.1 = {
+    birth = "1257.1.1"
+  }
+  1293.9.1 = {
+    death = "1293.9.1"
+  }
+}
+420010 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 200069
+  religion = "catholic"
+  culture = "welsh"
+  father = 420009
+  1285.1.1 = {
+    birth = "1285.1.1"
+  }
+  1307.1.1 = {
+    add_spouse = 161690
+  }
+  1309.6.1 = {
+    death = "1309.6.1"
+  }
+}
+454211 = {
+  name = "ハーウィス"  # Hawis
+  female = yes
+  dynasty = 200069
+  religion = "catholic"
+  culture = "welsh"
+  father = 420009
+  1290.7.25 = {
+    birth = "1290.7.25"
+  }
+  1353.1.1 = {
+    death = "1353.1.1"
+  }
+}
+6358 = {
+  name = "ブレイドゥン"  # Bleddyn
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 40503
+  mother = 40501
+  trait = "kind"
+  trait = "lustful"
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1041.1.1 = {
+    add_spouse = 81849
+  }
+  1043.1.1 = {
+    remove_spouse = 81849
+  }
+  1044.1.1 = {
+    add_spouse = 40507
+  }
+  1050.1.1 = {
+    remove_spouse = 40507
+  }
+  1052.1.1 = {
+    add_spouse = 81856
+  }
+  1075.1.1 = {
+    death = "1075.1.1"
+  }
+}
+6360 = {
+  name = "マレードゥズ"  # Maredudd
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 6358
+  mother = 40507
+  trait = "skilled_tactician"
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1111.1.1 = {
+    employer = 138452
+  }
+  1132.2.9 = {
+    death = "1132.2.9"
+  }
+}
+6362 = {
+  name = "カドゥーガン"  # Cadwgan
+  dynasty = 547
+  religion = "catholic"
+  culture = "welsh"
+  father = 40513
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1074.1.1 = {
+    death = "1074.1.1"
+  }
+}
+6368 = {
+  name = "トラヘアーウィルン・ドィヴナシュト"  # Traheaern Dyfnallt
+  dynasty = 20158
+  martial = 8
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "welsh"
+  trait = "slothful"
+  trait = "greedy"
+  trait = "patient"
+  trait = "charismatic_negotiator"
+  father = 8189
+  1036.1.2 = {
+    birth = "1036.1.2"
+  }
+  1086.1.2 = {
+    death = "1086.1.2"
+  }
+}
+6376 = {
+  name = "イエストィン"  # Iestyn
+  dynasty = 547
+  religion = "catholic"
+  culture = "welsh"
+  father = 40515
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1061.1.1 = {
+    add_spouse = 40516
+  }
+  1093.1.1 = {
+    death = "1093.1.1"
+  }
+}
+6378 = {
+  name = "カドゥーガン"  # Cadwgan
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 6358
+  mother = 81849
+  trait = "skilled_tactician"
+  trait = "lustful"
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1098.1.1 = {
+    add_spouse = 81853
+  }
+  1111.1.1 = {
+    death = "1111.1.1"
+  }
+}
+6382 = {
+  name = "ルィス"  # Rhys
+  dynasty = 547
+  martial = 7
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "welsh"
+  father = 40513
+  trait = "diligent"
+  trait = "zealous"
+  trait = "martial_cleric"
+  1053.1.2 = {
+    birth = "1053.1.2"
+  }
+  1103.1.2 = {
+    death = "1103.1.2"
+  }
+}
+6384 = {
+  name = "ルィス"  # Rhys
+  dynasty = 101724
+  martial = 8
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "welsh"
+  trait = "tough_soldier"
+  997.1.1 = {
+    birth = "997.1.1"
+  }
+  1047.1.2 = {
+    death = "1047.1.2"
   }
 }
 81030 = {
@@ -1323,6 +2213,19 @@
     death = "1094.1.2"
   }
 }
+8187 = {
+  name = "イードネルス"  # Idnerth
+  dynasty = 200067
+  father = 184126
+  religion = "catholic"
+  culture = "welsh"
+  1017.1.1 = {
+    birth = "1017.1.1"
+  }
+  1056.2.1 = {
+    death = "1056.2.1"
+  }
+}
 81871 = {
   name = "ネイニアド"  # Neiniad
   dynasty = 20148
@@ -1359,6 +2262,20 @@
   }
   1114.1.2 = {
     death = "1114.1.2"
+  }
+}
+8189 = {
+  name = "エデールヴィズ"  # Ederfydd
+  dynasty = 14278
+  religion = "catholic"
+  culture = "welsh"
+  trait = "bastard"
+  father = 81820
+  985.1.1 = {
+    birth = "985.1.1"
+  }
+  1038.1.1 = {
+    death = "1038.1.1"
   }
 }
 81911 = {
@@ -1409,92 +2326,6 @@
   }
   1100.1.2 = {
     death = "1100.1.2"
-  }
-}
-131700 = {
-  name = "ブレイズド"  # Bleiddud
-  dynasty = 20172
-  martial = 3
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "welsh"
-  trait = "mastermind_theologian"
-  trait = "just"
-  1020.1.2 = {
-    birth = "1020.1.2"
-  }
-  1070.1.2 = {
-    death = "1070.1.2"
-  }
-}
-131701 = {
-  name = "エルィースタン"  # Elystan
-  dynasty = 200067
-  martial = 9
-  diplomacy = 2
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "welsh"
-  trait = "tough_soldier"
-  father = 184125
-  950.1.1 = {
-    birth = "950.1.1"
-  }
-  1010.1.1 = {
-    death = "1010.1.1"
-  }
-}
-131702 = {
-  name = "マードグ"  # Madog
-  dynasty = 200067
-  religion = "catholic"
-  culture = "welsh"
-  trait = "tough_soldier"
-  father = 8187
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-131703 = {
-  name = "カドゥアルション"  # Cadwallon
-  dynasty = 200067
-  religion = "catholic"
-  culture = "welsh"
-  father = 131702
-  1118.1.1 = {
-    birth = "1118.1.1"
-  }
-  1171.1.1 = {
-    add_spouse = 138445
-  }
-  1179.1.1 = {
-    death = "1179.1.1"
-  }
-}
-131704 = {
-  name = "ブレーズィン"  # Bleddyn
-  dynasty = 1042817
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "welsh"
-  father = 159312
-  mother = 159374
-  trait = "cynical"
-  trait = "underhanded_rogue"
-  1040.1.2 = {
-    birth = "1040.1.2"
-  }
-  1090.1.2 = {
-    death = "1090.1.2"
   }
 }
 138443 = {
@@ -1868,6 +2699,19 @@
     death = "1253.10.24"
   }
 }
+138490 = {
+  name = "カーデシュ"  # Cadell
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 138484
+  953.1.1 = {
+    birth = "953.1.1"
+  }
+  1018.1.1 = {
+    death = "1018.1.1"
+  }
+}
 138488 = {
   name = "テーウドゥル"  # Tewdwr
   dynasty = 101919
@@ -1880,19 +2724,6 @@
   }
   1014.1.1 = {
     death = "1014.1.1"
-  }
-}
-138490 = {
-  name = "カーデシュ"  # Cadell
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 138484
-  953.1.1 = {
-    birth = "953.1.1"
-  }
-  1018.1.1 = {
-    death = "1018.1.1"
   }
 }
 138492 = {
@@ -3564,63 +4395,19 @@
     give_nickname = nick_the_great
   }
 }
-159231 = {
-  name = "ルィーゼルフ"  # Rhydderch
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 138488
-  1000.1.1 = {
-    birth = "1000.1.1"
-  }
-  1070.1.1 = {
-    add_spouse = 81850
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-159232 = {
-  name = "マレードゥズ"  # Maredudd
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 159231
-  mother = 81850
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1150.1.1 = {
-    death = "1150.1.1"
-  }
-}
-159233 = {
-  name = "オウアイン"  # Owain
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 159231
-  mother = 81850
-  1071.1.1 = {
-    birth = "1071.1.1"
-  }
-  1151.1.1 = {
-    death = "1151.1.1"
-  }
-}
-159234 = {
-  name = "デニス"  # Denis
-  dynasty = 548
+161615 = {
+  name = "Gwladus"
   female = yes
+  dynasty = 101920
   religion = "catholic"
   culture = "welsh"
-  father = 6358
-  mother = 40507
-  1049.1.1 = {
-    birth = "1049.1.1"
+  trait = "bastard"
+  father = 214714
+  1210.1.1 = {
+    birth = "1210.1.1"
   }
-  1130.1.1 = {
-    death = "1130.1.1"
+  1251.1.1 = {
+    death = "1251.1.1"
   }
 }
 159290 = {
@@ -3991,18 +4778,81 @@
     death = "1150.1.2"
   }
 }
-159322 = {
-  name = "Aergul"
-  dynasty = 1029030
+159231 = {
+  name = "ルィーゼルフ"  # Rhydderch
+  dynasty = 101919
   religion = "catholic"
   culture = "welsh"
-  father = 159321
-  mother = 159820
-  437.1.1 = {
-    birth = "437.1.1"
+  father = 138488
+  1000.1.1 = {
+    birth = "1000.1.1"
   }
-  495.1.1 = {
-    death = "495.1.1"
+  1070.1.1 = {
+    add_spouse = 81850
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+159232 = {
+  name = "マレードゥズ"  # Maredudd
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 159231
+  mother = 81850
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1150.1.1 = {
+    death = "1150.1.1"
+  }
+}
+159233 = {
+  name = "オウアイン"  # Owain
+  dynasty = 101919
+  religion = "catholic"
+  culture = "welsh"
+  father = 159231
+  mother = 81850
+  1071.1.1 = {
+    birth = "1071.1.1"
+  }
+  1151.1.1 = {
+    death = "1151.1.1"
+  }
+}
+159234 = {
+  name = "デニス"  # Denis
+  dynasty = 548
+  female = yes
+  religion = "catholic"
+  culture = "welsh"
+  father = 6358
+  mother = 40507
+  1049.1.1 = {
+    birth = "1049.1.1"
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+163104 = {
+  name = "Artgal"
+  dynasty = 816
+  martial = 6
+  diplomacy = 3
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "welsh"
+  trait = "tough_soldier"
+  father = 166444
+  804.1.1 = {
+    birth = "804.1.1"
+  }
+  872.1.1 = {
+    death = "872.1.1"
   }
 }
 159323 = {
@@ -4609,6 +5459,43 @@
     death = "935.1.1"
   }
 }
+159519 = {
+  name = "Drymbenog"
+  dynasty = 1042817
+  martial = 8
+  diplomacy = 3
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "welsh"
+  father = 159312
+  mother = 159374
+  trait = "zealous"
+  trait = "tough_soldier"
+  1035.1.2 = {
+    birth = "1035.1.2"
+  }
+  1090.1.2 = {
+    death = "1090.1.2"
+  }
+}
+159520 = {
+  name = "Elinor"
+  female = yes
+  dynasty = 1042817
+  religion = "catholic"
+  culture = "welsh"
+  father = 159519
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1066.1.1 = {
+    add_spouse = 159292
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
 159424 = {
   name = "カラードグ"  # Caradog
   religion = "catholic"
@@ -4728,6 +5615,19 @@
   }
   390.1.1 = {
     death = "390.1.1"
+  }
+}
+159472 = {
+  name = "ゲーライント"  # Geraint
+  religion = "catholic"
+  culture = "welsh"
+  dynasty = 1029001
+  father = 159428
+  265.1.1 = {
+    birth = "265.1.1"
+  }
+  340.1.1 = {
+    death = "340.1.1"
   }
 }
 159435 = {
@@ -4880,69 +5780,6 @@
     death = "613.1.1"
   }
 }
-159472 = {
-  name = "ゲーライント"  # Geraint
-  religion = "catholic"
-  culture = "welsh"
-  dynasty = 1029001
-  father = 159428
-  265.1.1 = {
-    birth = "265.1.1"
-  }
-  340.1.1 = {
-    death = "340.1.1"
-  }
-}
-159519 = {
-  name = "Drymbenog"
-  dynasty = 1042817
-  martial = 8
-  diplomacy = 3
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "welsh"
-  father = 159312
-  mother = 159374
-  trait = "zealous"
-  trait = "tough_soldier"
-  1035.1.2 = {
-    birth = "1035.1.2"
-  }
-  1090.1.2 = {
-    death = "1090.1.2"
-  }
-}
-159520 = {
-  name = "Elinor"
-  female = yes
-  dynasty = 1042817
-  religion = "catholic"
-  culture = "welsh"
-  father = 159519
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1066.1.1 = {
-    add_spouse = 159292
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-159697 = {
-  name = "Iudon"
-  religion = "catholic"
-  culture = "welsh"
-  dynasty = 1029030
-  father = 159349
-  760.1.1 = {
-    birth = "760.1.1"
-  }
-  827.1.1 = {
-    death = "827.1.1"
-  }
-}
 159751 = {
   name = "Newlyna"
   female = yes
@@ -5019,221 +5856,17 @@
     death = "505.1.1"
   }
 }
-159791 = {
-  name = "ケレーディグ"  # Ceredig
-  dynasty = 14250
+159697 = {
+  name = "Iudon"
   religion = "catholic"
   culture = "welsh"
-  father = 159010
-  mother = 159039
-  395.1.1 = {
-    birth = "395.1.1"
-  }
-  453.1.1 = {
-    death = "453.1.1"
-  }
-}
-159792 = {
-  name = "Usai"
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159791
-  420.1.1 = {
-    birth = "420.1.1"
-  }
-  490.1.1 = {
-    death = "490.1.1"
-  }
-}
-159793 = {
-  name = "Serwyl"
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159792
-  450.1.1 = {
-    birth = "450.1.1"
-  }
-  525.1.1 = {
-    death = "525.1.1"
-  }
-}
-159794 = {
-  name = "Boddw"
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159793
-  480.1.1 = {
-    birth = "480.1.1"
-  }
-  560.1.1 = {
-    death = "560.1.1"
-  }
-}
-159795 = {
-  name = "アルスヴォーズ"  # Arthfoddw
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159794
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  595.1.1 = {
-    death = "595.1.1"
-  }
-}
-159796 = {
-  name = "Arthlwys"
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159795
-  550.1.1 = {
-    birth = "550.1.1"
-  }
-  630.1.1 = {
-    death = "630.1.1"
-  }
-}
-159797 = {
-  name = "クリードグ"  # Clydog
-  dynasty = 14250
-  religion = "catholic"
-  culture = "welsh"
-  father = 159796
-  590.1.1 = {
-    birth = yes
-  }
-  665.1.1 = {
-    death = yes
-  }
-}
-159798 = {
-  name = "セイスィシュ"  # Seisyll
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159797
-  635.1.1 = {
-    birth = yes
-  }
-  700.1.1 = {
-    death = yes
-  }
-}
-159799 = {
-  name = "Arthwyr"
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159798
-  680.1.1 = {
-    birth = yes
-  }
-  735.1.1 = {
-    death = yes
-  }
-}
-159800 = {
-  name = "メイリグ"  # Meurig
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159806
+  dynasty = 1029030
+  father = 159349
   760.1.1 = {
-    birth = yes
+    birth = "760.1.1"
   }
-  837.1.1 = {
-    death = yes
-  }
-}
-159801 = {
-  name = "Gwgan"
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159800
-  825.1.1 = {
-    birth = yes
-  }
-  872.1.1 = {
-    death = yes
-  }
-}
-159802 = {
-  name = "アンハラッド"  # Angharad
-  female = yes
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159800
-  822.1.1 = {
-    birth = "822.1.1"
-  }
-  840.1.1 = {
-    add_spouse = 81831
-  }
-  880.1.1 = {
-    death = "880.1.1"
-  }
-}
-159803 = {
-  name = "Nest"
-  female = yes
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81831
-  mother = 159802
-  854.1.1 = {
-    birth = "854.1.1"
-  }
-  911.1.1 = {
-    death = "911.1.1"
-  }
-}
-159804 = {
-  name = "トゥードゥアル"  # Tudwal
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81831
-  mother = 159802
-  859.1.1 = {
-    birth = "859.1.1"
-  }
-  905.1.1 = {
-    death = "905.1.1"
-  }
-}
-159805 = {
-  name = "メールヴィン"  # Merfyn
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81831
-  mother = 159802
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  910.1.1 = {
-    death = "910.1.1"
-  }
-}
-159806 = {
-  name = "ドィーヴヌアル"  # Dyfnwal
-  dynasty = 14255
-  religion = "catholic"
-  culture = "welsh"
-  father = 159799
-  710.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
+  827.1.1 = {
+    death = "827.1.1"
   }
 }
 159807 = {
@@ -5249,33 +5882,6 @@
   }
   388.8.28 = {
     death = yes
-  }
-}
-159808 = {
-  name = "Annwn Dynod"
-  dynasty = 1029129
-  religion = "catholic"
-  culture = "welsh"
-  father = 159807
-  mother = 159430
-  345.1.1 = {
-    birth = "345.1.1"
-  }
-  428.1.1 = {
-    death = "428.1.1"
-  }
-}
-159809 = {
-  name = "オウアイン"  # Owain
-  dynasty = 1029130
-  religion = "catholic"
-  culture = "welsh"
-  father = 159807
-  357.1.1 = {
-    birth = "357.1.1"
-  }
-  428.1.1 = {
-    death = "428.1.1"
   }
 }
 159810 = {
@@ -5314,18 +5920,18 @@
     death = "428.1.1"
   }
 }
-159812 = {
-  name = "クステーンニン"  # Custennin
+159808 = {
+  name = "Annwn Dynod"
   dynasty = 1029129
   religion = "catholic"
   culture = "welsh"
   father = 159807
   mother = 159430
-  361.1.1 = {
-    birth = yes
+  345.1.1 = {
+    birth = "345.1.1"
   }
-  411.8.15 = {
-    death = yes
+  428.1.1 = {
+    death = "428.1.1"
   }
 }
 159813 = {
@@ -5516,6 +6122,19 @@
     death = "570.1.1"
   }
 }
+159809 = {
+  name = "オウアイン"  # Owain
+  dynasty = 1029130
+  religion = "catholic"
+  culture = "welsh"
+  father = 159807
+  357.1.1 = {
+    birth = "357.1.1"
+  }
+  428.1.1 = {
+    death = "428.1.1"
+  }
+}
 159826 = {
   name = "Mor"
   dynasty = 1029130
@@ -5691,6 +6310,20 @@
   }
   500.1.1 = {
     death = "500.1.1"
+  }
+}
+159812 = {
+  name = "クステーンニン"  # Custennin
+  dynasty = 1029129
+  religion = "catholic"
+  culture = "welsh"
+  father = 159807
+  mother = 159430
+  361.1.1 = {
+    birth = yes
+  }
+  411.8.15 = {
+    death = yes
   }
 }
 159932 = {
@@ -6154,6 +6787,237 @@
     death = "690.1.1"
   }
 }
+159322 = {
+  name = "Aergul"
+  dynasty = 1029030
+  religion = "catholic"
+  culture = "welsh"
+  father = 159321
+  mother = 159820
+  437.1.1 = {
+    birth = "437.1.1"
+  }
+  495.1.1 = {
+    death = "495.1.1"
+  }
+}
+159791 = {
+  name = "ケレーディグ"  # Ceredig
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159010
+  mother = 159039
+  395.1.1 = {
+    birth = "395.1.1"
+  }
+  453.1.1 = {
+    death = "453.1.1"
+  }
+}
+159792 = {
+  name = "Usai"
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159791
+  420.1.1 = {
+    birth = "420.1.1"
+  }
+  490.1.1 = {
+    death = "490.1.1"
+  }
+}
+159793 = {
+  name = "Serwyl"
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159792
+  450.1.1 = {
+    birth = "450.1.1"
+  }
+  525.1.1 = {
+    death = "525.1.1"
+  }
+}
+159794 = {
+  name = "Boddw"
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159793
+  480.1.1 = {
+    birth = "480.1.1"
+  }
+  560.1.1 = {
+    death = "560.1.1"
+  }
+}
+159795 = {
+  name = "アルスヴォーズ"  # Arthfoddw
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159794
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  595.1.1 = {
+    death = "595.1.1"
+  }
+}
+159796 = {
+  name = "Arthlwys"
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159795
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+  }
+}
+159797 = {
+  name = "クリードグ"  # Clydog
+  dynasty = 14250
+  religion = "catholic"
+  culture = "welsh"
+  father = 159796
+  590.1.1 = {
+    birth = yes
+  }
+  665.1.1 = {
+    death = yes
+  }
+}
+159798 = {
+  name = "セイスィシュ"  # Seisyll
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159797
+  635.1.1 = {
+    birth = yes
+  }
+  700.1.1 = {
+    death = yes
+  }
+}
+159799 = {
+  name = "Arthwyr"
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159798
+  680.1.1 = {
+    birth = yes
+  }
+  735.1.1 = {
+    death = yes
+  }
+}
+159800 = {
+  name = "メイリグ"  # Meurig
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159806
+  760.1.1 = {
+    birth = yes
+  }
+  837.1.1 = {
+    death = yes
+  }
+}
+159801 = {
+  name = "Gwgan"
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159800
+  825.1.1 = {
+    birth = yes
+  }
+  872.1.1 = {
+    death = yes
+  }
+}
+159802 = {
+  name = "アンハラッド"  # Angharad
+  female = yes
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159800
+  822.1.1 = {
+    birth = "822.1.1"
+  }
+  840.1.1 = {
+    add_spouse = 81831
+  }
+  880.1.1 = {
+    death = "880.1.1"
+  }
+}
+159803 = {
+  name = "Nest"
+  female = yes
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81831
+  mother = 159802
+  854.1.1 = {
+    birth = "854.1.1"
+  }
+  911.1.1 = {
+    death = "911.1.1"
+  }
+}
+159804 = {
+  name = "トゥードゥアル"  # Tudwal
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81831
+  mother = 159802
+  859.1.1 = {
+    birth = "859.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+159805 = {
+  name = "メールヴィン"  # Merfyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81831
+  mother = 159802
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  910.1.1 = {
+    death = "910.1.1"
+  }
+}
+159806 = {
+  name = "ドィーヴヌアル"  # Dyfnwal
+  dynasty = 14255
+  religion = "catholic"
+  culture = "welsh"
+  father = 159799
+  710.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
 160038 = {
   name = "オウアイン"  # Owain
   dynasty = 14284
@@ -6289,117 +7153,6 @@
     death = "580.1.1"
   }
 }
-160255 = {
-  name = "アールスヴァーイル"  # Arthfael
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 159109
-  849.1.1 = {
-    birth = "849.1.1"
-  }
-  916.1.1 = {
-    death = "916.1.1"
-  }
-}
-160256 = {
-  name = "ルィス"  # Rhys
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 159109
-  851.1.1 = {
-    birth = "851.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-160257 = {
-  name = "アールスヴァーイル"  # Arthfael
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 159110
-  835.1.1 = {
-    birth = "835.1.1"
-  }
-  895.1.1 = {
-    death = "895.1.1"
-  }
-}
-160258 = {
-  name = "メイリグ"  # Meurig
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 159111
-  800.1.1 = {
-    birth = yes
-  }
-  874.1.1 = {
-    death = yes
-  }
-}
-160259 = {
-  name = "ブローフヴァーイル"  # Brochfael
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 160258
-  850.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-160260 = {
-  name = "フェールンヴァーイル"  # Ffernfael
-  dynasty = 547
-  religion = "catholic"
-  culture = "welsh"
-  father = 160258
-  845.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-161615 = {
-  name = "Gwladus"
-  female = yes
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  trait = "bastard"
-  father = 214714
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1251.1.1 = {
-    death = "1251.1.1"
-  }
-}
-163104 = {
-  name = "Artgal"
-  dynasty = 816
-  martial = 6
-  diplomacy = 3
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "welsh"
-  trait = "tough_soldier"
-  father = 166444
-  804.1.1 = {
-    birth = "804.1.1"
-  }
-  872.1.1 = {
-    death = "872.1.1"
-  }
-}
 166435 = {
   name = "アディエナ"  # Addiena
   female = yes
@@ -6524,26 +7277,6 @@
     death = "889.1.1"
   }
 }
-166442 = {
-  name = "ルン"  # Rhun
-  dynasty = 816
-  martial = 3
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "welsh"
-  father = 163104
-  827.1.1 = {
-    birth = "827.1.1"
-  }
-  843.1.1 = {
-    add_spouse = 166443
-  }
-  878.1.1 = {
-    death = "878.1.1"
-  }
-}
 166444 = {
   name = "ドゥムナーグアル"  # Dumnagual
   dynasty = 816
@@ -6576,23 +7309,6 @@
   }
   835.1.1 = {
     death = "835.1.1"
-  }
-}
-166446 = {
-  name = "オウアイン"  # Owain
-  dynasty = 816
-  martial = 6
-  diplomacy = 3
-  intrigue = 5
-  stewardship = 2
-  religion = "catholic"
-  culture = "welsh"
-  father = 166447
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  804.1.1 = {
-    death = "804.1.1"
   }
 }
 166447 = {
@@ -6695,23 +7411,6 @@
   }
   658.1.1 = {
     death = "658.1.1"
-  }
-}
-166453 = {
-  name = "オウアイン"  # Owain
-  dynasty = 816
-  martial = 4
-  diplomacy = 6
-  intrigue = 3
-  stewardship = 5
-  religion = "catholic"
-  culture = "welsh"
-  father = 166454
-  611.1.1 = {
-    birth = "611.1.1"
-  }
-  652.1.1 = {
-    death = "652.1.1"
   }
 }
 166454 = {
@@ -6925,6 +7624,415 @@
   }
   384.1.1 = {
     death = yes
+  }
+}
+184119 = {
+  name = "イオルウエルス"  # Iorwerth
+  dynasty = 1047018
+  religion = "catholic"
+  culture = "welsh"
+  father = 159068
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  759.1.1 = {
+    add_spouse = 184135
+  }
+  815.1.1 = {
+    dynasty = 200067
+    death = "815.1.1"
+  }
+}
+184120 = {
+  name = "イードネルス"  # Idnerth
+  dynasty = 1047018
+  religion = "catholic"
+  culture = "welsh"
+  father = 184119
+  mother = 184135
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  815.1.1 = {
+    dynasty = 200067
+  }
+  820.1.1 = {
+    death = "820.1.1"
+  }
+}
+184121 = {
+  name = "カードゥル"  # Cadwr
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 184120
+  800.1.1 = {
+    birth = "800.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
+184122 = {
+  name = "カードゥル"  # Cadwr
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 184121
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+184123 = {
+  name = "セヴェールス"  # Seferus
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 184122
+  860.1.1 = {
+    birth = "860.1.1"
+  }
+  940.1.1 = {
+    death = "940.1.1"
+  }
+}
+184124 = {
+  name = "イーヴォル"  # Ifor
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 184123
+  890.1.1 = {
+    birth = "890.1.1"
+  }
+  950.1.1 = {
+    death = "950.1.1"
+  }
+}
+184125 = {
+  name = "クヘーリン"  # Cuhelyn
+  dynasty = 200067
+  religion = "catholic"
+  culture = "welsh"
+  father = 184123
+  920.1.1 = {
+    birth = "920.1.1"
+  }
+  980.1.1 = {
+    death = "980.1.1"
+  }
+}
+184126 = {
+  name = "Cadwgon"
+  dynasty = 200067
+  father = 131701
+  religion = "catholic"
+  culture = "welsh"
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1050.1.1 = {
+    death = "1050.1.1"
+  }
+}
+184127 = {
+  name = "マーイルグン"  # Maelgwn
+  dynasty = 200067
+  father = 131703
+  religion = "catholic"
+  culture = "welsh"
+  1153.1.1 = {
+    birth = "1153.1.1"
+  }
+  1188.1.1 = {
+    trait = "crusader"
+  }
+  1234.1.1 = {
+    death = "1234.1.1"
+  }
+}
+184128 = {
+  name = "マレードゥズ"  # Maredudd
+  dynasty = 200067
+  father = 184127
+  religion = "catholic"
+  culture = "welsh"
+  1195.1.1 = {
+    birth = "1195.1.1"
+  }
+  1281.1.1 = {
+    death = "1281.1.1"
+  }
+}
+184129 = {
+  name = "マドグ"  # Madog
+  dynasty = 200067
+  father = 184128
+  religion = "catholic"
+  culture = "welsh"
+  1250.1.1 = {
+    birth = "1250.1.1"
+  }
+  1320.1.1 = {
+    death = "1320.1.1"
+  }
+}
+184130 = {
+  name = "マレードゥズ"  # Maredudd
+  dynasty = 1029032
+  religion = "catholic"
+  culture = "welsh"
+  trait = bastard
+  father = 159328
+  580.1.1 = {
+    birth = "580.1.1"
+  }
+  650.1.1 = {
+    death = "650.1.1"
+  }
+}
+184131 = {
+  name = "クィーナン"  # Cynan
+  dynasty = 1029032
+  religion = "catholic"
+  culture = "welsh"
+  father = 184130
+  610.1.1 = {
+    birth = "610.1.1"
+  }
+  680.1.1 = {
+    death = "680.1.1"
+  }
+}
+184132 = {
+  name = "マーイルグン"  # Maelgwn
+  dynasty = 1029032
+  religion = "catholic"
+  culture = "welsh"
+  father = 184131
+  640.1.1 = {
+    birth = "640.1.1"
+  }
+  710.1.1 = {
+    death = "710.1.1"
+  }
+}
+184133 = {
+  name = "イードゥアル"  # Idwal
+  dynasty = 1029032
+  religion = "catholic"
+  culture = "welsh"
+  father = 184132
+  670.1.1 = {
+    birth = "670.1.1"
+  }
+  740.1.1 = {
+    death = "740.1.1"
+  }
+}
+184134 = {
+  name = "ブリーハン"  # Brychan
+  dynasty = 1029032
+  religion = "catholic"
+  culture = "welsh"
+  father = 184133
+  710.1.1 = {
+    birth = "710.1.1"
+  }
+  770.1.1 = {
+    death = "770.1.1"
+  }
+}
+184135 = {
+  name = "Arianwen"
+  dynasty = 1029032
+  female = yes
+  religion = "catholic"
+  culture = "welsh"
+  father = 184134
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  820.1.1 = {
+    death = "820.1.1"
+  }
+}
+184083 = {
+  name = "マドグ"  # Madog
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 138462
+  1230.1.1 = {
+    birth = "1230.1.1"
+  }
+  1277.1.1 = {
+    death = "1277.1.1"
+  }
+}
+184084 = {
+  name = "Gruffydd Fychan"
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 138462
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1289.1.1 = {
+    death = "1289.1.1"
+  }
+}
+184085 = {
+  name = "Madog Crypl"
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 184084
+  1275.1.1 = {
+    birth = "1275.1.1"
+  }
+  1304.1.1 = {
+    death = "1304.1.1"
+  }
+}
+184086 = {
+  name = "グルーフィズ"  # Gruffydd
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 184085
+  1298.1.1 = {
+    birth = "1298.1.1"
+  }
+  1343.1.1 = {
+    death = "1343.1.1"
+  }
+}
+184087 = {
+  name = "Gruffydd Fychan"
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 184086
+  1320.1.1 = {
+    birth = "1320.1.1"
+  }
+  1369.1.1 = {
+    death = "1369.1.1"
+  }
+}
+184089 = {
+  name = "メールヴィン"  # Merfyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 81831
+  865.1.1 = {
+    birth = "865.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+184090 = {
+  name = "シウエルィン"  # Llywelyn
+  dynasty = 101920
+  religion = "catholic"
+  culture = "welsh"
+  father = 184089
+  890.1.1 = {
+    birth = "890.1.1"
+  }
+  942.1.1 = {
+    death = "942.1.1"
+  }
+}
+184091 = {
+  name = "オウアイン"  # Owain
+  dynasty = 1042815
+  religion = "catholic"
+  culture = "welsh"
+  father = 214718
+  trait = bastard
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+184092 = {
+  name = "イオルウエルス"  # Iorwerth
+  dynasty = 1042815
+  religion = "catholic"
+  culture = "welsh"
+  father = 184091
+  1195.1.1 = {
+    birth = "1195.1.1"
+  }
+  1234.1.1 = {
+    add_spouse = 184094
+  }
+  1260.1.1 = {
+    death = "1260.1.1"
+  }
+}
+184093 = {
+  name = "マードグ"  # Madog
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 420007
+  1201.1.1 = {
+    birth = "1201.1.1"
+  }
+  1286.1.1 = {
+    death = "1286.1.1"
+  }
+}
+184094 = {
+  name = "Efa"
+  female = yes
+  dynasty = 548
+  religion = "catholic"
+  culture = "welsh"
+  father = 184093
+  1217.1.1 = {
+    birth = "1217.1.1"
+  }
+  1286.1.1 = {
+    death = "1286.1.1"
+  }
+}
+184095 = {
+  name = "Gruffudd"
+  dynasty = 1042815
+  religion = "catholic"
+  culture = "welsh"
+  father = 184092
+  mother = 184094
+  1235.1.1 = {
+    birth = "1235.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+184096 = {
+  name = "マードグ"  # Madog
+  dynasty = 1042815
+  religion = "catholic"
+  culture = "welsh"
+  father = 184095
+  1285.1.1 = {
+    birth = "1285.1.1"
+  }
+  1370.1.1 = {
+    death = "1370.1.1"
   }
 }
 183161 = {
@@ -7500,443 +8608,149 @@
     death = "1376.1.1"
   }
 }
-184083 = {
-  name = "マドグ"  # Madog
-  dynasty = 548
+160255 = {
+  name = "アールスヴァーイル"  # Arthfael
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 138462
-  1230.1.1 = {
-    birth = "1230.1.1"
+  father = 159109
+  849.1.1 = {
+    birth = "849.1.1"
   }
-  1277.1.1 = {
-    death = "1277.1.1"
+  916.1.1 = {
+    death = "916.1.1"
   }
 }
-184084 = {
-  name = "Gruffydd Fychan"
-  dynasty = 548
+160256 = {
+  name = "ルィス"  # Rhys
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 138462
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1289.1.1 = {
-    death = "1289.1.1"
-  }
-}
-184085 = {
-  name = "Madog Crypl"
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 184084
-  1275.1.1 = {
-    birth = "1275.1.1"
-  }
-  1304.1.1 = {
-    death = "1304.1.1"
-  }
-}
-184086 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 184085
-  1298.1.1 = {
-    birth = "1298.1.1"
-  }
-  1343.1.1 = {
-    death = "1343.1.1"
-  }
-}
-184087 = {
-  name = "Gruffydd Fychan"
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 184086
-  1320.1.1 = {
-    birth = "1320.1.1"
-  }
-  1369.1.1 = {
-    death = "1369.1.1"
-  }
-}
-184089 = {
-  name = "メールヴィン"  # Merfyn
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81831
-  865.1.1 = {
-    birth = "865.1.1"
+  father = 159109
+  851.1.1 = {
+    birth = "851.1.1"
   }
   900.1.1 = {
     death = "900.1.1"
   }
 }
-184090 = {
-  name = "シウエルィン"  # Llywelyn
-  dynasty = 101920
+160257 = {
+  name = "アールスヴァーイル"  # Arthfael
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 184089
-  890.1.1 = {
-    birth = "890.1.1"
+  father = 159110
+  835.1.1 = {
+    birth = "835.1.1"
   }
-  942.1.1 = {
-    death = "942.1.1"
+  895.1.1 = {
+    death = "895.1.1"
   }
 }
-184091 = {
-  name = "オウアイン"  # Owain
-  dynasty = 1042815
+160258 = {
+  name = "メイリグ"  # Meurig
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 214718
-  trait = bastard
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-184092 = {
-  name = "イオルウエルス"  # Iorwerth
-  dynasty = 1042815
-  religion = "catholic"
-  culture = "welsh"
-  father = 184091
-  1195.1.1 = {
-    birth = "1195.1.1"
-  }
-  1234.1.1 = {
-    add_spouse = 184094
-  }
-  1260.1.1 = {
-    death = "1260.1.1"
-  }
-}
-184093 = {
-  name = "マードグ"  # Madog
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 420007
-  1201.1.1 = {
-    birth = "1201.1.1"
-  }
-  1286.1.1 = {
-    death = "1286.1.1"
-  }
-}
-184094 = {
-  name = "Efa"
-  female = yes
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 184093
-  1217.1.1 = {
-    birth = "1217.1.1"
-  }
-  1286.1.1 = {
-    death = "1286.1.1"
-  }
-}
-184095 = {
-  name = "Gruffudd"
-  dynasty = 1042815
-  religion = "catholic"
-  culture = "welsh"
-  father = 184092
-  mother = 184094
-  1235.1.1 = {
-    birth = "1235.1.1"
-  }
-  1300.1.1 = {
-    death = "1300.1.1"
-  }
-}
-184096 = {
-  name = "マードグ"  # Madog
-  dynasty = 1042815
-  religion = "catholic"
-  culture = "welsh"
-  father = 184095
-  1285.1.1 = {
-    birth = "1285.1.1"
-  }
-  1370.1.1 = {
-    death = "1370.1.1"
-  }
-}
-184119 = {
-  name = "イオルウエルス"  # Iorwerth
-  dynasty = 1047018
-  religion = "catholic"
-  culture = "welsh"
-  father = 159068
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  759.1.1 = {
-    add_spouse = 184135
-  }
-  815.1.1 = {
-    dynasty = 200067
-    death = "815.1.1"
-  }
-}
-184120 = {
-  name = "イードネルス"  # Idnerth
-  dynasty = 1047018
-  religion = "catholic"
-  culture = "welsh"
-  father = 184119
-  mother = 184135
-  760.1.1 = {
-    birth = "760.1.1"
-  }
-  815.1.1 = {
-    dynasty = 200067
-  }
-  820.1.1 = {
-    death = "820.1.1"
-  }
-}
-184121 = {
-  name = "カードゥル"  # Cadwr
-  dynasty = 200067
-  religion = "catholic"
-  culture = "welsh"
-  father = 184120
+  father = 159111
   800.1.1 = {
-    birth = "800.1.1"
+    birth = yes
   }
-  870.1.1 = {
-    death = "870.1.1"
-  }
-}
-184122 = {
-  name = "カードゥル"  # Cadwr
-  dynasty = 200067
-  religion = "catholic"
-  culture = "welsh"
-  father = 184121
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
+  874.1.1 = {
+    death = yes
   }
 }
-184123 = {
-  name = "セヴェールス"  # Seferus
-  dynasty = 200067
+160259 = {
+  name = "ブローフヴァーイル"  # Brochfael
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 184122
-  860.1.1 = {
-    birth = "860.1.1"
+  father = 160258
+  850.1.1 = {
+    birth = yes
   }
-  940.1.1 = {
-    death = "940.1.1"
+  910.1.1 = {
+    death = yes
   }
 }
-184124 = {
-  name = "イーヴォル"  # Ifor
-  dynasty = 200067
+160260 = {
+  name = "フェールンヴァーイル"  # Ffernfael
+  dynasty = 547
   religion = "catholic"
   culture = "welsh"
-  father = 184123
+  father = 160258
+  845.1.1 = {
+    birth = yes
+  }
   890.1.1 = {
-    birth = "890.1.1"
-  }
-  950.1.1 = {
-    death = "950.1.1"
+    death = yes
   }
 }
-184125 = {
-  name = "クヘーリン"  # Cuhelyn
-  dynasty = 200067
+166442 = {
+  name = "ルン"  # Rhun
+  dynasty = 816
+  martial = 3
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
   religion = "catholic"
   culture = "welsh"
-  father = 184123
-  920.1.1 = {
-    birth = "920.1.1"
+  father = 163104
+  827.1.1 = {
+    birth = "827.1.1"
   }
-  980.1.1 = {
-    death = "980.1.1"
+  843.1.1 = {
+    add_spouse = 166443
+  }
+  878.1.1 = {
+    death = "878.1.1"
   }
 }
-184126 = {
-  name = "Cadwgon"
-  dynasty = 200067
-  father = 131701
+166446 = {
+  name = "オウアイン"  # Owain
+  dynasty = 816
+  martial = 6
+  diplomacy = 3
+  intrigue = 5
+  stewardship = 2
   religion = "catholic"
   culture = "welsh"
-  1000.1.1 = {
-    birth = "1000.1.1"
+  father = 166447
+  750.1.1 = {
+    birth = "750.1.1"
   }
-  1050.1.1 = {
-    death = "1050.1.1"
+  804.1.1 = {
+    death = "804.1.1"
   }
 }
-184127 = {
-  name = "マーイルグン"  # Maelgwn
-  dynasty = 200067
-  father = 131703
+166453 = {
+  name = "オウアイン"  # Owain
+  dynasty = 816
+  martial = 4
+  diplomacy = 6
+  intrigue = 3
+  stewardship = 5
   religion = "catholic"
   culture = "welsh"
-  1153.1.1 = {
-    birth = "1153.1.1"
+  father = 166454
+  611.1.1 = {
+    birth = "611.1.1"
   }
-  1188.1.1 = {
-    trait = "crusader"
-  }
-  1234.1.1 = {
-    death = "1234.1.1"
+  652.1.1 = {
+    death = "652.1.1"
   }
 }
-184128 = {
-  name = "マレードゥズ"  # Maredudd
-  dynasty = 200067
-  father = 184127
+205140 = {
+  name = "フィウエル"  # Hywel
+  dynasty = 14284
+  father = 159022
   religion = "catholic"
   culture = "welsh"
-  1195.1.1 = {
-    birth = "1195.1.1"
+  750.1.1 = {
+    birth = "750.1.1"
   }
-  1281.1.1 = {
-    death = "1281.1.1"
-  }
-}
-184129 = {
-  name = "マドグ"  # Madog
-  dynasty = 200067
-  father = 184128
-  religion = "catholic"
-  culture = "welsh"
-  1250.1.1 = {
-    birth = "1250.1.1"
-  }
-  1320.1.1 = {
-    death = "1320.1.1"
-  }
-}
-184130 = {
-  name = "マレードゥズ"  # Maredudd
-  dynasty = 1029032
-  religion = "catholic"
-  culture = "welsh"
-  trait = bastard
-  father = 159328
-  580.1.1 = {
-    birth = "580.1.1"
-  }
-  650.1.1 = {
-    death = "650.1.1"
-  }
-}
-184131 = {
-  name = "クィーナン"  # Cynan
-  dynasty = 1029032
-  religion = "catholic"
-  culture = "welsh"
-  father = 184130
-  610.1.1 = {
-    birth = "610.1.1"
-  }
-  680.1.1 = {
-    death = "680.1.1"
-  }
-}
-184132 = {
-  name = "マーイルグン"  # Maelgwn
-  dynasty = 1029032
-  religion = "catholic"
-  culture = "welsh"
-  father = 184131
-  640.1.1 = {
-    birth = "640.1.1"
-  }
-  710.1.1 = {
-    death = "710.1.1"
-  }
-}
-184133 = {
-  name = "イードゥアル"  # Idwal
-  dynasty = 1029032
-  religion = "catholic"
-  culture = "welsh"
-  father = 184132
-  670.1.1 = {
-    birth = "670.1.1"
-  }
-  740.1.1 = {
-    death = "740.1.1"
-  }
-}
-184134 = {
-  name = "ブリーハン"  # Brychan
-  dynasty = 1029032
-  religion = "catholic"
-  culture = "welsh"
-  father = 184133
-  710.1.1 = {
-    birth = "710.1.1"
-  }
-  770.1.1 = {
-    death = "770.1.1"
-  }
-}
-184135 = {
-  name = "Arianwen"
-  dynasty = 1029032
-  female = yes
-  religion = "catholic"
-  culture = "welsh"
-  father = 184134
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  820.1.1 = {
-    death = "820.1.1"
-  }
-}
-204051 = {
-  name = "アンハラッド"  # Angharad
-  female = yes
-  dynasty = 101905
-  religion = "catholic"
-  culture = "welsh"
-  father = 204056
-  mother = 204057
-  1126.1.1 = {
-    birth = "1126.1.1"
-  }
-  1176.1.1 = {
-    death = "1176.1.1"
-  }
-}
-204057 = {
-  name = "ネスト"  # Nest
-  female = yes
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  trait = "bastard"
-  father = 81816
-  1085.1.1 = {
-    birth = "1085.1.1"
-  }
-  1136.1.1 = {
-    death = "1136.1.1"
+  825.1.1 = {
+    death = "825.1.1"
   }
 }
 205137 = {
@@ -7967,61 +8781,6 @@
     death = "680.1.1"
   }
 }
-205140 = {
-  name = "フィウエル"  # Hywel
-  dynasty = 14284
-  father = 159022
-  religion = "catholic"
-  culture = "welsh"
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  825.1.1 = {
-    death = "825.1.1"
-  }
-}
-205830 = {
-  name = "アンドレフ"  # Andrev
-  dynasty = 310
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "welsh"
-  trait = "tough_soldier"
-  father = 205831
-  mother = 205840
-  1150.1.2 = {
-    birth = "1150.1.2"
-  }
-  1183.1.2 = {
-    add_spouse = 205785
-  }
-  1200.1.2 = {
-    death = "1200.1.2"
-  }
-}
-205831 = {
-  name = "ローナン"  # Ronan
-  dynasty = 310
-  martial = 4
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "welsh"
-  trait = "scholarly_theologian"
-  1118.1.2 = {
-    birth = "1118.1.2"
-  }
-  1148.1.2 = {
-    add_spouse = 205840
-  }
-  1173.1.31 = {
-    death = "1173.1.31"
-  }
-}
 214043 = {
   name = "アッサー"  # Asser
   religion = "catholic"
@@ -8036,586 +8795,6 @@
   }
   909.1.1 = {
     death = yes
-  }
-}
-214700 = {
-  name = "ダーヴィズ"  # Dafydd
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  trait = "kinslayer"
-  father = 214710
-  mother = 214808
-  1137.1.1 = {
-    birth = "1137.1.1"
-  }
-  1173.1.1 = {
-    add_spouse = 204499
-  }
-  1203.1.1 = {
-    death = "1203.1.1"
-  }
-}
-214701 = {
-  name = "オウアイン"  # Owain
-  dynasty = 101920
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "welsh"
-  trait = "deceitful"
-  trait = "humble"
-  trait = "tough_soldier"
-  father = 214700
-  mother = 204499
-  1174.1.2 = {
-    birth = "1174.1.2"
-  }
-  1224.1.2 = {
-    death = "1224.1.2"
-  }
-}
-214702 = {
-  name = "グエンフイヴァル"  # Gwenhwyfar
-  female = yes
-  dynasty = 101920
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "welsh"
-  trait = "craven"
-  trait = "thrifty_clerk"
-  father = 214700
-  mother = 204499
-  1175.1.2 = {
-    birth = "1175.1.2"
-  }
-  1225.1.2 = {
-    death = "1225.1.2"
-  }
-}
-214703 = {
-  name = "グエンシアン"  # Gwenllian
-  female = yes
-  dynasty = 101920
-  martial = 5
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "welsh"
-  trait = "chaste"
-  trait = "arbitrary"
-  trait = "thrifty_clerk"
-  father = 214700
-  mother = 204499
-  1176.1.2 = {
-    birth = "1176.1.2"
-  }
-  1226.1.2 = {
-    death = "1226.1.2"
-  }
-}
-214704 = {
-  name = "エイニオン"  # Einion
-  dynasty = 101920
-  martial = 6
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "welsh"
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 214700
-  mother = 204499
-  1177.1.2 = {
-    birth = "1177.1.2"
-  }
-  1227.1.2 = {
-    death = "1227.1.2"
-  }
-}
-214710 = {
-  name = "オウアイン"  # Owain
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81031
-  mother = 214814
-  trait = "lustful"
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1130.1.1 = {
-    add_spouse = 214711
-  }
-  1135.1.1 = {
-    remove_spouse = 214711
-  }
-  1136.1.1 = {
-    add_spouse = 214808
-  }
-  1169.11.1 = {
-    death = "1169.11.1"
-  }
-}
-214711 = {
-  name = "グラドゥス"  # Gwladus
-  dynasty = 101920
-  female = yes
-  religion = "catholic"
-  culture = "welsh"
-  father = 138478
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1161.1.1 = {
-    death = "1161.1.1"
-  }
-}
-214712 = {
-  name = "イオルウエルス・ドルインドゥイン"  # Iorwerth Drwyndwyn
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 214710
-  mother = 214711
-  trait = "ugly"
-  1132.1.1 = {
-    birth = "1132.1.1"
-  }
-  1167.1.1 = {
-    add_spouse = 214717
-  }
-  1174.1.1 = {
-    death = "1174.1.1"
-  }
-}
-214714 = {
-  name = "シウエルィン"  # Llywelyn
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  trait = "charismatic_negotiator"
-  trait = "brave"
-  trait = "diligent"
-  trait = "just"
-  trait = "patient"
-  disallow_random_traits = yes
-  father = 214712
-  mother = 214717
-  give_nickname = nick_the_great
-  1173.1.1 = {
-    birth = "1173.1.1"
-  }
-  1205.4.16 = {
-    add_spouse = 138451
-  }
-  1237.1.1 = {
-    trait = "incapable"
-  }
-  1240.4.11 = {
-    death = "1240.4.11"
-  }
-}
-214715 = {
-  name = "ルン"  # Rhun
-  dynasty = 101920
-  martial = 9
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "welsh"
-  trait = "brave"
-  trait = "diligent"
-  trait = "just"
-  trait = "patient"
-  father = 214710
-  mother = 214713
-  1130.1.2 = {
-    birth = "1130.1.2"
-  }
-  1146.1.8 = {
-    death = "1146.1.8"
-  }
-}
-214716 = {
-  name = "フィウエル"  # Hywel
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 214710
-  mother = 214713
-  trait = "bastard"
-  1131.1.1 = {
-    birth = "1131.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-214717 = {
-  name = "マラーレド"  # Marared
-  female = yes
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 214718
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1207.1.1 = {
-    death = "1207.1.1"
-  }
-}
-214718 = {
-  name = "マードグ"  # Madog
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 6360
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1126.1.1 = {
-    add_spouse = 138449
-  }
-  1159.1.1 = {
-    death = "1159.1.1"
-  }
-}
-214720 = {
-  name = "オウアイン・クィフェイリオグ"  # Owain Cyfeiliog
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 214722
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1156.1.1 = {
-    add_spouse = 214721
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-214721 = {
-  name = "グエンシアン"  # Gwenllian
-  female = yes
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 214710
-  trait = "bastard"
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-214722 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 6360
-  1064.1.1 = {
-    birth = "1064.1.1"
-  }
-  1128.1.1 = {
-    death = "1128.1.1"
-  }
-}
-214724 = {
-  name = "マードグ"  # Madog
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 81854
-  mother = 252368
-  1175.1.1 = {
-    birth = yes
-  }
-  1236.1.1 = {
-    death = yes
-  }
-}
-214800 = {
-  name = "ルィス"  # Rhys
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214810
-  mother = 214811
-  1132.1.2 = {
-    birth = "1132.1.2"
-  }
-  1153.1.1 = {
-    add_spouse = 214801
-  }
-  1197.4.28 = {
-    death = "1197.4.28"
-  }
-}
-214801 = {
-  name = "グエンシアン"  # Gwenllian
-  female = yes
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 214718
-  mother = 138449
-  1136.1.1 = {
-    birth = "1136.1.1"
-  }
-  1186.1.1 = {
-    death = "1186.1.1"
-  }
-}
-214802 = {
-  name = "グエンシアン"  # Gwenllian
-  female = yes
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1236.1.1 = {
-    death = "1236.1.1"
-  }
-}
-214803 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1164.1.1 = {
-    birth = "1164.1.1"
-  }
-  1189.1.1 = {
-    add_spouse = 204010
-  }
-  1201.8.1 = {
-    death = "1201.8.1"
-  }
-}
-214804 = {
-  name = "ルィス"  # Rhys
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1166.1.2 = {
-    birth = "1166.1.2"
-  }
-  1234.1.1 = {
-    death = "1234.1.1"
-  }
-}
-214805 = {
-  name = "ネスト"  # Nest
-  female = yes
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1167.1.1 = {
-    birth = "1167.1.1"
-  }
-  1217.1.1 = {
-    death = "1217.1.1"
-  }
-}
-214806 = {
-  name = "カトリン"  # Catrin
-  female = yes
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  trait = "bastard"
-  father = 214800
-  1172.1.1 = {
-    birth = "1172.1.1"
-  }
-  1222.1.1 = {
-    death = "1222.1.1"
-  }
-}
-214807 = {
-  name = "アンハラッド"  # Angharad
-  female = yes
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1172.1.1 = {
-    birth = "1172.1.1"
-  }
-  1226.1.1 = {
-    death = "1226.1.1"
-  }
-}
-214808 = {
-  name = "クリシアント"  # Crisiant
-  female = yes
-  dynasty = 101680
-  religion = "catholic"
-  culture = "welsh"
-  father = 214809
-  1118.1.1 = {
-    birth = "1118.1.1"
-  }
-  1161.1.2 = {
-    death = "1161.1.2"
-  }
-}
-214809 = {
-  name = "ゴローヌイ"  # Goronwy
-  dynasty = 101680
-  religion = "catholic"
-  culture = "welsh"
-  father = 214815
-  1063.1.1 = {
-    birth = "1063.1.1"
-  }
-  1124.1.1 = {
-    death = "1124.1.1"
-  }
-}
-214810 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 81816
-  mother = 40506
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1120.1.1 = {
-    add_spouse = 214811
-  }
-  1137.1.1 = {
-    death = "1137.1.1"
-  }
-}
-214811 = {
-  name = "グエンシアン"  # Gwenllian
-  female = yes
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 81031
-  mother = 214814
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1136.1.1 = {
-    death = "1136.1.1"
-  }
-}
-214814 = {
-  name = "アンハラッド"  # Angharad
-  female = yes
-  dynasty = 101680
-  religion = "catholic"
-  culture = "welsh"
-  father = 214815
-  1065.1.1 = {
-    birth = "1065.1.1"
-  }
-  1161.1.1 = {
-    death = "1161.1.1"
-  }
-}
-214815 = {
-  name = "オウアイン"  # Owain
-  dynasty = 101680
-  religion = "catholic"
-  culture = "welsh"
-  father = 40508
-  mother = 40505
-  1044.1.1 = {
-    birth = "1044.1.1"
-  }
-  1100.1.1 = {
-    trait = "pneumonic"
-  }
-  1102.1.1 = {
-    death = "1102.1.1"
-  }
-}
-232002 = {
-  name = "ロードリ"  # Rhodri
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  trait = "kinslayer"
-  father = 214710
-  mother = 214808
-  1136.1.1 = {
-    birth = "1136.1.1"
-  }
-  1179.1.1 = {
-    add_spouse = 214805
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-232003 = {
-  name = "トーマス"  # Tomas
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 232002
-  1179.1.1 = {
-    birth = "1179.1.1"
-  }
-  1229.1.1 = {
-    death = "1229.1.1"
-  }
-}
-232004 = {
-  name = "グルーフィド"  # Gruffyd
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 232002
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
-  }
-}
-232005 = {
-  name = "エイニオン"  # Einion
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 232002
-  1181.1.1 = {
-    birth = "1181.1.1"
-  }
-  1231.1.1 = {
-    death = "1231.1.1"
   }
 }
 252137 = {
@@ -11353,184 +11532,5 @@
   }
   990.1.1 = {
     death = yes
-  }
-}
-332039 = {
-  name = "マーイルグン"  # Maelgwn
-  dynasty = 101919
-  religion = "catholic"
-  culture = "welsh"
-  father = 214800
-  mother = 214801
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1231.1.1 = {
-    death = "1231.1.1"
-  }
-}
-420000 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 214714
-  trait = "bastard"
-  1204.1.1 = {
-    birth = "1204.1.1"
-  }
-  1244.3.1 = {
-    death = "1244.3.1"
-  }
-}
-420001 = {
-  name = "シウエルィン"  # Llywelyn
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420000
-  1234.1.1 = {
-    birth = "1234.1.1"
-  }
-  1278.10.13 = {
-    add_spouse = 144182
-  }
-  1282.12.10 = {
-    death = "1282.12.10"
-  }
-}
-420002 = {
-  name = "ダーヴィズ"  # Dafydd
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420000
-  1235.1.1 = {
-    birth = "1235.1.1"
-  }
-  1283.9.29 = {
-    death = "1283.9.29"
-  }
-}
-420003 = {
-  name = "オウアイン・ゴフ"  # Owain Goch
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420000
-  1221.1.1 = {
-    birth = "1221.1.1"
-  }
-  1282.1.1 = {
-    death = "1282.1.1"
-  }
-}
-420004 = {
-  name = "ロードリ"  # Rhodri
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420000
-  1231.1.1 = {
-    birth = "1231.1.1"
-  }
-  1315.1.1 = {
-    death = "1315.1.1"
-  }
-}
-420005 = {
-  name = "トーマス"  # Tomas
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420004
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1363.1.1 = {
-    death = "1363.1.1"
-  }
-}
-420006 = {
-  name = "オウアイン"  # Owain
-  dynasty = 101920
-  religion = "catholic"
-  culture = "welsh"
-  father = 420005
-  1330.1.1 = {
-    birth = "1330.1.1"
-  }
-  1380.1.1 = {
-    death = "1380.1.1"
-  }
-}
-420007 = {
-  name = "グエヌーイヌイン"  # Gwenwynwyn
-  dynasty = 548
-  religion = "catholic"
-  culture = "welsh"
-  father = 214720
-  mother = 214721
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1216.1.1 = {
-    death = "1216.1.1"
-  }
-}
-420008 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 200069
-  religion = "catholic"
-  culture = "welsh"
-  father = 420007
-  1212.1.1 = {
-    birth = "1212.1.1"
-  }
-  1286.1.1 = {
-    death = "1286.1.1"
-  }
-}
-420009 = {
-  name = "オウアイン"  # Owain
-  dynasty = 200069
-  religion = "catholic"
-  culture = "welsh"
-  father = 420008
-  1257.1.1 = {
-    birth = "1257.1.1"
-  }
-  1293.9.1 = {
-    death = "1293.9.1"
-  }
-}
-420010 = {
-  name = "グルーフィズ"  # Gruffydd
-  dynasty = 200069
-  religion = "catholic"
-  culture = "welsh"
-  father = 420009
-  1285.1.1 = {
-    birth = "1285.1.1"
-  }
-  1307.1.1 = {
-    add_spouse = 161690
-  }
-  1309.6.1 = {
-    death = "1309.6.1"
-  }
-}
-454211 = {
-  name = "ハーウィス"  # Hawis
-  female = yes
-  dynasty = 200069
-  religion = "catholic"
-  culture = "welsh"
-  father = 420009
-  1290.7.25 = {
-    birth = "1290.7.25"
-  }
-  1353.1.1 = {
-    death = "1353.1.1"
   }
 }

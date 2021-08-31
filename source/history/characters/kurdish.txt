@@ -1,120 +1,4 @@
-﻿3854 = {
-  name = "エブー＝アッバス"  # Ebu-Abbas
-  dynasty = 101690
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 4
-  religion = "sunni"
-  culture = "kurdish"
-  trait = "naive_appeaser"
-  1037.1.1 = {
-    birth = "1037.1.1"
-  }
-  1069.1.1 = {
-    death = "1069.1.1"
-  }
-}
-20691 = {
-  name = "スルシャプ"  # Surxap
-  dynasty = 101688
-  martial = 8
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "kurdish"
-  trait = "martial_cleric"
-  father = 93197
-  1048.1.1 = {
-    birth = "1048.1.1"
-  }
-  1107.1.1 = {
-    death = "1107.1.1"
-  }
-}
-20722 = {
-  name = "マムラーン"  # Mamlan
-  dynasty = 101868
-  martial = 4
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "kurdish"
-  trait = "brave"
-  trait = "martial_cleric"
-  father = 159153
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1071.1.1 = {
-    death = "1071.1.1"
-  }
-}
-20738 = {
-  name = "ネスル・エブールカシム・ニーザメッディーン"  # Nesr Ebûlqasim Nîzamedîn
-  dynasty = 101686
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 6
-  religion = "shiite"
-  culture = "kurdish"
-  father = 159147
-  trait = "just"
-  trait = "scholarly_theologian"
-  1041.1.1 = {
-    birth = "1041.1.1"
-  }
-  1065.1.1 = {
-    religion = "sunni"
-  }
-  1079.1.1 = {
-    death = "1079.1.1"
-  }
-}
-32911 = {
-  name = "シャーディー"  # Šadi
-  dynasty = 24000
-  religion = "sunni"
-  culture = "kurdish"
-  father = 159156
-  mother = 159157
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
-32912 = {
-  name = "シールクーフ・エセデッディーン"  # Šîrkûh Esededîn
-  dynasty = 24000
-  religion = "sunni"
-  culture = "kurdish"
-  father = 32911
-  1109.1.1 = {
-    birth = "1109.1.1"
-  }
-  1169.1.1 = {
-    death = "1169.1.1"
-  }
-}
-32913 = {
-  name = "シャーヘンシャー・ヌーレッディーン"  # Šahenšah Nûredîn
-  dynasty = 24000
-  religion = "sunni"
-  culture = "kurdish"
-  father = 226053
-  1128.1.1 = {
-    birth = "1128.1.1"
-  }
-  1148.1.1 = {
-    death = "1148.1.1"
-  }
-}
-41600 = {
+﻿41600 = {
   name = "シャウール"  # Šawur
   dynasty = 1029029
   martial = 4
@@ -363,6 +247,64 @@
     death = yes
   }
 }
+93521 = {
+  name = "メフムード"  # Mehmûd
+  dynasty = 1029029
+  religion = "sunni"
+  culture = "kurdish"
+  father = 41604
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1131.1.1 = {
+    death = "1131.1.1"
+  }
+}
+20722 = {
+  name = "マムラーン"  # Mamlan
+  dynasty = 101868
+  martial = 4
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "kurdish"
+  trait = "brave"
+  trait = "martial_cleric"
+  father = 159153
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1071.1.1 = {
+    death = "1071.1.1"
+  }
+}
+144057 = {
+  name = "エブー＝メムスール"  # Ebu-Memsûr
+  dynasty = 101688
+  religion = "sunni"
+  culture = "kurdish"
+  father = 20691
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+144058 = {
+  name = "スルシャプ"  # Surxap
+  dynasty = 101688
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93198
+  1135.1.1 = {
+    birth = "1135.1.1"
+  }
+  1190.1.1 = {
+    death = "1190.1.1"
+  }
+}
 93196 = {
   name = "ムハルヒル"  # Muhalhil
   dynasty = 101688
@@ -402,133 +344,21 @@
     death = "1148.1.1"
   }
 }
-93199 = {
-  name = "ミヘメド"  # Mihemed
-  dynasty = 7333
+3854 = {
+  name = "エブー＝アッバス"  # Ebu-Abbas
+  dynasty = 101690
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 4
   religion = "sunni"
   culture = "kurdish"
-  1080.1.1 = {
-    birth = "1080.1.1"
+  trait = "naive_appeaser"
+  1037.1.1 = {
+    birth = "1037.1.1"
   }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-93200 = {
-  name = "エブー＝テヒル"  # Ebu-Tehir
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93199
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1161.1.1 = {
-    death = "1161.1.1"
-  }
-}
-93201 = {
-  name = "ネスレッディーン・ハザルヘスプ"  # Nesreddin Hezarhesp
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93200
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
-  }
-}
-93202 = {
-  name = "テケレ"  # Tekele
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93201
-  1190.1.1 = {
-    birth = "1190.1.1"
-  }
-  1259.1.1 = {
-    death = "1259.1.1"
-  }
-}
-93203 = {
-  name = "エルプ＝エルグン"  # Elp-Ergun
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93202
-  1220.1.1 = {
-    birth = "1220.1.1"
-  }
-  1274.1.1 = {
-    death = "1274.1.1"
-  }
-}
-93204 = {
-  name = "ユースフ・シャー"  # Yusuf Šah
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93203
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1288.1.1 = {
-    death = "1288.1.1"
-  }
-}
-93205 = {
-  name = "エフラシヤーブ"  # Efrasiyab
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93204
-  1260.1.1 = {
-    birth = "1260.1.1"
-  }
-  1296.1.1 = {
-    death = "1296.1.1"
-  }
-}
-93206 = {
-  name = "ネスレッディーン・エフメド"  # Nesreddin Ehmed
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93205
-  1280.1.1 = {
-    birth = "1280.1.1"
-  }
-  1333.1.1 = {
-    death = "1333.1.1"
-  }
-}
-93207 = {
-  name = "ユースフ・シャー"  # Yusuf Šah
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93206
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1339.1.1 = {
-    death = "1339.1.1"
-  }
-}
-93208 = {
-  name = "エフラシヤーブ"  # Efrasiyab
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93207
-  1320.1.1 = {
-    birth = "1320.1.1"
-  }
-  1355.1.1 = {
-    death = "1355.1.1"
+  1069.1.1 = {
+    death = "1069.1.1"
   }
 }
 93229 = {
@@ -687,6 +517,175 @@
     death = "1355.1.1"
   }
 }
+93199 = {
+  name = "ミヘメド"  # Mihemed
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+93200 = {
+  name = "エブー＝テヒル"  # Ebu-Tehir
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93199
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1161.1.1 = {
+    death = "1161.1.1"
+  }
+}
+93201 = {
+  name = "ネスレッディーン・ハザルヘスプ"  # Nesreddin Hezarhesp
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93200
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
+93202 = {
+  name = "テケレ"  # Tekele
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93201
+  1190.1.1 = {
+    birth = "1190.1.1"
+  }
+  1259.1.1 = {
+    death = "1259.1.1"
+  }
+}
+93203 = {
+  name = "エルプ＝エルグン"  # Elp-Ergun
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93202
+  1220.1.1 = {
+    birth = "1220.1.1"
+  }
+  1274.1.1 = {
+    death = "1274.1.1"
+  }
+}
+93204 = {
+  name = "ユースフ・シャー"  # Yusuf Šah
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93203
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1288.1.1 = {
+    death = "1288.1.1"
+  }
+}
+93205 = {
+  name = "エフラシヤーブ"  # Efrasiyab
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93204
+  1260.1.1 = {
+    birth = "1260.1.1"
+  }
+  1296.1.1 = {
+    death = "1296.1.1"
+  }
+}
+93206 = {
+  name = "ネスレッディーン・エフメド"  # Nesreddin Ehmed
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93205
+  1280.1.1 = {
+    birth = "1280.1.1"
+  }
+  1333.1.1 = {
+    death = "1333.1.1"
+  }
+}
+93207 = {
+  name = "ユースフ・シャー"  # Yusuf Šah
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93206
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1339.1.1 = {
+    death = "1339.1.1"
+  }
+}
+93208 = {
+  name = "エフラシヤーブ"  # Efrasiyab
+  dynasty = 7333
+  religion = "sunni"
+  culture = "kurdish"
+  father = 93207
+  1320.1.1 = {
+    birth = "1320.1.1"
+  }
+  1355.1.1 = {
+    death = "1355.1.1"
+  }
+}
+226053 = {
+  name = "エイユーブ・ネクメッディーン"  # Eyyub Necmedîn
+  dynasty = 24000
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "sunni"
+  culture = "kurdish"
+  trait = "tough_soldier"
+  father = 32911
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1180.1.1 = {
+    death = yes
+  }
+}
+20738 = {
+  name = "ネスル・エブールカシム・ニーザメッディーン"  # Nesr Ebûlqasim Nîzamedîn
+  dynasty = 101686
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 6
+  religion = "shiite"
+  culture = "kurdish"
+  father = 159147
+  trait = "just"
+  trait = "scholarly_theologian"
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1065.1.1 = {
+    religion = "sunni"
+  }
+  1079.1.1 = {
+    death = "1079.1.1"
+  }
+}
 93419 = {
   name = "メンシュール・ネスル＝エッ＝デウレ"  # Mensûr Nesr-ed-dewle
   dynasty = 101686
@@ -700,81 +699,62 @@
     death = "1096.1.1"
   }
 }
-93521 = {
-  name = "メフムード"  # Mehmûd
-  dynasty = 1029029
+32911 = {
+  name = "シャーディー"  # Šadi
+  dynasty = 24000
   religion = "sunni"
   culture = "kurdish"
-  father = 41604
+  father = 159156
+  mother = 159157
   1080.1.1 = {
     birth = "1080.1.1"
   }
-  1131.1.1 = {
-    death = "1131.1.1"
+  1130.1.1 = {
+    death = "1130.1.1"
   }
 }
-144057 = {
-  name = "エブー＝メムスール"  # Ebu-Memsûr
-  dynasty = 101688
+32912 = {
+  name = "シールクーフ・エセデッディーン"  # Šîrkûh Esededîn
+  dynasty = 24000
   religion = "sunni"
   culture = "kurdish"
-  father = 20691
-  1064.1.1 = {
-    birth = "1064.1.1"
+  father = 32911
+  1109.1.1 = {
+    birth = "1109.1.1"
   }
-  1116.1.1 = {
-    death = "1116.1.1"
+  1169.1.1 = {
+    death = "1169.1.1"
   }
 }
-144058 = {
+32913 = {
+  name = "シャーヘンシャー・ヌーレッディーン"  # Šahenšah Nûredîn
+  dynasty = 24000
+  religion = "sunni"
+  culture = "kurdish"
+  father = 226053
+  1128.1.1 = {
+    birth = "1128.1.1"
+  }
+  1148.1.1 = {
+    death = "1148.1.1"
+  }
+}
+20691 = {
   name = "スルシャプ"  # Surxap
   dynasty = 101688
+  martial = 8
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
   religion = "sunni"
   culture = "kurdish"
-  father = 93198
-  1135.1.1 = {
-    birth = "1135.1.1"
+  trait = "martial_cleric"
+  father = 93197
+  1048.1.1 = {
+    birth = "1048.1.1"
   }
-  1190.1.1 = {
-    death = "1190.1.1"
-  }
-}
-146051 = {
-  name = "フライム"  # Khuraym
-  dynasty = 1022363
-  religion = "sunni"
-  culture = "kurdish"
-  700.1.1 = {
-    birth = yes
-  }
-  759.1.1 = {
-    death = yes
-  }
-}
-146052 = {
-  name = "ウマラ"  # Umara
-  dynasty = 1022363
-  religion = "sunni"
-  culture = "kurdish"
-  father = 146051
-  720.1.1 = {
-    birth = yes
-  }
-  774.1.1 = {
-    death = yes
-  }
-}
-146053 = {
-  name = "ウスマン"  # Uthman
-  dynasty = 1022363
-  religion = "sunni"
-  culture = "kurdish"
-  father = 146052
-  742.1.1 = {
-    birth = yes
-  }
-  806.1.1 = {
-    death = yes
+  1107.1.1 = {
+    death = "1107.1.1"
   }
 }
 159142 = {
@@ -1552,33 +1532,6 @@
     death = "290.8.29"
   }
 }
-159579 = {
-  name = "ヴォロガセス"  # Balaxš
-  dynasty = 100685
-  religion = "zoroastrian"
-  culture = "kurdish"
-  father = 159550
-  180.11.1 = {
-    birth = yes
-  }
-  230.8.29 = {
-    death = yes
-  }
-}
-166942 = {
-  name = "アブシュ"  # Absh
-  female = yes
-  dynasty = 7333
-  religion = "sunni"
-  culture = "kurdish"
-  father = 93203
-  1238.1.1 = {
-    birth = yes
-  }
-  1287.1.1 = {
-    death = yes
-  }
-}
 180750 = {
   name = "ジュスタン"  # Justan
   dynasty = 7513
@@ -1814,6 +1767,56 @@
     death = "966.1.1"
   }
 }
+146051 = {
+  name = "フライム"  # Khuraym
+  dynasty = 1022363
+  religion = "sunni"
+  culture = "kurdish"
+  700.1.1 = {
+    birth = yes
+  }
+  759.1.1 = {
+    death = yes
+  }
+}
+146052 = {
+  name = "ウマラ"  # Umara
+  dynasty = 1022363
+  religion = "sunni"
+  culture = "kurdish"
+  father = 146051
+  720.1.1 = {
+    birth = yes
+  }
+  774.1.1 = {
+    death = yes
+  }
+}
+146053 = {
+  name = "ウスマン"  # Uthman
+  dynasty = 1022363
+  religion = "sunni"
+  culture = "kurdish"
+  father = 146052
+  742.1.1 = {
+    birth = yes
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+188726 = {
+  name = "フェズル"  # Fezl
+  dynasty = 1042159
+  religion = "sunni"
+  culture = "kurdish"
+  738.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
 188656 = {
   name = "フェリード"  # Ferîd
   dynasty = 1042128
@@ -1862,15 +1865,17 @@
     death = yes
   }
 }
-188726 = {
-  name = "フェズル"  # Fezl
-  dynasty = 1042159
+166942 = {
+  name = "アブシュ"  # Absh
+  female = yes
+  dynasty = 7333
   religion = "sunni"
   culture = "kurdish"
-  738.1.1 = {
+  father = 93203
+  1238.1.1 = {
     birth = yes
   }
-  795.1.1 = {
+  1287.1.1 = {
     death = yes
   }
 }
@@ -2017,6 +2022,19 @@
     death = yes
   }
 }
+159579 = {
+  name = "ヴォロガセス"  # Balaxš
+  dynasty = 100685
+  religion = "zoroastrian"
+  culture = "kurdish"
+  father = 159550
+  180.11.1 = {
+    birth = yes
+  }
+  230.8.29 = {
+    death = yes
+  }
+}
 214062 = {
   name = "アルタバノス"  # Erdewan
   dynasty = 100685
@@ -2041,24 +2059,6 @@
     birth = yes
   }
   270.1.1 = {
-    death = yes
-  }
-}
-226053 = {
-  name = "エイユーブ・ネクメッディーン"  # Eyyub Necmedîn
-  dynasty = 24000
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "sunni"
-  culture = "kurdish"
-  trait = "tough_soldier"
-  father = 32911
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1180.1.1 = {
     death = yes
   }
 }

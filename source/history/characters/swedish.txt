@@ -1,321 +1,4 @@
-﻿20005 = {
-  name = "シュドムンド"  # Tjudmund
-  dynasty = 100287
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "harelip"
-  trait = "martial_cleric"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20006 = {
-  name = "オラーフ"  # Olaf
-  dynasty = 100291
-  martial = 7
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 7
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20007 = {
-  name = "テュケー"  # Tyke
-  dynasty = 100300
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "swedish"
-  trait = "humble"
-  trait = "ill"
-  trait = "fortune_builder"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20008 = {
-  name = "ファステー"  # Faste
-  dynasty = 100295
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "swedish"
-  trait = "wroth"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20009 = {
-  name = "フィン"  # Finn
-  dynasty = 100294
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "swedish"
-  trait = "scholarly_theologian"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20010 = {
-  name = "Kettil"
-  dynasty = 100298
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "swedish"
-  trait = "lustful"
-  trait = "patient"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20011 = {
-  name = "アルゴ"  # Algot
-  dynasty = 100006
-  martial = 4
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "swedish"
-  trait = "flamboyant_schemer"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20012 = {
-  name = "Sigvard"
-  dynasty = 100299
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "swedish"
-  trait = "wroth"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20013 = {
-  name = "コルビョルム"  # Kolbjörn
-  dynasty = 100283
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 5
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "patient"
-  trait = "craven"
-  trait = "underhanded_rogue"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-20014 = {
-  name = "トージ"  # Thord
-  dynasty = 100281
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "patient"
-  trait = "underhanded_rogue"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-20015 = {
-  name = "ボートルフ"  # Botulf
-  dynasty = 100280
-  martial = 5
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 8
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "patient"
-  trait = "kind"
-  trait = "proud"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-20020 = {
-  name = "Toke"
-  dynasty = 827
-  religion = "norse_pagan"
-  culture = "swedish"
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-30546 = {
-  name = "Mariana"
-  female = yes
-  dynasty = 381
-  religion = "catholic"
-  culture = "swedish"
-  father = 200504
-  mother = 201506
-  1211.1.1 = {
-    birth = "1211.1.1"
-  }
-  1252.6.27 = {
-    death = "1252.6.27"
-  }
-}
-30547 = {
-  name = "Sofia"
-  female = yes
-  dynasty = 381
-  religion = "catholic"
-  culture = "swedish"
-  father = 200504
-  mother = 201506
-  1217.1.1 = {
-    birth = "1217.1.1"
-  }
-  1241.4.24 = {
-    death = "1241.4.24"
-  }
-}
-30605 = {
-  name = "Rikissa"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  trait = "amateurish_plotter"
-  father = 450510
-  mother = 450511
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1288.12.13 = {
-    death = "1288.12.13"
-  }
-}
-33337 = {
-  name = "エーリク"  # Erik
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450510
-  mother = 450511
-  1250.1.1 = {
-    birth = "1250.1.1"
-  }
-  1275.12.17 = {
-    death = "1275.12.17"
-  }
-}
-33338 = {
-  name = "ベイン"  # Bengt
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  trait = "celibate"
-  trait = "scholarly_theologian"
-  father = 450510
-  mother = 450511
-  1254.1.1 = {
-    birth = "1254.1.1"
-  }
-  1291.5.25 = {
-    death = "1291.5.25"
-  }
-}
-33339 = {
-  name = "Ingeborg"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450510
-  mother = 450511
-  1252.1.1 = {
-    birth = "1252.1.1"
-  }
-  1302.6.30 = {
-    death = "1302.6.30"
-  }
-}
-33340 = {
-  name = "Gregers"
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  trait = "legit_bastard"
-  father = 450510
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1276.1.1 = {
-    death = "1276.1.1"
-  }
-}
-100514 = {
+﻿100514 = {
   name = "イングリード"  # Ingrid
   female = yes
   dynasty = 502
@@ -815,271 +498,6 @@
     death = "1126.6.6"
   }
 }
-100554 = {
-  name = "Ingrid"
-  female = yes
-  dynasty = 498
-  martial = 4
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "swedish"
-  trait = "proud"
-  trait = "deceitful"
-  trait = "intricate_webweaver"
-  father = 100552
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1162.1.1 = {
-    death = "1162.1.1"
-  }
-}
-101503 = {
-  name = "Gyrid"
-  female = yes
-  dynasty = 502
-  martial = 7
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 5
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "just"
-  trait = "envious"
-  trait = "patient"
-  trait = "scholarly_theologian"
-  father = 100502
-  960.1.1 = {
-    birth = "960.1.1"
-  }
-  979.1.1 = {
-    religion = "catholic"
-  }
-  1002.11.13 = {
-    death = "1002.11.13"
-  }
-}
-102542 = {
-  name = "ウルフ"  # Ulf
-  dynasty = 500
-  martial = 6
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 8
-  religion = "norse_pagan"
-  culture = "swedish"
-  trait = "just"
-  trait = "charismatic_negotiator"
-  father = 100521
-  mother = 102545
-  1001.1.2 = {
-    birth = "1001.1.2"
-  }
-  1040.1.1 = {
-    death = "1040.1.1"
-  }
-}
-126001 = {
-  name = "Rikissa"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450506
-  mother = 451511
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1292.1.1 = {
-    death = "1292.1.1"
-  }
-}
-126002 = {
-  name = "Tengil"
-  dna = "dfpknhcpfcp"
-  properties = "fckjhj"
-  dynasty = 1055
-  religion = "norse_pagan"
-  culture = "swedish"
-  martial = 6
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  learning = 5
-  trait = "brilliant_strategist"
-  trait = "cruel"
-  trait = "temperate"
-  trait = "envious"
-  trait = "deceitful"
-  trait = "ambitious"
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1050.1.1 = {
-    give_nickname = nick_the_liberator
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-126003 = {
-  name = "Jossi"
-  dna = "poaanmhlbai"
-  properties = "cehich"
-  dynasty = 1057
-  religion = "norse_pagan"
-  culture = "swedish"
-  martial = 3
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 3
-  learning = 6
-  trait = "elusive_shadow"
-  trait = "deceitful"
-  trait = "gluttonous"
-  trait = "craven"
-  1022.1.1 = {
-    birth = "1022.1.1"
-  }
-  1066.1.1 = {
-    employer = 126002
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-143136 = {
-  name = "オロフ"  # Olaf
-  dynasty = 100291
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 20006
-  1069.1.1 = {
-    birth = "1069.1.1"
-  }
-  1139.1.1 = {
-    death = "1139.1.1"
-  }
-}
-143137 = {
-  name = "オロフ"  # Olaf
-  dynasty = 100291
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 143136
-  1119.1.1 = {
-    birth = "1119.1.1"
-  }
-  1158.1.1 = {
-    death = "1158.1.1"
-  }
-}
-143138 = {
-  name = "Faste"
-  dynasty = 100295
-  religion = "catholic"
-  culture = "swedish"
-  father = 20008
-  1069.1.1 = {
-    birth = "1069.1.1"
-  }
-  1139.1.1 = {
-    death = "1139.1.1"
-  }
-}
-143139 = {
-  name = "Faste"
-  dynasty = 100295
-  religion = "catholic"
-  culture = "swedish"
-  father = 143138
-  1119.1.1 = {
-    birth = "1119.1.1"
-  }
-  1187.1.1 = {
-    death = "1187.1.1"
-  }
-}
-143140 = {
-  name = "トージ"  # Thord
-  dynasty = 100281
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 20014
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-143141 = {
-  name = "トージ"  # Thord
-  dynasty = 100281
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 143140
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1187.1.1 = {
-    death = "1187.1.1"
-  }
-}
-143142 = {
-  name = "ボートルフ"  # Botulf
-  dynasty = 100280
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 20015
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-143143 = {
-  name = "ボートルフ"  # Botulf
-  dynasty = 100280
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 143142
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1187.1.1 = {
-    death = "1187.1.1"
-  }
-}
-143144 = {
-  name = "アーンファス"  # Arnfast
-  dynasty = 100280
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 200001
-  1200.1.1 = {
-    birth = "1200.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-143145 = {
-  name = "アーンファス"  # Arnfast
-  dynasty = 100280
-  religion = "norse_pagan"
-  culture = "swedish"
-  father = 143144
-  1250.1.1 = {
-    birth = "1250.1.1"
-  }
-  1310.1.1 = {
-    death = "1310.1.1"
-  }
-}
 144648 = {
   name = "フィリープ"  # Filip
   dynasty = 381
@@ -1118,2654 +536,6 @@
   }
   1253.1.1 = {
     death = "1253.1.1"
-  }
-}
-161122 = {
-  name = "ベイン"  # Bengt
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 200533
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1298.1.1 = {
-    death = "1298.1.1"
-  }
-}
-161123 = {
-  name = "Sigge"
-  dynasty = 1030030
-  religion = "catholic"
-  culture = "swedish"
-  father = 202044
-  mother = 202043
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1215.1.1 = {
-    death = "1215.1.1"
-  }
-}
-167300 = {
-  name = "Audvald"
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 100536
-  mother = 167630
-  1066.1.1 = {
-    birth = "1066.1.1"
-  }
-  1088.1.1 = {
-    add_spouse = 167631
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-167301 = {
-  name = "Likair"
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 100536
-  mother = 167630
-  1068.1.1 = {
-    birth = "1068.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-167302 = {
-  name = "Rodiaud"
-  female = yes
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167301
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-167303 = {
-  name = "アスビョルン"  # Asbjörn
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167300
-  mother = 167631
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1108.1.1 = {
-    add_spouse = 167632
-  }
-  1148.1.1 = {
-    death = "1148.1.1"
-  }
-}
-167304 = {
-  name = "マグヌス"  # Magnus
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167303
-  mother = 167632
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1138.1.1 = {
-    add_spouse = 167633
-  }
-  1176.1.1 = {
-    death = "1176.1.1"
-  }
-}
-167305 = {
-  name = "Gyla"
-  female = yes
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167303
-  mother = 167632
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-167306 = {
-  name = "ブリニョルフ"  # Brynjolf
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167304
-  mother = 167633
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1158.1.1 = {
-    add_spouse = 167634
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167307 = {
-  name = "Audvald"
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167304
-  mother = 167633
-  1142.1.1 = {
-    birth = "1142.1.1"
-  }
-  1205.1.1 = {
-    death = "1205.1.1"
-  }
-}
-167308 = {
-  name = "オロフ"  # Olaf
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167304
-  mother = 167633
-  1144.1.1 = {
-    birth = "1144.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-167309 = {
-  name = "Inga"
-  female = yes
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167304
-  mother = 167633
-  1146.1.1 = {
-    birth = "1146.1.1"
-  }
-  1206.1.1 = {
-    death = "1206.1.1"
-  }
-}
-167310 = {
-  name = "マグヌス"  # Magnus
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167306
-  mother = 167634
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1187.1.1 = {
-    add_spouse = 167635
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-167311 = {
-  name = "Tolir"
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167306
-  mother = 167634
-  1161.1.1 = {
-    birth = "1161.1.1"
-  }
-  1211.1.1 = {
-    death = "1211.1.1"
-  }
-}
-167312 = {
-  name = "Rikissa"
-  female = yes
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167307
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1212.1.1 = {
-    death = "1212.1.1"
-  }
-}
-167313 = {
-  name = "Aleta"
-  female = yes
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167307
-  1161.1.1 = {
-    birth = "1161.1.1"
-  }
-  1214.1.1 = {
-    death = "1214.1.1"
-  }
-}
-167314 = {
-  name = "イングヴァル"  # Ingvar
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167308
-  1164.1.1 = {
-    birth = "1164.1.1"
-  }
-  1214.1.1 = {
-    death = "1214.1.1"
-  }
-}
-167315 = {
-  name = "Tjudmund"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  1000.1.1 = {
-    birth = "1000.1.1"
-  }
-  1024.1.1 = {
-    add_spouse = 167636
-  }
-  1050.1.1 = {
-    death = "1050.1.1"
-  }
-}
-167316 = {
-  name = "Kettil"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167315
-  mother = 167636
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1048.1.1 = {
-    add_spouse = 167637
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-167317 = {
-  name = "Ragnhild"
-  female = yes
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167315
-  mother = 167636
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-167318 = {
-  name = "Tjudmund"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167316
-  mother = 167637
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1116.1.1 = {
-    death = "1116.1.1"
-  }
-}
-167319 = {
-  name = "ニクラス"  # Niklas
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167316
-  mother = 167637
-  1052.1.1 = {
-    birth = "1052.1.1"
-  }
-  1074.1.1 = {
-    add_spouse = 167638
-  }
-  1104.1.1 = {
-    death = "1104.1.1"
-  }
-}
-167320 = {
-  name = "Holmfrid"
-  female = yes
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167319
-  mother = 167638
-  1075.1.1 = {
-    birth = "1075.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-167321 = {
-  name = "Maer"
-  female = yes
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167319
-  mother = 167638
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1133.1.1 = {
-    death = "1133.1.1"
-  }
-}
-167322 = {
-  name = "イェドヴァルド"  # Jedvard
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167319
-  mother = 167638
-  1084.1.1 = {
-    birth = "1084.1.1"
-  }
-  1110.1.1 = {
-    add_spouse = 167302
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
-167323 = {
-  name = "Tjudmund"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167322
-  mother = 167302
-  1112.1.1 = {
-    birth = "1112.1.1"
-  }
-  1138.1.1 = {
-    add_spouse = 167639
-  }
-  1175.1.1 = {
-    death = "1175.1.1"
-  }
-}
-167324 = {
-  name = "イェドヴァルド"  # Jedvard
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167323
-  mother = 167639
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1159.1.1 = {
-    add_spouse = 167640
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-167325 = {
-  name = "ニクラス"  # Niklas
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167324
-  mother = 167640
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1187.1.1 = {
-    add_spouse = 167312
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-167326 = {
-  name = "Tjudmund"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167324
-  mother = 167640
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1212.1.1 = {
-    death = "1212.1.1"
-  }
-}
-167327 = {
-  name = "ハルステン"  # Halsten
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167323
-  mother = 167639
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167328 = {
-  name = "Aleta"
-  female = yes
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167327
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1215.1.1 = {
-    death = "1215.1.1"
-  }
-}
-167329 = {
-  name = "ニクラス"  # Niklas
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167327
-  1166.1.1 = {
-    birth = "1166.1.1"
-  }
-  1216.1.1 = {
-    death = "1216.1.1"
-  }
-}
-167330 = {
-  name = "Faste"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1028.1.1 = {
-    add_spouse = 167641
-  }
-  1060.1.1 = {
-    death = "1060.1.1"
-  }
-}
-167331 = {
-  name = "Tolir"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167330
-  mother = 167641
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1048.1.1 = {
-    add_spouse = 167317
-  }
-  1098.1.1 = {
-    death = "1098.1.1"
-  }
-}
-167332 = {
-  name = "ダーグ"  # Dag
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167330
-  mother = 167641
-  1035.1.1 = {
-    birth = "1035.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-167333 = {
-  name = "オロフ"  # Olaf
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167330
-  mother = 167641
-  1040.1.1 = {
-    birth = "1040.1.1"
-  }
-  1092.1.1 = {
-    death = "1092.1.1"
-  }
-}
-167334 = {
-  name = "アーンファス"  # Arnfast
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167331
-  mother = 167317
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1066.1.1 = {
-    add_spouse = 167642
-  }
-  1107.1.1 = {
-    death = "1107.1.1"
-  }
-}
-167335 = {
-  name = "Tjudmund"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167331
-  mother = 167317
-  1055.1.1 = {
-    birth = "1055.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167336 = {
-  name = "シグトリッグ"  # Sigtrygg
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  trait = "legit_bastard"
-  father = 167332
-  1055.1.1 = {
-    birth = "1055.1.1"
-  }
-  1098.1.1 = {
-    death = "1098.1.1"
-  }
-}
-167337 = {
-  name = "エームンド"  # Emund
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167334
-  mother = 167642
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1098.1.1 = {
-    add_spouse = 167643
-  }
-  1128.1.1 = {
-    death = "1128.1.1"
-  }
-}
-167338 = {
-  name = "Faste"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167337
-  mother = 167643
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1155.1.1 = {
-    death = "1155.1.1"
-  }
-}
-167339 = {
-  name = "アーンファス"  # Arnfast
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167338
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1142.1.1 = {
-    add_spouse = 167305
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-167340 = {
-  name = "スヴェルケル"  # Sverker
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167339
-  mother = 167305
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1164.1.1 = {
-    add_spouse = 167644
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167341 = {
-  name = "Faste"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167339
-  mother = 167305
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167342 = {
-  name = "ホーコン"  # Håkan
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1028.1.1 = {
-    add_spouse = 167649
-  }
-  1055.1.1 = {
-    death = "1055.1.1"
-  }
-}
-167343 = {
-  name = "Rörek"
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167342
-  mother = 167649
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1050.1.1 = {
-    add_spouse = 167650
-  }
-  1070.1.1 = {
-    death = "1070.1.1"
-  }
-}
-167344 = {
-  name = "シグルド"  # Sigurd
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167342
-  mother = 167649
-  1032.1.1 = {
-    birth = "1032.1.1"
-  }
-  1050.1.1 = {
-    add_spouse = 167651
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-167345 = {
-  name = "ホーコン"  # Håkan
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167344
-  mother = 167651
-  1052.1.1 = {
-    birth = "1052.1.1"
-  }
-  1070.1.1 = {
-    add_spouse = 167364
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-167346 = {
-  name = "スヴェン"  # Sven
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167344
-  mother = 167651
-  1056.1.1 = {
-    birth = "1056.1.1"
-  }
-  1079.1.1 = {
-    add_spouse = 167653
-  }
-  1104.1.1 = {
-    death = "1104.1.1"
-  }
-}
-167347 = {
-  name = "Öystein"
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167344
-  mother = 167651
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1118.1.1 = {
-    death = "1118.1.1"
-  }
-}
-167348 = {
-  name = "シグルド"  # Sigurd
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167345
-  mother = 167364
-  1072.1.1 = {
-    birth = "1072.1.1"
-  }
-  1095.1.1 = {
-    add_spouse = 167652
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
-167349 = {
-  name = "アスビョルン"  # Asbjörn
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167346
-  mother = 167653
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1099.1.1 = {
-    add_spouse = 167654
-  }
-  1135.1.1 = {
-    death = "1135.1.1"
-  }
-}
-167350 = {
-  name = "Ingeborg"
-  female = yes
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167347
-  1085.1.1 = {
-    birth = "1085.1.1"
-  }
-  1135.1.1 = {
-    death = "1135.1.1"
-  }
-}
-167351 = {
-  name = "ホーコン"  # Håkan
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167349
-  mother = 167654
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1124.1.1 = {
-    add_spouse = 167655
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-167352 = {
-  name = "ベイン"  # Bengt
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167351
-  mother = 167655
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1149.1.1 = {
-    add_spouse = 167656
-  }
-  1178.1.1 = {
-    death = "1178.1.1"
-  }
-}
-167353 = {
-  name = "シグルド"  # Sigurd
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167351
-  mother = 167655
-  1130.1.1 = {
-    birth = "1130.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167354 = {
-  name = "Rörek"
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167352
-  mother = 167656
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167355 = {
-  name = "Sämund"
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167352
-  mother = 167656
-  1153.1.1 = {
-    birth = "1153.1.1"
-  }
-  1169.1.1 = {
-    add_spouse = 167657
-  }
-  1203.1.1 = {
-    death = "1203.1.1"
-  }
-}
-167356 = {
-  name = "ホーコン"  # Håkan
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167355
-  mother = 167657
-  1171.1.1 = {
-    birth = "1171.1.1"
-  }
-  1187.1.1 = {
-    add_spouse = 167313
-  }
-  1221.1.1 = {
-    death = "1221.1.1"
-  }
-}
-167357 = {
-  name = "ブロール"  # Bror
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  trait = "legit_bastard"
-  father = 167353
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1166.1.1 = {
-    add_spouse = 167658
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167358 = {
-  name = "シグルド"  # Sigurd
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167357
-  mother = 167658
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1220.1.1 = {
-    death = "1220.1.1"
-  }
-}
-167359 = {
-  name = "シグトリッグ"  # Sigtrygg
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167357
-  mother = 167658
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1220.1.1 = {
-    death = "1220.1.1"
-  }
-}
-167360 = {
-  name = "シグビョルン"  # Sigbjörn
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167357
-  mother = 167658
-  1171.1.1 = {
-    birth = "1171.1.1"
-  }
-  1222.1.1 = {
-    death = "1222.1.1"
-  }
-}
-167361 = {
-  name = "クヌート"  # Knut
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  1020.1.1 = {
-    birth = "1020.1.1"
-  }
-  1044.1.1 = {
-    add_spouse = 167645
-  }
-  1077.1.1 = {
-    death = "1077.1.1"
-  }
-}
-167362 = {
-  name = "デューレ"  # Dyre
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167361
-  mother = 167645
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1063.1.1 = {
-    add_spouse = 167646
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-167363 = {
-  name = "Folke"
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167361
-  mother = 167645
-  1048.1.1 = {
-    birth = "1048.1.1"
-  }
-  1105.1.1 = {
-    death = "1105.1.1"
-  }
-}
-167364 = {
-  name = "Inga"
-  female = yes
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167361
-  mother = 167645
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1105.1.1 = {
-    death = "1105.1.1"
-  }
-}
-167365 = {
-  name = "クヌート"  # Knut
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167362
-  mother = 167646
-  1065.1.1 = {
-    birth = "1065.1.1"
-  }
-  1084.1.1 = {
-    add_spouse = 167647
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167366 = {
-  name = "エーリク"  # Erik
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167363
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-167367 = {
-  name = "ウルフ"  # Ulf
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167363
-  1072.1.1 = {
-    birth = "1072.1.1"
-  }
-  1125.1.1 = {
-    death = "1125.1.1"
-  }
-}
-167368 = {
-  name = "ビョルン"  # Björn
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167365
-  mother = 167647
-  1085.1.1 = {
-    birth = "1085.1.1"
-  }
-  1109.1.1 = {
-    add_spouse = 167648
-  }
-  1145.1.1 = {
-    death = "1145.1.1"
-  }
-}
-167369 = {
-  name = "ユーハン"  # Johan
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167365
-  mother = 167647
-  1089.1.1 = {
-    birth = "1089.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-167370 = {
-  name = "クヌート"  # Knut
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167368
-  mother = 167648
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-167371 = {
-  name = "Folke"
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167368
-  mother = 167648
-  1115.1.1 = {
-    birth = "1115.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-167372 = {
-  name = "ラグンヴァルド"  # Ragnvald
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167368
-  mother = 167648
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1158.1.1 = {
-    add_spouse = 167377
-  }
-  1193.1.1 = {
-    death = "1193.1.1"
-  }
-}
-167373 = {
-  name = "クヌート"  # Knut
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167372
-  mother = 167377
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-167374 = {
-  name = "Folke"
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167372
-  mother = 167377
-  1161.1.1 = {
-    birth = "1161.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-167375 = {
-  name = "ビョルン"  # Björn
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  trait = "twin"
-  father = 167372
-  mother = 167377
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1212.1.1 = {
-    death = "1212.1.1"
-  }
-}
-167376 = {
-  name = "ユーハン"  # Johan
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  trait = "twin"
-  father = 167372
-  mother = 167377
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1215.1.1 = {
-    death = "1215.1.1"
-  }
-}
-167377 = {
-  name = "Sigrid"
-  female = yes
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167323
-  mother = 167639
-  1142.1.1 = {
-    birth = "1142.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167378 = {
-  name = "ダーグ"  # Dag
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167340
-  mother = 167644
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1215.1.1 = {
-    death = "1215.1.1"
-  }
-}
-167379 = {
-  name = "Tolir"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167340
-  mother = 167644
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1218.1.1 = {
-    death = "1218.1.1"
-  }
-}
-167390 = {
-  name = "Brigitta"
-  female = yes
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167355
-  mother = 167657
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1220.1.1 = {
-    death = "1220.1.1"
-  }
-}
-167630 = {
-  name = "イルヴァ"  # Ylva
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1048.1.1 = {
-    birth = "1048.1.1"
-  }
-  1098.1.1 = {
-    death = "1098.1.1"
-  }
-}
-167631 = {
-  name = "Sara"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1065.1.1 = {
-    birth = "1065.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-167632 = {
-  name = "Inga"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1092.1.1 = {
-    birth = "1092.1.1"
-  }
-  1142.1.1 = {
-    death = "1142.1.1"
-  }
-}
-167633 = {
-  name = "Bothild"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-167634 = {
-  name = "Holmfrid"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167635 = {
-  name = "Aleta"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167636 = {
-  name = "アーサ"  # Asa
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1055.1.1 = {
-    death = "1055.1.1"
-  }
-}
-167637 = {
-  name = "Gunhild"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-167638 = {
-  name = "Kristina"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167639 = {
-  name = "Rikissa"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1172.1.1 = {
-    death = "1172.1.1"
-  }
-}
-167640 = {
-  name = "Ragnfrid"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167641 = {
-  name = "Ulvhilde"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1070.1.1 = {
-    death = "1070.1.1"
-  }
-}
-167642 = {
-  name = "Ingegerd"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167643 = {
-  name = "Beata"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-167644 = {
-  name = "Helena"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-167645 = {
-  name = "Birgitta"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-167646 = {
-  name = "Alfhild"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1095.1.1 = {
-    death = "1095.1.1"
-  }
-}
-167647 = {
-  name = "Elisabet"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1066.1.1 = {
-    birth = "1066.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167648 = {
-  name = "Hafrid"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1150.1.1 = {
-    death = "1150.1.1"
-  }
-}
-167650 = {
-  name = "Gurli"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1020.1.1 = {
-    birth = "1020.1.1"
-  }
-  1070.1.1 = {
-    death = "1070.1.1"
-  }
-}
-167651 = {
-  name = "イルヴァ"  # Ylva
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1085.1.1 = {
-    death = "1085.1.1"
-  }
-}
-167652 = {
-  name = "アストリート"  # Astrid
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1075.1.1 = {
-    birth = "1075.1.1"
-  }
-  1125.1.1 = {
-    death = "1125.1.1"
-  }
-}
-167653 = {
-  name = "Karin"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-167654 = {
-  name = "Alfridh"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-167655 = {
-  name = "Sofia"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-167656 = {
-  name = "Katarina"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-167657 = {
-  name = "Linda"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-167658 = {
-  name = "Inga"
-  female = yes
-  religion = "catholic"
-  culture = "swedish"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-170000 = {
-  name = "カール"  # Karl
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  trait = "brave"
-  trait = "scholarly_theologian"
-  father = 200540
-  mother = 200607
-  1196.1.1 = {
-    birth = "1196.1.1"
-  }
-  1220.8.8 = {
-    death = "1220.8.8"
-  }
-}
-170001 = {
-  name = "Christina"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450510
-  mother = 450511
-  1248.1.1 = {
-    birth = "1248.1.1"
-  }
-  1288.2.28 = {
-    death = "1288.2.28"
-  }
-}
-170002 = {
-  name = "マグヌス"  # Magnus
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450504
-  mother = 451516
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1319.7.8 = {
-    add_claim = k_sweden
-  }
-  1320.1.1 = {
-    death = "1320.1.1"
-  }
-}
-170003 = {
-  name = "エリック"  # Eric
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450504
-  mother = 451516
-  1300.1.1 = {
-    birth = "1301.1.1"
-  }
-  1319.1.1 = {
-    death = "1319.1.1"
-  }
-}
-170004 = {
-  name = "Agnes"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450504
-  mother = 451516
-  1300.1.1 = {
-    birth = "1302.1.1"
-  }
-  1344.1.1 = {
-    death = "1344.1.1"
-  }
-}
-170005 = {
-  name = "Katarina"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450504
-  mother = 451516
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1321.1.1 = {
-    death = "1321.1.1"
-  }
-}
-170006 = {
-  name = "エーリク"  # Erik
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  father = 450506
-  mother = 451511
-  1272.1.1 = {
-    birth = "1272.1.1"
-  }
-  1330.1.1 = {
-    death = "1330.1.1"
-  }
-}
-170020 = {
-  name = "カール"  # Karl
-  dynasty = 496
-  religion = "catholic"
-  culture = "swedish"
-  father = 200604
-  mother = 200605
-  1186.1.3 = {
-    birth = "1186.1.3"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-170021 = {
-  name = "Katarina"
-  female = yes
-  dynasty = 155
-  religion = "catholic"
-  culture = "swedish"
-  trait = "scholarly_theologian"
-  father = 200534
-  mother = 200610
-  1212.1.1 = {
-    birth = "1212.1.1"
-  }
-  1253.1.1 = {
-    death = "1253.1.1"
-  }
-}
-170024 = {
-  name = "Holmger"
-  dynasty = 381
-  religion = "catholic"
-  culture = "swedish"
-  father = 200508
-  mother = 170023
-  1226.1.1 = {
-    birth = yes
-  }
-  1249.1.1 = {
-    death = "1249.1.1"
-  }
-}
-170025 = {
-  name = "フィリップ"  # Filip
-  dynasty = 381
-  religion = "catholic"
-  culture = "swedish"
-  father = 200508
-  mother = 170023
-  1226.1.1 = {
-    birth = yes
-  }
-  1252.1.1 = {
-    death = "1252.1.1"
-  }
-}
-170036 = {
-  name = "ユーハン"  # Johan
-  dynasty = 496
-  religion = "catholic"
-  culture = "swedish"
-  trait = "cruel"
-  father = 200600
-  mother = 200601
-  1135.1.1 = {
-    birth = "1135.1.1"
-  }
-  1154.1.1 = {
-    death = "1154.1.1"
-  }
-}
-170037 = {
-  name = "Burislev"
-  dynasty = 496
-  religion = "catholic"
-  culture = "swedish"
-  father = 200600
-  mother = 221511
-  1152.1.1 = {
-    birth = "1152.1.1"
-  }
-  1202.1.1 = {
-    death = "1202.1.1"
-  }
-}
-170038 = {
-  name = "Helena"
-  female = yes
-  dynasty = 496
-  religion = "catholic"
-  culture = "swedish"
-  father = 200600
-  mother = 200601
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1157.8.9 = {
-    add_trait = nun
-    employer = 200490
-  }
-  1172.1.1 = {
-    death = "1172.1.1"
-  }
-}
-170039 = {
-  name = "Ingegärd"
-  female = yes
-  dynasty = 496
-  religion = "catholic"
-  culture = "swedish"
-  father = 200600
-  mother = 200601
-  1138.1.1 = {
-    birth = "1138.1.1"
-  }
-  1204.1.1 = {
-    death = "1204.1.1"
-  }
-}
-183000 = {
-  name = "Holmfrid"
-  female = yes
-  dynasty = 502
-  martial = 3
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "swedish"
-  trait = "legit_bastard"
-  trait = "underhanded_rogue"
-  father = 100506
-  mother = 100507
-  1009.1.2 = {
-    birth = "1009.1.2"
-  }
-  1071.1.2 = {
-    death = "1071.1.2"
-  }
-}
-194223 = {
-  name = "ラーシュ"  # Lars
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194224 = {
-  name = "アンデシュ"  # Anders
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  father = 194223
-  1180.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194225 = {
-  name = "アンデシュ"  # Anders
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  father = 194224
-  1215.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194226 = {
-  name = "マグヌス"  # Magnus
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  father = 194225
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194227 = {
-  name = "Kristina"
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194224
-  1200.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194228 = {
-  name = "Ingrid"
-  dynasty = 121
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194224
-  1205.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194229 = {
-  name = "ダーグ"  # Dag
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194230 = {
-  name = "エーリク"  # Erik
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  father = 194229
-  1180.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194231 = {
-  name = "トシュテン"  # Torsten
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  father = 194230
-  1215.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194232 = {
-  name = "マグヌス"  # Magnus
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  father = 194231
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194233 = {
-  name = "マガレータ"  # Margareta
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194230
-  1202.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194234 = {
-  name = "Sara"
-  dynasty = 497
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194230
-  1207.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194235 = {
-  name = "クヌート"  # Knut
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194236 = {
-  name = "エーリク"  # Erik
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  father = 194241
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194237 = {
-  name = "クヌート"  # Knut
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  father = 194242
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194238 = {
-  name = "エスキルド"  # Eskild
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  father = 194243
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194239 = {
-  name = "Anna"
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194242
-  1201.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194240 = {
-  name = "Sofia"
-  dynasty = 3811
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194242
-  1208.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-194241 = {
-  name = "Klas"
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194242 = {
-  name = "クヌート"  # Knut
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  father = 194241
-  1180.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194243 = {
-  name = "ハンス"  # Hans
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  father = 194242
-  1215.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194244 = {
-  name = "Folke"
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  father = 194243
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194245 = {
-  name = "Sigrid"
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194242
-  1201.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194246 = {
-  name = "Åsa"
-  dynasty = 137
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194242
-  1208.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-194247 = {
-  name = "ユーハン"  # Johan
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194248 = {
-  name = "Måns"
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  father = 194247
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194249 = {
-  name = "カール"  # Karl
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  father = 194248
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194250 = {
-  name = "ユーハン"  # Johan
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  father = 194249
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194251 = {
-  name = "Ebba"
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194248
-  1205.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194252 = {
-  name = "Anna"
-  dynasty = 100297
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194248
-  1215.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-194253 = {
-  name = "アーヌン"  # Anund
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194254 = {
-  name = "ステン"  # Sten
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  father = 194253
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194255 = {
-  name = "カール"  # Karl
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  father = 194254
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194256 = {
-  name = "ユーハン"  # Johan
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  father = 194255
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194257 = {
-  name = "アストリート"  # Astrid
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194254
-  1205.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194258 = {
-  name = "Birgitta"
-  dynasty = 148
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194254
-  1215.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-194259 = {
-  name = "Axel"
-  dynasty = 100006
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194260 = {
-  name = "ニルス"  # Nils
-  dynasty = 100006
-  religion = catholic
-  culture = swedish
-  father = 194259
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194261 = {
-  name = "Axel"
-  dynasty = 100006
-  religion = catholic
-  culture = swedish
-  father = 194260
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194262 = {
-  name = "Arvid"
-  dynasty = 100006
-  religion = catholic
-  culture = swedish
-  father = 194261
-  1250.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    death = yes
-  }
-}
-194263 = {
-  name = "Anna"
-  dynasty = 100006
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194260
-  1204.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194264 = {
-  name = "Axel"
-  dynasty = 1037
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194265 = {
-  name = "ニルス"  # Nils
-  dynasty = 1037
-  religion = catholic
-  culture = swedish
-  father = 194264
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194266 = {
-  name = "Axel"
-  dynasty = 1037
-  religion = catholic
-  culture = swedish
-  father = 194265
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194267 = {
-  name = "Arvid"
-  dynasty = 1037
-  religion = catholic
-  culture = swedish
-  father = 194266
-  1250.1.1 = {
-    birth = yes
-  }
-  1320.1.1 = {
-    death = yes
-  }
-}
-194268 = {
-  name = "Märta"
-  dynasty = 1037
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194265
-  1203.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194269 = {
-  name = "ニルス"  # Nils
-  dynasty = 1040
-  religion = catholic
-  culture = swedish
-  1150.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-194270 = {
-  name = "エーリク"  # Erik
-  dynasty = 1040
-  religion = catholic
-  culture = swedish
-  father = 194269
-  1179.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194271 = {
-  name = "グスタフ"  # Gustav
-  dynasty = 1040
-  religion = catholic
-  culture = swedish
-  father = 194270
-  1214.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194272 = {
-  name = "エーリク"  # Erik
-  dynasty = 1040
-  religion = catholic
-  culture = swedish
-  father = 194271
-  1250.1.1 = {
-    birth = yes
-  }
-  1320.1.1 = {
-    death = yes
-  }
-}
-194273 = {
-  name = "Ingeborg"
-  dynasty = 1040
-  religion = catholic
-  culture = swedish
-  female = yes
-  father = 194270
-  1203.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-194274 = {
-  name = "アーヌン"  # Anund
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 167358
-  1188.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-194275 = {
-  name = "オロフ"  # Olaf
-  dynasty = 9519
-  religion = "catholic"
-  culture = "swedish"
-  father = 194274
-  mother = 194276
-  1220.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194276 = {
-  name = "Anna"
-  religion = "catholic"
-  culture = "swedish"
-  female = yes
-  1195.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194277 = {
-  name = "アンデシュ"  # Anders
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 167325
-  1190.1.1 = {
-    birth = yes
-  }
-  1255.1.1 = {
-    death = yes
-  }
-}
-194278 = {
-  name = "Eskil"
-  dynasty = 9517
-  religion = "catholic"
-  culture = "swedish"
-  father = 194277
-  1220.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-194279 = {
-  name = "Faste"
-  dynasty = 9518
-  religion = "catholic"
-  culture = "swedish"
-  father = 167378
-  1204.1.1 = {
-    birth = yes
-  }
-  1288.1.1 = {
-    death = yes
-  }
-}
-194280 = {
-  name = "Folke"
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 167310
-  1180.1.1 = {
-    birth = yes
-  }
-  1270.1.1 = {
-    death = yes
-  }
-}
-194281 = {
-  name = "ユーハン"  # Johan
-  dynasty = 495
-  religion = "catholic"
-  culture = "swedish"
-  father = 194280
-  1240.1.1 = {
-    birth = yes
-  }
-  1299.1.1 = {
-    death = yes
-  }
-}
-194282 = {
-  name = "グンナル"  # Gunnar
-  dna = fmgzgkqogem
-  properties = 0ggdgd000000000000
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 167373
-  1190.1.1 = {
-    birth = yes
-  }
-  1255.1.1 = {
-    death = yes
-  }
-}
-194283 = {
-  name = "Folke"
-  dynasty = 9520
-  religion = "catholic"
-  culture = "swedish"
-  father = 194282
-  1230.1.1 = {
-    birth = yes
-  }
-  1299.1.1 = {
-    death = yes
   }
 }
 200001 = {
@@ -4101,6 +871,218 @@
   }
   1233.1.1 = {
     death = "1233.1.1"
+  }
+}
+20005 = {
+  name = "シュドムンド"  # Tjudmund
+  dynasty = 100287
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "harelip"
+  trait = "martial_cleric"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20006 = {
+  name = "オラーフ"  # Olaf
+  dynasty = 100291
+  martial = 7
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20007 = {
+  name = "テュケー"  # Tyke
+  dynasty = 100300
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "swedish"
+  trait = "humble"
+  trait = "ill"
+  trait = "fortune_builder"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20008 = {
+  name = "ファステー"  # Faste
+  dynasty = 100295
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "swedish"
+  trait = "wroth"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20009 = {
+  name = "フィン"  # Finn
+  dynasty = 100294
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "swedish"
+  trait = "scholarly_theologian"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20010 = {
+  name = "Kettil"
+  dynasty = 100298
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "swedish"
+  trait = "lustful"
+  trait = "patient"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20011 = {
+  name = "アルゴ"  # Algot
+  dynasty = 100006
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "swedish"
+  trait = "flamboyant_schemer"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20012 = {
+  name = "Sigvard"
+  dynasty = 100299
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "swedish"
+  trait = "wroth"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20013 = {
+  name = "コルビョルム"  # Kolbjörn
+  dynasty = 100283
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "patient"
+  trait = "craven"
+  trait = "underhanded_rogue"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+20014 = {
+  name = "トージ"  # Thord
+  dynasty = 100281
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "patient"
+  trait = "underhanded_rogue"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+20015 = {
+  name = "ボートルフ"  # Botulf
+  dynasty = 100280
+  martial = 5
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 8
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "patient"
+  trait = "kind"
+  trait = "proud"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+20020 = {
+  name = "Toke"
+  dynasty = 827
+  religion = "norse_pagan"
+  culture = "swedish"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
   }
 }
 200490 = {
@@ -5016,52 +1998,6 @@
     death = "1247.1.1"
   }
 }
-202044 = {
-  name = "Guttorm"
-  dynasty = 1030030
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "swedish"
-  trait = "tough_soldier"
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1150.1.1 = {
-    trait = "crusader"
-  }
-  1152.1.1 = {
-    add_spouse = 202043
-  }
-  1174.1.1 = {
-    death = "1174.1.1"
-  }
-}
-202045 = {
-  name = "Helene"
-  female = yes
-  dynasty = 1030030
-  martial = 6
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "swedish"
-  trait = "lustful"
-  trait = "humble"
-  trait = "arbitrary"
-  trait = "amateurish_plotter"
-  father = 202044
-  mother = 202043
-  1162.1.1 = {
-    birth = "1162.1.1"
-  }
-  1212.1.1 = {
-    death = "1212.1.1"
-  }
-}
 222575 = {
   name = "Christina"
   female = yes
@@ -5083,320 +2019,50 @@
     death = "1122.1.3"
   }
 }
-242500 = {
-  name = "Thurgot"
-  religion = "catholic"
-  culture = "german"
-  dynasty = 0
-  960.1.1 = {
-    birth = yes
-  }
-  1030.1.1 = {
-    death = yes
-  }
-}
-242501 = {
-  name = "Sigfrid"
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 0
-  985.1.1 = {
-    birth = yes
-  }
-  1050.1.1 = {
-    give_nickname = nick_the_saint
-    death = yes
-  }
-}
-242502 = {
-  name = "Osmund"
+30546 = {
+  name = "Mariana"
+  female = yes
+  dynasty = 381
   religion = "catholic"
   culture = "swedish"
-  dynasty = 0
-  1000.1.1 = {
-    birth = yes
+  father = 200504
+  mother = 201506
+  1211.1.1 = {
+    birth = "1211.1.1"
   }
-  1060.1.1 = {
-    death = yes
+  1252.6.27 = {
+    death = "1252.6.27"
   }
 }
-242503 = {
-  name = "Adalvard"
+30547 = {
+  name = "Sofia"
+  female = yes
+  dynasty = 381
   religion = "catholic"
   culture = "swedish"
-  dynasty = 0
-  981.1.1 = {
-    birth = yes
+  father = 200504
+  mother = 201506
+  1217.1.1 = {
+    birth = "1217.1.1"
   }
-  1064.1.1 = {
-    death = yes
-    give_nickname = nick_the_old
+  1241.4.24 = {
+    death = "1241.4.24"
   }
 }
-242505 = {
-  name = "Adalvard"
+30605 = {
+  name = "Rikissa"
+  female = yes
+  dynasty = 155
   religion = "catholic"
   culture = "swedish"
-  dynasty = 0
-  1014.1.1 = {
-    birth = yes
-    give_nickname = nick_the_young
+  trait = "amateurish_plotter"
+  father = 450510
+  mother = 450511
+  1240.1.1 = {
+    birth = "1240.1.1"
   }
-  1068.1.1 = {
-    death = yes
-  }
-}
-242506 = {
-  name = "Rodulvard"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1018.1.1 = {
-    birth = yes
-  }
-  1093.1.1 = {
-    death = yes
-  }
-}
-242507 = {
-  name = "Rikulf"
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 0
-  1031.1.1 = {
-    birth = yes
-  }
-  1101.1.1 = {
-    death = yes
-  }
-}
-242508 = {
-  name = "Hervard"
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 0
-  1039.1.1 = {
-    birth = yes
-  }
-  1120.1.1 = {
-    death = yes
-  }
-}
-242509 = {
-  name = "Styrbjörn"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1044.1.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
-    death = yes
-  }
-}
-242510 = {
-  name = "Ödgrim"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1058.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-242511 = {
-  name = "Bengt"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1092.1.1 = {
-    birth = yes
-    give_nickname = nick_the_good
-  }
-  1190.1.1 = {
-    death = yes
-  }
-}
-242512 = {
-  name = "Järpulf"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1130.1.1 = {
-    birth = yes
-  }
-  1201.1.1 = {
-    death = yes
-  }
-}
-242513 = {
-  name = "Jon"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1144.1.1 = {
-    birth = yes
-  }
-  1206.1.1 = {
-    death = yes
-  }
-}
-242514 = {
-  name = "Bernhard"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1163.1.1 = {
-    birth = yes
-  }
-  1219.1.1 = {
-    death = yes
-  }
-}
-242515 = {
-  name = "Bengt"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1171.1.1 = {
-    birth = yes
-  }
-  1228.1.1 = {
-    death = yes
-  }
-}
-242516 = {
-  name = "Stenar"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1179.1.1 = {
-    birth = yes
-  }
-  1238.1.1 = {
-    death = yes
-  }
-}
-242517 = {
-  name = "Lars"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1181.1.1 = {
-    birth = yes
-  }
-  1257.1.1 = {
-    death = yes
-  }
-}
-242518 = {
-  name = "ヴァルデマー"  # Valdemar
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1186.1.1 = {
-    birth = yes
-  }
-  1258.1.1 = {
-    death = yes
-  }
-}
-242519 = {
-  name = "Ragvald"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1189.1.1 = {
-    birth = yes
-  }
-  1263.1.1 = {
-    death = yes
-  }
-}
-242520 = {
-  name = "Ulf"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1207.1.1 = {
-    birth = yes
-  }
-  1267.1.1 = {
-    death = yes
-  }
-}
-242521 = {
-  name = "Erik"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1228.1.1 = {
-    birth = yes
-  }
-  1278.1.1 = {
-    death = yes
-  }
-}
-242522 = {
-  name = "Brynolf"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1257.1.1 = {
-    birth = yes
-  }
-  1317.1.1 = {
-    death = yes
-  }
-}
-242523 = {
-  name = "Bengt"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1271.1.1 = {
-    birth = yes
-  }
-  1321.1.1 = {
-    death = yes
-  }
-}
-242524 = {
-  name = "Erik"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1257.1.1 = {
-    birth = yes
-  }
-  1322.1.1 = {
-    death = yes
-  }
-}
-242525 = {
-  name = "Peder"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1276.1.1 = {
-    birth = yes
-  }
-  1336.1.1 = {
-    death = yes
-  }
-}
-242526 = {
-  name = "Gunnar"
-  religion = "catholic"
-  culture = "swedish"
-  dynasty = 0
-  1282.1.1 = {
-    birth = yes
-  }
-  1340.1.1 = {
-    death = yes
+  1288.12.13 = {
+    death = "1288.12.13"
   }
 }
 450500 = {
@@ -7505,5 +4171,3339 @@
   }
   1350.1.1 = {
     death = "1350.1.1"
+  }
+}
+126001 = {
+  name = "Rikissa"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450506
+  mother = 451511
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1292.1.1 = {
+    death = "1292.1.1"
+  }
+}
+33337 = {
+  name = "エーリク"  # Erik
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450510
+  mother = 450511
+  1250.1.1 = {
+    birth = "1250.1.1"
+  }
+  1275.12.17 = {
+    death = "1275.12.17"
+  }
+}
+33338 = {
+  name = "ベイン"  # Bengt
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  trait = "celibate"
+  trait = "scholarly_theologian"
+  father = 450510
+  mother = 450511
+  1254.1.1 = {
+    birth = "1254.1.1"
+  }
+  1291.5.25 = {
+    death = "1291.5.25"
+  }
+}
+33339 = {
+  name = "Ingeborg"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450510
+  mother = 450511
+  1252.1.1 = {
+    birth = "1252.1.1"
+  }
+  1302.6.30 = {
+    death = "1302.6.30"
+  }
+}
+33340 = {
+  name = "Gregers"
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  trait = "legit_bastard"
+  father = 450510
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1276.1.1 = {
+    death = "1276.1.1"
+  }
+}
+126002 = {
+  name = "Tengil"
+  dna = "dfpknhcpfcp"
+  properties = "fckjhj"
+  dynasty = 1055
+  religion = "norse_pagan"
+  culture = "swedish"
+  martial = 6
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  learning = 5
+  trait = "brilliant_strategist"
+  trait = "cruel"
+  trait = "temperate"
+  trait = "envious"
+  trait = "deceitful"
+  trait = "ambitious"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1050.1.1 = {
+    give_nickname = nick_the_liberator
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+126003 = {
+  name = "Jossi"
+  dna = "poaanmhlbai"
+  properties = "cehich"
+  dynasty = 1057
+  religion = "norse_pagan"
+  culture = "swedish"
+  martial = 3
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 3
+  learning = 6
+  trait = "elusive_shadow"
+  trait = "deceitful"
+  trait = "gluttonous"
+  trait = "craven"
+  1022.1.1 = {
+    birth = "1022.1.1"
+  }
+  1066.1.1 = {
+    employer = 126002
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+101503 = {
+  name = "Gyrid"
+  female = yes
+  dynasty = 502
+  martial = 7
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 5
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "just"
+  trait = "envious"
+  trait = "patient"
+  trait = "scholarly_theologian"
+  father = 100502
+  960.1.1 = {
+    birth = "960.1.1"
+  }
+  979.1.1 = {
+    religion = "catholic"
+  }
+  1002.11.13 = {
+    death = "1002.11.13"
+  }
+}
+100554 = {
+  name = "Ingrid"
+  female = yes
+  dynasty = 498
+  martial = 4
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "swedish"
+  trait = "proud"
+  trait = "deceitful"
+  trait = "intricate_webweaver"
+  father = 100552
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1162.1.1 = {
+    death = "1162.1.1"
+  }
+}
+143136 = {
+  name = "オロフ"  # Olaf
+  dynasty = 100291
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 20006
+  1069.1.1 = {
+    birth = "1069.1.1"
+  }
+  1139.1.1 = {
+    death = "1139.1.1"
+  }
+}
+143137 = {
+  name = "オロフ"  # Olaf
+  dynasty = 100291
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 143136
+  1119.1.1 = {
+    birth = "1119.1.1"
+  }
+  1158.1.1 = {
+    death = "1158.1.1"
+  }
+}
+143138 = {
+  name = "Faste"
+  dynasty = 100295
+  religion = "catholic"
+  culture = "swedish"
+  father = 20008
+  1069.1.1 = {
+    birth = "1069.1.1"
+  }
+  1139.1.1 = {
+    death = "1139.1.1"
+  }
+}
+143139 = {
+  name = "Faste"
+  dynasty = 100295
+  religion = "catholic"
+  culture = "swedish"
+  father = 143138
+  1119.1.1 = {
+    birth = "1119.1.1"
+  }
+  1187.1.1 = {
+    death = "1187.1.1"
+  }
+}
+143140 = {
+  name = "トージ"  # Thord
+  dynasty = 100281
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 20014
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+143141 = {
+  name = "トージ"  # Thord
+  dynasty = 100281
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 143140
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1187.1.1 = {
+    death = "1187.1.1"
+  }
+}
+143142 = {
+  name = "ボートルフ"  # Botulf
+  dynasty = 100280
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 20015
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+143143 = {
+  name = "ボートルフ"  # Botulf
+  dynasty = 100280
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 143142
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1187.1.1 = {
+    death = "1187.1.1"
+  }
+}
+143144 = {
+  name = "アーンファス"  # Arnfast
+  dynasty = 100280
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 200001
+  1200.1.1 = {
+    birth = "1200.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+143145 = {
+  name = "アーンファス"  # Arnfast
+  dynasty = 100280
+  religion = "norse_pagan"
+  culture = "swedish"
+  father = 143144
+  1250.1.1 = {
+    birth = "1250.1.1"
+  }
+  1310.1.1 = {
+    death = "1310.1.1"
+  }
+}
+161123 = {
+  name = "Sigge"
+  dynasty = 1030030
+  religion = "catholic"
+  culture = "swedish"
+  father = 202044
+  mother = 202043
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1215.1.1 = {
+    death = "1215.1.1"
+  }
+}
+161122 = {
+  name = "ベイン"  # Bengt
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 200533
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1298.1.1 = {
+    death = "1298.1.1"
+  }
+}
+202044 = {
+  name = "Guttorm"
+  dynasty = 1030030
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "swedish"
+  trait = "tough_soldier"
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1150.1.1 = {
+    trait = "crusader"
+  }
+  1152.1.1 = {
+    add_spouse = 202043
+  }
+  1174.1.1 = {
+    death = "1174.1.1"
+  }
+}
+202045 = {
+  name = "Helene"
+  female = yes
+  dynasty = 1030030
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "swedish"
+  trait = "lustful"
+  trait = "humble"
+  trait = "arbitrary"
+  trait = "amateurish_plotter"
+  father = 202044
+  mother = 202043
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1212.1.1 = {
+    death = "1212.1.1"
+  }
+}
+167300 = {
+  name = "Audvald"
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 100536
+  mother = 167630
+  1066.1.1 = {
+    birth = "1066.1.1"
+  }
+  1088.1.1 = {
+    add_spouse = 167631
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+167301 = {
+  name = "Likair"
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 100536
+  mother = 167630
+  1068.1.1 = {
+    birth = "1068.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+167302 = {
+  name = "Rodiaud"
+  female = yes
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167301
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+167303 = {
+  name = "アスビョルン"  # Asbjörn
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167300
+  mother = 167631
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1108.1.1 = {
+    add_spouse = 167632
+  }
+  1148.1.1 = {
+    death = "1148.1.1"
+  }
+}
+167304 = {
+  name = "マグヌス"  # Magnus
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167303
+  mother = 167632
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1138.1.1 = {
+    add_spouse = 167633
+  }
+  1176.1.1 = {
+    death = "1176.1.1"
+  }
+}
+167305 = {
+  name = "Gyla"
+  female = yes
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167303
+  mother = 167632
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+167306 = {
+  name = "ブリニョルフ"  # Brynjolf
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167304
+  mother = 167633
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1158.1.1 = {
+    add_spouse = 167634
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167307 = {
+  name = "Audvald"
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167304
+  mother = 167633
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1205.1.1 = {
+    death = "1205.1.1"
+  }
+}
+167308 = {
+  name = "オロフ"  # Olaf
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167304
+  mother = 167633
+  1144.1.1 = {
+    birth = "1144.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+167309 = {
+  name = "Inga"
+  female = yes
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167304
+  mother = 167633
+  1146.1.1 = {
+    birth = "1146.1.1"
+  }
+  1206.1.1 = {
+    death = "1206.1.1"
+  }
+}
+167310 = {
+  name = "マグヌス"  # Magnus
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167306
+  mother = 167634
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1187.1.1 = {
+    add_spouse = 167635
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+167311 = {
+  name = "Tolir"
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167306
+  mother = 167634
+  1161.1.1 = {
+    birth = "1161.1.1"
+  }
+  1211.1.1 = {
+    death = "1211.1.1"
+  }
+}
+167312 = {
+  name = "Rikissa"
+  female = yes
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167307
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1212.1.1 = {
+    death = "1212.1.1"
+  }
+}
+167313 = {
+  name = "Aleta"
+  female = yes
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167307
+  1161.1.1 = {
+    birth = "1161.1.1"
+  }
+  1214.1.1 = {
+    death = "1214.1.1"
+  }
+}
+167314 = {
+  name = "イングヴァル"  # Ingvar
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167308
+  1164.1.1 = {
+    birth = "1164.1.1"
+  }
+  1214.1.1 = {
+    death = "1214.1.1"
+  }
+}
+167315 = {
+  name = "Tjudmund"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1024.1.1 = {
+    add_spouse = 167636
+  }
+  1050.1.1 = {
+    death = "1050.1.1"
+  }
+}
+167316 = {
+  name = "Kettil"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167315
+  mother = 167636
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1048.1.1 = {
+    add_spouse = 167637
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+167317 = {
+  name = "Ragnhild"
+  female = yes
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167315
+  mother = 167636
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+167318 = {
+  name = "Tjudmund"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167316
+  mother = 167637
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+167319 = {
+  name = "ニクラス"  # Niklas
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167316
+  mother = 167637
+  1052.1.1 = {
+    birth = "1052.1.1"
+  }
+  1074.1.1 = {
+    add_spouse = 167638
+  }
+  1104.1.1 = {
+    death = "1104.1.1"
+  }
+}
+167320 = {
+  name = "Holmfrid"
+  female = yes
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167319
+  mother = 167638
+  1075.1.1 = {
+    birth = "1075.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+167321 = {
+  name = "Maer"
+  female = yes
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167319
+  mother = 167638
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1133.1.1 = {
+    death = "1133.1.1"
+  }
+}
+167322 = {
+  name = "イェドヴァルド"  # Jedvard
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167319
+  mother = 167638
+  1084.1.1 = {
+    birth = "1084.1.1"
+  }
+  1110.1.1 = {
+    add_spouse = 167302
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+167323 = {
+  name = "Tjudmund"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167322
+  mother = 167302
+  1112.1.1 = {
+    birth = "1112.1.1"
+  }
+  1138.1.1 = {
+    add_spouse = 167639
+  }
+  1175.1.1 = {
+    death = "1175.1.1"
+  }
+}
+167324 = {
+  name = "イェドヴァルド"  # Jedvard
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167323
+  mother = 167639
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1159.1.1 = {
+    add_spouse = 167640
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+167325 = {
+  name = "ニクラス"  # Niklas
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167324
+  mother = 167640
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1187.1.1 = {
+    add_spouse = 167312
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+167326 = {
+  name = "Tjudmund"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167324
+  mother = 167640
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1212.1.1 = {
+    death = "1212.1.1"
+  }
+}
+167327 = {
+  name = "ハルステン"  # Halsten
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167323
+  mother = 167639
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167328 = {
+  name = "Aleta"
+  female = yes
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167327
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1215.1.1 = {
+    death = "1215.1.1"
+  }
+}
+167329 = {
+  name = "ニクラス"  # Niklas
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167327
+  1166.1.1 = {
+    birth = "1166.1.1"
+  }
+  1216.1.1 = {
+    death = "1216.1.1"
+  }
+}
+167330 = {
+  name = "Faste"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1028.1.1 = {
+    add_spouse = 167641
+  }
+  1060.1.1 = {
+    death = "1060.1.1"
+  }
+}
+167331 = {
+  name = "Tolir"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167330
+  mother = 167641
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1048.1.1 = {
+    add_spouse = 167317
+  }
+  1098.1.1 = {
+    death = "1098.1.1"
+  }
+}
+167332 = {
+  name = "ダーグ"  # Dag
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167330
+  mother = 167641
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+167333 = {
+  name = "オロフ"  # Olaf
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167330
+  mother = 167641
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1092.1.1 = {
+    death = "1092.1.1"
+  }
+}
+167334 = {
+  name = "アーンファス"  # Arnfast
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167331
+  mother = 167317
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1066.1.1 = {
+    add_spouse = 167642
+  }
+  1107.1.1 = {
+    death = "1107.1.1"
+  }
+}
+167335 = {
+  name = "Tjudmund"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167331
+  mother = 167317
+  1055.1.1 = {
+    birth = "1055.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167336 = {
+  name = "シグトリッグ"  # Sigtrygg
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  trait = "legit_bastard"
+  father = 167332
+  1055.1.1 = {
+    birth = "1055.1.1"
+  }
+  1098.1.1 = {
+    death = "1098.1.1"
+  }
+}
+167337 = {
+  name = "エームンド"  # Emund
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167334
+  mother = 167642
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1098.1.1 = {
+    add_spouse = 167643
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+167338 = {
+  name = "Faste"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167337
+  mother = 167643
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1155.1.1 = {
+    death = "1155.1.1"
+  }
+}
+167339 = {
+  name = "アーンファス"  # Arnfast
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167338
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1142.1.1 = {
+    add_spouse = 167305
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+167340 = {
+  name = "スヴェルケル"  # Sverker
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167339
+  mother = 167305
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1164.1.1 = {
+    add_spouse = 167644
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167341 = {
+  name = "Faste"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167339
+  mother = 167305
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167378 = {
+  name = "ダーグ"  # Dag
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167340
+  mother = 167644
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1215.1.1 = {
+    death = "1215.1.1"
+  }
+}
+167379 = {
+  name = "Tolir"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167340
+  mother = 167644
+  1168.1.1 = {
+    birth = "1168.1.1"
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+167342 = {
+  name = "ホーコン"  # Håkan
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1028.1.1 = {
+    add_spouse = 167649
+  }
+  1055.1.1 = {
+    death = "1055.1.1"
+  }
+}
+167343 = {
+  name = "Rörek"
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167342
+  mother = 167649
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1050.1.1 = {
+    add_spouse = 167650
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+167344 = {
+  name = "シグルド"  # Sigurd
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167342
+  mother = 167649
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1050.1.1 = {
+    add_spouse = 167651
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+167345 = {
+  name = "ホーコン"  # Håkan
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167344
+  mother = 167651
+  1052.1.1 = {
+    birth = "1052.1.1"
+  }
+  1070.1.1 = {
+    add_spouse = 167364
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+167346 = {
+  name = "スヴェン"  # Sven
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167344
+  mother = 167651
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1079.1.1 = {
+    add_spouse = 167653
+  }
+  1104.1.1 = {
+    death = "1104.1.1"
+  }
+}
+167347 = {
+  name = "Öystein"
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167344
+  mother = 167651
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1118.1.1 = {
+    death = "1118.1.1"
+  }
+}
+167348 = {
+  name = "シグルド"  # Sigurd
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167345
+  mother = 167364
+  1072.1.1 = {
+    birth = "1072.1.1"
+  }
+  1095.1.1 = {
+    add_spouse = 167652
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+167349 = {
+  name = "アスビョルン"  # Asbjörn
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167346
+  mother = 167653
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1099.1.1 = {
+    add_spouse = 167654
+  }
+  1135.1.1 = {
+    death = "1135.1.1"
+  }
+}
+167350 = {
+  name = "Ingeborg"
+  female = yes
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167347
+  1085.1.1 = {
+    birth = "1085.1.1"
+  }
+  1135.1.1 = {
+    death = "1135.1.1"
+  }
+}
+167351 = {
+  name = "ホーコン"  # Håkan
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167349
+  mother = 167654
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1124.1.1 = {
+    add_spouse = 167655
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+167352 = {
+  name = "ベイン"  # Bengt
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167351
+  mother = 167655
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1149.1.1 = {
+    add_spouse = 167656
+  }
+  1178.1.1 = {
+    death = "1178.1.1"
+  }
+}
+167353 = {
+  name = "シグルド"  # Sigurd
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167351
+  mother = 167655
+  1130.1.1 = {
+    birth = "1130.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167354 = {
+  name = "Rörek"
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167352
+  mother = 167656
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167355 = {
+  name = "Sämund"
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167352
+  mother = 167656
+  1153.1.1 = {
+    birth = "1153.1.1"
+  }
+  1169.1.1 = {
+    add_spouse = 167657
+  }
+  1203.1.1 = {
+    death = "1203.1.1"
+  }
+}
+167390 = {
+  name = "Brigitta"
+  female = yes
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167355
+  mother = 167657
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1220.1.1 = {
+    death = "1220.1.1"
+  }
+}
+167356 = {
+  name = "ホーコン"  # Håkan
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167355
+  mother = 167657
+  1171.1.1 = {
+    birth = "1171.1.1"
+  }
+  1187.1.1 = {
+    add_spouse = 167313
+  }
+  1221.1.1 = {
+    death = "1221.1.1"
+  }
+}
+167357 = {
+  name = "ブロール"  # Bror
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  trait = "legit_bastard"
+  father = 167353
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1166.1.1 = {
+    add_spouse = 167658
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167358 = {
+  name = "シグルド"  # Sigurd
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167357
+  mother = 167658
+  1168.1.1 = {
+    birth = "1168.1.1"
+  }
+  1220.1.1 = {
+    death = "1220.1.1"
+  }
+}
+167359 = {
+  name = "シグトリッグ"  # Sigtrygg
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167357
+  mother = 167658
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1220.1.1 = {
+    death = "1220.1.1"
+  }
+}
+167360 = {
+  name = "シグビョルン"  # Sigbjörn
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167357
+  mother = 167658
+  1171.1.1 = {
+    birth = "1171.1.1"
+  }
+  1222.1.1 = {
+    death = "1222.1.1"
+  }
+}
+167361 = {
+  name = "クヌート"  # Knut
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1044.1.1 = {
+    add_spouse = 167645
+  }
+  1077.1.1 = {
+    death = "1077.1.1"
+  }
+}
+167362 = {
+  name = "デューレ"  # Dyre
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167361
+  mother = 167645
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1063.1.1 = {
+    add_spouse = 167646
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+167363 = {
+  name = "Folke"
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167361
+  mother = 167645
+  1048.1.1 = {
+    birth = "1048.1.1"
+  }
+  1105.1.1 = {
+    death = "1105.1.1"
+  }
+}
+167364 = {
+  name = "Inga"
+  female = yes
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167361
+  mother = 167645
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1105.1.1 = {
+    death = "1105.1.1"
+  }
+}
+167365 = {
+  name = "クヌート"  # Knut
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167362
+  mother = 167646
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1084.1.1 = {
+    add_spouse = 167647
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167366 = {
+  name = "エーリク"  # Erik
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167363
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+167367 = {
+  name = "ウルフ"  # Ulf
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167363
+  1072.1.1 = {
+    birth = "1072.1.1"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
+  }
+}
+167368 = {
+  name = "ビョルン"  # Björn
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167365
+  mother = 167647
+  1085.1.1 = {
+    birth = "1085.1.1"
+  }
+  1109.1.1 = {
+    add_spouse = 167648
+  }
+  1145.1.1 = {
+    death = "1145.1.1"
+  }
+}
+167369 = {
+  name = "ユーハン"  # Johan
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167365
+  mother = 167647
+  1089.1.1 = {
+    birth = "1089.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+167370 = {
+  name = "クヌート"  # Knut
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167368
+  mother = 167648
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+167371 = {
+  name = "Folke"
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167368
+  mother = 167648
+  1115.1.1 = {
+    birth = "1115.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+167372 = {
+  name = "ラグンヴァルド"  # Ragnvald
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167368
+  mother = 167648
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1158.1.1 = {
+    add_spouse = 167377
+  }
+  1193.1.1 = {
+    death = "1193.1.1"
+  }
+}
+167373 = {
+  name = "クヌート"  # Knut
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167372
+  mother = 167377
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+167374 = {
+  name = "Folke"
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167372
+  mother = 167377
+  1161.1.1 = {
+    birth = "1161.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+167375 = {
+  name = "ビョルン"  # Björn
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  trait = "twin"
+  father = 167372
+  mother = 167377
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1212.1.1 = {
+    death = "1212.1.1"
+  }
+}
+167376 = {
+  name = "ユーハン"  # Johan
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  trait = "twin"
+  father = 167372
+  mother = 167377
+  1162.1.1 = {
+    birth = "1162.1.1"
+  }
+  1215.1.1 = {
+    death = "1215.1.1"
+  }
+}
+167377 = {
+  name = "Sigrid"
+  female = yes
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167323
+  mother = 167639
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+102542 = {
+  name = "ウルフ"  # Ulf
+  dynasty = 500
+  martial = 6
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 8
+  religion = "norse_pagan"
+  culture = "swedish"
+  trait = "just"
+  trait = "charismatic_negotiator"
+  father = 100521
+  mother = 102545
+  1001.1.2 = {
+    birth = "1001.1.2"
+  }
+  1040.1.1 = {
+    death = "1040.1.1"
+  }
+}
+170036 = {
+  name = "ユーハン"  # Johan
+  dynasty = 496
+  religion = "catholic"
+  culture = "swedish"
+  trait = "cruel"
+  father = 200600
+  mother = 200601
+  1135.1.1 = {
+    birth = "1135.1.1"
+  }
+  1154.1.1 = {
+    death = "1154.1.1"
+  }
+}
+170037 = {
+  name = "Burislev"
+  dynasty = 496
+  religion = "catholic"
+  culture = "swedish"
+  father = 200600
+  mother = 221511
+  1152.1.1 = {
+    birth = "1152.1.1"
+  }
+  1202.1.1 = {
+    death = "1202.1.1"
+  }
+}
+170038 = {
+  name = "Helena"
+  female = yes
+  dynasty = 496
+  religion = "catholic"
+  culture = "swedish"
+  father = 200600
+  mother = 200601
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1157.8.9 = {
+    add_trait = nun
+    employer = 200490
+  }
+  1172.1.1 = {
+    death = "1172.1.1"
+  }
+}
+170039 = {
+  name = "Ingegärd"
+  female = yes
+  dynasty = 496
+  religion = "catholic"
+  culture = "swedish"
+  father = 200600
+  mother = 200601
+  1138.1.1 = {
+    birth = "1138.1.1"
+  }
+  1204.1.1 = {
+    death = "1204.1.1"
+  }
+}
+170020 = {
+  name = "カール"  # Karl
+  dynasty = 496
+  religion = "catholic"
+  culture = "swedish"
+  father = 200604
+  mother = 200605
+  1186.1.3 = {
+    birth = "1186.1.3"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+170021 = {
+  name = "Katarina"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  trait = "scholarly_theologian"
+  father = 200534
+  mother = 200610
+  1212.1.1 = {
+    birth = "1212.1.1"
+  }
+  1253.1.1 = {
+    death = "1253.1.1"
+  }
+}
+170024 = {
+  name = "Holmger"
+  dynasty = 381
+  religion = "catholic"
+  culture = "swedish"
+  father = 200508
+  mother = 170023
+  1226.1.1 = {
+    birth = yes
+  }
+  1249.1.1 = {
+    death = "1249.1.1"
+  }
+}
+170025 = {
+  name = "フィリップ"  # Filip
+  dynasty = 381
+  religion = "catholic"
+  culture = "swedish"
+  father = 200508
+  mother = 170023
+  1226.1.1 = {
+    birth = yes
+  }
+  1252.1.1 = {
+    death = "1252.1.1"
+  }
+}
+170000 = {
+  name = "カール"  # Karl
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  trait = "brave"
+  trait = "scholarly_theologian"
+  father = 200540
+  mother = 200607
+  1196.1.1 = {
+    birth = "1196.1.1"
+  }
+  1220.8.8 = {
+    death = "1220.8.8"
+  }
+}
+170001 = {
+  name = "Christina"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450510
+  mother = 450511
+  1248.1.1 = {
+    birth = "1248.1.1"
+  }
+  1288.2.28 = {
+    death = "1288.2.28"
+  }
+}
+170002 = {
+  name = "マグヌス"  # Magnus
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450504
+  mother = 451516
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1319.7.8 = {
+    add_claim = k_sweden
+  }
+  1320.1.1 = {
+    death = "1320.1.1"
+  }
+}
+170003 = {
+  name = "エリック"  # Eric
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450504
+  mother = 451516
+  1300.1.1 = {
+    birth = "1301.1.1"
+  }
+  1319.1.1 = {
+    death = "1319.1.1"
+  }
+}
+170004 = {
+  name = "Agnes"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450504
+  mother = 451516
+  1300.1.1 = {
+    birth = "1302.1.1"
+  }
+  1344.1.1 = {
+    death = "1344.1.1"
+  }
+}
+170005 = {
+  name = "Katarina"
+  female = yes
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450504
+  mother = 451516
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1321.1.1 = {
+    death = "1321.1.1"
+  }
+}
+170006 = {
+  name = "エーリク"  # Erik
+  dynasty = 155
+  religion = "catholic"
+  culture = "swedish"
+  father = 450506
+  mother = 451511
+  1272.1.1 = {
+    birth = "1272.1.1"
+  }
+  1330.1.1 = {
+    death = "1330.1.1"
+  }
+}
+167630 = {
+  name = "イルヴァ"  # Ylva
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1048.1.1 = {
+    birth = "1048.1.1"
+  }
+  1098.1.1 = {
+    death = "1098.1.1"
+  }
+}
+167631 = {
+  name = "Sara"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+167632 = {
+  name = "Inga"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1092.1.1 = {
+    birth = "1092.1.1"
+  }
+  1142.1.1 = {
+    death = "1142.1.1"
+  }
+}
+167633 = {
+  name = "Bothild"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+167634 = {
+  name = "Holmfrid"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167635 = {
+  name = "Aleta"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167636 = {
+  name = "アーサ"  # Asa
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1055.1.1 = {
+    death = "1055.1.1"
+  }
+}
+167637 = {
+  name = "Gunhild"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+167638 = {
+  name = "Kristina"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167639 = {
+  name = "Rikissa"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1172.1.1 = {
+    death = "1172.1.1"
+  }
+}
+167640 = {
+  name = "Ragnfrid"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167641 = {
+  name = "Ulvhilde"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+167642 = {
+  name = "Ingegerd"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167643 = {
+  name = "Beata"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+167644 = {
+  name = "Helena"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+167645 = {
+  name = "Birgitta"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+167646 = {
+  name = "Alfhild"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+167647 = {
+  name = "Elisabet"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1066.1.1 = {
+    birth = "1066.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167648 = {
+  name = "Hafrid"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1150.1.1 = {
+    death = "1150.1.1"
+  }
+}
+167650 = {
+  name = "Gurli"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+167651 = {
+  name = "イルヴァ"  # Ylva
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1085.1.1 = {
+    death = "1085.1.1"
+  }
+}
+167652 = {
+  name = "アストリート"  # Astrid
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1075.1.1 = {
+    birth = "1075.1.1"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
+  }
+}
+167653 = {
+  name = "Karin"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+167654 = {
+  name = "Alfridh"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+167655 = {
+  name = "Sofia"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+167656 = {
+  name = "Katarina"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+167657 = {
+  name = "Linda"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+167658 = {
+  name = "Inga"
+  female = yes
+  religion = "catholic"
+  culture = "swedish"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+183000 = {
+  name = "Holmfrid"
+  female = yes
+  dynasty = 502
+  martial = 3
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "swedish"
+  trait = "legit_bastard"
+  trait = "underhanded_rogue"
+  father = 100506
+  mother = 100507
+  1009.1.2 = {
+    birth = "1009.1.2"
+  }
+  1071.1.2 = {
+    death = "1071.1.2"
+  }
+}
+194223 = {
+  name = "ラーシュ"  # Lars
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194224 = {
+  name = "アンデシュ"  # Anders
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  father = 194223
+  1180.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194225 = {
+  name = "アンデシュ"  # Anders
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  father = 194224
+  1215.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194226 = {
+  name = "マグヌス"  # Magnus
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  father = 194225
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194227 = {
+  name = "Kristina"
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194224
+  1200.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194228 = {
+  name = "Ingrid"
+  dynasty = 121
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194224
+  1205.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194229 = {
+  name = "ダーグ"  # Dag
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194230 = {
+  name = "エーリク"  # Erik
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  father = 194229
+  1180.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194231 = {
+  name = "トシュテン"  # Torsten
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  father = 194230
+  1215.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194232 = {
+  name = "マグヌス"  # Magnus
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  father = 194231
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194233 = {
+  name = "マガレータ"  # Margareta
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194230
+  1202.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194234 = {
+  name = "Sara"
+  dynasty = 497
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194230
+  1207.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194235 = {
+  name = "クヌート"  # Knut
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194236 = {
+  name = "エーリク"  # Erik
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  father = 194241
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194237 = {
+  name = "クヌート"  # Knut
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  father = 194242
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194238 = {
+  name = "エスキルド"  # Eskild
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  father = 194243
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194239 = {
+  name = "Anna"
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194242
+  1201.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194240 = {
+  name = "Sofia"
+  dynasty = 3811
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194242
+  1208.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+194241 = {
+  name = "Klas"
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194242 = {
+  name = "クヌート"  # Knut
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  father = 194241
+  1180.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194243 = {
+  name = "ハンス"  # Hans
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  father = 194242
+  1215.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194244 = {
+  name = "Folke"
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  father = 194243
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194245 = {
+  name = "Sigrid"
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194242
+  1201.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194246 = {
+  name = "Åsa"
+  dynasty = 137
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194242
+  1208.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+194247 = {
+  name = "ユーハン"  # Johan
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194248 = {
+  name = "Måns"
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  father = 194247
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194249 = {
+  name = "カール"  # Karl
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  father = 194248
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194250 = {
+  name = "ユーハン"  # Johan
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  father = 194249
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194251 = {
+  name = "Ebba"
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194248
+  1205.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194252 = {
+  name = "Anna"
+  dynasty = 100297
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194248
+  1215.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+194253 = {
+  name = "アーヌン"  # Anund
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194254 = {
+  name = "ステン"  # Sten
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  father = 194253
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194255 = {
+  name = "カール"  # Karl
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  father = 194254
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194256 = {
+  name = "ユーハン"  # Johan
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  father = 194255
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194257 = {
+  name = "アストリート"  # Astrid
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194254
+  1205.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194258 = {
+  name = "Birgitta"
+  dynasty = 148
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194254
+  1215.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+194259 = {
+  name = "Axel"
+  dynasty = 100006
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194260 = {
+  name = "ニルス"  # Nils
+  dynasty = 100006
+  religion = catholic
+  culture = swedish
+  father = 194259
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194261 = {
+  name = "Axel"
+  dynasty = 100006
+  religion = catholic
+  culture = swedish
+  father = 194260
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194262 = {
+  name = "Arvid"
+  dynasty = 100006
+  religion = catholic
+  culture = swedish
+  father = 194261
+  1250.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    death = yes
+  }
+}
+194263 = {
+  name = "Anna"
+  dynasty = 100006
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194260
+  1204.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194264 = {
+  name = "Axel"
+  dynasty = 1037
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194265 = {
+  name = "ニルス"  # Nils
+  dynasty = 1037
+  religion = catholic
+  culture = swedish
+  father = 194264
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194266 = {
+  name = "Axel"
+  dynasty = 1037
+  religion = catholic
+  culture = swedish
+  father = 194265
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194267 = {
+  name = "Arvid"
+  dynasty = 1037
+  religion = catholic
+  culture = swedish
+  father = 194266
+  1250.1.1 = {
+    birth = yes
+  }
+  1320.1.1 = {
+    death = yes
+  }
+}
+194268 = {
+  name = "Märta"
+  dynasty = 1037
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194265
+  1203.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194269 = {
+  name = "ニルス"  # Nils
+  dynasty = 1040
+  religion = catholic
+  culture = swedish
+  1150.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+194270 = {
+  name = "エーリク"  # Erik
+  dynasty = 1040
+  religion = catholic
+  culture = swedish
+  father = 194269
+  1179.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194271 = {
+  name = "グスタフ"  # Gustav
+  dynasty = 1040
+  religion = catholic
+  culture = swedish
+  father = 194270
+  1214.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194272 = {
+  name = "エーリク"  # Erik
+  dynasty = 1040
+  religion = catholic
+  culture = swedish
+  father = 194271
+  1250.1.1 = {
+    birth = yes
+  }
+  1320.1.1 = {
+    death = yes
+  }
+}
+194273 = {
+  name = "Ingeborg"
+  dynasty = 1040
+  religion = catholic
+  culture = swedish
+  female = yes
+  father = 194270
+  1203.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+194274 = {
+  name = "アーヌン"  # Anund
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 167358
+  1188.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+194275 = {
+  name = "オロフ"  # Olaf
+  dynasty = 9519
+  religion = "catholic"
+  culture = "swedish"
+  father = 194274
+  mother = 194276
+  1220.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194276 = {
+  name = "Anna"
+  religion = "catholic"
+  culture = "swedish"
+  female = yes
+  1195.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194277 = {
+  name = "アンデシュ"  # Anders
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 167325
+  1190.1.1 = {
+    birth = yes
+  }
+  1255.1.1 = {
+    death = yes
+  }
+}
+194278 = {
+  name = "Eskil"
+  dynasty = 9517
+  religion = "catholic"
+  culture = "swedish"
+  father = 194277
+  1220.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+194279 = {
+  name = "Faste"
+  dynasty = 9518
+  religion = "catholic"
+  culture = "swedish"
+  father = 167378
+  1204.1.1 = {
+    birth = yes
+  }
+  1288.1.1 = {
+    death = yes
+  }
+}
+194280 = {
+  name = "Folke"
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 167310
+  1180.1.1 = {
+    birth = yes
+  }
+  1270.1.1 = {
+    death = yes
+  }
+}
+194281 = {
+  name = "ユーハン"  # Johan
+  dynasty = 495
+  religion = "catholic"
+  culture = "swedish"
+  father = 194280
+  1240.1.1 = {
+    birth = yes
+  }
+  1299.1.1 = {
+    death = yes
+  }
+}
+194282 = {
+  name = "グンナル"  # Gunnar
+  dna = fmgzgkqogem
+  properties = 0ggdgd000000000000
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 167373
+  1190.1.1 = {
+    birth = yes
+  }
+  1255.1.1 = {
+    death = yes
+  }
+}
+194283 = {
+  name = "Folke"
+  dynasty = 9520
+  religion = "catholic"
+  culture = "swedish"
+  father = 194282
+  1230.1.1 = {
+    birth = yes
+  }
+  1299.1.1 = {
+    death = yes
+  }
+}
+242500 = {
+  name = "Thurgot"
+  religion = "catholic"
+  culture = "german"
+  dynasty = 0
+  960.1.1 = {
+    birth = yes
+  }
+  1030.1.1 = {
+    death = yes
+  }
+}
+242501 = {
+  name = "Sigfrid"
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 0
+  985.1.1 = {
+    birth = yes
+  }
+  1050.1.1 = {
+    give_nickname = nick_the_saint
+    death = yes
+  }
+}
+242502 = {
+  name = "Osmund"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1000.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+242503 = {
+  name = "Adalvard"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  981.1.1 = {
+    birth = yes
+  }
+  1064.1.1 = {
+    death = yes
+    give_nickname = nick_the_old
+  }
+}
+242505 = {
+  name = "Adalvard"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1014.1.1 = {
+    birth = yes
+    give_nickname = nick_the_young
+  }
+  1068.1.1 = {
+    death = yes
+  }
+}
+242506 = {
+  name = "Rodulvard"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1018.1.1 = {
+    birth = yes
+  }
+  1093.1.1 = {
+    death = yes
+  }
+}
+242507 = {
+  name = "Rikulf"
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 0
+  1031.1.1 = {
+    birth = yes
+  }
+  1101.1.1 = {
+    death = yes
+  }
+}
+242508 = {
+  name = "Hervard"
+  religion = "catholic"
+  culture = "saxon"
+  dynasty = 0
+  1039.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = yes
+  }
+}
+242509 = {
+  name = "Styrbjörn"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1044.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+242510 = {
+  name = "Ödgrim"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1058.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+242511 = {
+  name = "Bengt"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1092.1.1 = {
+    birth = yes
+    give_nickname = nick_the_good
+  }
+  1190.1.1 = {
+    death = yes
+  }
+}
+242512 = {
+  name = "Järpulf"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1130.1.1 = {
+    birth = yes
+  }
+  1201.1.1 = {
+    death = yes
+  }
+}
+242513 = {
+  name = "Jon"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1144.1.1 = {
+    birth = yes
+  }
+  1206.1.1 = {
+    death = yes
+  }
+}
+242514 = {
+  name = "Bernhard"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1163.1.1 = {
+    birth = yes
+  }
+  1219.1.1 = {
+    death = yes
+  }
+}
+242515 = {
+  name = "Bengt"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1171.1.1 = {
+    birth = yes
+  }
+  1228.1.1 = {
+    death = yes
+  }
+}
+242516 = {
+  name = "Stenar"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1179.1.1 = {
+    birth = yes
+  }
+  1238.1.1 = {
+    death = yes
+  }
+}
+242517 = {
+  name = "Lars"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1181.1.1 = {
+    birth = yes
+  }
+  1257.1.1 = {
+    death = yes
+  }
+}
+242518 = {
+  name = "ヴァルデマー"  # Valdemar
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1186.1.1 = {
+    birth = yes
+  }
+  1258.1.1 = {
+    death = yes
+  }
+}
+242519 = {
+  name = "Ragvald"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1189.1.1 = {
+    birth = yes
+  }
+  1263.1.1 = {
+    death = yes
+  }
+}
+242520 = {
+  name = "Ulf"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1207.1.1 = {
+    birth = yes
+  }
+  1267.1.1 = {
+    death = yes
+  }
+}
+242521 = {
+  name = "Erik"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1228.1.1 = {
+    birth = yes
+  }
+  1278.1.1 = {
+    death = yes
+  }
+}
+242522 = {
+  name = "Brynolf"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1257.1.1 = {
+    birth = yes
+  }
+  1317.1.1 = {
+    death = yes
+  }
+}
+242523 = {
+  name = "Bengt"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1271.1.1 = {
+    birth = yes
+  }
+  1321.1.1 = {
+    death = yes
+  }
+}
+242524 = {
+  name = "Erik"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1257.1.1 = {
+    birth = yes
+  }
+  1322.1.1 = {
+    death = yes
+  }
+}
+242525 = {
+  name = "Peder"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1276.1.1 = {
+    birth = yes
+  }
+  1336.1.1 = {
+    death = yes
+  }
+}
+242526 = {
+  name = "Gunnar"
+  religion = "catholic"
+  culture = "swedish"
+  dynasty = 0
+  1282.1.1 = {
+    birth = yes
+  }
+  1340.1.1 = {
+    death = yes
   }
 }

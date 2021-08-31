@@ -1,4 +1,19 @@
-﻿145199 = {
+﻿145850 = {
+  name = "ヴァリウス"  # Vallius
+  dynasty = 1062127
+  religion = "iconoclast"
+  culture = "dalmatian"
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  787.10.23 = {
+    religion = "orthodox"
+  }
+  801.1.1 = {
+    death = "801.1.1"
+  }
+}
+145199 = {
   name = "ルカルス"  # Lucarus
   dynasty = 1062119
   religion = "catholic"
@@ -23,43 +38,6 @@
   }
   791.1.1 = {
     death = "791.1.1"
-  }
-}
-145850 = {
-  name = "ヴァリウス"  # Vallius
-  dynasty = 1062127
-  religion = "iconoclast"
-  culture = "dalmatian"
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  787.10.23 = {
-    religion = "orthodox"
-  }
-  801.1.1 = {
-    death = "801.1.1"
-  }
-}
-211995 = {
-  name = "セプティミウス"  # Septimius
-  religion = catholic
-  culture = dalmatian
-  720.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-253975 = {
-  name = "ハドリアヌス"  # Hadrianus
-  religion = catholic
-  culture = dalmatian
-  834.1.1 = {
-    birth = yes
-  }
-  880.1.1 = {
-    death = yes
   }
 }
 260394 = {
@@ -134,14 +112,25 @@
     death = yes
   }
 }
-261332 = {
-  name = "ロンコ"  # Loncho
+211995 = {
+  name = "セプティミウス"  # Septimius
   religion = catholic
   culture = dalmatian
-  908.1.1 = {
+  720.1.1 = {
     birth = yes
   }
-  945.1.1 = {
+  780.1.1 = {
+    death = yes
+  }
+}
+253975 = {
+  name = "ハドリアヌス"  # Hadrianus
+  religion = catholic
+  culture = dalmatian
+  834.1.1 = {
+    birth = yes
+  }
+  880.1.1 = {
     death = yes
   }
 }
@@ -153,6 +142,17 @@
     birth = yes
   }
   964.1.1 = {
+    death = yes
+  }
+}
+261332 = {
+  name = "ロンコ"  # Loncho
+  religion = catholic
+  culture = dalmatian
+  908.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
     death = yes
   }
 }

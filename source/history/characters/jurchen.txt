@@ -1,49 +1,4 @@
-﻿215597 = {
-  dynasty = 1051153
-  name = "宗堯"  # Zongyao
-  religion = taoist
-  culture = jurchen
-  father = 217730
-  1103.1.1 = {
-    birth = yes
-  }
-  1143.1.1 = {
-    death = {
-      death_reason = death_in_china_historic
-    }
-  }
-}
-215598 = {
-  dynasty = 1051153
-  name = "允恭"  # Yungong
-  religion = taoist
-  culture = jurchen
-  father = 217735
-  1145.1.1 = {
-    birth = yes
-  }
-  1180.1.1 = {
-    death = {
-      death_reason = death_in_china_historic
-    }
-  }
-}
-215599 = {
-  dynasty = 1051153
-  name = "宗幹"  # Zonggan
-  religion = taoist
-  culture = jurchen
-  father = 217730
-  1100.1.1 = {
-    birth = yes
-  }
-  1140.1.1 = {
-    death = {
-      death_reason = death_in_china_historic
-    }
-  }
-}
-217729 = {
+﻿217729 = {
   dynasty = 1051153
   name = "劾里鉢"  # Helibo
   religion = taoist
@@ -126,6 +81,21 @@
     }
   }
 }
+215599 = {
+  dynasty = 1051153
+  name = "宗幹"  # Zonggan
+  religion = taoist
+  culture = jurchen
+  father = 217730
+  1100.1.1 = {
+    birth = yes
+  }
+  1140.1.1 = {
+    death = {
+      death_reason = death_in_china_historic
+    }
+  }
+}
 217734 = {
   dynasty = 1051153
   name = "迪古乃"  # Digunai
@@ -138,6 +108,21 @@
   1161.12.15 = {
     death = {
       death_reason = death_offmap
+    }
+  }
+}
+215597 = {
+  dynasty = 1051153
+  name = "宗堯"  # Zongyao
+  religion = taoist
+  culture = jurchen
+  father = 217730
+  1103.1.1 = {
+    birth = yes
+  }
+  1143.1.1 = {
+    death = {
+      death_reason = death_in_china_historic
     }
   }
 }
@@ -156,6 +141,21 @@
   1189.1.20 = {
     death = {
       death_reason = death_offmap
+    }
+  }
+}
+215598 = {
+  dynasty = 1051153
+  name = "允恭"  # Yungong
+  religion = taoist
+  culture = jurchen
+  father = 217735
+  1145.1.1 = {
+    birth = yes
+  }
+  1180.1.1 = {
+    death = {
+      death_reason = death_in_china_historic
     }
   }
 }

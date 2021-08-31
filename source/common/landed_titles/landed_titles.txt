@@ -488,7 +488,7 @@ d_sunni = {
           custom_tooltip = {
             text = controls_mecca_medina
             hidden_tooltip = {
-              718 = {
+              719 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -496,7 +496,7 @@ d_sunni = {
                   }
                 }
               }
-              719 = {
+              718 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -510,7 +510,7 @@ d_sunni = {
         custom_tooltip = {
           text = controls_jerusalem_damascus_baghdad
           hidden_tooltip = {
-            693 = {
+            774 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -526,7 +526,7 @@ d_sunni = {
                 }
               }
             }
-            774 = {
+            693 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -568,7 +568,7 @@ d_sunni = {
       custom_tooltip = {
         text = controls_mecca_medina
         hidden_tooltip = {
-          718 = {
+          719 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -576,7 +576,7 @@ d_sunni = {
               }
             }
           }
-          719 = {
+          718 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -717,7 +717,7 @@ d_shiite = {
           custom_tooltip = {
             text = controls_mecca_medina
             hidden_tooltip = {
-              718 = {
+              719 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -725,7 +725,7 @@ d_shiite = {
                   }
                 }
               }
-              719 = {
+              718 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -739,7 +739,7 @@ d_shiite = {
         custom_tooltip = {
           text = controls_jerusalem_damascus_baghdad
           hidden_tooltip = {
-            693 = {
+            774 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -755,7 +755,7 @@ d_shiite = {
                 }
               }
             }
-            774 = {
+            693 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -800,7 +800,7 @@ d_shiite = {
         custom_tooltip = {
           text = controls_mecca_medina
           hidden_tooltip = {
-            718 = {
+            719 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -808,7 +808,7 @@ d_shiite = {
                 }
               }
             }
-            719 = {
+            718 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -47285,7 +47285,7 @@ d_ibadi = {
           custom_tooltip = {
             text = controls_mecca_medina
             hidden_tooltip = {
-              718 = {
+              719 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47293,7 +47293,7 @@ d_ibadi = {
                   }
                 }
               }
-              719 = {
+              718 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47307,7 +47307,7 @@ d_ibadi = {
         custom_tooltip = {
           text = controls_jerusalem_damascus_baghdad
           hidden_tooltip = {
-            693 = {
+            774 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -47323,7 +47323,7 @@ d_ibadi = {
                 }
               }
             }
-            774 = {
+            693 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -47365,7 +47365,7 @@ d_ibadi = {
       custom_tooltip = {
         text = controls_mecca_medina
         hidden_tooltip = {
-          718 = {
+          719 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -47373,7 +47373,7 @@ d_ibadi = {
               }
             }
           }
-          719 = {
+          718 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -47440,7 +47440,7 @@ d_kharijite = {
           custom_tooltip = {
             text = controls_mecca_medina
             hidden_tooltip = {
-              718 = {
+              719 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47448,7 +47448,7 @@ d_kharijite = {
                   }
                 }
               }
-              719 = {
+              718 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47461,7 +47461,7 @@ d_kharijite = {
           custom_tooltip = {
             text = controls_jerusalem_damascus_baghdad
             hidden_tooltip = {
-              693 = {
+              774 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47477,7 +47477,7 @@ d_kharijite = {
                   }
                 }
               }
-              774 = {
+              693 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47520,7 +47520,7 @@ d_kharijite = {
       custom_tooltip = {
         text = controls_mecca_medina
         hidden_tooltip = {
-          718 = {
+          719 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -47528,7 +47528,7 @@ d_kharijite = {
               }
             }
           }
-          719 = {
+          718 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -47603,7 +47603,7 @@ d_hurufi = {
           custom_tooltip = {
             text = controls_mecca_medina
             hidden_tooltip = {
-              718 = {
+              719 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47611,7 +47611,7 @@ d_hurufi = {
                   }
                 }
               }
-              719 = {
+              718 = {
                 owner = {
                   OR = {
                     is_liege_or_above = ROOT
@@ -47625,7 +47625,7 @@ d_hurufi = {
         custom_tooltip = {
           text = controls_jerusalem_damascus_baghdad
           hidden_tooltip = {
-            693 = {
+            774 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -47641,7 +47641,7 @@ d_hurufi = {
                 }
               }
             }
-            774 = {
+            693 = {
               owner = {
                 OR = {
                   is_liege_or_above = ROOT
@@ -47683,7 +47683,7 @@ d_hurufi = {
       custom_tooltip = {
         text = controls_mecca_medina
         hidden_tooltip = {
-          718 = {
+          719 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT
@@ -47691,7 +47691,7 @@ d_hurufi = {
               }
             }
           }
-          719 = {
+          718 = {
             owner = {
               OR = {
                 is_liege_or_above = ROOT

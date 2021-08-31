@@ -1,4 +1,177 @@
-﻿146137 = {
+﻿194006 = {
+  name = "デンキジック"  # Dengizikh
+  dynasty = 9570
+  religion = tengri_pagan
+  culture = avar
+  father = 146163
+  722.1.1 = {
+    birth = 722.1.1
+  }
+  776.1.1 = {
+    death = 776.1.1
+  }
+}
+194000 = {
+  name = "アルプ"  # Alp
+  dynasty = 9570
+  religion = tengri_pagan
+  culture = avar
+  father = 146172
+  775.1.1 = {
+    birth = 775.1.1
+  }
+  830.1.1 = {
+    death = 830.1.1
+  }
+}
+168071 = {
+  name = "ディゼング"  # Dizeng
+  dynasty = 9570
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 194000
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  858.1.1 = {
+    death = "858.1.1"
+  }
+}
+168072 = {
+  name = "バハト"  # Baghatur
+  dynasty = 9570
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168071
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  884.1.1 = {
+    death = "884.1.1"
+  }
+}
+168073 = {
+  name = "ツズニク"  # Tuzniq
+  dynasty = 9570
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168072
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  884.1.1 = {
+    religion = "orthodox"
+  }
+  891.1.1 = {
+    death = "891.1.1"
+  }
+}
+168074 = {
+  name = "クドゥバルト"  # Khudbard
+  dynasty = 9570
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168072
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  884.1.1 = {
+    religion = "orthodox"
+  }
+  909.1.1 = {
+    death = "909.1.1"
+  }
+}
+168283 = {
+  name = "ユモル"  # Umor
+  dynasty = 9577
+  religion = "tengri_pagan"
+  culture = "avar"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  895.1.1 = {
+    death = "895.1.1"
+  }
+}
+168284 = {
+  name = "アラスラン"  # Araslan
+  dynasty = 9578
+  religion = "tengri_pagan"
+  culture = "avar"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  895.1.1 = {
+    death = "895.1.1"
+  }
+}
+168285 = {
+  name = "パバル"  # Paval
+  dynasty = 9579
+  religion = "tengri_pagan"
+  culture = "avar"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  895.1.1 = {
+    death = "895.1.1"
+  }
+}
+168576 = {
+  name = "イスブル"  # Isbul
+  dynasty = 9602
+  religion = "tengri_pagan"
+  culture = "avar"
+  800.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+168577 = {
+  name = "アプスキ"  # Apskhih
+  dynasty = 9602
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168576
+  830.1.1 = {
+    birth = yes
+  }
+  880.1.1 = {
+    death = yes
+  }
+}
+168578 = {
+  name = "サーラ"  # Sarä
+  female = yes
+  dynasty = 9602
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168576
+  842.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+168579 = {
+  name = "グライ"  # Gulay
+  female = yes
+  dynasty = 9602
+  religion = "tengri_pagan"
+  culture = "avar"
+  father = 168576
+  844.1.1 = {
+    birth = yes
+  }
+  892.1.1 = {
+    death = yes
+  }
+}
+146137 = {
   name = "ヴェタム"  # Vetam
   dynasty = 1022368
   religion = "tengri_pagan"
@@ -485,178 +658,5 @@
   }
   813.1.1 = {
     death = yes
-  }
-}
-168071 = {
-  name = "ディゼング"  # Dizeng
-  dynasty = 9570
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 194000
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  858.1.1 = {
-    death = "858.1.1"
-  }
-}
-168072 = {
-  name = "バハト"  # Baghatur
-  dynasty = 9570
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168071
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  884.1.1 = {
-    death = "884.1.1"
-  }
-}
-168073 = {
-  name = "ツズニク"  # Tuzniq
-  dynasty = 9570
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168072
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  884.1.1 = {
-    religion = "orthodox"
-  }
-  891.1.1 = {
-    death = "891.1.1"
-  }
-}
-168074 = {
-  name = "クドゥバルト"  # Khudbard
-  dynasty = 9570
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168072
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  884.1.1 = {
-    religion = "orthodox"
-  }
-  909.1.1 = {
-    death = "909.1.1"
-  }
-}
-168283 = {
-  name = "ユモル"  # Umor
-  dynasty = 9577
-  religion = "tengri_pagan"
-  culture = "avar"
-  845.1.1 = {
-    birth = "845.1.1"
-  }
-  895.1.1 = {
-    death = "895.1.1"
-  }
-}
-168284 = {
-  name = "アラスラン"  # Araslan
-  dynasty = 9578
-  religion = "tengri_pagan"
-  culture = "avar"
-  845.1.1 = {
-    birth = "845.1.1"
-  }
-  895.1.1 = {
-    death = "895.1.1"
-  }
-}
-168285 = {
-  name = "パバル"  # Paval
-  dynasty = 9579
-  religion = "tengri_pagan"
-  culture = "avar"
-  845.1.1 = {
-    birth = "845.1.1"
-  }
-  895.1.1 = {
-    death = "895.1.1"
-  }
-}
-168576 = {
-  name = "イスブル"  # Isbul
-  dynasty = 9602
-  religion = "tengri_pagan"
-  culture = "avar"
-  800.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-168577 = {
-  name = "アプスキ"  # Apskhih
-  dynasty = 9602
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168576
-  830.1.1 = {
-    birth = yes
-  }
-  880.1.1 = {
-    death = yes
-  }
-}
-168578 = {
-  name = "サーラ"  # Sarä
-  female = yes
-  dynasty = 9602
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168576
-  842.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-168579 = {
-  name = "グライ"  # Gulay
-  female = yes
-  dynasty = 9602
-  religion = "tengri_pagan"
-  culture = "avar"
-  father = 168576
-  844.1.1 = {
-    birth = yes
-  }
-  892.1.1 = {
-    death = yes
-  }
-}
-194000 = {
-  name = "アルプ"  # Alp
-  dynasty = 9570
-  religion = tengri_pagan
-  culture = avar
-  father = 146172
-  775.1.1 = {
-    birth = 775.1.1
-  }
-  830.1.1 = {
-    death = 830.1.1
-  }
-}
-194006 = {
-  name = "デンキジック"  # Dengizikh
-  dynasty = 9570
-  religion = tengri_pagan
-  culture = avar
-  father = 146163
-  722.1.1 = {
-    birth = 722.1.1
-  }
-  776.1.1 = {
-    death = 776.1.1
   }
 }

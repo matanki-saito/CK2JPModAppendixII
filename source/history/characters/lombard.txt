@@ -1,119 +1,2399 @@
-﻿1116 = {
-  name = "グアイマル"  # Guaimar
-  dynasty = 100336
-  father = 30857
-  religion = catholic
-  culture = lombard
-  1010.1.1 = {
+﻿190122 = {
+  name = "アウドイン"  # Audoin
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  519.1.1 = {
     birth = yes
   }
-  1026.1.1 = {
-    add_spouse = 1117
+  536.1.1 = {
+    add_spouse = 190123
   }
-  1032.5.1 = {
-    add_spouse = 30854
-  }
-  1052.6.3 = {
+  565.1.1 = {
     death = yes
   }
 }
-1117 = {
-  name = "プルプラ"  # Purpura
+190123 = {
+  name = "ロデリンダ"  # Rodelinda
   female = yes
-  religion = catholic
-  culture = lombard
-  1010.1.1 = {
+  dynasty = 1044032
+  religion = "catholic"
+  culture = "lombard"
+  520.1.1 = {
     birth = yes
   }
-  1032.1.1 = {
+  574.1.1 = {
     death = yes
   }
 }
-1119 = {
+190124 = {
+  name = "アルボイン"  # Alboin
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190122
+  mother = 190123
+  539.1.1 = {
+    birth = yes
+  }
+  572.1.1 = {
+    death = yes
+  }
+}
+190125 = {
+  name = "グラスルフ"  # Grasulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190122
+  mother = 190123
+  542.1.1 = {
+    birth = yes
+  }
+  569.1.1 = {
+    death = yes
+  }
+}
+190126 = {
   name = "ギスルフ"  # Gisulf
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1035.1.1 = {
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190125
+  559.1.1 = {
     birth = yes
   }
-  1091.1.2 = {
+  591.1.1 = {
     death = yes
   }
 }
-1123 = {
-  name = "シケルガイタ"  # Sichelgaita
+190127 = {
+  name = "ツォット"  # Zotto
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190125
+  560.1.1 = {
+    birth = yes
+  }
+  576.1.1 = {
+    add_spouse = 190166
+  }
+  591.1.1 = {
+    death = yes
+  }
+}
+190128 = {
+  name = "ギスルフ"  # Gisulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190126
+  578.1.1 = {
+    birth = yes
+  }
+  594.1.1 = {
+    add_spouse = 190129
+  }
+  610.1.1 = {
+    death = yes
+  }
+}
+190244 = {
+  name = "タソ"  # Taso
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  594.1.1 = {
+    birth = yes
+  }
+  625.1.1 = {
+    death = yes
+  }
+}
+190245 = {
+  name = "カッコ"  # Cacco
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  595.1.1 = {
+    birth = yes
+  }
+  625.1.1 = {
+    death = yes
+  }
+}
+190130 = {
+  name = "ラドアルド"  # Radoald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  596.1.1 = {
+    birth = yes
+  }
+  651.1.1 = {
+    death = yes
+  }
+}
+190131 = {
+  name = "アッパ"  # Appa
   female = yes
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  trait = siege_leader
-  trait = skilled_tactician
-  trait = brave
-  trait = proud
-  trait = strong
-  martial = 8
-  1040.1.1 = {
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  598.1.1 = {
     birth = yes
   }
-  1065.1.1 = {
-    effect = {
-      set_character_flag = special_marshal
-    }
-  }
-  1090.7.27 = {
+  652.1.1 = {
     death = yes
   }
 }
-1129 = {
-  name = "ガイテルグリマ"  # Gaitelgrima
+190132 = {
+  name = "ゲイラ"  # Geila
   female = yes
-  dynasty = 100336
-  father = 1116
-  mother = 1117
-  religion = catholic
-  culture = lombard
-  1032.1.1 = {
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  603.1.1 = {
     birth = yes
   }
-  1087.1.1 = {
+  657.1.1 = {
     death = yes
   }
 }
-1137 = {
-  name = "マリア"  # Maria
+190133 = {
+  name = "グリモアルド"  # Grimoald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190128
+  mother = 190129
+  609.1.1 = {
+    birth = yes
+  }
+  650.1.1 = {
+    add_spouse = 190134
+  }
+  671.1.1 = {
+    death = yes
+  }
+}
+190134 = {
+  name = "セオドタ"  # Theodota
   female = yes
-  dynasty = 100336
-  father = 30856
-  religion = catholic
-  culture = lombard
-  1034.1.1 = {
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190181
+  634.1.1 = {
     birth = yes
   }
-  1085.1.1 = {
+  675.1.1 = {
     death = yes
   }
 }
-2012 = {
+190135 = {
+  name = "ロムアルド"  # Romuald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190133
+  mother = 190134
+  653.1.1 = {
+    birth = yes
+  }
+  669.1.1 = {
+    add_spouse = 190137
+  }
+  687.1.1 = {
+    death = yes
+  }
+}
+190136 = {
+  name = "ガリバルド"  # Garibald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190133
+  mother = 190134
+  655.1.1 = {
+    birth = yes
+  }
+  688.1.1 = {
+    death = yes
+  }
+}
+190137 = {
+  name = "セオドラダ"  # Theodrada
+  female = yes
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190248
+  653.1.1 = {
+    birth = yes
+  }
+  698.1.1 = {
+    death = yes
+  }
+}
+190138 = {
+  name = "グリモアルド"  # Grimoald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190135
+  mother = 190137
+  669.1.2 = {
+    birth = yes
+  }
+  655.1.1 = {
+    add_spouse = 190187
+  }
+  689.1.1 = {
+    death = yes
+  }
+}
+190139 = {
+  name = "ギスルフ"  # Gisulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190135
+  mother = 190137
+  670.1.1 = {
+    birth = yes
+  }
+  686.1.1 = {
+    add_spouse = 190140
+  }
+  706.1.1 = {
+    death = yes
+  }
+}
+190140 = {
+  name = "ウィンペルガ"  # Winperga
+  female = yes
+  dynasty = 1044036
+  religion = "catholic"
+  culture = "lombard"
+  669.1.1 = {
+    birth = yes
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190141 = {
+  name = "ロムアルド"  # Romuald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190139
+  mother = 190140
+  686.1.2 = {
+    birth = yes
+  }
+  702.1.1 = {
+    add_spouse = 190142
+  }
+  729.1.1 = {
+    remove_spouse = 190142
+  }
+  730.1.1 = {
+    add_spouse = 190143
+  }
+  732.1.1 = {
+    death = yes
+  }
+}
+190142 = {
+  name = "グンペルガ"  # Gumperga
+  female = yes
+  dynasty = 1044037
+  religion = "catholic"
+  culture = "lombard"
+  684.1.1 = {
+    birth = yes
+  }
+  729.1.1 = {
+    death = yes
+  }
+}
+190143 = {
+  name = "ラニグンダ"  # Ranigunda
+  female = yes
+  dynasty = 1044038
+  religion = "catholic"
+  culture = "lombard"
+  709.1.1 = {
+    birth = yes
+  }
+  741.1.1 = {
+    death = yes
+  }
+}
+190144 = {
+  name = "ギスルフ"  # Gisulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190141
+  mother = 190142
+  702.1.1 = {
+    birth = yes
+  }
+  718.1.1 = {
+    add_spouse = 190145
+  }
+  751.1.1 = {
+    death = yes
+  }
+}
+190145 = {
+  name = "スカウニペルガ"  # Scauniperga
+  female = yes
+  dynasty = 1044039
+  religion = "catholic"
+  culture = "lombard"
+  701.1.1 = {
+    birth = yes
+  }
+  752.1.1 = {
+    death = yes
+  }
+}
+190146 = {
+  name = "リウトプランド"  # Liutprand
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190144
+  mother = 190145
+  719.1.1 = {
+    birth = yes
+  }
+  756.1.1 = {
+    death = yes
+  }
+}
+190147 = {
+  name = "アレキス"  # Arechis
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190146
+  735.1.1 = {
+    birth = yes
+  }
+  751.1.1 = {
+    add_spouse = 190148
+  }
+  787.8.26 = {
+    death = yes
+  }
+}
+190148 = {
+  name = "アデルペルガ"  # Adelperga
+  female = yes
+  dynasty = 1044053
+  religion = "catholic"
+  culture = "lombard"
+  father = 190347
+  mother = 190340
+  735.1.1 = {
+    birth = yes
+  }
+  772.1.1 = {
+    death = yes
+  }
+}
+190149 = {
+  name = "ロモアルド"  # Romoald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190147
+  mother = 190148
+  751.1.1 = {
+    birth = yes
+  }
+  787.8.26 = {
+    death = yes
+  }
+}
+190150 = {
+  name = "グリモアルド"  # Grimoald
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190147
+  mother = 190148
+  752.1.1 = {
+    birth = yes
+  }
+  751.1.1 = {
+    add_spouse = 190151
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+190151 = {
+  name = "スカウニペルガ"  # Scauniperga
+  female = yes
+  dynasty = 1044041
+  religion = "catholic"
+  culture = "lombard"
+  750.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+190152 = {
+  name = "イルデリク"  # Ilderic
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190150
+  mother = 190151
+  768.1.1 = {
+    birth = yes
+  }
+  807.1.1 = {
+    death = yes
+  }
+}
+190153 = {
+  name = "アレキス"  # Arechis
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190126
+  581.1.1 = {
+    birth = yes
+  }
+  641.1.1 = {
+    death = yes
+  }
+}
+190154 = {
+  name = "アイウルフ"  # Aiulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190153
+  601.1.1 = {
+    birth = yes
+  }
+  646.1.1 = {
+    death = yes
+  }
+}
+190246 = {
+  name = "グラスルフ"  # Grasulf
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190126
+  579.1.1 = {
+    birth = yes
+  }
+  641.1.1 = {
+    death = yes
+  }
+}
+190247 = {
+  name = "アゴ"  # Ago
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190246
+  599.1.1 = {
+    birth = yes
+  }
+  663.1.1 = {
+    death = yes
+  }
+}
+190248 = {
+  name = "ルプス"  # Lupus
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190247
+  620.1.1 = {
+    birth = yes
+  }
+  666.1.1 = {
+    death = yes
+  }
+}
+190249 = {
+  name = "アルネフリト"  # Arnefrit
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190248
+  638.1.1 = {
+    birth = yes
+  }
+  666.6.1 = {
+    death = yes
+  }
+}
+190250 = {
+  name = "ウェクタル"  # Wechtar
+  dynasty = 1044059
+  religion = "catholic"
+  culture = "lombard"
+  636.1.1 = {
+    birth = yes
+  }
+  678.1.1 = {
+    death = yes
+  }
+}
+190251 = {
+  name = "ランダル"  # Landar
+  dynasty = 1044059
+  religion = "catholic"
+  culture = "lombard"
+  father = 190250
+  652.1.1 = {
+    birth = yes
+  }
+  690.1.1 = {
+    death = yes
+  }
+}
+190252 = {
+  name = "ロドアルド"  # Rodoald
+  dynasty = 1044059
+  religion = "catholic"
+  culture = "lombard"
+  father = 190251
+  668.1.1 = {
+    birth = yes
+  }
+  694.1.1 = {
+    death = yes
+  }
+}
+190253 = {
+  name = "ランデブルガ"  # Landeburga
+  female = yes
+  dynasty = 1044059
+  religion = "catholic"
+  culture = "lombard"
+  father = 190251
+  669.1.1 = {
+    birth = yes
+  }
+  730.1.1 = {
+    death = yes
+  }
+}
+190254 = {
+  name = "アド"  # Ado
+  dynasty = 1044059
+  religion = "catholic"
+  culture = "lombard"
+  father = 190251
+  678.1.1 = {
+    birth = yes
+  }
+  695.1.1 = {
+    death = yes
+  }
+}
+190255 = {
+  name = "アンスフリド"  # Ansfrid
+  dynasty = 1044060
+  religion = "catholic"
+  culture = "lombard"
+  656.1.1 = {
+    birth = yes
+  }
+  685.1.1 = {
+    add_spouse = 190253
+  }
+  694.1.1 = {
+    death = yes
+  }
+}
+190256 = {
+  name = "フェルドゥルフ"  # Ferdulf
+  dynasty = 1044060
+  religion = "catholic"
+  culture = "lombard"
+  father = 190255
+  mother = 190253
+  685.1.1 = {
+    birth = yes
+  }
+  705.1.1 = {
+    death = yes
+  }
+}
+190257 = {
+  name = "コルヴルス"  # Corvulus
+  dynasty = 1044060
+  religion = "catholic"
+  culture = "lombard"
+  father = 190256
+  701.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    death = yes
+  }
+}
+190258 = {
+  name = "フェルドゥルフ"  # Ferdulf
+  dynasty = 1044060
+  religion = "catholic"
+  culture = "lombard"
+  father = 190257
+  721.1.1 = {
+    birth = yes
+  }
+  773.1.1 = {
+    death = yes
+  }
+}
+190259 = {
+  name = "ムニキス"  # Munichis
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  701.1.1 = {
+    birth = yes
+  }
+  740.1.1 = {
+    death = yes
+  }
+}
+190260 = {
+  name = "アンセルム"  # Anselm
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190259
+  718.1.1 = {
+    birth = yes
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+190261 = {
+  name = "ムニキス"  # Munichis
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190259
+  719.1.1 = {
+    birth = yes
+  }
+  748.1.1 = {
+    death = yes
+  }
+}
+190262 = {
+  name = "ペテル"  # Peter
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190261
+  735.1.1 = {
+    birth = yes
+  }
+  774.1.1 = {
+    death = yes
+  }
+}
+190263 = {
+  name = "ウルスス"  # Ursus
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190261
+  737.1.1 = {
+    birth = yes
+  }
+  774.1.1 = {
+    death = yes
+  }
+}
+190264 = {
+  name = "ロドガウド"  # Hrodgaud
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190261
+  740.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+190344 = {
+  name = "ギサルトルダ"  # Gisaltruda
+  female = yes
+  dynasty = 1044052
+  religion = "catholic"
+  culture = "lombard"
+  father = 190259
+  730.1.1 = {
+    birth = yes
+  }
+  781.1.1 = {
+    death = yes
+  }
+}
+190155 = {
+  name = "ファルコ"  # Falco
+  dynasty = 1044042
+  religion = "catholic"
+  culture = "lombard"
+  743.1.1 = {
+    birth = yes
+  }
+  764.1.1 = {
+    add_spouse = 190156
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+190156 = {
+  name = "ワルドラダ"  # Waldrada
+  female = yes
+  dynasty = 1044043
+  religion = "catholic"
+  culture = "lombard"
+  747.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+190157 = {
+  name = "グリモアルド"  # Grimoald
+  dynasty = 1044042
+  religion = "catholic"
+  culture = "lombard"
+  father = 190155
+  mother = 190156
+  765.1.1 = {
+    birth = yes
+  }
+  817.1.1 = {
+    death = yes
+  }
+}
+190158 = {
+  name = "シカルド"  # Sicard
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  742.1.1 = {
+    birth = yes
+  }
+  758.1.1 = {
+    add_spouse = 190159
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+190159 = {
+  name = "リウトベルガ"  # Liutberga
+  female = yes
+  dynasty = 1044085
+  religion = "catholic"
+  culture = "lombard"
+  740.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+190160 = {
+  name = "シコ"  # Sico
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  father = 190158
+  mother = 190159
+  758.1.1 = {
+    birth = yes
+  }
+  832.1.1 = {
+    death = yes
+  }
+}
+190161 = {
+  name = "シカルド"  # Sicard
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  father = 190160
+  779.1.1 = {
+    birth = yes
+  }
+  839.1.1 = {
+    death = yes
+  }
+}
+190162 = {
+  name = "イッタ"  # Itta
+  female = yes
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  father = 190160
+  783.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+190163 = {
+  name = "シコヌルフ"  # Siconulf
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  father = 190160
+  789.1.1 = {
+    birth = yes
+  }
+  851.1.1 = {
+    death = yes
+  }
+}
+190164 = {
+  name = "シコ"  # Sico
+  dynasty = 1044044
+  religion = "catholic"
+  culture = "lombard"
+  father = 190160
+  813.1.1 = {
+    birth = yes
+  }
+  855.1.1 = {
+    death = yes
+  }
+}
+190165 = {
+  name = "マサネ"  # Masane
+  female = yes
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190122
+  mother = 190123
+  540.1.1 = {
+    birth = yes
+  }
+  592.1.1 = {
+    death = yes
+  }
+}
+190166 = {
+  name = "ロデリンダ"  # Rodelinda
+  female = yes
+  dynasty = 1044031
+  religion = "catholic"
+  culture = "lombard"
+  father = 190122
+  mother = 190123
+  541.1.1 = {
+    birth = yes
+  }
+  590.1.1 = {
+    death = yes
+  }
+}
+190167 = {
+  name = "ベレオ"  # Beleo
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  507.1.1 = {
+    birth = yes
+  }
+  557.1.1 = {
+    death = yes
+  }
+}
+190168 = {
+  name = "クレプ"  # Cleph
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  father = 190167
+  523.1.1 = {
+    birth = yes
+  }
+  556.1.1 = {
+    add_spouse = 190165
+  }
+  574.1.1 = {
+    death = yes
+  }
+}
+190169 = {
+  name = "アウサリ"  # Authari
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  father = 190168
+  556.1.1 = {
+    birth = yes
+  }
+  584.1.1 = {
+    add_spouse = 190171
+  }
+  590.1.1 = {
+    remove_spouse = 190171
+  }
+  590.1.1 = {
+    death = yes
+  }
+}
+190170 = {
+  name = "アギルルフ"  # Agilulf
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  father = 190168
+  559.1.1 = {
+    birth = yes
+  }
+  590.1.1 = {
+    add_spouse = 190171
+  }
+  616.1.1 = {
+    death = yes
+  }
+}
+190172 = {
+  name = "グンデベルガ"  # Gundeberga
+  female = yes
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  father = 190170
+  mother = 190171
+  598.1.1 = {
+    birth = yes
+  }
+  658.1.1 = {
+    death = yes
+  }
+}
+190173 = {
+  name = "アダロアルド"  # Adaloald
+  dynasty = 1044045
+  religion = "catholic"
+  culture = "lombard"
+  father = 190170
+  mother = 190171
+  602.1.1 = {
+    birth = yes
+  }
+  626.1.1 = {
+    death = yes
+  }
+}
+190174 = {
+  name = "アリオアルド"  # Arioald
+  dynasty = 1044047
+  religion = "catholic"
+  culture = "lombard"
+  578.1.1 = {
+    birth = yes
+  }
+  617.1.1 = {
+    add_spouse = 190172
+  }
+  636.1.1 = {
+    death = yes
+  }
+}
+190175 = {
+  name = "ナンディング"  # Nanding
+  dynasty = 1044048
+  religion = "catholic"
+  culture = "lombard"
+  572.1.1 = {
+    birth = yes
+  }
+  626.1.1 = {
+    death = yes
+  }
+}
+190176 = {
+  name = "ロサリ"  # Rothari
+  dynasty = 1044048
+  religion = "catholic"
+  culture = "lombard"
+  father = 190175
+  599.1.1 = {
+    birth = yes
+  }
+  652.1.1 = {
+    death = yes
+  }
+}
+190177 = {
+  name = "ロドアルド"  # Rodoald
+  dynasty = 1044048
+  religion = "catholic"
+  culture = "lombard"
+  father = 190176
+  620.1.1 = {
+    birth = yes
+  }
+  653.1.1 = {
+    death = yes
+  }
+}
+190181 = {
+  name = "アリペルト"  # Aripert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190180
+  609.1.1 = {
+    birth = yes
+  }
+  661.1.1 = {
+    death = yes
+  }
+}
+190182 = {
+  name = "ゴデペルト"  # Godepert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190181
+  629.1.1 = {
+    birth = yes
+  }
+  662.1.1 = {
+    death = yes
+  }
+}
+190183 = {
+  name = "ラギンペルト"  # Raginpert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190182
+  653.1.1 = {
+    birth = yes
+  }
+  701.6.1 = {
+    death = yes
+  }
+}
+190184 = {
+  name = "アリペルト"  # Aripert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190183
+  672.1.1 = {
+    birth = yes
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190185 = {
+  name = "ペクタリト"  # Pectarit
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190181
+  637.1.1 = {
+    birth = yes
+  }
+  688.1.1 = {
+    death = yes
+  }
+}
+190186 = {
+  name = "ロデリンダ"  # Rodelinda
+  female = yes
+  dynasty = 1044049
+  religion = "catholic"
+  culture = "lombard"
+  640.1.1 = {
+    birth = yes
+  }
+  691.1.1 = {
+    death = yes
+  }
+}
+190187 = {
+  name = "ウィギリンダ"  # Wigilinda
+  female = yes
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190185
+  mother = 190186
+  656.1.1 = {
+    birth = yes
+  }
+  690.1.1 = {
+    death = yes
+  }
+}
+190188 = {
+  name = "クニペルト"  # Cunipert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190185
+  mother = 190186
+  659.1.1 = {
+    birth = yes
+  }
+  700.1.1 = {
+    death = yes
+  }
+}
+190189 = {
+  name = "リウトペルト"  # Liutpert
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190188
+  689.1.1 = {
+    birth = yes
+  }
+  702.1.1 = {
+    death = yes
+  }
+}
+190190 = {
+  name = "レギントルデ"  # Regintrude
+  female = yes
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190182
+  657.1.1 = {
+    birth = yes
+  }
+  709.1.1 = {
+    death = yes
+  }
+}
+190191 = {
+  name = "ラトベルグ"  # Ratberg
+  female = yes
+  dynasty = 1044046
+  religion = "catholic"
+  culture = "lombard"
+  father = 190184
+  700.1.1 = {
+    birth = yes
+  }
+  742.1.1 = {
+    death = yes
+  }
+}
+190193 = {
+  name = "アンスプランド"  # Ansprand
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  652.1.1 = {
+    birth = yes
+  }
+  668.1.1 = {
+    add_spouse = 190192
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190194 = {
+  name = "シギベルト"  # Sigibert
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190193
+  mother = 190192
+  674.1.1 = {
+    birth = yes
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190195 = {
+  name = "アウロナ"  # Aurona
+  female = yes
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190193
+  mother = 190192
+  668.1.1 = {
+    birth = yes
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190196 = {
+  name = "リウトプランド"  # Liutprand
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190193
+  mother = 190192
+  698.1.1 = {
+    birth = yes
+  }
+  714.1.1 = {
+    add_spouse = 190197
+  }
+  744.1.1 = {
+    death = yes
+  }
+}
+190198 = {
+  name = "ヒルデプランド"  # Hildeprand
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190194
+  710.1.1 = {
+    birth = yes
+  }
+  744.6.1 = {
+    death = yes
+  }
+}
+190199 = {
+  name = "タシア"  # Tasia
+  female = yes
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190194
+  711.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+190340 = {
+  name = "アンシア"  # Ansia
+  female = yes
+  dynasty = 1044051
+  religion = "catholic"
+  culture = "lombard"
+  father = 190194
+  712.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+190341 = {
+  name = "ビロ"  # Billo
+  dynasty = 1044050
+  religion = "catholic"
+  culture = "lombard"
+  658.1.1 = {
+    birth = yes
+  }
+  702.1.1 = {
+    death = yes
+  }
+}
+190342 = {
+  name = "ペンモ"  # Pemmo
+  dynasty = 1044050
+  religion = "catholic"
+  culture = "lombard"
+  father = 190341
+  687.1.1 = {
+    birth = yes
+  }
+  716.1.1 = {
+    add_spouse = 190191
+  }
+  739.1.1 = {
+    death = yes
+  }
+}
+190343 = {
+  name = "ラトキス"  # Ratchis
+  dynasty = 1044050
+  religion = "catholic"
+  culture = "lombard"
+  father = 190342
+  mother = 190191
+  716.1.1 = {
+    birth = yes
+  }
+  732.1.1 = {
+    add_spouse = 190199
+  }
+  758.1.1 = {
+    death = yes
+  }
+}
+190331 = {
+  name = "アイストゥルフ"  # Aistulf
+  dynasty = 1044050
+  religion = "catholic"
+  culture = "lombard"
+  father = 190342
+  mother = 190191
+  717.1.1 = {
+    birth = yes
+  }
+  749.1.1 = {
+    add_spouse = 190344
+  }
+  756.1.1 = {
+    death = yes
+  }
+}
+190345 = {
+  name = "アラヒス"  # Alahis
+  dynasty = 1044053
+  religion = catholic
+  culture = lombard
+  685.1.1 = {
+    birth = yes
+  }
+  726.1.1 = {
+    death = yes
+  }
+}
+190346 = {
+  name = "エルミノルフ"  # Erminolf
+  dynasty = 1044053
+  father = 190345
+  religion = catholic
+  culture = lombard
+  701.1.1 = {
+    birth = yes
+  }
+  756.1.1 = {
+    death = yes
+  }
+}
+190347 = {
+  name = "デシデリウス"  # Desiderius
+  dynasty = 1044053
+  dna = aldccxlhgaf
+  properties = ai0afa000000
+  father = 190346
+  religion = catholic
+  culture = lombard
+  717.1.1 = {
+    birth = yes
+  }
+  734.1.1 = {
+    add_spouse = 190340
+  }
+  786.1.1 = {
+    death = yes
+  }
+}
+190348 = {
+  name = "ゲルベルガ"  # Gerberga
+  female = yes
+  dynasty = 1044053
+  religion = "catholic"
+  culture = "lombard"
+  father = 190347
+  mother = 190340
+  745.1.1 = {
+    birth = yes
+  }
+  794.1.1 = {
+    death = yes
+  }
+}
+190349 = {
+  name = "ダウフェラダ"  # Dauferada
+  female = yes
+  dynasty = 1044053
+  father = 190347
+  mother = 190340
+  religion = catholic
+  culture = lombard
+  747.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+190351 = {
+  name = "リウトペルガ"  # Liutperga
+  female = yes
+  dynasty = 1044053
+  religion = "catholic"
+  culture = "lombard"
+  father = 190347
+  mother = 190340
+  750.1.1 = {
+    birth = yes
+  }
+  794.1.1 = {
+    death = yes
+  }
+}
+190352 = {
+  name = "アンセルペルガ"  # Anselperga
+  female = yes
+  dynasty = 1044053
+  religion = "catholic"
+  culture = "lombard"
+  father = 190347
+  mother = 190340
+  744.1.1 = {
+    birth = yes
+  }
+  794.1.1 = {
+    death = yes
+  }
+}
+190353 = {
+  name = "アデルキス"  # Adelchis
+  dynasty = 1044053
+  religion = "catholic"
+  culture = "lombard"
+  father = 190347
+  mother = 190340
+  759.1.1 = {
+    birth = yes
+  }
+  788.1.1 = {
+    death = yes
+  }
+}
+190354 = {
+  name = "アラヒス"  # Alahis
+  dynasty = 1044054
+  religion = "catholic"
+  culture = "lombard"
+  654.1.1 = {
+    birth = yes
+  }
+  689.1.1 = {
+    death = yes
+  }
+}
+190265 = {
+  name = "セオディクス"  # Theodicus
+  dynasty = 1044061
+  religion = "catholic"
+  culture = "lombard"
+  727.1.1 = {
+    birth = yes
+  }
+  747.1.1 = {
+    add_spouse = 190266
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+190266 = {
+  name = "ギセルベルガ"  # Giselberga
+  female = yes
+  dynasty = 1044062
+  religion = "catholic"
+  culture = "lombard"
+  731.1.1 = {
+    birth = yes
+  }
+  780.6.1 = {
+    death = yes
+  }
+}
+190267 = {
+  name = "ヒルデプランド"  # Hildeprand
+  dynasty = 1044061
+  religion = "catholic"
+  culture = "lombard"
+  father = 190265
+  mother = 190266
+  750.1.1 = {
+    birth = yes
+  }
+  789.1.1 = {
+    death = yes
+  }
+}
+190268 = {
+  name = "ウルスス"  # Ursus
+  dynasty = 1044063
+  religion = "catholic"
+  culture = "lombard"
+  721.1.1 = {
+    birth = yes
+  }
+  772.1.1 = {
+    death = yes
+  }
+}
+190269 = {
+  name = "ヨフン"  # John
+  dynasty = 1044063
+  religion = "catholic"
+  culture = "lombard"
+  father = 190268
+  740.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+190270 = {
+  name = "ウルスス"  # Ursus
+  dynasty = 1044063
+  religion = "catholic"
+  culture = "lombard"
+  father = 190269
+  760.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
+190271 = {
+  name = "アデマロ"  # Ademaro
+  dynasty = 1044064
+  religion = "catholic"
+  culture = "lombard"
+  701.1.1 = {
+    birth = yes
+  }
+  768.1.1 = {
+    death = yes
+  }
+}
+190272 = {
+  name = "アデマロ"  # Ademaro
+  dynasty = 1044064
+  religion = "catholic"
+  culture = "lombard"
+  father = 190271
+  742.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+190273 = {
+  name = "ブルンヒルダ"  # Brunhilda
+  female = yes
+  dynasty = 1044064
+  religion = "catholic"
+  culture = "lombard"
+  father = 190269
+  756.1.1 = {
+    birth = yes
+  }
+  802.1.1 = {
+    death = yes
+  }
+}
+190274 = {
+  name = "アダルベルト"  # Adalbert
+  dynasty = 1044065
+  religion = "catholic"
+  culture = "lombard"
+  725.1.1 = {
+    birth = yes
+  }
+  762.1.1 = {
+    death = yes
+  }
+}
+190275 = {
+  name = "アデマロ"  # Ademaro
+  dynasty = 1044065
+  religion = "catholic"
+  culture = "lombard"
+  father = 190274
+  742.1.1 = {
+    birth = yes
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+190276 = {
+  name = "アデルベルガ"  # Adalberga
+  female = yes
+  dynasty = 1044065
+  religion = "catholic"
+  culture = "lombard"
+  father = 190274
+  744.1.1 = {
+    birth = yes
+  }
+  816.1.1 = {
+    death = yes
+  }
+}
+190277 = {
+  name = "ペテル"  # Peter
+  dynasty = 1044065
+  religion = "catholic"
+  culture = "lombard"
+  father = 190274
+  747.1.1 = {
+    birth = yes
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+190278 = {
+  name = "ワルペルト"  # Walperto
+  dynasty = 1044066
+  religion = "catholic"
+  culture = "lombard"
+  702.1.1 = {
+    birth = yes
+  }
+  754.1.1 = {
+    death = yes
+  }
+}
+190279 = {
+  name = "アルペルト"  # Alperto
+  dynasty = 1044066
+  religion = "catholic"
+  culture = "lombard"
+  father = 190278
+  722.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    add_spouse = 190276
+  }
+  773.1.1 = {
+    death = yes
+  }
+}
+190280 = {
+  name = "タキペルト"  # Tachiperto
+  dynasty = 1044066
+  religion = "catholic"
+  culture = "lombard"
+  father = 190278
+  743.1.1 = {
+    birth = yes
+  }
+  774.1.1 = {
+    death = yes
+  }
+}
+190281 = {
+  name = "タキペルガ"  # Tachiperga
+  female = yes
+  dynasty = 1044066
+  religion = "catholic"
+  culture = "lombard"
+  father = 190278
+  745.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+190282 = {
+  name = "ルポ"  # Lupo
+  dynasty = 1044066
+  religion = "catholic"
+  culture = "lombard"
+  father = 190278
+  727.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+190283 = {
+  name = "タキペルト"  # Tachiperto
+  dynasty = 1044067
+  religion = "catholic"
+  culture = "lombard"
+  721.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    death = yes
+  }
+}
+190284 = {
+  name = "ルポ"  # Lupo
+  dynasty = 1044067
+  religion = "catholic"
+  culture = "lombard"
+  father = 190283
+  741.1.1 = {
+    birth = yes
+  }
+  778.1.1 = {
+    death = yes
+  }
+}
+190285 = {
+  name = "ハロ"  # Halo
+  dynasty = 1044067
+  religion = "catholic"
+  culture = "lombard"
+  father = 190283
+  747.1.1 = {
+    birth = yes
+  }
+  784.1.1 = {
+    death = yes
+  }
+}
+190286 = {
+  name = "ヒルキペルガ"  # Hilciperga
+  female = yes
+  dynasty = 1044067
+  religion = "catholic"
+  culture = "lombard"
+  father = 190283
+  753.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+190287 = {
+  name = "テウデリク"  # Teuderic
+  dynasty = 1044068
+  religion = "catholic"
+  culture = "lombard"
+  743.1.1 = {
+    birth = yes
+  }
+  761.1.1 = {
+    add_spouse = 190281
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+190288 = {
+  name = "ヒルデリク"  # Hilderic
+  dynasty = 1044068
+  religion = "catholic"
+  culture = "lombard"
+  father = 190287
+  mother = 190281
+  761.1.1 = {
+    birth = yes
+  }
+  779.1.1 = {
+    add_spouse = 190286
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+190289 = {
   name = "ダウフェル"  # Daufer
-  dynasty = 7184
-  father = 73323
-  religion = catholic
-  culture = lombard
-  trait = humble
-  trait = zealous
-  trait = scholarly_theologian
-  1026.1.1 = {
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  743.1.1 = {
     birth = yes
   }
-  1085.5.25 = {
-    name = "ウィクトル"  # Victor
+  818.1.1 = {
+    death = yes
   }
-  1087.9.16 = {
+}
+190290 = {
+  name = "ロトフリト"  # Rotfrit
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  father = 190289
+  776.1.1 = {
+    birth = yes
+  }
+  836.1.1 = {
+    death = yes
+  }
+}
+190291 = {
+  name = "アデルキス"  # Adelchis
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  father = 190290
+  796.1.1 = {
+    birth = yes
+  }
+  839.1.1 = {
+    death = yes
+  }
+}
+190292 = {
+  name = "ロトフレダ"  # Rotfreda
+  female = yes
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  father = 190290
+  797.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+190293 = {
+  name = "ポテルフリト"  # Potelfrit
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  father = 190289
+  778.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+190294 = {
+  name = "ポテルフレダ"  # Potelfreda
+  female = yes
+  dynasty = 1044069
+  religion = "catholic"
+  culture = "lombard"
+  father = 190293
+  804.1.1 = {
+    birth = yes
+  }
+  862.1.1 = {
+    death = yes
+  }
+}
+190295 = {
+  name = "ロドアルド"  # Rodoald
+  dynasty = 1044070
+  religion = "catholic"
+  culture = "lombard"
+  723.1.1 = {
+    birth = yes
+  }
+  766.1.1 = {
+    death = yes
+  }
+}
+190296 = {
+  name = "ラドゥルヒン"  # Radulhin
+  dynasty = 1044070
+  religion = "catholic"
+  culture = "lombard"
+  father = 190295
+  740.1.1 = {
+    birth = yes
+  }
+  788.1.1 = {
+    death = yes
+  }
+}
+190297 = {
+  name = "エルメペルト"  # Ermepert
+  dynasty = 1044070
+  religion = "catholic"
+  culture = "lombard"
+  father = 190295
+  743.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+190298 = {
+  name = "エウフェミア"  # Eufemia
+  female = yes
+  dynasty = 1044070
+  religion = "catholic"
+  culture = "lombard"
+  father = 190295
+  742.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+190299 = {
+  name = "ロデリッスス"  # Roderissus
+  dynasty = 1044086
+  religion = "catholic"
+  culture = "lombard"
+  745.1.1 = {
+    birth = yes
+  }
+  762.1.1 = {
+    add_spouse = 190298
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+190300 = {
+  name = "ロデガル"  # Rodegar
+  dynasty = 1044086
+  religion = "catholic"
+  culture = "lombard"
+  father = 190299
+  mother = 190298
+  763.1.1 = {
+    birth = yes
+  }
+  811.1.1 = {
+    death = yes
+  }
+}
+190301 = {
+  name = "ロデリッスス"  # Roderissus
+  dynasty = 1044086
+  religion = "catholic"
+  culture = "lombard"
+  father = 190300
+  783.1.1 = {
+    birth = yes
+  }
+  814.1.1 = {
+    death = yes
+  }
+}
+190302 = {
+  name = "フラミクス"  # Framicus
+  dynasty = 1044086
+  religion = "catholic"
+  culture = "lombard"
+  father = 190299
+  mother = 190298
+  765.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+190303 = {
+  name = "ガンドゥルフ"  # Gandulf
+  dynasty = 1044071
+  religion = "catholic"
+  culture = "lombard"
+  721.1.1 = {
+    birth = yes
+  }
+  766.1.1 = {
+    death = yes
+  }
+}
+190304 = {
+  name = "ダウフェル"  # Daufer
+  dynasty = 1044071
+  religion = "catholic"
+  culture = "lombard"
+  father = 190303
+  763.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    death = yes
+  }
+}
+190305 = {
+  name = "ロデガル"  # Rodegar
+  dynasty = 1044071
+  religion = "catholic"
+  culture = "lombard"
+  father = 190304
+  789.1.1 = {
+    birth = yes
+  }
+  834.1.1 = {
+    death = yes
+  }
+}
+190306 = {
+  name = "アルネギサ"  # Arnegisa
+  female = yes
+  dynasty = 1044071
+  religion = "catholic"
+  culture = "lombard"
+  father = 190303
+  741.1.1 = {
+    birth = yes
+  }
+  811.1.1 = {
+    death = yes
+  }
+}
+190307 = {
+  name = "ラデギサ"  # Radegisa
+  female = yes
+  dynasty = 1044071
+  religion = "catholic"
+  culture = "lombard"
+  father = 190303
+  743.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+190308 = {
+  name = "マイオ"  # Maio
+  dynasty = 1044072
+  religion = "catholic"
+  culture = "lombard"
+  742.1.1 = {
+    birth = yes
+  }
+  762.1.1 = {
+    add_spouse = 190306
+  }
+  813.1.1 = {
+    death = yes
+  }
+}
+190309 = {
+  name = "マイオ"  # Maio
+  dynasty = 1044072
+  religion = "catholic"
+  culture = "lombard"
+  father = 190308
+  mother = 190306
+  766.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+190310 = {
+  name = "パルド"  # Paldo
+  dynasty = 1044073
+  religion = "catholic"
+  culture = "lombard"
+  746.1.1 = {
+    birth = yes
+  }
+  762.1.1 = {
+    add_spouse = 190307
+  }
+  807.1.1 = {
+    death = yes
+  }
+}
+190311 = {
+  name = "ステファノ"  # Stefano
+  dynasty = 1044073
+  religion = "catholic"
+  culture = "lombard"
+  father = 190310
+  mother = 190307
+  766.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    death = yes
+  }
+}
+190312 = {
+  name = "ヴァルペルト"  # Varbert
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  736.1.1 = {
+    birth = yes
+  }
+  753.1.1 = {
+    add_spouse = 190313
+  }
+  797.1.1 = {
+    death = yes
+  }
+}
+190313 = {
+  name = "ラキルディス"  # Richildis
+  female = yes
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  735.1.1 = {
+    birth = yes
+  }
+  797.1.1 = {
+    death = yes
+  }
+}
+190314 = {
+  name = "ランベルト"  # Lambert
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  753.1.1 = {
+    birth = yes
+  }
+  817.1.1 = {
+    death = yes
+  }
+}
+190315 = {
+  name = "グリマウルド"  # Grimauld
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  755.1.1 = {
+    birth = yes
+  }
+  817.1.1 = {
+    death = yes
+  }
+}
+190316 = {
+  name = "ヴァルベルガ"  # Varberga
+  female = yes
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  757.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+190317 = {
+  name = "ビロ"  # Billo
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  758.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+190318 = {
+  name = "ドロゴ"  # Drogo
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  759.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+190319 = {
+  name = "ダウフェル"  # Daufer
+  dynasty = 1044074
+  religion = "catholic"
+  culture = "lombard"
+  father = 190312
+  mother = 190313
+  763.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    death = yes
+  }
+}
+190320 = {
+  name = "パルド"  # Paldo
+  dynasty = 1044075
+  religion = "catholic"
+  culture = "lombard"
+  746.1.1 = {
+    birth = yes
+  }
+  807.1.1 = {
+    death = yes
+  }
+}
+190321 = {
+  name = "タト"  # Tato
+  dynasty = 1044076
+  religion = "catholic"
+  culture = "lombard"
+  746.1.1 = {
+    birth = yes
+  }
+  802.1.1 = {
+    death = yes
+  }
+}
+190322 = {
+  name = "ランベルト"  # Lambert
+  dynasty = 1044077
+  religion = "catholic"
+  culture = "lombard"
+  741.1.1 = {
+    birth = yes
+  }
+  809.1.1 = {
+    death = yes
+  }
+}
+190323 = {
+  name = "エンゲルベルト"  # Engelbert
+  dynasty = 1044078
+  religion = "catholic"
+  culture = "lombard"
+  742.1.1 = {
+    birth = yes
+  }
+  807.1.1 = {
+    death = yes
+  }
+}
+190324 = {
+  name = "リウトフレド"  # Liutfred
+  dynasty = 1044079
+  religion = "catholic"
+  culture = "lombard"
+  737.1.1 = {
+    birth = yes
+  }
+  778.1.1 = {
+    death = yes
+  }
+}
+190325 = {
+  name = "ガイドアルド"  # Gaidoald
+  dynasty = 1044080
+  religion = "catholic"
+  culture = "lombard"
+  740.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+190326 = {
+  name = "タソ"  # Taso
+  dynasty = 1044081
+  religion = "catholic"
+  culture = "lombard"
+  746.1.1 = {
+    birth = yes
+  }
+  804.1.1 = {
+    death = yes
+  }
+}
+190328 = {
+  name = "ペテル"  # Peter
+  dynasty = 1044082
+  religion = "catholic"
+  culture = "lombard"
+  737.1.1 = {
+    birth = yes
+  }
+  804.1.1 = {
+    death = yes
+  }
+}
+190329 = {
+  name = "ファロアルド"  # Faroald
+  dynasty = 1044083
+  religion = "catholic"
+  culture = "lombard"
+  751.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+190330 = {
+  name = "リウトプランド"  # Liutprand
+  dynasty = 1044084
+  religion = "catholic"
+  culture = "lombard"
+  740.1.1 = {
+    birth = yes
+  }
+  791.1.1 = {
+    death = yes
+  }
+}
+190332 = {
+  name = "パンド"  # Pando
+  dynasty = 7184
+  religion = "catholic"
+  culture = "lombard"
+  740.1.1 = {
+    birth = yes
+  }
+  815.1.1 = {
     death = yes
   }
 }
@@ -128,115 +2408,6 @@
     birth = yes
   }
   1070.12.1 = {
-    death = yes
-  }
-}
-30855 = {
-  name = "ガイタ"  # Gaita
-  female = yes
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1050.1.1 = {
-    birth = yes
-  }
-  1108.12.9 = {
-    death = yes
-  }
-}
-30856 = {
-  name = "ウィド"  # Wido
-  dynasty = 100336
-  father = 30857
-  religion = catholic
-  culture = lombard
-  1012.1.1 = {
-    birth = yes
-  }
-  1077.1.1 = {
-    death = yes
-  }
-}
-30857 = {
-  name = "グアイマル"  # Guaimar
-  dynasty = 100336
-  religion = catholic
-  culture = lombard
-  970.1.1 = {
-    birth = yes
-  }
-  1027.2.1 = {
-    death = yes
-  }
-}
-30858 = {
-  name = "ランドルフ"  # Landolf
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1036.1.1 = {
-    birth = yes
-  }
-  1075.1.1 = {
-    death = yes
-  }
-}
-30859 = {
-  name = "ウィド"  # Wido
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1037.1.1 = {
-    birth = yes
-  }
-  1075.1.1 = {
-    death = yes
-  }
-}
-30860 = {
-  name = "イオアンネス"  # Ioannes
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1038.1.1 = {
-    birth = yes
-  }
-  1095.1.1 = {
-    death = yes
-  }
-}
-30861 = {
-  name = "グアイマル"  # Guaimar
-  dynasty = 100336
-  father = 1116
-  mother = 30854
-  religion = catholic
-  culture = lombard
-  1039.1.1 = {
-    birth = yes
-  }
-  1076.1.1 = {
-    death = yes
-  }
-}
-30863 = {
-  name = "シケルガイタ"  # Sichelgaita
-  female = yes
-  dynasty = 7186
-  religion = catholic
-  culture = lombard
-  1044.1.1 = {
-    birth = yes
-  }
-  1101.9.1 = {
     death = yes
   }
 }
@@ -768,63 +2939,149 @@
     death = yes
   }
 }
-73472 = {
-  name = "ウルデリト"  # Ulderit
+2012 = {
+  name = "ダウフェル"  # Daufer
+  dynasty = 7184
+  father = 73323
   religion = catholic
   culture = lombard
-  trait = detached_priest
-  1010.1.1 = {
+  trait = humble
+  trait = zealous
+  trait = scholarly_theologian
+  1026.1.1 = {
     birth = yes
   }
-  1069.1.1 = {
+  1085.5.25 = {
+    name = "ウィクトル"  # Victor
+  }
+  1087.9.16 = {
     death = yes
   }
 }
-73474 = {
-  name = "ロフリト"  # Rofrit
+163072 = {
+  name = "ランデノルフ"  # Landenolf
+  dynasty = 7184
+  father = 163075
+  mother = 190292
   religion = catholic
   culture = lombard
-  trait = detached_priest
-  1034.1.1 = {
+  810.1.1 = {
     birth = yes
   }
-  1107.1.1 = {
+  859.1.1 = {
     death = yes
   }
 }
-73475 = {
+163073 = {
+  name = "ランデノルフ"  # Landenolf
+  dynasty = 7184
+  father = 163072
+  mother = 190294
+  religion = catholic
+  culture = lombard
+  846.1.1 = {
+    birth = yes
+  }
+  887.1.1 = {
+    death = yes
+  }
+}
+163074 = {
+  name = "ランド"  # Lando
+  dynasty = 7184
+  father = 163072
+  mother = 190294
+  religion = catholic
+  culture = lombard
+  845.1.1 = {
+    birth = yes
+  }
+  885.1.1 = {
+    death = yes
+  }
+}
+163075 = {
   name = "ランドルフ"  # Landolf
+  dynasty = 7184
+  father = 190332
   religion = catholic
   culture = lombard
-  trait = detached_priest
-  1066.1.1 = {
+  780.1.1 = {
     birth = yes
   }
-  1119.1.1 = {
+  798.1.1 = {
+    add_spouse = 190292
+  }
+  843.1.1 = {
     death = yes
   }
 }
-73476 = {
-  name = "ロフリト"  # Rofrit
+163076 = {
+  name = "ランド"  # Lando
+  dynasty = 7184
+  father = 163075
+  mother = 190292
   religion = catholic
   culture = lombard
-  trait = detached_priest
-  1078.1.1 = {
+  798.1.1 = {
     birth = yes
   }
-  1130.1.1 = {
+  861.1.1 = {
     death = yes
   }
 }
-73477 = {
+163077 = {
+  name = "パンド"  # Pando
+  dynasty = 7184
+  father = 163075
+  mother = 190292
+  religion = catholic
+  culture = lombard
+  799.1.1 = {
+    birth = yes
+  }
+  862.1.1 = {
+    death = yes
+  }
+}
+163078 = {
+  name = "パンデノルフ"  # Pandenolf
+  dynasty = 7184
+  father = 163077
+  religion = catholic
+  culture = lombard
+  830.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+163079 = {
   name = "ランドルフ"  # Landolf
+  dynasty = 7184
+  father = 163075
+  mother = 190292
   religion = catholic
   culture = lombard
-  trait = detached_priest
-  1079.1.1 = {
+  825.1.1 = {
     birth = yes
   }
-  1132.1.1 = {
+  879.1.1 = {
+    death = yes
+  }
+}
+168496 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 7184
+  father = 73324
+  religion = catholic
+  culture = lombard
+  980.1.1 = {
+    birth = yes
+  }
+  1040.1.1 = {
     death = yes
   }
 }
@@ -838,6 +3095,228 @@
     birth = yes
   }
   866.1.1 = {
+    death = yes
+  }
+}
+1116 = {
+  name = "グアイマル"  # Guaimar
+  dynasty = 100336
+  father = 30857
+  religion = catholic
+  culture = lombard
+  1010.1.1 = {
+    birth = yes
+  }
+  1026.1.1 = {
+    add_spouse = 1117
+  }
+  1032.5.1 = {
+    add_spouse = 30854
+  }
+  1052.6.3 = {
+    death = yes
+  }
+}
+1117 = {
+  name = "プルプラ"  # Purpura
+  female = yes
+  religion = catholic
+  culture = lombard
+  1010.1.1 = {
+    birth = yes
+  }
+  1032.1.1 = {
+    death = yes
+  }
+}
+1119 = {
+  name = "ギスルフ"  # Gisulf
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1035.1.1 = {
+    birth = yes
+  }
+  1091.1.2 = {
+    death = yes
+  }
+}
+1123 = {
+  name = "シケルガイタ"  # Sichelgaita
+  female = yes
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  trait = siege_leader
+  trait = skilled_tactician
+  trait = brave
+  trait = proud
+  trait = strong
+  martial = 8
+  1040.1.1 = {
+    birth = yes
+  }
+  1065.1.1 = {
+    effect = {
+      set_character_flag = special_marshal
+    }
+  }
+  1090.7.27 = {
+    death = yes
+  }
+}
+1129 = {
+  name = "ガイテルグリマ"  # Gaitelgrima
+  female = yes
+  dynasty = 100336
+  father = 1116
+  mother = 1117
+  religion = catholic
+  culture = lombard
+  1032.1.1 = {
+    birth = yes
+  }
+  1087.1.1 = {
+    death = yes
+  }
+}
+1137 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 100336
+  father = 30856
+  religion = catholic
+  culture = lombard
+  1034.1.1 = {
+    birth = yes
+  }
+  1085.1.1 = {
+    death = yes
+  }
+}
+30855 = {
+  name = "ガイタ"  # Gaita
+  female = yes
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1050.1.1 = {
+    birth = yes
+  }
+  1108.12.9 = {
+    death = yes
+  }
+}
+30856 = {
+  name = "ウィド"  # Wido
+  dynasty = 100336
+  father = 30857
+  religion = catholic
+  culture = lombard
+  1012.1.1 = {
+    birth = yes
+  }
+  1077.1.1 = {
+    death = yes
+  }
+}
+30857 = {
+  name = "グアイマル"  # Guaimar
+  dynasty = 100336
+  religion = catholic
+  culture = lombard
+  970.1.1 = {
+    birth = yes
+  }
+  1027.2.1 = {
+    death = yes
+  }
+}
+30858 = {
+  name = "ランドルフ"  # Landolf
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1036.1.1 = {
+    birth = yes
+  }
+  1075.1.1 = {
+    death = yes
+  }
+}
+30859 = {
+  name = "ウィド"  # Wido
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1037.1.1 = {
+    birth = yes
+  }
+  1075.1.1 = {
+    death = yes
+  }
+}
+30860 = {
+  name = "イオアンネス"  # Ioannes
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1038.1.1 = {
+    birth = yes
+  }
+  1095.1.1 = {
+    death = yes
+  }
+}
+30861 = {
+  name = "グアイマル"  # Guaimar
+  dynasty = 100336
+  father = 1116
+  mother = 30854
+  religion = catholic
+  culture = lombard
+  1039.1.1 = {
+    birth = yes
+  }
+  1076.1.1 = {
+    death = yes
+  }
+}
+30863 = {
+  name = "シケルガイタ"  # Sichelgaita
+  female = yes
+  dynasty = 7186
+  religion = catholic
+  culture = lombard
+  1044.1.1 = {
+    birth = yes
+  }
+  1101.9.1 = {
+    death = yes
+  }
+}
+163091 = {
+  name = "グアイフェル"  # Guaifer
+  dynasty = 1022178
+  father = 145214
+  religion = catholic
+  culture = lombard
+  830.1.1 = {
+    birth = yes
+  }
+  881.1.1 = {
     death = yes
   }
 }
@@ -955,132 +3434,6 @@
     birth = yes
   }
   901.2.1 = {
-    death = yes
-  }
-}
-163072 = {
-  name = "ランデノルフ"  # Landenolf
-  dynasty = 7184
-  father = 163075
-  mother = 190292
-  religion = catholic
-  culture = lombard
-  810.1.1 = {
-    birth = yes
-  }
-  859.1.1 = {
-    death = yes
-  }
-}
-163073 = {
-  name = "ランデノルフ"  # Landenolf
-  dynasty = 7184
-  father = 163072
-  mother = 190294
-  religion = catholic
-  culture = lombard
-  846.1.1 = {
-    birth = yes
-  }
-  887.1.1 = {
-    death = yes
-  }
-}
-163074 = {
-  name = "ランド"  # Lando
-  dynasty = 7184
-  father = 163072
-  mother = 190294
-  religion = catholic
-  culture = lombard
-  845.1.1 = {
-    birth = yes
-  }
-  885.1.1 = {
-    death = yes
-  }
-}
-163075 = {
-  name = "ランドルフ"  # Landolf
-  dynasty = 7184
-  father = 190332
-  religion = catholic
-  culture = lombard
-  780.1.1 = {
-    birth = yes
-  }
-  798.1.1 = {
-    add_spouse = 190292
-  }
-  843.1.1 = {
-    death = yes
-  }
-}
-163076 = {
-  name = "ランド"  # Lando
-  dynasty = 7184
-  father = 163075
-  mother = 190292
-  religion = catholic
-  culture = lombard
-  798.1.1 = {
-    birth = yes
-  }
-  861.1.1 = {
-    death = yes
-  }
-}
-163077 = {
-  name = "パンド"  # Pando
-  dynasty = 7184
-  father = 163075
-  mother = 190292
-  religion = catholic
-  culture = lombard
-  799.1.1 = {
-    birth = yes
-  }
-  862.1.1 = {
-    death = yes
-  }
-}
-163078 = {
-  name = "パンデノルフ"  # Pandenolf
-  dynasty = 7184
-  father = 163077
-  religion = catholic
-  culture = lombard
-  830.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-163079 = {
-  name = "ランドルフ"  # Landolf
-  dynasty = 7184
-  father = 163075
-  mother = 190292
-  religion = catholic
-  culture = lombard
-  825.1.1 = {
-    birth = yes
-  }
-  879.1.1 = {
-    death = yes
-  }
-}
-163091 = {
-  name = "グアイフェル"  # Guaifer
-  dynasty = 1022178
-  father = 145214
-  religion = catholic
-  culture = lombard
-  830.1.1 = {
-    birth = yes
-  }
-  881.1.1 = {
     death = yes
   }
 }
@@ -2026,20 +4379,6 @@
     death = yes
   }
 }
-168496 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 7184
-  father = 73324
-  religion = catholic
-  culture = lombard
-  980.1.1 = {
-    birth = yes
-  }
-  1040.1.1 = {
-    death = yes
-  }
-}
 168497 = {
   name = "セルギウス"  # Sergius
   dynasty = 9592
@@ -2067,2402 +4406,63 @@
     death = yes
   }
 }
-190122 = {
-  name = "アウドイン"  # Audoin
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  519.1.1 = {
-    birth = yes
-  }
-  536.1.1 = {
-    add_spouse = 190123
-  }
-  565.1.1 = {
-    death = yes
-  }
-}
-190123 = {
-  name = "ロデリンダ"  # Rodelinda
-  female = yes
-  dynasty = 1044032
-  religion = "catholic"
-  culture = "lombard"
-  520.1.1 = {
-    birth = yes
-  }
-  574.1.1 = {
-    death = yes
-  }
-}
-190124 = {
-  name = "アルボイン"  # Alboin
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190122
-  mother = 190123
-  539.1.1 = {
-    birth = yes
-  }
-  572.1.1 = {
-    death = yes
-  }
-}
-190125 = {
-  name = "グラスルフ"  # Grasulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190122
-  mother = 190123
-  542.1.1 = {
-    birth = yes
-  }
-  569.1.1 = {
-    death = yes
-  }
-}
-190126 = {
-  name = "ギスルフ"  # Gisulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190125
-  559.1.1 = {
-    birth = yes
-  }
-  591.1.1 = {
-    death = yes
-  }
-}
-190127 = {
-  name = "ツォット"  # Zotto
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190125
-  560.1.1 = {
-    birth = yes
-  }
-  576.1.1 = {
-    add_spouse = 190166
-  }
-  591.1.1 = {
-    death = yes
-  }
-}
-190128 = {
-  name = "ギスルフ"  # Gisulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190126
-  578.1.1 = {
-    birth = yes
-  }
-  594.1.1 = {
-    add_spouse = 190129
-  }
-  610.1.1 = {
-    death = yes
-  }
-}
-190130 = {
-  name = "ラドアルド"  # Radoald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  596.1.1 = {
-    birth = yes
-  }
-  651.1.1 = {
-    death = yes
-  }
-}
-190131 = {
-  name = "アッパ"  # Appa
-  female = yes
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  598.1.1 = {
-    birth = yes
-  }
-  652.1.1 = {
-    death = yes
-  }
-}
-190132 = {
-  name = "ゲイラ"  # Geila
-  female = yes
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  603.1.1 = {
-    birth = yes
-  }
-  657.1.1 = {
-    death = yes
-  }
-}
-190133 = {
-  name = "グリモアルド"  # Grimoald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  609.1.1 = {
-    birth = yes
-  }
-  650.1.1 = {
-    add_spouse = 190134
-  }
-  671.1.1 = {
-    death = yes
-  }
-}
-190134 = {
-  name = "セオドタ"  # Theodota
-  female = yes
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190181
-  634.1.1 = {
-    birth = yes
-  }
-  675.1.1 = {
-    death = yes
-  }
-}
-190135 = {
-  name = "ロムアルド"  # Romuald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190133
-  mother = 190134
-  653.1.1 = {
-    birth = yes
-  }
-  669.1.1 = {
-    add_spouse = 190137
-  }
-  687.1.1 = {
-    death = yes
-  }
-}
-190136 = {
-  name = "ガリバルド"  # Garibald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190133
-  mother = 190134
-  655.1.1 = {
-    birth = yes
-  }
-  688.1.1 = {
-    death = yes
-  }
-}
-190137 = {
-  name = "セオドラダ"  # Theodrada
-  female = yes
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190248
-  653.1.1 = {
-    birth = yes
-  }
-  698.1.1 = {
-    death = yes
-  }
-}
-190138 = {
-  name = "グリモアルド"  # Grimoald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190135
-  mother = 190137
-  669.1.2 = {
-    birth = yes
-  }
-  655.1.1 = {
-    add_spouse = 190187
-  }
-  689.1.1 = {
-    death = yes
-  }
-}
-190139 = {
-  name = "ギスルフ"  # Gisulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190135
-  mother = 190137
-  670.1.1 = {
-    birth = yes
-  }
-  686.1.1 = {
-    add_spouse = 190140
-  }
-  706.1.1 = {
-    death = yes
-  }
-}
-190140 = {
-  name = "ウィンペルガ"  # Winperga
-  female = yes
-  dynasty = 1044036
-  religion = "catholic"
-  culture = "lombard"
-  669.1.1 = {
-    birth = yes
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190141 = {
-  name = "ロムアルド"  # Romuald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190139
-  mother = 190140
-  686.1.2 = {
-    birth = yes
-  }
-  702.1.1 = {
-    add_spouse = 190142
-  }
-  729.1.1 = {
-    remove_spouse = 190142
-  }
-  730.1.1 = {
-    add_spouse = 190143
-  }
-  732.1.1 = {
-    death = yes
-  }
-}
-190142 = {
-  name = "グンペルガ"  # Gumperga
-  female = yes
-  dynasty = 1044037
-  religion = "catholic"
-  culture = "lombard"
-  684.1.1 = {
-    birth = yes
-  }
-  729.1.1 = {
-    death = yes
-  }
-}
-190143 = {
-  name = "ラニグンダ"  # Ranigunda
-  female = yes
-  dynasty = 1044038
-  religion = "catholic"
-  culture = "lombard"
-  709.1.1 = {
-    birth = yes
-  }
-  741.1.1 = {
-    death = yes
-  }
-}
-190144 = {
-  name = "ギスルフ"  # Gisulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190141
-  mother = 190142
-  702.1.1 = {
-    birth = yes
-  }
-  718.1.1 = {
-    add_spouse = 190145
-  }
-  751.1.1 = {
-    death = yes
-  }
-}
-190145 = {
-  name = "スカウニペルガ"  # Scauniperga
-  female = yes
-  dynasty = 1044039
-  religion = "catholic"
-  culture = "lombard"
-  701.1.1 = {
-    birth = yes
-  }
-  752.1.1 = {
-    death = yes
-  }
-}
-190146 = {
-  name = "リウトプランド"  # Liutprand
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190144
-  mother = 190145
-  719.1.1 = {
-    birth = yes
-  }
-  756.1.1 = {
-    death = yes
-  }
-}
-190147 = {
-  name = "アレキス"  # Arechis
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190146
-  735.1.1 = {
-    birth = yes
-  }
-  751.1.1 = {
-    add_spouse = 190148
-  }
-  787.8.26 = {
-    death = yes
-  }
-}
-190148 = {
-  name = "アデルペルガ"  # Adelperga
-  female = yes
-  dynasty = 1044053
-  religion = "catholic"
-  culture = "lombard"
-  father = 190347
-  mother = 190340
-  735.1.1 = {
-    birth = yes
-  }
-  772.1.1 = {
-    death = yes
-  }
-}
-190149 = {
-  name = "ロモアルド"  # Romoald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190147
-  mother = 190148
-  751.1.1 = {
-    birth = yes
-  }
-  787.8.26 = {
-    death = yes
-  }
-}
-190150 = {
-  name = "グリモアルド"  # Grimoald
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190147
-  mother = 190148
-  752.1.1 = {
-    birth = yes
-  }
-  751.1.1 = {
-    add_spouse = 190151
-  }
-  806.1.1 = {
-    death = yes
-  }
-}
-190151 = {
-  name = "スカウニペルガ"  # Scauniperga
-  female = yes
-  dynasty = 1044041
-  religion = "catholic"
-  culture = "lombard"
-  750.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-190152 = {
-  name = "イルデリク"  # Ilderic
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190150
-  mother = 190151
-  768.1.1 = {
-    birth = yes
-  }
-  807.1.1 = {
-    death = yes
-  }
-}
-190153 = {
-  name = "アレキス"  # Arechis
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190126
-  581.1.1 = {
-    birth = yes
-  }
-  641.1.1 = {
-    death = yes
-  }
-}
-190154 = {
-  name = "アイウルフ"  # Aiulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190153
-  601.1.1 = {
-    birth = yes
-  }
-  646.1.1 = {
-    death = yes
-  }
-}
-190155 = {
-  name = "ファルコ"  # Falco
-  dynasty = 1044042
-  religion = "catholic"
-  culture = "lombard"
-  743.1.1 = {
-    birth = yes
-  }
-  764.1.1 = {
-    add_spouse = 190156
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-190156 = {
-  name = "ワルドラダ"  # Waldrada
-  female = yes
-  dynasty = 1044043
-  religion = "catholic"
-  culture = "lombard"
-  747.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-190157 = {
-  name = "グリモアルド"  # Grimoald
-  dynasty = 1044042
-  religion = "catholic"
-  culture = "lombard"
-  father = 190155
-  mother = 190156
-  765.1.1 = {
-    birth = yes
-  }
-  817.1.1 = {
-    death = yes
-  }
-}
-190158 = {
-  name = "シカルド"  # Sicard
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  742.1.1 = {
-    birth = yes
-  }
-  758.1.1 = {
-    add_spouse = 190159
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-190159 = {
-  name = "リウトベルガ"  # Liutberga
-  female = yes
-  dynasty = 1044085
-  religion = "catholic"
-  culture = "lombard"
-  740.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-190160 = {
-  name = "シコ"  # Sico
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  father = 190158
-  mother = 190159
-  758.1.1 = {
-    birth = yes
-  }
-  832.1.1 = {
-    death = yes
-  }
-}
-190161 = {
-  name = "シカルド"  # Sicard
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  father = 190160
-  779.1.1 = {
-    birth = yes
-  }
-  839.1.1 = {
-    death = yes
-  }
-}
-190162 = {
-  name = "イッタ"  # Itta
-  female = yes
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  father = 190160
-  783.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-190163 = {
-  name = "シコヌルフ"  # Siconulf
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  father = 190160
-  789.1.1 = {
-    birth = yes
-  }
-  851.1.1 = {
-    death = yes
-  }
-}
-190164 = {
-  name = "シコ"  # Sico
-  dynasty = 1044044
-  religion = "catholic"
-  culture = "lombard"
-  father = 190160
-  813.1.1 = {
-    birth = yes
-  }
-  855.1.1 = {
-    death = yes
-  }
-}
-190165 = {
-  name = "マサネ"  # Masane
-  female = yes
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190122
-  mother = 190123
-  540.1.1 = {
-    birth = yes
-  }
-  592.1.1 = {
-    death = yes
-  }
-}
-190166 = {
-  name = "ロデリンダ"  # Rodelinda
-  female = yes
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190122
-  mother = 190123
-  541.1.1 = {
-    birth = yes
-  }
-  590.1.1 = {
-    death = yes
-  }
-}
-190167 = {
-  name = "ベレオ"  # Beleo
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  507.1.1 = {
-    birth = yes
-  }
-  557.1.1 = {
-    death = yes
-  }
-}
-190168 = {
-  name = "クレプ"  # Cleph
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  father = 190167
-  523.1.1 = {
-    birth = yes
-  }
-  556.1.1 = {
-    add_spouse = 190165
-  }
-  574.1.1 = {
-    death = yes
-  }
-}
-190169 = {
-  name = "アウサリ"  # Authari
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  father = 190168
-  556.1.1 = {
-    birth = yes
-  }
-  584.1.1 = {
-    add_spouse = 190171
-  }
-  590.1.1 = {
-    remove_spouse = 190171
-  }
-  590.1.1 = {
-    death = yes
-  }
-}
-190170 = {
-  name = "アギルルフ"  # Agilulf
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  father = 190168
-  559.1.1 = {
-    birth = yes
-  }
-  590.1.1 = {
-    add_spouse = 190171
-  }
-  616.1.1 = {
-    death = yes
-  }
-}
-190172 = {
-  name = "グンデベルガ"  # Gundeberga
-  female = yes
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  father = 190170
-  mother = 190171
-  598.1.1 = {
-    birth = yes
-  }
-  658.1.1 = {
-    death = yes
-  }
-}
-190173 = {
-  name = "アダロアルド"  # Adaloald
-  dynasty = 1044045
-  religion = "catholic"
-  culture = "lombard"
-  father = 190170
-  mother = 190171
-  602.1.1 = {
-    birth = yes
-  }
-  626.1.1 = {
-    death = yes
-  }
-}
-190174 = {
-  name = "アリオアルド"  # Arioald
-  dynasty = 1044047
-  religion = "catholic"
-  culture = "lombard"
-  578.1.1 = {
-    birth = yes
-  }
-  617.1.1 = {
-    add_spouse = 190172
-  }
-  636.1.1 = {
-    death = yes
-  }
-}
-190175 = {
-  name = "ナンディング"  # Nanding
-  dynasty = 1044048
-  religion = "catholic"
-  culture = "lombard"
-  572.1.1 = {
-    birth = yes
-  }
-  626.1.1 = {
-    death = yes
-  }
-}
-190176 = {
-  name = "ロサリ"  # Rothari
-  dynasty = 1044048
-  religion = "catholic"
-  culture = "lombard"
-  father = 190175
-  599.1.1 = {
-    birth = yes
-  }
-  652.1.1 = {
-    death = yes
-  }
-}
-190177 = {
-  name = "ロドアルド"  # Rodoald
-  dynasty = 1044048
-  religion = "catholic"
-  culture = "lombard"
-  father = 190176
-  620.1.1 = {
-    birth = yes
-  }
-  653.1.1 = {
-    death = yes
-  }
-}
-190181 = {
-  name = "アリペルト"  # Aripert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190180
-  609.1.1 = {
-    birth = yes
-  }
-  661.1.1 = {
-    death = yes
-  }
-}
-190182 = {
-  name = "ゴデペルト"  # Godepert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190181
-  629.1.1 = {
-    birth = yes
-  }
-  662.1.1 = {
-    death = yes
-  }
-}
-190183 = {
-  name = "ラギンペルト"  # Raginpert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190182
-  653.1.1 = {
-    birth = yes
-  }
-  701.6.1 = {
-    death = yes
-  }
-}
-190184 = {
-  name = "アリペルト"  # Aripert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190183
-  672.1.1 = {
-    birth = yes
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190185 = {
-  name = "ペクタリト"  # Pectarit
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190181
-  637.1.1 = {
-    birth = yes
-  }
-  688.1.1 = {
-    death = yes
-  }
-}
-190186 = {
-  name = "ロデリンダ"  # Rodelinda
-  female = yes
-  dynasty = 1044049
-  religion = "catholic"
-  culture = "lombard"
-  640.1.1 = {
-    birth = yes
-  }
-  691.1.1 = {
-    death = yes
-  }
-}
-190187 = {
-  name = "ウィギリンダ"  # Wigilinda
-  female = yes
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190185
-  mother = 190186
-  656.1.1 = {
-    birth = yes
-  }
-  690.1.1 = {
-    death = yes
-  }
-}
-190188 = {
-  name = "クニペルト"  # Cunipert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190185
-  mother = 190186
-  659.1.1 = {
-    birth = yes
-  }
-  700.1.1 = {
-    death = yes
-  }
-}
-190189 = {
-  name = "リウトペルト"  # Liutpert
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190188
-  689.1.1 = {
-    birth = yes
-  }
-  702.1.1 = {
-    death = yes
-  }
-}
-190190 = {
-  name = "レギントルデ"  # Regintrude
-  female = yes
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190182
-  657.1.1 = {
-    birth = yes
-  }
-  709.1.1 = {
-    death = yes
-  }
-}
-190191 = {
-  name = "ラトベルグ"  # Ratberg
-  female = yes
-  dynasty = 1044046
-  religion = "catholic"
-  culture = "lombard"
-  father = 190184
-  700.1.1 = {
-    birth = yes
-  }
-  742.1.1 = {
-    death = yes
-  }
-}
-190193 = {
-  name = "アンスプランド"  # Ansprand
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  652.1.1 = {
-    birth = yes
-  }
-  668.1.1 = {
-    add_spouse = 190192
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190194 = {
-  name = "シギベルト"  # Sigibert
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190193
-  mother = 190192
-  674.1.1 = {
-    birth = yes
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190195 = {
-  name = "アウロナ"  # Aurona
-  female = yes
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190193
-  mother = 190192
-  668.1.1 = {
-    birth = yes
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190196 = {
-  name = "リウトプランド"  # Liutprand
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190193
-  mother = 190192
-  698.1.1 = {
-    birth = yes
-  }
-  714.1.1 = {
-    add_spouse = 190197
-  }
-  744.1.1 = {
-    death = yes
-  }
-}
-190198 = {
-  name = "ヒルデプランド"  # Hildeprand
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190194
-  710.1.1 = {
-    birth = yes
-  }
-  744.6.1 = {
-    death = yes
-  }
-}
-190199 = {
-  name = "タシア"  # Tasia
-  female = yes
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190194
-  711.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-190244 = {
-  name = "タソ"  # Taso
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  594.1.1 = {
-    birth = yes
-  }
-  625.1.1 = {
-    death = yes
-  }
-}
-190245 = {
-  name = "カッコ"  # Cacco
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190128
-  mother = 190129
-  595.1.1 = {
-    birth = yes
-  }
-  625.1.1 = {
-    death = yes
-  }
-}
-190246 = {
-  name = "グラスルフ"  # Grasulf
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190126
-  579.1.1 = {
-    birth = yes
-  }
-  641.1.1 = {
-    death = yes
-  }
-}
-190247 = {
-  name = "アゴ"  # Ago
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190246
-  599.1.1 = {
-    birth = yes
-  }
-  663.1.1 = {
-    death = yes
-  }
-}
-190248 = {
-  name = "ルプス"  # Lupus
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190247
-  620.1.1 = {
-    birth = yes
-  }
-  666.1.1 = {
-    death = yes
-  }
-}
-190249 = {
-  name = "アルネフリト"  # Arnefrit
-  dynasty = 1044031
-  religion = "catholic"
-  culture = "lombard"
-  father = 190248
-  638.1.1 = {
-    birth = yes
-  }
-  666.6.1 = {
-    death = yes
-  }
-}
-190250 = {
-  name = "ウェクタル"  # Wechtar
-  dynasty = 1044059
-  religion = "catholic"
-  culture = "lombard"
-  636.1.1 = {
-    birth = yes
-  }
-  678.1.1 = {
-    death = yes
-  }
-}
-190251 = {
-  name = "ランダル"  # Landar
-  dynasty = 1044059
-  religion = "catholic"
-  culture = "lombard"
-  father = 190250
-  652.1.1 = {
-    birth = yes
-  }
-  690.1.1 = {
-    death = yes
-  }
-}
-190252 = {
-  name = "ロドアルド"  # Rodoald
-  dynasty = 1044059
-  religion = "catholic"
-  culture = "lombard"
-  father = 190251
-  668.1.1 = {
-    birth = yes
-  }
-  694.1.1 = {
-    death = yes
-  }
-}
-190253 = {
-  name = "ランデブルガ"  # Landeburga
-  female = yes
-  dynasty = 1044059
-  religion = "catholic"
-  culture = "lombard"
-  father = 190251
-  669.1.1 = {
-    birth = yes
-  }
-  730.1.1 = {
-    death = yes
-  }
-}
-190254 = {
-  name = "アド"  # Ado
-  dynasty = 1044059
-  religion = "catholic"
-  culture = "lombard"
-  father = 190251
-  678.1.1 = {
-    birth = yes
-  }
-  695.1.1 = {
-    death = yes
-  }
-}
-190255 = {
-  name = "アンスフリド"  # Ansfrid
-  dynasty = 1044060
-  religion = "catholic"
-  culture = "lombard"
-  656.1.1 = {
-    birth = yes
-  }
-  685.1.1 = {
-    add_spouse = 190253
-  }
-  694.1.1 = {
-    death = yes
-  }
-}
-190256 = {
-  name = "フェルドゥルフ"  # Ferdulf
-  dynasty = 1044060
-  religion = "catholic"
-  culture = "lombard"
-  father = 190255
-  mother = 190253
-  685.1.1 = {
-    birth = yes
-  }
-  705.1.1 = {
-    death = yes
-  }
-}
-190257 = {
-  name = "コルヴルス"  # Corvulus
-  dynasty = 1044060
-  religion = "catholic"
-  culture = "lombard"
-  father = 190256
-  701.1.1 = {
-    birth = yes
-  }
-  760.1.1 = {
-    death = yes
-  }
-}
-190258 = {
-  name = "フェルドゥルフ"  # Ferdulf
-  dynasty = 1044060
-  religion = "catholic"
-  culture = "lombard"
-  father = 190257
-  721.1.1 = {
-    birth = yes
-  }
-  773.1.1 = {
-    death = yes
-  }
-}
-190259 = {
-  name = "ムニキス"  # Munichis
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  701.1.1 = {
-    birth = yes
-  }
-  740.1.1 = {
-    death = yes
-  }
-}
-190260 = {
-  name = "アンセルム"  # Anselm
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190259
-  718.1.1 = {
-    birth = yes
-  }
-  806.1.1 = {
-    death = yes
-  }
-}
-190261 = {
-  name = "ムニキス"  # Munichis
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190259
-  719.1.1 = {
-    birth = yes
-  }
-  748.1.1 = {
-    death = yes
-  }
-}
-190262 = {
-  name = "ペテル"  # Peter
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190261
-  735.1.1 = {
-    birth = yes
-  }
-  774.1.1 = {
-    death = yes
-  }
-}
-190263 = {
-  name = "ウルスス"  # Ursus
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190261
-  737.1.1 = {
-    birth = yes
-  }
-  774.1.1 = {
-    death = yes
-  }
-}
-190264 = {
-  name = "ロドガウド"  # Hrodgaud
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190261
-  740.1.1 = {
-    birth = yes
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-190265 = {
-  name = "セオディクス"  # Theodicus
-  dynasty = 1044061
-  religion = "catholic"
-  culture = "lombard"
-  727.1.1 = {
-    birth = yes
-  }
-  747.1.1 = {
-    add_spouse = 190266
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-190266 = {
-  name = "ギセルベルガ"  # Giselberga
-  female = yes
-  dynasty = 1044062
-  religion = "catholic"
-  culture = "lombard"
-  731.1.1 = {
-    birth = yes
-  }
-  780.6.1 = {
-    death = yes
-  }
-}
-190267 = {
-  name = "ヒルデプランド"  # Hildeprand
-  dynasty = 1044061
-  religion = "catholic"
-  culture = "lombard"
-  father = 190265
-  mother = 190266
-  750.1.1 = {
-    birth = yes
-  }
-  789.1.1 = {
-    death = yes
-  }
-}
-190268 = {
-  name = "ウルスス"  # Ursus
-  dynasty = 1044063
-  religion = "catholic"
-  culture = "lombard"
-  721.1.1 = {
-    birth = yes
-  }
-  772.1.1 = {
-    death = yes
-  }
-}
-190269 = {
-  name = "ヨフン"  # John
-  dynasty = 1044063
-  religion = "catholic"
-  culture = "lombard"
-  father = 190268
-  740.1.1 = {
-    birth = yes
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-190270 = {
-  name = "ウルスス"  # Ursus
-  dynasty = 1044063
-  religion = "catholic"
-  culture = "lombard"
-  father = 190269
-  760.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
-    death = yes
-  }
-}
-190271 = {
-  name = "アデマロ"  # Ademaro
-  dynasty = 1044064
-  religion = "catholic"
-  culture = "lombard"
-  701.1.1 = {
-    birth = yes
-  }
-  768.1.1 = {
-    death = yes
-  }
-}
-190272 = {
-  name = "アデマロ"  # Ademaro
-  dynasty = 1044064
-  religion = "catholic"
-  culture = "lombard"
-  father = 190271
-  742.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-190273 = {
-  name = "ブルンヒルダ"  # Brunhilda
-  female = yes
-  dynasty = 1044064
-  religion = "catholic"
-  culture = "lombard"
-  father = 190269
-  756.1.1 = {
-    birth = yes
-  }
-  802.1.1 = {
-    death = yes
-  }
-}
-190274 = {
-  name = "アダルベルト"  # Adalbert
-  dynasty = 1044065
-  religion = "catholic"
-  culture = "lombard"
-  725.1.1 = {
-    birth = yes
-  }
-  762.1.1 = {
-    death = yes
-  }
-}
-190275 = {
-  name = "アデマロ"  # Ademaro
-  dynasty = 1044065
-  religion = "catholic"
-  culture = "lombard"
-  father = 190274
-  742.1.1 = {
-    birth = yes
-  }
-  806.1.1 = {
-    death = yes
-  }
-}
-190276 = {
-  name = "アデルベルガ"  # Adalberga
-  female = yes
-  dynasty = 1044065
-  religion = "catholic"
-  culture = "lombard"
-  father = 190274
-  744.1.1 = {
-    birth = yes
-  }
-  816.1.1 = {
-    death = yes
-  }
-}
-190277 = {
-  name = "ペテル"  # Peter
-  dynasty = 1044065
-  religion = "catholic"
-  culture = "lombard"
-  father = 190274
-  747.1.1 = {
-    birth = yes
-  }
-  806.1.1 = {
-    death = yes
-  }
-}
-190278 = {
-  name = "ワルペルト"  # Walperto
-  dynasty = 1044066
-  religion = "catholic"
-  culture = "lombard"
-  702.1.1 = {
-    birth = yes
-  }
-  754.1.1 = {
-    death = yes
-  }
-}
-190279 = {
-  name = "アルペルト"  # Alperto
-  dynasty = 1044066
-  religion = "catholic"
-  culture = "lombard"
-  father = 190278
-  722.1.1 = {
-    birth = yes
-  }
-  760.1.1 = {
-    add_spouse = 190276
-  }
-  773.1.1 = {
-    death = yes
-  }
-}
-190280 = {
-  name = "タキペルト"  # Tachiperto
-  dynasty = 1044066
-  religion = "catholic"
-  culture = "lombard"
-  father = 190278
-  743.1.1 = {
-    birth = yes
-  }
-  774.1.1 = {
-    death = yes
-  }
-}
-190281 = {
-  name = "タキペルガ"  # Tachiperga
-  female = yes
-  dynasty = 1044066
-  religion = "catholic"
-  culture = "lombard"
-  father = 190278
-  745.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-190282 = {
-  name = "ルポ"  # Lupo
-  dynasty = 1044066
-  religion = "catholic"
-  culture = "lombard"
-  father = 190278
-  727.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-190283 = {
-  name = "タキペルト"  # Tachiperto
-  dynasty = 1044067
-  religion = "catholic"
-  culture = "lombard"
-  721.1.1 = {
-    birth = yes
-  }
-  760.1.1 = {
-    death = yes
-  }
-}
-190284 = {
-  name = "ルポ"  # Lupo
-  dynasty = 1044067
-  religion = "catholic"
-  culture = "lombard"
-  father = 190283
-  741.1.1 = {
-    birth = yes
-  }
-  778.1.1 = {
-    death = yes
-  }
-}
-190285 = {
-  name = "ハロ"  # Halo
-  dynasty = 1044067
-  religion = "catholic"
-  culture = "lombard"
-  father = 190283
-  747.1.1 = {
-    birth = yes
-  }
-  784.1.1 = {
-    death = yes
-  }
-}
-190286 = {
-  name = "ヒルキペルガ"  # Hilciperga
-  female = yes
-  dynasty = 1044067
-  religion = "catholic"
-  culture = "lombard"
-  father = 190283
-  753.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-190287 = {
-  name = "テウデリク"  # Teuderic
-  dynasty = 1044068
-  religion = "catholic"
-  culture = "lombard"
-  743.1.1 = {
-    birth = yes
-  }
-  761.1.1 = {
-    add_spouse = 190281
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-190288 = {
-  name = "ヒルデリク"  # Hilderic
-  dynasty = 1044068
-  religion = "catholic"
-  culture = "lombard"
-  father = 190287
-  mother = 190281
-  761.1.1 = {
-    birth = yes
-  }
-  779.1.1 = {
-    add_spouse = 190286
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-190289 = {
-  name = "ダウフェル"  # Daufer
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  743.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-190290 = {
-  name = "ロトフリト"  # Rotfrit
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  father = 190289
-  776.1.1 = {
-    birth = yes
-  }
-  836.1.1 = {
-    death = yes
-  }
-}
-190291 = {
-  name = "アデルキス"  # Adelchis
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  father = 190290
-  796.1.1 = {
-    birth = yes
-  }
-  839.1.1 = {
-    death = yes
-  }
-}
-190292 = {
-  name = "ロトフレダ"  # Rotfreda
-  female = yes
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  father = 190290
-  797.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-190293 = {
-  name = "ポテルフリト"  # Potelfrit
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  father = 190289
-  778.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-190294 = {
-  name = "ポテルフレダ"  # Potelfreda
-  female = yes
-  dynasty = 1044069
-  religion = "catholic"
-  culture = "lombard"
-  father = 190293
-  804.1.1 = {
-    birth = yes
-  }
-  862.1.1 = {
-    death = yes
-  }
-}
-190295 = {
-  name = "ロドアルド"  # Rodoald
-  dynasty = 1044070
-  religion = "catholic"
-  culture = "lombard"
-  723.1.1 = {
-    birth = yes
-  }
-  766.1.1 = {
-    death = yes
-  }
-}
-190296 = {
-  name = "ラドゥルヒン"  # Radulhin
-  dynasty = 1044070
-  religion = "catholic"
-  culture = "lombard"
-  father = 190295
-  740.1.1 = {
-    birth = yes
-  }
-  788.1.1 = {
-    death = yes
-  }
-}
-190297 = {
-  name = "エルメペルト"  # Ermepert
-  dynasty = 1044070
-  religion = "catholic"
-  culture = "lombard"
-  father = 190295
-  743.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-190298 = {
-  name = "エウフェミア"  # Eufemia
-  female = yes
-  dynasty = 1044070
-  religion = "catholic"
-  culture = "lombard"
-  father = 190295
-  742.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-190299 = {
-  name = "ロデリッスス"  # Roderissus
-  dynasty = 1044086
-  religion = "catholic"
-  culture = "lombard"
-  745.1.1 = {
-    birth = yes
-  }
-  762.1.1 = {
-    add_spouse = 190298
-  }
-  810.1.1 = {
-    death = yes
-  }
-}
-190300 = {
-  name = "ロデガル"  # Rodegar
-  dynasty = 1044086
-  religion = "catholic"
-  culture = "lombard"
-  father = 190299
-  mother = 190298
-  763.1.1 = {
-    birth = yes
-  }
-  811.1.1 = {
-    death = yes
-  }
-}
-190301 = {
-  name = "ロデリッスス"  # Roderissus
-  dynasty = 1044086
-  religion = "catholic"
-  culture = "lombard"
-  father = 190300
-  783.1.1 = {
-    birth = yes
-  }
-  814.1.1 = {
-    death = yes
-  }
-}
-190302 = {
-  name = "フラミクス"  # Framicus
-  dynasty = 1044086
-  religion = "catholic"
-  culture = "lombard"
-  father = 190299
-  mother = 190298
-  765.1.1 = {
-    birth = yes
-  }
-  810.1.1 = {
-    death = yes
-  }
-}
-190303 = {
-  name = "ガンドゥルフ"  # Gandulf
-  dynasty = 1044071
-  religion = "catholic"
-  culture = "lombard"
-  721.1.1 = {
-    birth = yes
-  }
-  766.1.1 = {
-    death = yes
-  }
-}
-190304 = {
-  name = "ダウフェル"  # Daufer
-  dynasty = 1044071
-  religion = "catholic"
-  culture = "lombard"
-  father = 190303
-  763.1.1 = {
-    birth = yes
-  }
-  830.1.1 = {
-    death = yes
-  }
-}
-190305 = {
-  name = "ロデガル"  # Rodegar
-  dynasty = 1044071
-  religion = "catholic"
-  culture = "lombard"
-  father = 190304
-  789.1.1 = {
-    birth = yes
-  }
-  834.1.1 = {
-    death = yes
-  }
-}
-190306 = {
-  name = "アルネギサ"  # Arnegisa
-  female = yes
-  dynasty = 1044071
-  religion = "catholic"
-  culture = "lombard"
-  father = 190303
-  741.1.1 = {
-    birth = yes
-  }
-  811.1.1 = {
-    death = yes
-  }
-}
-190307 = {
-  name = "ラデギサ"  # Radegisa
-  female = yes
-  dynasty = 1044071
-  religion = "catholic"
-  culture = "lombard"
-  father = 190303
-  743.1.1 = {
-    birth = yes
-  }
-  810.1.1 = {
-    death = yes
-  }
-}
-190308 = {
-  name = "マイオ"  # Maio
-  dynasty = 1044072
-  religion = "catholic"
-  culture = "lombard"
-  742.1.1 = {
-    birth = yes
-  }
-  762.1.1 = {
-    add_spouse = 190306
-  }
-  813.1.1 = {
-    death = yes
-  }
-}
-190309 = {
-  name = "マイオ"  # Maio
-  dynasty = 1044072
-  religion = "catholic"
-  culture = "lombard"
-  father = 190308
-  mother = 190306
-  766.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-190310 = {
-  name = "パルド"  # Paldo
-  dynasty = 1044073
-  religion = "catholic"
-  culture = "lombard"
-  746.1.1 = {
-    birth = yes
-  }
-  762.1.1 = {
-    add_spouse = 190307
-  }
-  807.1.1 = {
-    death = yes
-  }
-}
-190311 = {
-  name = "ステファノ"  # Stefano
-  dynasty = 1044073
-  religion = "catholic"
-  culture = "lombard"
-  father = 190310
-  mother = 190307
-  766.1.1 = {
-    birth = yes
-  }
-  827.1.1 = {
-    death = yes
-  }
-}
-190312 = {
-  name = "ヴァルペルト"  # Varbert
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  736.1.1 = {
-    birth = yes
-  }
-  753.1.1 = {
-    add_spouse = 190313
-  }
-  797.1.1 = {
-    death = yes
-  }
-}
-190313 = {
-  name = "ラキルディス"  # Richildis
-  female = yes
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  735.1.1 = {
-    birth = yes
-  }
-  797.1.1 = {
-    death = yes
-  }
-}
-190314 = {
-  name = "ランベルト"  # Lambert
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  753.1.1 = {
-    birth = yes
-  }
-  817.1.1 = {
-    death = yes
-  }
-}
-190315 = {
-  name = "グリマウルド"  # Grimauld
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  755.1.1 = {
-    birth = yes
-  }
-  817.1.1 = {
-    death = yes
-  }
-}
-190316 = {
-  name = "ヴァルベルガ"  # Varberga
-  female = yes
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  757.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-190317 = {
-  name = "ビロ"  # Billo
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  758.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-190318 = {
-  name = "ドロゴ"  # Drogo
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  759.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-190319 = {
-  name = "ダウフェル"  # Daufer
-  dynasty = 1044074
-  religion = "catholic"
-  culture = "lombard"
-  father = 190312
-  mother = 190313
-  763.1.1 = {
-    birth = yes
-  }
-  827.1.1 = {
-    death = yes
-  }
-}
-190320 = {
-  name = "パルド"  # Paldo
-  dynasty = 1044075
-  religion = "catholic"
-  culture = "lombard"
-  746.1.1 = {
-    birth = yes
-  }
-  807.1.1 = {
-    death = yes
-  }
-}
-190321 = {
-  name = "タト"  # Tato
-  dynasty = 1044076
-  religion = "catholic"
-  culture = "lombard"
-  746.1.1 = {
-    birth = yes
-  }
-  802.1.1 = {
-    death = yes
-  }
-}
-190322 = {
-  name = "ランベルト"  # Lambert
-  dynasty = 1044077
-  religion = "catholic"
-  culture = "lombard"
-  741.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-190323 = {
-  name = "エンゲルベルト"  # Engelbert
-  dynasty = 1044078
-  religion = "catholic"
-  culture = "lombard"
-  742.1.1 = {
-    birth = yes
-  }
-  807.1.1 = {
-    death = yes
-  }
-}
-190324 = {
-  name = "リウトフレド"  # Liutfred
-  dynasty = 1044079
-  religion = "catholic"
-  culture = "lombard"
-  737.1.1 = {
-    birth = yes
-  }
-  778.1.1 = {
-    death = yes
-  }
-}
-190325 = {
-  name = "ガイドアルド"  # Gaidoald
-  dynasty = 1044080
-  religion = "catholic"
-  culture = "lombard"
-  740.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-190326 = {
-  name = "タソ"  # Taso
-  dynasty = 1044081
-  religion = "catholic"
-  culture = "lombard"
-  746.1.1 = {
-    birth = yes
-  }
-  804.1.1 = {
-    death = yes
-  }
-}
-190328 = {
-  name = "ペテル"  # Peter
-  dynasty = 1044082
-  religion = "catholic"
-  culture = "lombard"
-  737.1.1 = {
-    birth = yes
-  }
-  804.1.1 = {
-    death = yes
-  }
-}
-190329 = {
-  name = "ファロアルド"  # Faroald
-  dynasty = 1044083
-  religion = "catholic"
-  culture = "lombard"
-  751.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-190330 = {
-  name = "リウトプランド"  # Liutprand
-  dynasty = 1044084
-  religion = "catholic"
-  culture = "lombard"
-  740.1.1 = {
-    birth = yes
-  }
-  791.1.1 = {
-    death = yes
-  }
-}
-190331 = {
-  name = "アイストゥルフ"  # Aistulf
-  dynasty = 1044050
-  religion = "catholic"
-  culture = "lombard"
-  father = 190342
-  mother = 190191
-  717.1.1 = {
-    birth = yes
-  }
-  749.1.1 = {
-    add_spouse = 190344
-  }
-  756.1.1 = {
-    death = yes
-  }
-}
-190332 = {
-  name = "パンド"  # Pando
-  dynasty = 7184
-  religion = "catholic"
-  culture = "lombard"
-  740.1.1 = {
-    birth = yes
-  }
-  815.1.1 = {
-    death = yes
-  }
-}
-190340 = {
-  name = "アンシア"  # Ansia
-  female = yes
-  dynasty = 1044051
-  religion = "catholic"
-  culture = "lombard"
-  father = 190194
-  712.1.1 = {
-    birth = yes
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-190341 = {
-  name = "ビロ"  # Billo
-  dynasty = 1044050
-  religion = "catholic"
-  culture = "lombard"
-  658.1.1 = {
-    birth = yes
-  }
-  702.1.1 = {
-    death = yes
-  }
-}
-190342 = {
-  name = "ペンモ"  # Pemmo
-  dynasty = 1044050
-  religion = "catholic"
-  culture = "lombard"
-  father = 190341
-  687.1.1 = {
-    birth = yes
-  }
-  716.1.1 = {
-    add_spouse = 190191
-  }
-  739.1.1 = {
-    death = yes
-  }
-}
-190343 = {
-  name = "ラトキス"  # Ratchis
-  dynasty = 1044050
-  religion = "catholic"
-  culture = "lombard"
-  father = 190342
-  mother = 190191
-  716.1.1 = {
-    birth = yes
-  }
-  732.1.1 = {
-    add_spouse = 190199
-  }
-  758.1.1 = {
-    death = yes
-  }
-}
-190344 = {
-  name = "ギサルトルダ"  # Gisaltruda
-  female = yes
-  dynasty = 1044052
-  religion = "catholic"
-  culture = "lombard"
-  father = 190259
-  730.1.1 = {
-    birth = yes
-  }
-  781.1.1 = {
-    death = yes
-  }
-}
-190345 = {
-  name = "アラヒス"  # Alahis
-  dynasty = 1044053
+73472 = {
+  name = "ウルデリト"  # Ulderit
   religion = catholic
   culture = lombard
-  685.1.1 = {
+  trait = detached_priest
+  1010.1.1 = {
     birth = yes
   }
-  726.1.1 = {
+  1069.1.1 = {
     death = yes
   }
 }
-190346 = {
-  name = "エルミノルフ"  # Erminolf
-  dynasty = 1044053
-  father = 190345
+73474 = {
+  name = "ロフリト"  # Rofrit
   religion = catholic
   culture = lombard
-  701.1.1 = {
+  trait = detached_priest
+  1034.1.1 = {
     birth = yes
   }
-  756.1.1 = {
+  1107.1.1 = {
     death = yes
   }
 }
-190347 = {
-  name = "デシデリウス"  # Desiderius
-  dynasty = 1044053
-  dna = aldccxlhgaf
-  properties = ai0afa000000
-  father = 190346
+73475 = {
+  name = "ランドルフ"  # Landolf
   religion = catholic
   culture = lombard
-  717.1.1 = {
+  trait = detached_priest
+  1066.1.1 = {
     birth = yes
   }
-  734.1.1 = {
-    add_spouse = 190340
-  }
-  786.1.1 = {
+  1119.1.1 = {
     death = yes
   }
 }
-190348 = {
-  name = "ゲルベルガ"  # Gerberga
-  female = yes
-  dynasty = 1044053
-  religion = "catholic"
-  culture = "lombard"
-  father = 190347
-  mother = 190340
-  745.1.1 = {
-    birth = yes
-  }
-  794.1.1 = {
-    death = yes
-  }
-}
-190349 = {
-  name = "ダウフェラダ"  # Dauferada
-  female = yes
-  dynasty = 1044053
-  father = 190347
-  mother = 190340
+73476 = {
+  name = "ロフリト"  # Rofrit
   religion = catholic
   culture = lombard
-  747.1.1 = {
+  trait = detached_priest
+  1078.1.1 = {
     birth = yes
   }
-  796.1.1 = {
+  1130.1.1 = {
     death = yes
   }
 }
-190351 = {
-  name = "リウトペルガ"  # Liutperga
-  female = yes
-  dynasty = 1044053
-  religion = "catholic"
-  culture = "lombard"
-  father = 190347
-  mother = 190340
-  750.1.1 = {
+73477 = {
+  name = "ランドルフ"  # Landolf
+  religion = catholic
+  culture = lombard
+  trait = detached_priest
+  1079.1.1 = {
     birth = yes
   }
-  794.1.1 = {
-    death = yes
-  }
-}
-190352 = {
-  name = "アンセルペルガ"  # Anselperga
-  female = yes
-  dynasty = 1044053
-  religion = "catholic"
-  culture = "lombard"
-  father = 190347
-  mother = 190340
-  744.1.1 = {
-    birth = yes
-  }
-  794.1.1 = {
-    death = yes
-  }
-}
-190353 = {
-  name = "アデルキス"  # Adelchis
-  dynasty = 1044053
-  religion = "catholic"
-  culture = "lombard"
-  father = 190347
-  mother = 190340
-  759.1.1 = {
-    birth = yes
-  }
-  788.1.1 = {
-    death = yes
-  }
-}
-190354 = {
-  name = "アラヒス"  # Alahis
-  dynasty = 1044054
-  religion = "catholic"
-  culture = "lombard"
-  654.1.1 = {
-    birth = yes
-  }
-  689.1.1 = {
+  1132.1.1 = {
     death = yes
   }
 }

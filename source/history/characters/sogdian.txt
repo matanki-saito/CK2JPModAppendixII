@@ -29,48 +29,6 @@
     death = yes
   }
 }
-188640 = {
-  name = "サリム"  # Salim
-  dynasty = 1042124
-  religion = "sunni"
-  culture = "sogdian"
-  trait = impaler
-  trait = cruel
-  father = 248313
-  746.1.1 = {
-    birth = yes
-  }
-  766.1.1 = {
-    give_nickname = nick_the_devil
-  }
-  782.1.1 = {
-    death = yes
-  }
-}
-188681 = {
-  name = "ハーシェム"  # Hashem
-  dynasty = 1059101
-  religion = sunni
-  culture = sogdian
-  trait = disfigured
-  trait = quick
-  trait = scholarly_theologian
-  trait = peasant_leader
-  trait = light_foot_leader
-  730.1.1 = {
-    birth = yes
-  }
-  755.1.1 = {
-    trait = sympathy_islam
-    religion = mazdaki
-  }
-  769.1.1 = {
-    add_spouse = 194362
-  }
-  783.1.1 = {
-    death = yes
-  }
-}
 188774 = {
   name = "ワフーシャック"  # Wakhushakk
   dynasty = 1042188
@@ -497,6 +455,22 @@
     death = yes
   }
 }
+248303 = {
+  name = "アムル・ビン・マキル"  # Amr bin Maqil
+  dynasty = 1042148
+  religion = buddhist
+  culture = "sogdian"
+  731.1.1 = {
+    birth = yes
+  }
+  755.1.1 = {
+    religion = sunni
+    secret_religion = "buddhist"
+  }
+  783.1.1 = {
+    death = yes
+  }
+}
 217328 = {
   name = "ファーン"  # Farn
   dynasty = 1051143
@@ -639,6 +613,24 @@
     death = yes
   }
 }
+188640 = {
+  name = "サリム"  # Salim
+  dynasty = 1042124
+  religion = "sunni"
+  culture = "sogdian"
+  trait = impaler
+  trait = cruel
+  father = 248313
+  746.1.1 = {
+    birth = yes
+  }
+  766.1.1 = {
+    give_nickname = nick_the_devil
+  }
+  782.1.1 = {
+    death = yes
+  }
+}
 248300 = {
   name = "クジュラ"  # Kujula
   dynasty = 1059100
@@ -685,17 +677,25 @@
     death = yes
   }
 }
-248303 = {
-  name = "アムル・ビン・マキル"  # Amr bin Maqil
-  dynasty = 1042148
-  religion = buddhist
-  culture = "sogdian"
-  731.1.1 = {
+188681 = {
+  name = "ハーシェム"  # Hashem
+  dynasty = 1059101
+  religion = sunni
+  culture = sogdian
+  trait = disfigured
+  trait = quick
+  trait = scholarly_theologian
+  trait = peasant_leader
+  trait = light_foot_leader
+  730.1.1 = {
     birth = yes
   }
   755.1.1 = {
-    religion = sunni
-    secret_religion = "buddhist"
+    trait = sympathy_islam
+    religion = mazdaki
+  }
+  769.1.1 = {
+    add_spouse = 194362
   }
   783.1.1 = {
     death = yes

@@ -63,6 +63,47 @@
     death = yes
   }
 }
+243017 = {
+  name = "Zhibuwu"
+  dynasty = 1053030
+  culture = tangut
+  religion = buddhist
+  trait = vajrayana_buddhist
+  1084.1.1 = {
+    birth = yes
+  }
+  1154.1.1 = {
+    death = yes
+  }
+}
+243018 = {
+  name = "通"  # Tong
+  dynasty = 1053030
+  culture = tangut
+  religion = buddhist
+  trait = vajrayana_buddhist
+  father = 243017
+  1134.1.1 = {
+    birth = yes
+  }
+  1208.1.1 = {
+    death = yes
+  }
+}
+243019 = {
+  name = "Pedie"
+  dynasty = 1053030
+  culture = tangut
+  religion = buddhist
+  trait = vajrayana_buddhist
+  father = 243018
+  1192.1.1 = {
+    birth = yes
+  }
+  1262.1.1 = {
+    death = yes
+  }
+}
 206600 = {
   name = "力微"  # Liwei
   dynasty = 1029300
@@ -2511,6 +2552,20 @@
     death = yes
   }
 }
+1059995 = {
+  name = "Guochang"
+  dynasty = 1029303
+  religion = "taoist"
+  secret_religion = "bon"
+  culture = "tangut"
+  trait = sympathy_pagans
+  785.1.1 = {
+    birth = yes
+  }
+  812.1.1 = {
+    death = yes
+  }
+}
 206772 = {
   name = "Chunyou"
   dynasty = 1029303
@@ -2896,6 +2951,102 @@
     death = yes
   }
 }
+1059994 = {
+  name = "Tabuye"
+  dynasty = 1029309
+  religion = "buddhist"
+  culture = "tangut"
+  trait = "mahayana_buddhist"
+  father = 206799
+  1205.1.1 = {
+    birth = yes
+  }
+  1273.1.1 = {
+    death = yes
+  }
+}
+1059993 = {
+  name = "Fuyun"
+  dynasty = 1029307
+  religion = "buddhist"
+  culture = "tangut"
+  trait = "mahayana_buddhist"
+  father = 206690
+  1100.1.1 = {
+    birth = yes
+  }
+  1170.1.1 = {
+    death = yes
+  }
+}
+1059992 = {
+  name = "Kaigu"
+  dynasty = 1029303
+  religion = "taoist"
+  culture = "tangut"
+  father = 206710
+  1065.1.1 = {
+    birth = yes
+  }
+  1122.1.1 = {
+    death = yes
+  }
+}
+1059991 = {
+  name = "Chici"
+  dynasty = 1029307
+  religion = "buddhist"
+  culture = "tangut"
+  trait = "mahayana_buddhist"
+  father = 1059993
+  1130.1.1 = {
+    birth = yes
+  }
+  1199.1.1 = {
+    death = yes
+  }
+}
+1059990 = {
+  name = "Chongjian"
+  dynasty = 1029307
+  religion = "buddhist"
+  culture = "tangut"
+  trait = "mahayana_buddhist"
+  father = 1059991
+  1166.1.1 = {
+    birth = yes
+  }
+  1224.1.1 = {
+    death = yes
+  }
+}
+1059989 = {
+  name = "Dashi"
+  dynasty = 1029307
+  religion = "buddhist"
+  culture = "tangut"
+  trait = "mahayana_buddhist"
+  father = 1059990
+  1185.1.1 = {
+    birth = yes
+  }
+  1230.1.1 = {
+    death = yes
+  }
+}
+1059987 = {
+  name = "Ningcong"
+  dynasty = 1029303
+  religion = "taoist"
+  culture = "tangut"
+  father = 1059992
+  1099.1.1 = {
+    birth = yes
+  }
+  1152.1.1 = {
+    death = yes
+  }
+}
 206807 = {
   name = "Jichong"
   dynasty = 1029303
@@ -2948,60 +3099,6 @@
     death = yes
   }
 }
-243017 = {
-  name = "Zhibuwu"
-  dynasty = 1053030
-  culture = tangut
-  religion = buddhist
-  trait = vajrayana_buddhist
-  1084.1.1 = {
-    birth = yes
-  }
-  1154.1.1 = {
-    death = yes
-  }
-}
-243018 = {
-  name = "通"  # Tong
-  dynasty = 1053030
-  culture = tangut
-  religion = buddhist
-  trait = vajrayana_buddhist
-  father = 243017
-  1134.1.1 = {
-    birth = yes
-  }
-  1208.1.1 = {
-    death = yes
-  }
-}
-243019 = {
-  name = "Pedie"
-  dynasty = 1053030
-  culture = tangut
-  religion = buddhist
-  trait = vajrayana_buddhist
-  father = 243018
-  1192.1.1 = {
-    birth = yes
-  }
-  1262.1.1 = {
-    death = yes
-  }
-}
-1059987 = {
-  name = "Ningcong"
-  dynasty = 1029303
-  religion = "taoist"
-  culture = "tangut"
-  father = 1059992
-  1099.1.1 = {
-    birth = yes
-  }
-  1152.1.1 = {
-    death = yes
-  }
-}
 1059988 = {
   name = "Hao"
   dynasty = 1029306
@@ -3012,103 +3109,6 @@
     birth = yes
   }
   1300.1.1 = {
-    death = yes
-  }
-}
-1059989 = {
-  name = "Dashi"
-  dynasty = 1029307
-  religion = "buddhist"
-  culture = "tangut"
-  trait = "mahayana_buddhist"
-  father = 1059990
-  1185.1.1 = {
-    birth = yes
-  }
-  1230.1.1 = {
-    death = yes
-  }
-}
-1059990 = {
-  name = "Chongjian"
-  dynasty = 1029307
-  religion = "buddhist"
-  culture = "tangut"
-  trait = "mahayana_buddhist"
-  father = 1059991
-  1166.1.1 = {
-    birth = yes
-  }
-  1224.1.1 = {
-    death = yes
-  }
-}
-1059991 = {
-  name = "Chici"
-  dynasty = 1029307
-  religion = "buddhist"
-  culture = "tangut"
-  trait = "mahayana_buddhist"
-  father = 1059993
-  1130.1.1 = {
-    birth = yes
-  }
-  1199.1.1 = {
-    death = yes
-  }
-}
-1059992 = {
-  name = "Kaigu"
-  dynasty = 1029303
-  religion = "taoist"
-  culture = "tangut"
-  father = 206710
-  1065.1.1 = {
-    birth = yes
-  }
-  1122.1.1 = {
-    death = yes
-  }
-}
-1059993 = {
-  name = "Fuyun"
-  dynasty = 1029307
-  religion = "buddhist"
-  culture = "tangut"
-  trait = "mahayana_buddhist"
-  father = 206690
-  1100.1.1 = {
-    birth = yes
-  }
-  1170.1.1 = {
-    death = yes
-  }
-}
-1059994 = {
-  name = "Tabuye"
-  dynasty = 1029309
-  religion = "buddhist"
-  culture = "tangut"
-  trait = "mahayana_buddhist"
-  father = 206799
-  1205.1.1 = {
-    birth = yes
-  }
-  1273.1.1 = {
-    death = yes
-  }
-}
-1059995 = {
-  name = "Guochang"
-  dynasty = 1029303
-  religion = "taoist"
-  secret_religion = "bon"
-  culture = "tangut"
-  trait = sympathy_pagans
-  785.1.1 = {
-    birth = yes
-  }
-  812.1.1 = {
     death = yes
   }
 }

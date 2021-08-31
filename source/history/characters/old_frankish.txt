@@ -41,131 +41,370 @@
     death = "814.1.2"
   }
 }
-7976 = {
-  name = "Boso"
-  dynasty = 7052
-  martial = 6
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 8
+144999 = {
+  name = "カールマン"  # Karloman
+  dynasty = 25061
+  dna = bcalbhabgal
+  properties = aj0aca000000
+  religion = catholic
+  culture = old_frankish
+  father = 131722
+  mother = 190429
+  751.1.1 = {
+    birth = yes
+    effect = {
+      set_character_flag = is_carloman
+    }
+  }
+  767.5.5 = {
+    add_spouse = 194173
+  }
+  768.9.24 = {
+    add_claim = k_france
+  }
+  771.12.4 = {
+    death = yes
+  }
+}
+131720 = {
+  name = "ピピン"  # Pepin
+  dynasty = 25061
+  martial = 8
+  diplomacy = 9
+  intrigue = 7
+  stewardship = 12
   religion = "catholic"
   culture = "old_frankish"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
+  trait = "brilliant_strategist"
+  father = 190417
+  mother = 91404
+  636.1.2 = {
+    birth = "636.1.2"
+  }
+  658.1.1 = {
+    add_spouse = 190419
+  }
+  674.1.1 = {
+    remove_spouse = 190419
+  }
+  675.1.1 = {
+    add_spouse = 190420
+  }
+  714.1.17 = {
+    death = "714.1.17"
+  }
+}
+190388 = {
+  name = "Hruodis"
+  dynasty = 1044099
+  religion = "catholic"
+  culture = "old_frankish"
+  608.1.1 = {
+    birth = yes
+  }
+  651.1.1 = {
+    death = yes
+  }
+}
+190389 = {
+  name = "Hetan"
+  dynasty = 1044099
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190388
+  631.1.1 = {
+    birth = yes
+  }
+  677.1.1 = {
+    death = yes
+  }
+}
+190390 = {
+  name = "Gozbert"
+  dynasty = 1044099
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190389
+  652.1.1 = {
+    birth = yes
+  }
+  697.1.1 = {
+    death = yes
+  }
+}
+190391 = {
+  name = "Hetan"
+  dynasty = 1044099
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190390
+  680.1.1 = {
+    birth = yes
+  }
+  733.1.1 = {
+    death = yes
+  }
+}
+190392 = {
+  name = "Thuringus"
+  dynasty = 1044099
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190391
+  719.1.1 = {
+    birth = yes
+  }
   770.1.1 = {
-    birth = "770.1.1"
-  }
-  845.1.1 = {
-    give_nickname = nick_the_old
-  }
-  855.1.1 = {
-    death = "855.1.1"
+    death = yes
   }
 }
-7979 = {
-  name = "Bouvin"
-  dynasty = 9306
-  martial = 6
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 8
+190393 = {
+  name = "Ado"
+  dynasty = 1044099
   religion = "catholic"
   culture = "old_frankish"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  father = 91396
-  810.1.1 = {
-    birth = "810.1.1"
+  father = 190392
+  756.1.1 = {
+    birth = yes
   }
-  849.1.1 = {
-    add_spouse = 7978
-  }
-  863.1.1 = {
-    death = "863.1.1"
+  805.1.1 = {
+    death = yes
   }
 }
-31700 = {
-  name = "Gerhard"
-  dynasty = 667
+190394 = {
+  name = "ロバート"  # Robert
+  dynasty = 7290
   religion = "catholic"
   culture = "old_frankish"
-  730.1.2 = {
-    birth = "730.1.2"
+  father = 33328
+  766.1.1 = {
+    birth = yes
   }
-  779.1.2 = {
-    death = "779.1.2"
-  }
-}
-31701 = {
-  name = "Liuthard"
-  dynasty = 667
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 31700
-  760.1.2 = {
-    birth = "760.1.2"
-  }
-  810.1.2 = {
-    death = "810.1.2"
+  805.1.1 = {
+    death = yes
   }
 }
-33327 = {
+190395 = {
   name = "Cancor"
   dynasty = 7290
   religion = "catholic"
   culture = "old_frankish"
-  father = 91000
-  mother = 91121
-  722.1.1 = {
-    birth = "722.1.1"
-  }
-  771.1.1 = {
-    death = "782.1.1"
-  }
-}
-73784 = {
-  name = "Guilhelm"
-  dynasty = 100217
-  father = 163063
-  mother = 168141
-  religion = catholic
-  culture = old_frankish
-  826.11.29 = {
+  father = 190394
+  786.1.1 = {
     birth = yes
   }
-  850.1.1 = {
+  813.1.1 = {
     death = yes
   }
 }
-90094 = {
-  name = "ピピン"  # Pepin
-  dynasty = 25061
-  martial = 5
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 5
+190396 = {
+  name = "ロバート"  # Robert
+  dynasty = 7290
   religion = "catholic"
   culture = "old_frankish"
-  trait = "hunchback"
-  trait = "patient"
-  trait = "bastard"
-  father = 6392
-  mother = 194168
-  769.1.1 = {
-    birth = "769.1.1"
-    effect = {
-      set_character_flag = is_pepin_le_bossu
-    }
+  father = 190394
+  789.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+190397 = {
+  name = "Heimerich"
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 33329
+  781.1.1 = {
+    birth = yes
+  }
+  836.1.1 = {
+    death = yes
+  }
+}
+190398 = {
+  name = "Ratolf"
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190397
+  811.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+190399 = {
+  name = "Hraban"
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190398
+  837.1.1 = {
+    birth = yes
+  }
+  872.1.1 = {
+    death = yes
+  }
+}
+190400 = {
+  name = "Emich"
+  dynasty = 1044100
+  religion = "catholic"
+  culture = "old_frankish"
+  741.1.1 = {
+    birth = yes
+  }
+  787.1.1 = {
+    death = yes
+  }
+}
+190401 = {
+  name = "Chrodbert"
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  572.1.1 = {
+    birth = yes
+  }
+  621.1.1 = {
+    death = yes
+  }
+}
+190402 = {
+  name = "ランバート"  # Lambert
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190401
+  598.1.1 = {
+    birth = yes
+  }
+  643.1.1 = {
+    death = yes
+  }
+}
+190403 = {
+  name = "Chrodbert"
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190402
+  620.1.1 = {
+    birth = yes
+  }
+  676.1.1 = {
+    death = yes
+  }
+}
+190404 = {
+  name = "ランバート"  # Lambert
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190403
+  668.1.1 = {
+    birth = yes
+  }
+  729.1.1 = {
+    death = yes
+  }
+}
+190405 = {
+  name = "Chrodgang"
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 33327
+  748.1.1 = {
+    birth = yes
+  }
+  775.1.1 = {
+    death = yes
+  }
+}
+190406 = {
+  name = "Ermbert"
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 33327
+  751.1.1 = {
+    birth = yes
+  }
+  803.1.1 = {
+    death = yes
+  }
+}
+190407 = {
+  name = "Rachilt"
+  female = yes
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 33327
+  750.1.1 = {
+    birth = yes
+  }
+  797.1.1 = {
+    death = yes
+  }
+}
+190408 = {
+  name = "Euphemia"
+  female = yes
+  dynasty = 7290
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 33327
+  756.1.1 = {
+    birth = yes
+  }
+  779.1.1 = {
+    death = yes
+  }
+}
+190409 = {
+  name = "Anselm"
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91000
+  mother = 91121
+  731.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+190410 = {
+  name = "ロバート"  # Robert
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91000
+  mother = 91121
+  735.1.1 = {
+    birth = yes
   }
   789.1.1 = {
-    give_nickname = nick_the_hunchback
+    death = yes
   }
-  811.1.2 = {
-    death = "811.1.2"
+}
+190411 = {
+  name = "グントラム"  # Guntram
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91005
+  810.1.1 = {
+    birth = yes
+  }
+  847.1.1 = {
+    death = yes
   }
 }
 91000 = {
@@ -184,58 +423,1023 @@
     death = "760.1.1"
   }
 }
-91001 = {
-  name = "Enguerrand"
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91000
-  mother = 91121
-  745.1.1 = {
-    birth = "745.1.1"
-  }
-  790.1.1 = {
-    death = "790.1.1"
-  }
-}
-91003 = {
-  name = "Thurimbert"
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91000
-  mother = 91121
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  775.1.1 = {
-    death = "775.1.1"
-  }
-}
-91004 = {
+194450 = {
   name = "ロバート"  # Robert
   dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91003
-  765.1.1 = {
-    birth = "765.1.1"
+  religion = catholic
+  culture = old_frankish
+  trait = lustful
+  trait = strong
+  father = 91000
+  mother = 91121
+  742.8.7 = {
+    birth = yes
   }
-  810.1.1 = {
-    death = "810.1.1"
+  807.6.6 = {
+    death = yes
   }
 }
-91121 = {
-  name = "Williswinthe"
-  female = yes
-  dynasty = 9302
+33327 = {
+  name = "Cancor"
+  dynasty = 7290
   religion = "catholic"
   culture = "old_frankish"
-  698.1.1 = {
-    birth = "698.1.1"
+  father = 91000
+  mother = 91121
+  722.1.1 = {
+    birth = "722.1.1"
   }
-  776.7.12 = {
-    death = "776.7.12"
+  771.1.1 = {
+    death = "782.1.1"
+  }
+}
+200141 = {
+  name = "Rampon"
+  religion = catholic
+  culture = old_frankish
+  774.1.1 = {
+    birth = yes
+  }
+  825.1.1 = {
+    death = yes
+  }
+}
+200142 = {
+  name = "Aldedramn"
+  dynasty = 9557
+  father = 200143
+  religion = catholic
+  culture = old_frankish
+  833.1.1 = {
+    birth = yes
+  }
+  851.1.1 = {
+    death = yes
+  }
+}
+200143 = {
+  name = "Guilhelm"
+  dynasty = 9557
+  father = 167829
+  religion = catholic
+  culture = old_frankish
+  817.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+200144 = {
+  name = "Isembard"
+  religion = catholic
+  culture = old_frankish
+  800.1.1 = {
+    birth = yes
+  }
+  852.1.1 = {
+    death = yes
+  }
+}
+200145 = {
+  name = "Odelric"
+  dynasty = 1046011
+  father = 200146
+  mother = 200147
+  religion = catholic
+  culture = old_frankish
+  828.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+200146 = {
+  name = "Odelric"
+  dynasty = 1046011
+  religion = catholic
+  culture = old_frankish
+  786.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    add_spouse = 200147
+  }
+  830.1.1 = {
+    death = yes
+  }
+}
+200147 = {
+  name = "Ingitrude"
+  female = yes
+  dynasty = 667
+  father = 168079
+  religion = catholic
+  culture = old_frankish
+  810.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+200148 = {
+  name = "Hunifred"
+  dynasty = 12110
+  father = 167790
+  religion = catholic
+  culture = old_frankish
+  831.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    death = yes
+  }
+}
+200152 = {
+  name = "Gaucelm"
+  dynasty = 100217
+  father = 168130
+  religion = catholic
+  culture = old_frankish
+  798.1.1 = {
+    birth = yes
+  }
+  834.1.1 = {
+    death = yes
+  }
+}
+73784 = {
+  name = "Guilhelm"
+  dynasty = 100217
+  father = 163063
+  mother = 168141
+  religion = catholic
+  culture = old_frankish
+  826.11.29 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+163063 = {
+  name = "Bernard"
+  dynasty = 100217
+  father = 168130
+  religion = catholic
+  culture = old_frankish
+  796.1.1 = {
+    birth = yes
+  }
+  824.1.1 = {
+    add_spouse = 168141
+  }
+  844.5.1 = {
+    death = yes
+  }
+}
+190412 = {
+  name = "Arnold"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  557.1.1 = {
+    birth = yes
+  }
+  602.1.1 = {
+    death = yes
+  }
+}
+190413 = {
+  name = "Arnulf"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190412
+  580.1.1 = {
+    birth = yes
+  }
+  640.7.18 = {
+    death = yes
+  }
+}
+190414 = {
+  name = "Chlodulf"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190413
+  610.1.1 = {
+    birth = yes
+  }
+  697.5.8 = {
+    death = yes
+  }
+}
+190415 = {
+  name = "Arnulf"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190414
+  638.1.1 = {
+    birth = yes
+  }
+  712.1.1 = {
+    death = yes
+  }
+}
+190416 = {
+  name = "Martin"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190414
+  647.1.1 = {
+    birth = yes
+  }
+  716.1.1 = {
+    death = yes
+  }
+}
+190417 = {
+  name = "Ansegisel"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190413
+  612.1.1 = {
+    birth = yes
+  }
+  635.1.1 = {
+    add_spouse = 91404
+  }
+  662.1.1 = {
+    death = yes
+  }
+}
+190418 = {
+  name = "Chrothechildis"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190417
+  mother = 91404
+  644.1.1 = {
+    birth = yes
+  }
+  692.1.1 = {
+    death = yes
+  }
+}
+190419 = {
+  name = "Plectrudis"
+  female = yes
+  dynasty = 1044101
+  religion = "catholic"
+  culture = "old_frankish"
+  636.1.1 = {
+    birth = yes
+  }
+  674.1.1 = {
+    death = yes
+  }
+}
+190420 = {
+  name = "Chalpais"
+  female = yes
+  dynasty = 1044102
+  religion = "catholic"
+  culture = "old_frankish"
+  656.1.1 = {
+    birth = yes
+  }
+  714.1.1 = {
+    death = yes
+  }
+}
+190421 = {
+  name = "Hugh"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131719
+  690.1.1 = {
+    birth = yes
+  }
+  730.1.1 = {
+    death = yes
+  }
+}
+190422 = {
+  name = "ピピン"  # Pepin
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131719
+  695.1.1 = {
+    birth = yes
+  }
+  726.1.1 = {
+    death = yes
+  }
+}
+190423 = {
+  name = "Godefroi"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131719
+  trait = "bastard"
+  696.1.1 = {
+    birth = yes
+  }
+  724.1.1 = {
+    death = yes
+  }
+}
+190424 = {
+  name = "Theodald"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131723
+  trait = "bastard"
+  707.1.1 = {
+    birth = yes
+  }
+  741.1.1 = {
+    death = yes
+  }
+}
+190425 = {
+  name = "Chrothrudis"
+  female = yes
+  dynasty = 1044103
+  religion = "catholic"
+  culture = "old_frankish"
+  690.1.1 = {
+    birth = yes
+  }
+  725.1.1 = {
+    death = yes
+  }
+}
+190427 = {
+  name = "カールマン"  # Karloman
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190425
+  706.1.1 = {
+    birth = yes
+  }
+  754.12.4 = {
+    death = yes
+  }
+}
+190428 = {
+  name = "Drogo"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190427
+  730.1.1 = {
+    birth = yes
+  }
+  754.1.1 = {
+    death = yes
+  }
+}
+190429 = {
+  name = "Bertrada"
+  female = yes
+  dynasty = 1044104
+  intrigue = 19
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91468
+  trait = deceitful
+  720.1.1 = {
+    birth = yes
+  }
+  768.9.24 = {
+    employer = 6392
+    effect = {
+      set_character_flag = meddling_mother
+    }
+  }
+  783.6.12 = {
+    death = yes
+  }
+}
+190454 = {
+  name = "Gisela"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131722
+  mother = 190429
+  757.1.1 = {
+    birth = yes
+  }
+  810.7.30 = {
+    death = yes
+  }
+}
+190430 = {
+  name = "ピピン"  # Pipin
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131722
+  mother = 190429
+  759.1.1 = {
+    birth = yes
+  }
+  762.1.1 = {
+    death = yes
+  }
+}
+190431 = {
+  name = "Chrothais"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131722
+  mother = 190429
+  761.1.1 = {
+    birth = yes
+  }
+  763.1.1 = {
+    death = yes
+  }
+}
+190432 = {
+  name = "Adelais"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131722
+  mother = 190429
+  763.1.1 = {
+    birth = yes
+  }
+  764.1.1 = {
+    death = yes
+  }
+}
+190433 = {
+  name = "Chiltrudis"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190425
+  725.1.1 = {
+    birth = yes
+  }
+  754.1.1 = {
+    death = yes
+  }
+}
+190434 = {
+  name = "Grifo"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144989
+  745.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+190435 = {
+  name = "カール"  # Karl
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144989
+  749.1.1 = {
+    birth = yes
+  }
+  802.1.1 = {
+    death = yes
+  }
+}
+190436 = {
+  name = "Landrada"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190426
+  729.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+190437 = {
+  name = "Audoen"
+  dynasty = 25065
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168161
+  mother = 91390
+  743.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+190438 = {
+  name = "リチャード"  # Richard
+  dynasty = 9306
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168163
+  803.1.1 = {
+    birth = yes
+  }
+  842.1.1 = {
+    death = yes
+  }
+}
+190439 = {
+  name = "Fuldrad"
+  dynasty = 25065
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168161
+  mother = 91390
+  743.1.1 = {
+    birth = yes
+  }
+  759.1.1 = {
+    trait = "martial_cleric"
+  }
+  826.1.31 = {
+    death = yes
+  }
+}
+190440 = {
+  name = "Richarde"
+  female = yes
+  dynasty = 25065
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168161
+  mother = 91390
+  743.1.1 = {
+    birth = yes
+  }
+  785.1.1 = {
+    death = yes
+  }
+}
+190441 = {
+  name = "Folquin"
+  dynasty = 25065
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168161
+  mother = 91390
+  744.1.1 = {
+    birth = yes
+  }
+  756.1.1 = {
+    trait = "martial_cleric"
+  }
+  855.12.15 = {
+    death = yes
+  }
+}
+190442 = {
+  name = "Adalhard"
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  752.1.1 = {
+    birth = yes
+  }
+  826.1.1 = {
+    death = yes
+  }
+}
+190443 = {
+  name = "Walo"
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  772.1.1 = {
+    birth = yes
+  }
+  836.8.31 = {
+    death = yes
+  }
+}
+190444 = {
+  name = "Bertrudis"
+  female = yes
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  786.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+190445 = {
+  name = "Gundrada"
+  female = yes
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  774.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    death = yes
+  }
+}
+190446 = {
+  name = "Bernhar"
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  776.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    death = yes
+  }
+}
+190447 = {
+  name = "Theodrada"
+  female = yes
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  780.1.1 = {
+    birth = yes
+  }
+  835.1.1 = {
+    death = yes
+  }
+}
+190448 = {
+  name = "Ida"
+  female = yes
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  785.1.1 = {
+    birth = yes
+  }
+  843.1.1 = {
+    death = yes
+  }
+}
+190449 = {
+  name = "Remigius"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  trait = "bastard"
+  740.1.1 = {
+    birth = yes
+  }
+  787.1.1 = {
+    death = yes
+  }
+}
+190450 = {
+  name = "Walacho"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190413
+  620.1.1 = {
+    birth = yes
+  }
+  689.1.1 = {
+    death = yes
+  }
+}
+190451 = {
+  name = "Wandregisel"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190450
+  635.1.1 = {
+    birth = yes
+  }
+  665.1.1 = {
+    death = yes
+  }
+}
+190452 = {
+  name = "Waltrude"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190450
+  675.1.1 = {
+    birth = yes
+  }
+  735.1.1 = {
+    death = yes
+  }
+}
+190511 = {
+  name = "テオドリック"  # Theoderic
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144987
+  735.1.1 = {
+    birth = yes
+  }
+  798.1.1 = {
+    death = yes
+  }
+}
+190512 = {
+  name = "Teudoin"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  751.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    death = yes
+  }
+}
+190513 = {
+  name = "テオドリック"  # Theoderic
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190512
+  778.1.1 = {
+    birth = yes
+  }
+  829.1.1 = {
+    death = yes
+  }
+}
+190514 = {
+  name = "Guillaume"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  753.1.1 = {
+    birth = yes
+  }
+  815.1.1 = {
+    death = yes
+  }
+}
+190515 = {
+  name = "Abba"
+  female = yes
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  752.1.1 = {
+    birth = yes
+  }
+  806.1.1 = {
+    death = yes
+  }
+}
+190516 = {
+  name = "テオドリック"  # Theoderic
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  759.1.1 = {
+    birth = yes
+  }
+  811.1.1 = {
+    death = yes
+  }
+}
+190517 = {
+  name = "Adalelm"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  762.1.1 = {
+    birth = yes
+  }
+  804.1.1 = {
+    death = yes
+  }
+}
+190518 = {
+  name = "Niebelung"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  765.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+190519 = {
+  name = "Bertrand"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190518
+  786.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+190520 = {
+  name = "Berta"
+  female = yes
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190511
+  769.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+190551 = {
+  name = "ニーベルング"  # Nibelung
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144987
+  750.1.1 = {
+    birth = yes
+  }
+  768.1.1 = {
+    add_spouse = 190515
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+190552 = {
+  name = "Niebelung"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190551
+  mother = 190515
+  768.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+190553 = {
+  name = "Theodbert"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144987
+  751.1.1 = {
+    birth = yes
+  }
+  826.1.1 = {
+    death = yes
+  }
+}
+190554 = {
+  name = "ロバート"  # Robert
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190553
+  801.1.1 = {
+    birth = yes
+  }
+  853.1.1 = {
+    death = yes
+  }
+}
+190555 = {
+  name = "Ringradis"
+  female = yes
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190553
+  801.1.1 = {
+    birth = yes
+  }
+  853.1.1 = {
+    death = yes
+  }
+}
+190556 = {
+  name = "Bernard"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190514
+  795.1.1 = {
+    birth = yes
+  }
+  844.1.1 = {
+    death = yes
+  }
+}
+190557 = {
+  name = "Bernard"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190556
+  841.3.22 = {
+    birth = yes
+  }
+  886.1.1 = {
+    death = yes
+  }
+}
+190558 = {
+  name = "テオドリック"  # Theoderic
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 190514
+  798.1.1 = {
+    birth = yes
+  }
+  826.1.1 = {
+    death = yes
+  }
+}
+190559 = {
+  name = "Erenold"
+  dynasty = 1044117
+  religion = "catholic"
+  culture = "old_frankish"
+  748.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+190561 = {
+  name = "Geofrey"
+  dynasty = 1044119
+  religion = "catholic"
+  culture = "old_frankish"
+  747.1.1 = {
+    birth = yes
+  }
+  778.1.1 = {
+    death = yes
   }
 }
 91386 = {
@@ -568,6 +1772,18 @@
     add_spouse = 91502
   }
   790.1.1 = {
+    death = yes
+  }
+}
+91502 = {
+  name = "Hruodsuinda"
+  female = yes
+  religion = "catholic"
+  culture = "old_frankish"
+  730.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
     death = yes
   }
 }
@@ -1147,18 +2363,6 @@
     death = yes
   }
 }
-91502 = {
-  name = "Hruodsuinda"
-  female = yes
-  religion = "catholic"
-  culture = "old_frankish"
-  730.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
 91503 = {
   name = "Rothgar"
   dynasty = 9569
@@ -1215,301 +2419,6 @@
     death = yes
   }
 }
-131716 = {
-  name = "Arnoul"
-  dynasty = 25060
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131717
-  770.1.2 = {
-    birth = "770.1.2"
-  }
-  860.1.2 = {
-    death = "860.1.2"
-  }
-}
-131717 = {
-  name = "Agnerald"
-  dynasty = 25060
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131718
-  723.1.2 = {
-    birth = "723.1.2"
-  }
-  790.1.2 = {
-    death = "790.1.2"
-  }
-}
-131718 = {
-  name = "Arnoul"
-  dynasty = 25060
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131719
-  688.1.2 = {
-    birth = "688.1.2"
-  }
-  740.1.2 = {
-    death = "740.1.2"
-  }
-}
-131719 = {
-  name = "Dreux"
-  dynasty = 25061
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131720
-  mother = 190419
-  670.1.1 = {
-    birth = "670.1.1"
-  }
-  708.1.1 = {
-    death = "708.1.1"
-  }
-}
-131720 = {
-  name = "ピピン"  # Pepin
-  dynasty = 25061
-  martial = 8
-  diplomacy = 9
-  intrigue = 7
-  stewardship = 12
-  religion = "catholic"
-  culture = "old_frankish"
-  trait = "brilliant_strategist"
-  father = 190417
-  mother = 91404
-  636.1.2 = {
-    birth = "636.1.2"
-  }
-  658.1.1 = {
-    add_spouse = 190419
-  }
-  674.1.1 = {
-    remove_spouse = 190419
-  }
-  675.1.1 = {
-    add_spouse = 190420
-  }
-  714.1.17 = {
-    death = "714.1.17"
-  }
-}
-131721 = {
-  name = "カール"  # Karl
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  martial = 10
-  diplomacy = 10
-  intrigue = 9
-  stewardship = 10
-  learning = 8
-  trait = "brilliant_strategist"
-  trait = "quick"
-  trait = "brave"
-  trait = "strong"
-  trait = "ambitious"
-  father = 131720
-  mother = 190420
-  686.8.23 = {
-    birth = "686.8.23"
-  }
-  707.1.1 = {
-    add_spouse = 190425
-  }
-  725.1.1 = {
-    remove_spouse = 190425
-  }
-  725.2.1 = {
-    add_spouse = 190426
-  }
-  732.11.1 = {
-    give_nickname = nick_the_hammer
-    create_bloodline = {
-      type = carolingian
-      has_dlc = "Holy Fury"
-    }
-  }
-  741.1.23 = {
-    death = "741.1.23"
-  }
-}
-131722 = {
-  name = "ピピン"  # Pepin
-  dynasty = 25061
-  martial = 7
-  diplomacy = 9
-  intrigue = 11
-  stewardship = 7
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190425
-  714.1.1 = {
-    birth = "714.1.1"
-  }
-  736.1.1 = {
-    add_spouse = 190429
-  }
-  768.9.24 = {
-    death = "768.9.24"
-  }
-}
-131723 = {
-  name = "Grimoald"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131720
-  mother = 190419
-  673.1.1 = {
-    birth = "673.1.1"
-  }
-  711.1.1 = {
-    add_spouse = 131724
-  }
-  714.1.1 = {
-    death = "714.1.1"
-  }
-}
-144986 = {
-  name = "Childebrand"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144987
-  760.1.1 = {
-    birth = "760.1.1"
-  }
-  796.1.1 = {
-    death = "796.1.1"
-  }
-}
-144987 = {
-  name = "ニーベルング"  # Nibelung
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144988
-  705.1.1 = {
-    birth = "705.1.1"
-  }
-  786.1.1 = {
-    death = "786.1.1"
-  }
-}
-144988 = {
-  name = "Childebrand"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131720
-  trait = "legit_bastard"
-  688.1.1 = {
-    birth = "688.1.1"
-  }
-  762.1.1 = {
-    death = "762.1.1"
-  }
-}
-144989 = {
-  name = "Grifo"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190426
-  726.1.1 = {
-    birth = "726.1.1"
-  }
-  752.1.1 = {
-    death = "752.1.1"
-  }
-}
-144999 = {
-  name = "カールマン"  # Karloman
-  dynasty = 25061
-  dna = bcalbhabgal
-  properties = aj0aca000000
-  religion = catholic
-  culture = old_frankish
-  father = 131722
-  mother = 190429
-  751.1.1 = {
-    birth = yes
-    effect = {
-      set_character_flag = is_carloman
-    }
-  }
-  767.5.5 = {
-    add_spouse = 194173
-  }
-  768.9.24 = {
-    add_claim = k_france
-  }
-  771.12.4 = {
-    death = yes
-  }
-}
-163063 = {
-  name = "Bernard"
-  dynasty = 100217
-  father = 168130
-  religion = catholic
-  culture = old_frankish
-  796.1.1 = {
-    birth = yes
-  }
-  824.1.1 = {
-    add_spouse = 168141
-  }
-  844.5.1 = {
-    death = yes
-  }
-}
-163092 = {
-  name = "Matfried"
-  dynasty = 667
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 31700
-  765.1.2 = {
-    birth = "765.1.2"
-  }
-  836.1.1 = {
-    death = "836.1.1 "
-  }
-}
-167879 = {
-  name = "Suppo"
-  dynasty = 9561
-  religion = "catholic"
-  culture = "old_frankish"
-  760.1.1 = {
-    birth = "760.1.1"
-  }
-  824.3.5 = {
-    death = "824.3.5"
-  }
-}
 168017 = {
   name = "Gauslin"
   dynasty = 9569
@@ -1525,78 +2434,51 @@
     death = yes
   }
 }
-168079 = {
-  name = "Beggo"
-  dynasty = 667
+7976 = {
+  name = "Boso"
+  dynasty = 7052
+  martial = 6
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 8
   religion = "catholic"
   culture = "old_frankish"
-  father = 31700
-  757.1.1 = {
-    birth = "757.1.1"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  770.1.1 = {
+    birth = "770.1.1"
   }
+  845.1.1 = {
+    give_nickname = nick_the_old
+  }
+  855.1.1 = {
+    death = "855.1.1"
+  }
+}
+7979 = {
+  name = "Bouvin"
+  dynasty = 9306
+  martial = 6
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "old_frankish"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  father = 91396
   810.1.1 = {
-    add_spouse = 168080
+    birth = "810.1.1"
   }
-  816.10.28 = {
-    death = "816.10.28"
+  849.1.1 = {
+    add_spouse = 7978
   }
-}
-168127 = {
-  name = "ティエリ"  # Thierry
-  dynasty = 100217
-  religion = "catholic"
-  culture = "old_frankish"
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  760.1.1 = {
-    add_spouse = 168128
-  }
-  804.1.1 = {
-    death = "804.1.1"
-  }
-}
-168128 = {
-  name = "Aldana"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190426
-  735.1.1 = {
-    birth = "735.1.1"
-  }
-  766.1.1 = {
-    death = yes
-  }
-}
-168129 = {
-  name = "Adalelme"
-  dynasty = 100217
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168127
-  mother = 168128
-  765.1.1 = {
-    birth = "765.1.1"
-  }
-  825.1.1 = {
-    death = "825.1.1"
-  }
-}
-168130 = {
-  name = "Guillaume"
-  dynasty = 100217
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168127
-  mother = 168128
-  766.1.1 = {
-    birth = "766.1.1"
-  }
-  815.5.21 = {
-    death = "815.5.21"
+  863.1.1 = {
+    death = "863.1.1"
   }
 }
 168161 = {
@@ -1644,58 +2526,6 @@
   }
   825.1.1 = {
     death = "825.1.1"
-  }
-}
-168184 = {
-  name = "ランバート"  # Lambert
-  dynasty = 7389
-  religion = "catholic"
-  culture = "old_frankish"
-  730.1.1 = {
-    birth = "730.1.1"
-  }
-  788.1.1 = {
-    death = "788.1.1"
-  }
-}
-168185 = {
-  name = "ギー"  # Guy
-  dynasty = 7389
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168184
-  755.1.1 = {
-    birth = "755.1.1"
-  }
-  814.1.1 = {
-    death = "814.1.1"
-  }
-}
-168624 = {
-  name = "Bernard"
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  trait = "bastard"
-  father = 131721
-  732.1.1 = {
-    birth = yes
-  }
-  787.1.1 = {
-    death = yes
-  }
-}
-168625 = {
-  name = "Waldger"
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  766.1.1 = {
-    birth = yes
-  }
-  816.1.1 = {
-    death = yes
   }
 }
 168670 = {
@@ -2639,1158 +3469,15 @@
     death = yes
   }
 }
-190388 = {
-  name = "Hruodis"
-  dynasty = 1044099
+194040 = {
+  name = "トーマス"  # Thomas
+  dynasty = 1044120
   religion = "catholic"
   culture = "old_frankish"
-  608.1.1 = {
-    birth = yes
-  }
-  651.1.1 = {
-    death = yes
-  }
-}
-190389 = {
-  name = "Hetan"
-  dynasty = 1044099
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190388
-  631.1.1 = {
-    birth = yes
-  }
-  677.1.1 = {
-    death = yes
-  }
-}
-190390 = {
-  name = "Gozbert"
-  dynasty = 1044099
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190389
-  652.1.1 = {
-    birth = yes
-  }
-  697.1.1 = {
-    death = yes
-  }
-}
-190391 = {
-  name = "Hetan"
-  dynasty = 1044099
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190390
-  680.1.1 = {
-    birth = yes
-  }
-  733.1.1 = {
-    death = yes
-  }
-}
-190392 = {
-  name = "Thuringus"
-  dynasty = 1044099
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190391
-  719.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-190393 = {
-  name = "Ado"
-  dynasty = 1044099
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190392
-  756.1.1 = {
-    birth = yes
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-190394 = {
-  name = "ロバート"  # Robert
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33328
-  766.1.1 = {
-    birth = yes
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-190395 = {
-  name = "Cancor"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190394
-  786.1.1 = {
-    birth = yes
-  }
-  813.1.1 = {
-    death = yes
-  }
-}
-190396 = {
-  name = "ロバート"  # Robert
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190394
-  789.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-190397 = {
-  name = "Heimerich"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33329
-  781.1.1 = {
-    birth = yes
-  }
-  836.1.1 = {
-    death = yes
-  }
-}
-190398 = {
-  name = "Ratolf"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190397
-  811.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-190399 = {
-  name = "Hraban"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190398
-  837.1.1 = {
-    birth = yes
-  }
-  872.1.1 = {
-    death = yes
-  }
-}
-190400 = {
-  name = "Emich"
-  dynasty = 1044100
-  religion = "catholic"
-  culture = "old_frankish"
-  741.1.1 = {
-    birth = yes
-  }
-  787.1.1 = {
-    death = yes
-  }
-}
-190401 = {
-  name = "Chrodbert"
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  572.1.1 = {
-    birth = yes
-  }
-  621.1.1 = {
-    death = yes
-  }
-}
-190402 = {
-  name = "ランバート"  # Lambert
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190401
-  598.1.1 = {
-    birth = yes
-  }
-  643.1.1 = {
-    death = yes
-  }
-}
-190403 = {
-  name = "Chrodbert"
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190402
-  620.1.1 = {
-    birth = yes
-  }
-  676.1.1 = {
-    death = yes
-  }
-}
-190404 = {
-  name = "ランバート"  # Lambert
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190403
-  668.1.1 = {
-    birth = yes
-  }
-  729.1.1 = {
-    death = yes
-  }
-}
-190405 = {
-  name = "Chrodgang"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33327
-  748.1.1 = {
-    birth = yes
-  }
-  775.1.1 = {
-    death = yes
-  }
-}
-190406 = {
-  name = "Ermbert"
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33327
-  751.1.1 = {
-    birth = yes
-  }
-  803.1.1 = {
-    death = yes
-  }
-}
-190407 = {
-  name = "Rachilt"
-  female = yes
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33327
-  750.1.1 = {
-    birth = yes
-  }
-  797.1.1 = {
-    death = yes
-  }
-}
-190408 = {
-  name = "Euphemia"
-  female = yes
-  dynasty = 7290
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 33327
-  756.1.1 = {
-    birth = yes
-  }
-  779.1.1 = {
-    death = yes
-  }
-}
-190409 = {
-  name = "Anselm"
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91000
-  mother = 91121
-  731.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-190410 = {
-  name = "ロバート"  # Robert
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91000
-  mother = 91121
-  735.1.1 = {
-    birth = yes
-  }
-  789.1.1 = {
-    death = yes
-  }
-}
-190411 = {
-  name = "グントラム"  # Guntram
-  dynasty = 743
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91005
-  810.1.1 = {
-    birth = yes
-  }
-  847.1.1 = {
-    death = yes
-  }
-}
-190412 = {
-  name = "Arnold"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  557.1.1 = {
-    birth = yes
-  }
-  602.1.1 = {
-    death = yes
-  }
-}
-190413 = {
-  name = "Arnulf"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190412
-  580.1.1 = {
-    birth = yes
-  }
-  640.7.18 = {
-    death = yes
-  }
-}
-190414 = {
-  name = "Chlodulf"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190413
-  610.1.1 = {
-    birth = yes
-  }
-  697.5.8 = {
-    death = yes
-  }
-}
-190415 = {
-  name = "Arnulf"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190414
-  638.1.1 = {
-    birth = yes
-  }
-  712.1.1 = {
-    death = yes
-  }
-}
-190416 = {
-  name = "Martin"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190414
-  647.1.1 = {
-    birth = yes
-  }
-  716.1.1 = {
-    death = yes
-  }
-}
-190417 = {
-  name = "Ansegisel"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190413
-  612.1.1 = {
-    birth = yes
-  }
-  635.1.1 = {
-    add_spouse = 91404
-  }
-  662.1.1 = {
-    death = yes
-  }
-}
-190418 = {
-  name = "Chrothechildis"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190417
-  mother = 91404
-  644.1.1 = {
-    birth = yes
-  }
-  692.1.1 = {
-    death = yes
-  }
-}
-190419 = {
-  name = "Plectrudis"
-  female = yes
-  dynasty = 1044101
-  religion = "catholic"
-  culture = "old_frankish"
-  636.1.1 = {
-    birth = yes
-  }
-  674.1.1 = {
-    death = yes
-  }
-}
-190420 = {
-  name = "Chalpais"
-  female = yes
-  dynasty = 1044102
-  religion = "catholic"
-  culture = "old_frankish"
-  656.1.1 = {
-    birth = yes
-  }
-  714.1.1 = {
-    death = yes
-  }
-}
-190421 = {
-  name = "Hugh"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131719
-  690.1.1 = {
-    birth = yes
-  }
-  730.1.1 = {
-    death = yes
-  }
-}
-190422 = {
-  name = "ピピン"  # Pepin
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131719
-  695.1.1 = {
-    birth = yes
-  }
-  726.1.1 = {
-    death = yes
-  }
-}
-190423 = {
-  name = "Godefroi"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131719
-  trait = "bastard"
-  696.1.1 = {
-    birth = yes
-  }
-  724.1.1 = {
-    death = yes
-  }
-}
-190424 = {
-  name = "Theodald"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131723
-  trait = "bastard"
-  707.1.1 = {
-    birth = yes
-  }
-  741.1.1 = {
-    death = yes
-  }
-}
-190425 = {
-  name = "Chrothrudis"
-  female = yes
-  dynasty = 1044103
-  religion = "catholic"
-  culture = "old_frankish"
-  690.1.1 = {
-    birth = yes
-  }
-  725.1.1 = {
-    death = yes
-  }
-}
-190427 = {
-  name = "カールマン"  # Karloman
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190425
-  706.1.1 = {
-    birth = yes
-  }
-  754.12.4 = {
-    death = yes
-  }
-}
-190428 = {
-  name = "Drogo"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190427
-  730.1.1 = {
-    birth = yes
-  }
-  754.1.1 = {
-    death = yes
-  }
-}
-190429 = {
-  name = "Bertrada"
-  female = yes
-  dynasty = 1044104
-  intrigue = 19
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 91468
-  trait = deceitful
-  720.1.1 = {
-    birth = yes
-  }
-  768.9.24 = {
-    employer = 6392
-    effect = {
-      set_character_flag = meddling_mother
-    }
-  }
-  783.6.12 = {
-    death = yes
-  }
-}
-190430 = {
-  name = "ピピン"  # Pipin
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131722
-  mother = 190429
-  759.1.1 = {
-    birth = yes
-  }
-  762.1.1 = {
-    death = yes
-  }
-}
-190431 = {
-  name = "Chrothais"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131722
-  mother = 190429
-  761.1.1 = {
-    birth = yes
-  }
-  763.1.1 = {
-    death = yes
-  }
-}
-190432 = {
-  name = "Adelais"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131722
-  mother = 190429
-  763.1.1 = {
-    birth = yes
-  }
-  764.1.1 = {
-    death = yes
-  }
-}
-190433 = {
-  name = "Chiltrudis"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190425
-  725.1.1 = {
-    birth = yes
-  }
-  754.1.1 = {
-    death = yes
-  }
-}
-190434 = {
-  name = "Grifo"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144989
-  745.1.1 = {
-    birth = yes
-  }
-  796.1.1 = {
-    death = yes
-  }
-}
-190435 = {
-  name = "カール"  # Karl
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144989
-  749.1.1 = {
-    birth = yes
-  }
-  802.1.1 = {
-    death = yes
-  }
-}
-190436 = {
-  name = "Landrada"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  mother = 190426
-  729.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-190437 = {
-  name = "Audoen"
-  dynasty = 25065
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168161
-  mother = 91390
   743.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-190438 = {
-  name = "リチャード"  # Richard
-  dynasty = 9306
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168163
-  803.1.1 = {
-    birth = yes
-  }
-  842.1.1 = {
-    death = yes
-  }
-}
-190439 = {
-  name = "Fuldrad"
-  dynasty = 25065
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168161
-  mother = 91390
-  743.1.1 = {
-    birth = yes
-  }
-  759.1.1 = {
-    trait = "martial_cleric"
-  }
-  826.1.31 = {
-    death = yes
-  }
-}
-190440 = {
-  name = "Richarde"
-  female = yes
-  dynasty = 25065
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168161
-  mother = 91390
-  743.1.1 = {
-    birth = yes
-  }
-  785.1.1 = {
-    death = yes
-  }
-}
-190441 = {
-  name = "Folquin"
-  dynasty = 25065
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168161
-  mother = 91390
-  744.1.1 = {
-    birth = yes
-  }
-  756.1.1 = {
-    trait = "martial_cleric"
-  }
-  855.12.15 = {
-    death = yes
-  }
-}
-190442 = {
-  name = "Adalhard"
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  752.1.1 = {
-    birth = yes
-  }
-  826.1.1 = {
-    death = yes
-  }
-}
-190443 = {
-  name = "Walo"
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  772.1.1 = {
-    birth = yes
-  }
-  836.8.31 = {
-    death = yes
-  }
-}
-190444 = {
-  name = "Bertrudis"
-  female = yes
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  786.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-190445 = {
-  name = "Gundrada"
-  female = yes
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  774.1.1 = {
-    birth = yes
-  }
-  830.1.1 = {
-    death = yes
-  }
-}
-190446 = {
-  name = "Bernhar"
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  776.1.1 = {
-    birth = yes
-  }
-  827.1.1 = {
-    death = yes
-  }
-}
-190447 = {
-  name = "Theodrada"
-  female = yes
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  780.1.1 = {
-    birth = yes
-  }
-  835.1.1 = {
-    death = yes
-  }
-}
-190448 = {
-  name = "Ida"
-  female = yes
-  dynasty = 25066
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 168624
-  785.1.1 = {
-    birth = yes
-  }
-  843.1.1 = {
-    death = yes
-  }
-}
-190449 = {
-  name = "Remigius"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131721
-  trait = "bastard"
-  740.1.1 = {
-    birth = yes
-  }
-  787.1.1 = {
-    death = yes
-  }
-}
-190450 = {
-  name = "Walacho"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190413
-  620.1.1 = {
-    birth = yes
-  }
-  689.1.1 = {
-    death = yes
-  }
-}
-190451 = {
-  name = "Wandregisel"
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190450
-  635.1.1 = {
-    birth = yes
-  }
-  665.1.1 = {
-    death = yes
-  }
-}
-190452 = {
-  name = "Waltrude"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190450
-  675.1.1 = {
-    birth = yes
-  }
-  735.1.1 = {
-    death = yes
-  }
-}
-190454 = {
-  name = "Gisela"
-  female = yes
-  dynasty = 25061
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 131722
-  mother = 190429
-  757.1.1 = {
-    birth = yes
-  }
-  810.7.30 = {
-    death = yes
-  }
-}
-190511 = {
-  name = "テオドリック"  # Theoderic
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144987
-  735.1.1 = {
     birth = yes
   }
   798.1.1 = {
-    death = yes
-  }
-}
-190512 = {
-  name = "Teudoin"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  751.1.1 = {
-    birth = yes
-  }
-  827.1.1 = {
-    death = yes
-  }
-}
-190513 = {
-  name = "テオドリック"  # Theoderic
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190512
-  778.1.1 = {
-    birth = yes
-  }
-  829.1.1 = {
-    death = yes
-  }
-}
-190514 = {
-  name = "Guillaume"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  753.1.1 = {
-    birth = yes
-  }
-  815.1.1 = {
-    death = yes
-  }
-}
-190515 = {
-  name = "Abba"
-  female = yes
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  752.1.1 = {
-    birth = yes
-  }
-  806.1.1 = {
-    death = yes
-  }
-}
-190516 = {
-  name = "テオドリック"  # Theoderic
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  759.1.1 = {
-    birth = yes
-  }
-  811.1.1 = {
-    death = yes
-  }
-}
-190517 = {
-  name = "Adalelm"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  762.1.1 = {
-    birth = yes
-  }
-  804.1.1 = {
-    death = yes
-  }
-}
-190518 = {
-  name = "Niebelung"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  765.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-190519 = {
-  name = "Bertrand"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190518
-  786.1.1 = {
-    birth = yes
-  }
-  810.1.1 = {
-    death = yes
-  }
-}
-190520 = {
-  name = "Berta"
-  female = yes
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190511
-  769.1.1 = {
-    birth = yes
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-190551 = {
-  name = "ニーベルング"  # Nibelung
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144987
-  750.1.1 = {
-    birth = yes
-  }
-  768.1.1 = {
-    add_spouse = 190515
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-190552 = {
-  name = "Niebelung"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190551
-  mother = 190515
-  768.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-190553 = {
-  name = "Theodbert"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 144987
-  751.1.1 = {
-    birth = yes
-  }
-  826.1.1 = {
-    death = yes
-  }
-}
-190554 = {
-  name = "ロバート"  # Robert
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190553
-  801.1.1 = {
-    birth = yes
-  }
-  853.1.1 = {
-    death = yes
-  }
-}
-190555 = {
-  name = "Ringradis"
-  female = yes
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190553
-  801.1.1 = {
-    birth = yes
-  }
-  853.1.1 = {
-    death = yes
-  }
-}
-190556 = {
-  name = "Bernard"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190514
-  795.1.1 = {
-    birth = yes
-  }
-  844.1.1 = {
-    death = yes
-  }
-}
-190557 = {
-  name = "Bernard"
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190556
-  841.3.22 = {
-    birth = yes
-  }
-  886.1.1 = {
-    death = yes
-  }
-}
-190558 = {
-  name = "テオドリック"  # Theoderic
-  dynasty = 1044116
-  religion = "catholic"
-  culture = "old_frankish"
-  father = 190514
-  798.1.1 = {
-    birth = yes
-  }
-  826.1.1 = {
-    death = yes
-  }
-}
-190559 = {
-  name = "Erenold"
-  dynasty = 1044117
-  religion = "catholic"
-  culture = "old_frankish"
-  748.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-190561 = {
-  name = "Geofrey"
-  dynasty = 1044119
-  religion = "catholic"
-  culture = "old_frankish"
-  747.1.1 = {
-    birth = yes
-  }
-  778.1.1 = {
     death = yes
   }
 }
@@ -3879,18 +3566,6 @@
     death = yes
   }
 }
-194040 = {
-  name = "トーマス"  # Thomas
-  dynasty = 1044120
-  religion = "catholic"
-  culture = "old_frankish"
-  743.1.1 = {
-    birth = yes
-  }
-  798.1.1 = {
-    death = yes
-  }
-}
 194168 = {
   name = "Himiltrude"
   female = yes
@@ -3917,6 +3592,50 @@
   }
   820.1.1 = {
     death = yes
+  }
+}
+90094 = {
+  name = "ピピン"  # Pepin
+  dynasty = 25061
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "old_frankish"
+  trait = "hunchback"
+  trait = "patient"
+  trait = "bastard"
+  father = 6392
+  mother = 194168
+  769.1.1 = {
+    birth = "769.1.1"
+    effect = {
+      set_character_flag = is_pepin_le_bossu
+    }
+  }
+  789.1.1 = {
+    give_nickname = nick_the_hunchback
+  }
+  811.1.2 = {
+    death = "811.1.2"
+  }
+}
+131717 = {
+  name = "Agnerald"
+  dynasty = 25060
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131718
+  723.1.2 = {
+    birth = "723.1.2"
+  }
+  790.1.2 = {
+    death = "790.1.2"
   }
 }
 194170 = {
@@ -3990,136 +3709,417 @@
     death = yes
   }
 }
-194450 = {
-  name = "ロバート"  # Robert
+131721 = {
+  name = "カール"  # Karl
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  martial = 10
+  diplomacy = 10
+  intrigue = 9
+  stewardship = 10
+  learning = 8
+  trait = "brilliant_strategist"
+  trait = "quick"
+  trait = "brave"
+  trait = "strong"
+  trait = "ambitious"
+  father = 131720
+  mother = 190420
+  686.8.23 = {
+    birth = "686.8.23"
+  }
+  707.1.1 = {
+    add_spouse = 190425
+  }
+  725.1.1 = {
+    remove_spouse = 190425
+  }
+  725.2.1 = {
+    add_spouse = 190426
+  }
+  732.11.1 = {
+    give_nickname = nick_the_hammer
+    create_bloodline = {
+      type = carolingian
+      has_dlc = "Holy Fury"
+    }
+  }
+  741.1.23 = {
+    death = "741.1.23"
+  }
+}
+131722 = {
+  name = "ピピン"  # Pepin
+  dynasty = 25061
+  martial = 7
+  diplomacy = 9
+  intrigue = 11
+  stewardship = 7
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190425
+  714.1.1 = {
+    birth = "714.1.1"
+  }
+  736.1.1 = {
+    add_spouse = 190429
+  }
+  768.9.24 = {
+    death = "768.9.24"
+  }
+}
+131718 = {
+  name = "Arnoul"
+  dynasty = 25060
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131719
+  688.1.2 = {
+    birth = "688.1.2"
+  }
+  740.1.2 = {
+    death = "740.1.2"
+  }
+}
+131719 = {
+  name = "Dreux"
+  dynasty = 25061
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131720
+  mother = 190419
+  670.1.1 = {
+    birth = "670.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+131723 = {
+  name = "Grimoald"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131720
+  mother = 190419
+  673.1.1 = {
+    birth = "673.1.1"
+  }
+  711.1.1 = {
+    add_spouse = 131724
+  }
+  714.1.1 = {
+    death = "714.1.1"
+  }
+}
+131716 = {
+  name = "Arnoul"
+  dynasty = 25060
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131717
+  770.1.2 = {
+    birth = "770.1.2"
+  }
+  860.1.2 = {
+    death = "860.1.2"
+  }
+}
+91001 = {
+  name = "Enguerrand"
   dynasty = 743
-  religion = catholic
-  culture = old_frankish
-  trait = lustful
-  trait = strong
+  religion = "catholic"
+  culture = "old_frankish"
   father = 91000
   mother = 91121
-  742.8.7 = {
-    birth = yes
+  745.1.1 = {
+    birth = "745.1.1"
   }
-  807.6.6 = {
+  790.1.1 = {
+    death = "790.1.1"
+  }
+}
+91003 = {
+  name = "Thurimbert"
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91000
+  mother = 91121
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  775.1.1 = {
+    death = "775.1.1"
+  }
+}
+91004 = {
+  name = "ロバート"  # Robert
+  dynasty = 743
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 91003
+  765.1.1 = {
+    birth = "765.1.1"
+  }
+  810.1.1 = {
+    death = "810.1.1"
+  }
+}
+91121 = {
+  name = "Williswinthe"
+  female = yes
+  dynasty = 9302
+  religion = "catholic"
+  culture = "old_frankish"
+  698.1.1 = {
+    birth = "698.1.1"
+  }
+  776.7.12 = {
+    death = "776.7.12"
+  }
+}
+31700 = {
+  name = "Gerhard"
+  dynasty = 667
+  religion = "catholic"
+  culture = "old_frankish"
+  730.1.2 = {
+    birth = "730.1.2"
+  }
+  779.1.2 = {
+    death = "779.1.2"
+  }
+}
+31701 = {
+  name = "Liuthard"
+  dynasty = 667
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 31700
+  760.1.2 = {
+    birth = "760.1.2"
+  }
+  810.1.2 = {
+    death = "810.1.2"
+  }
+}
+144986 = {
+  name = "Childebrand"
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144987
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  796.1.1 = {
+    death = "796.1.1"
+  }
+}
+144987 = {
+  name = "ニーベルング"  # Nibelung
+  dynasty = 1044116
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 144988
+  705.1.1 = {
+    birth = "705.1.1"
+  }
+  786.1.1 = {
+    death = "786.1.1"
+  }
+}
+144988 = {
+  name = "Childebrand"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131720
+  trait = "legit_bastard"
+  688.1.1 = {
+    birth = "688.1.1"
+  }
+  762.1.1 = {
+    death = "762.1.1"
+  }
+}
+144989 = {
+  name = "Grifo"
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190426
+  726.1.1 = {
+    birth = "726.1.1"
+  }
+  752.1.1 = {
+    death = "752.1.1"
+  }
+}
+163092 = {
+  name = "Matfried"
+  dynasty = 667
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 31700
+  765.1.2 = {
+    birth = "765.1.2"
+  }
+  836.1.1 = {
+    death = "836.1.1 "
+  }
+}
+167879 = {
+  name = "Suppo"
+  dynasty = 9561
+  religion = "catholic"
+  culture = "old_frankish"
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  824.3.5 = {
+    death = "824.3.5"
+  }
+}
+168079 = {
+  name = "Beggo"
+  dynasty = 667
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 31700
+  757.1.1 = {
+    birth = "757.1.1"
+  }
+  810.1.1 = {
+    add_spouse = 168080
+  }
+  816.10.28 = {
+    death = "816.10.28"
+  }
+}
+168127 = {
+  name = "ティエリ"  # Thierry
+  dynasty = 100217
+  religion = "catholic"
+  culture = "old_frankish"
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  760.1.1 = {
+    add_spouse = 168128
+  }
+  804.1.1 = {
+    death = "804.1.1"
+  }
+}
+168128 = {
+  name = "Aldana"
+  female = yes
+  dynasty = 25061
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 131721
+  mother = 190426
+  735.1.1 = {
+    birth = "735.1.1"
+  }
+  766.1.1 = {
     death = yes
   }
 }
-200141 = {
-  name = "Rampon"
-  religion = catholic
-  culture = old_frankish
-  774.1.1 = {
-    birth = yes
+168129 = {
+  name = "Adalelme"
+  dynasty = 100217
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168127
+  mother = 168128
+  765.1.1 = {
+    birth = "765.1.1"
   }
   825.1.1 = {
-    death = yes
+    death = "825.1.1"
   }
 }
-200142 = {
-  name = "Aldedramn"
-  dynasty = 9557
-  father = 200143
-  religion = catholic
-  culture = old_frankish
-  833.1.1 = {
-    birth = yes
-  }
-  851.1.1 = {
-    death = yes
-  }
-}
-200143 = {
-  name = "Guilhelm"
-  dynasty = 9557
-  father = 167829
-  religion = catholic
-  culture = old_frankish
-  817.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-200144 = {
-  name = "Isembard"
-  religion = catholic
-  culture = old_frankish
-  800.1.1 = {
-    birth = yes
-  }
-  852.1.1 = {
-    death = yes
-  }
-}
-200145 = {
-  name = "Odelric"
-  dynasty = 1046011
-  father = 200146
-  mother = 200147
-  religion = catholic
-  culture = old_frankish
-  828.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-200146 = {
-  name = "Odelric"
-  dynasty = 1046011
-  religion = catholic
-  culture = old_frankish
-  786.1.1 = {
-    birth = yes
-  }
-  827.1.1 = {
-    add_spouse = 200147
-  }
-  830.1.1 = {
-    death = yes
-  }
-}
-200147 = {
-  name = "Ingitrude"
-  female = yes
-  dynasty = 667
-  father = 168079
-  religion = catholic
-  culture = old_frankish
-  810.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-200148 = {
-  name = "Hunifred"
-  dynasty = 12110
-  father = 167790
-  religion = catholic
-  culture = old_frankish
-  831.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    death = yes
-  }
-}
-200152 = {
-  name = "Gaucelm"
+168130 = {
+  name = "Guillaume"
   dynasty = 100217
-  father = 168130
-  religion = catholic
-  culture = old_frankish
-  798.1.1 = {
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168127
+  mother = 168128
+  766.1.1 = {
+    birth = "766.1.1"
+  }
+  815.5.21 = {
+    death = "815.5.21"
+  }
+}
+168184 = {
+  name = "ランバート"  # Lambert
+  dynasty = 7389
+  religion = "catholic"
+  culture = "old_frankish"
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  788.1.1 = {
+    death = "788.1.1"
+  }
+}
+168185 = {
+  name = "ギー"  # Guy
+  dynasty = 7389
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168184
+  755.1.1 = {
+    birth = "755.1.1"
+  }
+  814.1.1 = {
+    death = "814.1.1"
+  }
+}
+168624 = {
+  name = "Bernard"
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  trait = "bastard"
+  father = 131721
+  732.1.1 = {
     birth = yes
   }
-  834.1.1 = {
+  787.1.1 = {
+    death = yes
+  }
+}
+168625 = {
+  name = "Waldger"
+  dynasty = 25066
+  religion = "catholic"
+  culture = "old_frankish"
+  father = 168624
+  766.1.1 = {
+    birth = yes
+  }
+  816.1.1 = {
     death = yes
   }
 }

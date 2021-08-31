@@ -526,6 +526,10 @@
   name = "フォン・ダッキントン"  # von Duckington
   culture = "duck_culture"
 }
+2000131 = {
+  name = "mcDucker"
+  culture = "duck_culture"
+}
 2000132 = {
   name = "ネオケン"  # Neochen
   culture = "duck_culture"
@@ -704,6 +708,14 @@
 }
 2000176 = {
   name = "レオンベルガー"  # Loenberger
+  culture = "dog_culture"
+}
+2000176 = {
+  name = "Maltese"
+  culture = "dog_culture"
+}
+2000176 = {
+  name = "Maltipoo"
   culture = "dog_culture"
 }
 2000177 = {
@@ -1222,6 +1234,10 @@
   name = "イェ ニグルバ ポンバ"  # Ye Niglva Ponva
   culture = "red_panda"
 }
+20003201 = {
+  name = "ワフ ドンカ"  # Wah Donka
+  culture = "red_panda"
+}
 2000322 = {
   name = "カアラ"  # Kaala
   culture = "red_panda"
@@ -1297,20 +1313,4 @@
 2000340 = {
   name = "フトッチョ"  # Megachonker
   culture = "cat"
-}
-20003201 = {
-  name = "ワフ ドンカ"  # Wah Donka
-  culture = "red_panda"
-}
-2000131 = {
-  name = "マクダッカー"  # mcDucker
-  culture = "duck_culture"
-}
-2000176 = {
-  name = "マルチーズ"  # Maltese
-  culture = "dog_culture"
-}
-2000176 = {
-  name = "マルチプー"  # Maltipoo
-  culture = "dog_culture"
 }

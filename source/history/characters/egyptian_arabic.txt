@@ -1,134 +1,27 @@
-﻿3090 = {
-  name = "アル＝アズィーズ"  # al-Aziz
-  dynasty = 589
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "shiite"
+﻿144092 = {
+  name = "アル＝ムイッズ・イスマーイール"  # Al-Mu'izz Ismail
+  dynasty = 24000
+  religion = "sunni"
   culture = "egyptian_arabic"
-  trait = "wroth"
-  trait = "humble"
-  trait = "tough_soldier"
-  trait = "sayyid"
-  father = 32903
-  955.1.1 = {
-    birth = "955.1.1"
+  father = 32916
+  1168.1.1 = {
+    birth = "1168.1.1"
   }
-  996.10.13 = {
-    death = "996.10.13"
+  1202.1.1 = {
+    death = "1202.1.1"
   }
 }
-3092 = {
-  name = "アル＝ハキム"  # al-Hakim
-  dynasty = 589
-  martial = 4
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
-  religion = "shiite"
+144093 = {
+  name = "アン＝ナースィル"  # An-Nasir
+  dynasty = 24000
+  religion = "sunni"
   culture = "egyptian_arabic"
-  trait = "chaste"
-  trait = "envious"
-  trait = "zealous"
-  trait = "lunatic"
-  trait = "skilled_tactician"
-  trait = "sayyid"
-  father = 3090
-  985.1.1 = {
-    birth = "985.1.1"
+  father = 32916
+  1169.1.1 = {
+    birth = "1169.1.1"
   }
-  1021.2.12 = {
-    death = "1021.2.12"
-  }
-}
-3094 = {
-  name = "アッ＝ザーヒル"  # az-Zahir
-  dynasty = 589
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 6
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  trait = "skilled_tactician"
-  trait = "sayyid"
-  father = 3092
-  1005.6.20 = {
-    birth = "1005.6.20"
-  }
-  1036.6.13 = {
-    death = "1036.6.13"
-  }
-}
-3096 = {
-  name = "アル＝ムスタンスィル"  # al-Mustansir
-  dynasty = 589
-  dna = alhdhmkiaag
-  properties = ak00bc000000
-  martial = 6
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 1
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  trait = "naive_appeaser"
-  trait = "sayyid"
-  trait = "slothful"
-  trait = "arbitrary"
-  trait = "trusting"
-  trait = "shy"
-  father = 3094
-  1029.7.5 = {
-    birth = "1029.7.5"
-  }
-  1060.1.1 = {
-    wealth = -500
-    decadence = 50
-  }
-  1094.1.10 = {
-    death = "1094.1.10"
-  }
-}
-3098 = {
-  name = "アル＝マージド"  # al-Majid
-  dynasty = 589
-  martial = 3
-  diplomacy = 1
-  intrigue = 6
-  stewardship = 6
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  trait = "proud"
-  trait = "flamboyant_schemer"
-  trait = "sayyid"
-  father = 3096
-  1047.1.1 = {
-    birth = "1047.1.1"
-  }
-  1097.1.1 = {
-    death = "1097.1.1"
-  }
-}
-3100 = {
-  name = "アル＝ムスタアリー"  # al-Mustali
-  dynasty = 589
-  martial = 6
-  diplomacy = 2
-  intrigue = 4
-  stewardship = 6
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  trait = "craven"
-  trait = "lisp"
-  trait = "flamboyant_schemer"
-  trait = "sayyid"
-  father = 3096
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1101.1.1 = {
-    death = "1101.1.1"
+  1203.1.1 = {
+    death = "1203.1.1"
   }
 }
 20739 = {
@@ -254,103 +147,276 @@
     death = "1089.1.1"
   }
 }
-32904 = {
-  name = "シット・アル＝ムルク"  # Sitt al-Mulk
-  female = yes
-  dynasty = 589
-  religion = "shiite"
+226016 = {
+  name = "イスマイール"  # Is'mail
+  dynasty = 100710
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 8
+  religion = "sunni"
   culture = "egyptian_arabic"
-  father = 3090
-  trait = "sayyid"
-  970.1.1 = {
-    birth = "970.1.1"
-  }
-  1023.1.1 = {
-    death = "1023.1.1"
-  }
-}
-32905 = {
-  name = "アル＝アーミル"  # al-Amir
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 3100
-  trait = "sayyid"
-  1096.1.1 = {
-    birth = "1096.1.1"
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
-32906 = {
-  name = "アル＝カースィム"  # al-Qasim
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 32905
-  trait = "sayyid"
-  1126.1.1 = {
-    birth = "1126.1.1"
-  }
-  1176.1.1 = {
-    death = "1176.1.1"
-  }
-}
-32907 = {
-  name = "アル＝ハーフィズ"  # al-Hafiz
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 3098
-  trait = "sayyid"
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1149.1.1 = {
-    death = "1149.1.1"
-  }
-}
-32908 = {
-  name = "アル＝ザーフィル"  # al-Zafir
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 32907
-  trait = "sayyid"
-  1120.1.1 = {
-    birth = "1120.1.1"
-  }
-  1154.1.1 = {
-    death = "1154.1.1"
-  }
-}
-32909 = {
-  name = "アル＝ファーイズ"  # al-Faiz
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 32908
-  trait = "sayyid"
-  1149.1.1 = {
-    birth = "1149.1.1"
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-32910 = {
-  name = "アル＝アーディド"  # al-Adid
-  dynasty = 589
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  father = 32908
-  trait = "sayyid"
+  trait = "humble"
+  trait = "cynical"
+  trait = "lisp"
+  trait = "scholarly_theologian"
   1150.1.1 = {
     birth = "1150.1.1"
   }
-  1171.1.1 = {
-    death = "1171.1.1"
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226030 = {
+  name = "ウバイド"  # Ubayd
+  dynasty = 100787
+  martial = 8
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "cynical"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226031 = {
+  name = "アシュラフ"  # Ashraf
+  dynasty = 100785
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "fortune_builder"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226032 = {
+  name = "アブドゥル＝ラフマーン"  # Abdul-Rahman
+  dynasty = 100788
+  martial = 4
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 4
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "diligent"
+  trait = "charitable"
+  trait = "charismatic_negotiator"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226040 = {
+  name = "クタイバ"  # Qutaiba
+  dynasty = 100803
+  martial = 7
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 4
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "deceitful"
+  trait = "cynical"
+  trait = "brave"
+  trait = "charismatic_negotiator"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226041 = {
+  name = "イルヤス"  # Ilyas
+  dynasty = 100804
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+3090 = {
+  name = "アル＝アズィーズ"  # al-Aziz
+  dynasty = 589
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "wroth"
+  trait = "humble"
+  trait = "tough_soldier"
+  trait = "sayyid"
+  father = 32903
+  955.1.1 = {
+    birth = "955.1.1"
+  }
+  996.10.13 = {
+    death = "996.10.13"
+  }
+}
+3092 = {
+  name = "アル＝ハキム"  # al-Hakim
+  dynasty = 589
+  martial = 4
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "chaste"
+  trait = "envious"
+  trait = "zealous"
+  trait = "lunatic"
+  trait = "skilled_tactician"
+  trait = "sayyid"
+  father = 3090
+  985.1.1 = {
+    birth = "985.1.1"
+  }
+  1021.2.12 = {
+    death = "1021.2.12"
+  }
+}
+3094 = {
+  name = "アッ＝ザーヒル"  # az-Zahir
+  dynasty = 589
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "skilled_tactician"
+  trait = "sayyid"
+  father = 3092
+  1005.6.20 = {
+    birth = "1005.6.20"
+  }
+  1036.6.13 = {
+    death = "1036.6.13"
+  }
+}
+3098 = {
+  name = "アル＝マージド"  # al-Majid
+  dynasty = 589
+  martial = 3
+  diplomacy = 1
+  intrigue = 6
+  stewardship = 6
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "proud"
+  trait = "flamboyant_schemer"
+  trait = "sayyid"
+  father = 3096
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1097.1.1 = {
+    death = "1097.1.1"
+  }
+}
+3100 = {
+  name = "アル＝ムスタアリー"  # al-Mustali
+  dynasty = 589
+  martial = 6
+  diplomacy = 2
+  intrigue = 4
+  stewardship = 6
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "craven"
+  trait = "lisp"
+  trait = "flamboyant_schemer"
+  trait = "sayyid"
+  father = 3096
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1101.1.1 = {
+    death = "1101.1.1"
+  }
+}
+41706 = {
+  name = "アブー・マンスール・アル＝ニザール"  # Abu Mansur al-Nizar
+  dynasty = 589
+  martial = 4
+  diplomacy = 5
+  intrigue = 3
+  stewardship = 4
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "zealous"
+  trait = "wroth"
+  trait = "martial_cleric"
+  trait = "sayyid"
+  father = 3096
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1097.1.1 = {
+    death = "1097.1.1"
+  }
+}
+485020 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 100788
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "cynical"
+  trait = "underhanded_rogue"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+485120 = {
+  name = "ナジマッディン"  # Nadjmaddin
+  dynasty = 100714
+  martial = 7
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "slothful"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
   }
 }
 32914 = {
@@ -539,6 +605,173 @@
     death = yes
   }
 }
+32904 = {
+  name = "シット・アル＝ムルク"  # Sitt al-Mulk
+  female = yes
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 3090
+  trait = "sayyid"
+  970.1.1 = {
+    birth = "970.1.1"
+  }
+  1023.1.1 = {
+    death = "1023.1.1"
+  }
+}
+32905 = {
+  name = "アル＝アーミル"  # al-Amir
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 3100
+  trait = "sayyid"
+  1096.1.1 = {
+    birth = "1096.1.1"
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+32906 = {
+  name = "アル＝カースィム"  # al-Qasim
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 32905
+  trait = "sayyid"
+  1126.1.1 = {
+    birth = "1126.1.1"
+  }
+  1176.1.1 = {
+    death = "1176.1.1"
+  }
+}
+32907 = {
+  name = "アル＝ハーフィズ"  # al-Hafiz
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 3098
+  trait = "sayyid"
+  1090.1.1 = {
+    birth = "1090.1.1"
+  }
+  1149.1.1 = {
+    death = "1149.1.1"
+  }
+}
+32908 = {
+  name = "アル＝ザーフィル"  # al-Zafir
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 32907
+  trait = "sayyid"
+  1120.1.1 = {
+    birth = "1120.1.1"
+  }
+  1154.1.1 = {
+    death = "1154.1.1"
+  }
+}
+32909 = {
+  name = "アル＝ファーイズ"  # al-Faiz
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 32908
+  trait = "sayyid"
+  1149.1.1 = {
+    birth = "1149.1.1"
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+32910 = {
+  name = "アル＝アーディド"  # al-Adid
+  dynasty = 589
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  father = 32908
+  trait = "sayyid"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1171.1.1 = {
+    death = "1171.1.1"
+  }
+}
+485002 = {
+  name = "アル＝マンスール・アブー・バクル"  # al-Mansur Abu Bakr
+  dynasty = 762
+  martial = 6
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "slothful"
+  trait = "arbitrary"
+  trait = "martial_cleric"
+  father = 485000
+  1321.1.1 = {
+    birth = "1321.1.1"
+  }
+  1341.1.1 = {
+    death = "1341.1.1"
+  }
+}
+485000 = {
+  name = "アル＝ナースィル・ムハンマド"  # al-Nasir Muhammad
+  dynasty = 762
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 32936
+  1285.1.1 = {
+    birth = "1285.1.1"
+  }
+  1343.1.1 = {
+    death = "1343.1.1"
+  }
+}
+3096 = {
+  name = "アル＝ムスタンスィル"  # al-Mustansir
+  dynasty = 589
+  dna = alhdhmkiaag
+  properties = ak00bc000000
+  martial = 6
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 1
+  religion = "shiite"
+  culture = "egyptian_arabic"
+  trait = "naive_appeaser"
+  trait = "sayyid"
+  trait = "slothful"
+  trait = "arbitrary"
+  trait = "trusting"
+  trait = "shy"
+  father = 3094
+  1029.7.5 = {
+    birth = "1029.7.5"
+  }
+  1060.1.1 = {
+    wealth = -500
+    decadence = 50
+  }
+  1094.1.10 = {
+    death = "1094.1.10"
+  }
+}
 32933 = {
   name = "バイバルス"  # Baibars
   dynasty = 7267
@@ -572,6 +805,32 @@
   }
   1279.1.1 = {
     death = "1279.1.1"
+  }
+}
+32949 = {
+  name = "サラーミシュ"  # Solamish
+  dynasty = 7267
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  father = 32933
+  1272.1.1 = {
+    birth = "1272.1.1"
+  }
+  1290.1.1 = {
+    death = "1290.1.1"
+  }
+}
+32950 = {
+  name = "カディール"  # Khadir
+  dynasty = 7267
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  father = 32933
+  1273.1.1 = {
+    birth = "1273.1.1"
+  }
+  1286.1.1 = {
+    death = "1286.1.1"
   }
 }
 32936 = {
@@ -638,30 +897,26 @@
     death = "1310.1.1"
   }
 }
-32949 = {
-  name = "サラーミシュ"  # Solamish
-  dynasty = 7267
-  religion = "sunni"
+34998 = {
+  name = "サイード"  # Sa'id
+  religion = "shiite"
   culture = "egyptian_arabic"
-  father = 32933
-  1272.1.1 = {
-    birth = "1272.1.1"
+  1090.1.1 = {
+    birth = "1090.1.1"
   }
-  1290.1.1 = {
-    death = "1290.1.1"
+  1153.1.1 = {
+    death = "1153.1.1"
   }
 }
-32950 = {
-  name = "カディール"  # Khadir
-  dynasty = 7267
-  religion = "sunni"
+34999 = {
+  name = "ムーサー"  # Musa
+  religion = "shiite"
   culture = "egyptian_arabic"
-  father = 32933
-  1273.1.1 = {
-    birth = "1273.1.1"
+  1105.1.1 = {
+    birth = "1105.1.1"
   }
-  1286.1.1 = {
-    death = "1286.1.1"
+  1153.1.1 = {
+    death = "1153.1.1"
   }
 }
 34979 = {
@@ -804,75 +1059,6 @@
     death = "1380.1.1"
   }
 }
-34998 = {
-  name = "サイード"  # Sa'id
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1153.1.1 = {
-    death = "1153.1.1"
-  }
-}
-34999 = {
-  name = "ムーサー"  # Musa
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1153.1.1 = {
-    death = "1153.1.1"
-  }
-}
-41706 = {
-  name = "アブー・マンスール・アル＝ニザール"  # Abu Mansur al-Nizar
-  dynasty = 589
-  martial = 4
-  diplomacy = 5
-  intrigue = 3
-  stewardship = 4
-  religion = "shiite"
-  culture = "egyptian_arabic"
-  trait = "zealous"
-  trait = "wroth"
-  trait = "martial_cleric"
-  trait = "sayyid"
-  father = 3096
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1097.1.1 = {
-    death = "1097.1.1"
-  }
-}
-144092 = {
-  name = "アル＝ムイッズ・イスマーイール"  # Al-Mu'izz Ismail
-  dynasty = 24000
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  father = 32916
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1202.1.1 = {
-    death = "1202.1.1"
-  }
-}
-144093 = {
-  name = "アン＝ナースィル"  # An-Nasir
-  dynasty = 24000
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  father = 32916
-  1169.1.1 = {
-    birth = "1169.1.1"
-  }
-  1203.1.1 = {
-    death = "1203.1.1"
-  }
-}
 163115 = {
   name = "アフマド"  # Ahmad
   dynasty = 820
@@ -909,6 +1095,138 @@
   }
   905.1.10 = {
     death = "905.1.10"
+  }
+}
+485003 = {
+  name = "アル＝アシュラフ・クジュク"  # al-Ashraf Kujuk
+  dynasty = 762
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 4
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "honest"
+  trait = "flamboyant_schemer"
+  father = 485000
+  1334.1.1 = {
+    birth = "1334.1.1"
+  }
+  1345.1.1 = {
+    death = "1345.1.1"
+  }
+}
+485004 = {
+  name = "アル＝カーミル・シャーバーン"  # al-Kamil Shaban
+  dynasty = 762
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "harelip"
+  trait = "flamboyant_schemer"
+  father = 485000
+  1326.1.1 = {
+    birth = "1326.1.1"
+  }
+  1346.1.1 = {
+    death = "1346.1.1"
+  }
+}
+485005 = {
+  name = "アル＝サーリフ・イスマーイール"  # al-Salih Ismail
+  dynasty = 762
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "flamboyant_schemer"
+  father = 485000
+  1325.1.1 = {
+    birth = "1325.1.1"
+  }
+  1345.1.1 = {
+    death = "1345.1.1"
+  }
+}
+485006 = {
+  name = "アル＝カーミル・シャーバーン"  # al-Kamil Sha'ban
+  dynasty = 762
+  martial = 4
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 5
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "slothful"
+  trait = "tough_soldier"
+  father = 485000
+  1327.1.1 = {
+    birth = "1327.1.1"
+  }
+  1346.1.1 = {
+    death = "1346.1.1"
+  }
+}
+485007 = {
+  name = "アル＝ムザッファル・ハーッジー"  # al-Muzzafar Haji
+  dynasty = 762
+  martial = 8
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "charitable"
+  trait = "honest"
+  trait = "amateurish_plotter"
+  father = 485000
+  1328.1.1 = {
+    birth = "1328.1.1"
+  }
+  1347.1.1 = {
+    death = "1347.1.1"
+  }
+}
+485008 = {
+  name = "アル＝ナースィル・ハサン"  # al-Nasir Hassan
+  dynasty = 762
+  martial = 5
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "flamboyant_schemer"
+  father = 485000
+  1329.1.1 = {
+    birth = "1329.1.1"
+  }
+  1351.1.1 = {
+    death = "1351.1.1"
+  }
+}
+485009 = {
+  name = "アル＝サーリフ・サーリフ"  # al-Salik Salih
+  dynasty = 762
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "sunni"
+  culture = "egyptian_arabic"
+  trait = "gluttonous"
+  trait = "underhanded_rogue"
+  father = 485000
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1360.1.1 = {
+    death = "1360.1.1"
   }
 }
 210021 = {
@@ -995,117 +1313,6 @@
   }
   795.1.1 = {
     death = "795.1.1"
-  }
-}
-226016 = {
-  name = "イスマイール"  # Is'mail
-  dynasty = 100710
-  martial = 6
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 8
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "humble"
-  trait = "cynical"
-  trait = "lisp"
-  trait = "scholarly_theologian"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226030 = {
-  name = "ウバイド"  # Ubayd
-  dynasty = 100787
-  martial = 8
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "cynical"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226031 = {
-  name = "アシュラフ"  # Ashraf
-  dynasty = 100785
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "fortune_builder"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226032 = {
-  name = "アブドゥル＝ラフマーン"  # Abdul-Rahman
-  dynasty = 100788
-  martial = 4
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 4
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "diligent"
-  trait = "charitable"
-  trait = "charismatic_negotiator"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226040 = {
-  name = "クタイバ"  # Qutaiba
-  dynasty = 100803
-  martial = 7
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 4
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "deceitful"
-  trait = "cynical"
-  trait = "brave"
-  trait = "charismatic_negotiator"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226041 = {
-  name = "イルヤス"  # Ilyas
-  dynasty = 100804
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
   }
 }
 260820 = {
@@ -1535,212 +1742,5 @@
   }
   947.1.1 = {
     death = yes
-  }
-}
-485000 = {
-  name = "アル＝ナースィル・ムハンマド"  # al-Nasir Muhammad
-  dynasty = 762
-  martial = 4
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "honest"
-  trait = "tough_soldier"
-  father = 32936
-  1285.1.1 = {
-    birth = "1285.1.1"
-  }
-  1343.1.1 = {
-    death = "1343.1.1"
-  }
-}
-485002 = {
-  name = "アル＝マンスール・アブー・バクル"  # al-Mansur Abu Bakr
-  dynasty = 762
-  martial = 6
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "slothful"
-  trait = "arbitrary"
-  trait = "martial_cleric"
-  father = 485000
-  1321.1.1 = {
-    birth = "1321.1.1"
-  }
-  1341.1.1 = {
-    death = "1341.1.1"
-  }
-}
-485003 = {
-  name = "アル＝アシュラフ・クジュク"  # al-Ashraf Kujuk
-  dynasty = 762
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 4
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "honest"
-  trait = "flamboyant_schemer"
-  father = 485000
-  1334.1.1 = {
-    birth = "1334.1.1"
-  }
-  1345.1.1 = {
-    death = "1345.1.1"
-  }
-}
-485004 = {
-  name = "アル＝カーミル・シャーバーン"  # al-Kamil Shaban
-  dynasty = 762
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "harelip"
-  trait = "flamboyant_schemer"
-  father = 485000
-  1326.1.1 = {
-    birth = "1326.1.1"
-  }
-  1346.1.1 = {
-    death = "1346.1.1"
-  }
-}
-485005 = {
-  name = "アル＝サーリフ・イスマーイール"  # al-Salih Ismail
-  dynasty = 762
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "flamboyant_schemer"
-  father = 485000
-  1325.1.1 = {
-    birth = "1325.1.1"
-  }
-  1345.1.1 = {
-    death = "1345.1.1"
-  }
-}
-485006 = {
-  name = "アル＝カーミル・シャーバーン"  # al-Kamil Sha'ban
-  dynasty = 762
-  martial = 4
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 5
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "slothful"
-  trait = "tough_soldier"
-  father = 485000
-  1327.1.1 = {
-    birth = "1327.1.1"
-  }
-  1346.1.1 = {
-    death = "1346.1.1"
-  }
-}
-485007 = {
-  name = "アル＝ムザッファル・ハーッジー"  # al-Muzzafar Haji
-  dynasty = 762
-  martial = 8
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "charitable"
-  trait = "honest"
-  trait = "amateurish_plotter"
-  father = 485000
-  1328.1.1 = {
-    birth = "1328.1.1"
-  }
-  1347.1.1 = {
-    death = "1347.1.1"
-  }
-}
-485008 = {
-  name = "アル＝ナースィル・ハサン"  # al-Nasir Hassan
-  dynasty = 762
-  martial = 5
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 7
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "flamboyant_schemer"
-  father = 485000
-  1329.1.1 = {
-    birth = "1329.1.1"
-  }
-  1351.1.1 = {
-    death = "1351.1.1"
-  }
-}
-485009 = {
-  name = "アル＝サーリフ・サーリフ"  # al-Salik Salih
-  dynasty = 762
-  martial = 4
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "gluttonous"
-  trait = "underhanded_rogue"
-  father = 485000
-  1330.1.1 = {
-    birth = "1330.1.1"
-  }
-  1360.1.1 = {
-    death = "1360.1.1"
-  }
-}
-485020 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 100788
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "cynical"
-  trait = "underhanded_rogue"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-485120 = {
-  name = "ナジマッディン"  # Nadjmaddin
-  dynasty = 100714
-  martial = 7
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "sunni"
-  culture = "egyptian_arabic"
-  trait = "slothful"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
   }
 }

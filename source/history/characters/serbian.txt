@@ -1,60 +1,4 @@
-﻿4491 = {
-  name = "ネダ"  # Neda
-  female = yes
-  dynasty = 15004
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 6
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "amateurish_plotter"
-  father = 40530
-  mother = 40531
-  1013.1.1 = {
-    birth = "1013.1.1"
-  }
-  1045.1.1 = {
-    death = "1045.1.1"
-  }
-}
-4492 = {
-  name = "ザヴィダ"  # Zavida
-  female = yes
-  dynasty = 18002
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "intricate_webweaver"
-  1038.1.1 = {
-    birth = "1038.1.1"
-  }
-  1085.1.1 = {
-    death = "1085.1.1"
-  }
-}
-4493 = {
-  name = "ケラ"  # Kera
-  female = yes
-  dynasty = 18004
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "amateurish_plotter"
-  1032.1.1 = {
-    birth = "1032.1.1"
-  }
-  1080.1.1 = {
-    death = "1080.1.1"
-  }
-}
-20474 = {
+﻿20474 = {
   name = "ヴラディミル"  # Vladimir
   dynasty = 101682
   martial = 4
@@ -374,6 +318,359 @@
   }
   1105.1.1 = {
     death = "1105.1.1"
+  }
+}
+217009 = {
+  name = "イヴァン"  # Ivan
+  dynasty = 100501
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "cynical"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+40530 = {
+  name = "ヨヴァン・ヴラディミール"  # Jovan Vladimir
+  dynasty = 15004
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "orthodox"
+  culture = "serbian"
+  father = 20496
+  978.1.1 = {
+    birth = "978.1.1"
+  }
+  1010.1.1 = {
+    add_spouse = 40531
+  }
+  1016.5.22 = {
+    death = "1016.5.22"
+  }
+}
+4491 = {
+  name = "ネダ"  # Neda
+  female = yes
+  dynasty = 15004
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "amateurish_plotter"
+  father = 40530
+  mother = 40531
+  1013.1.1 = {
+    birth = "1013.1.1"
+  }
+  1045.1.1 = {
+    death = "1045.1.1"
+  }
+}
+4492 = {
+  name = "ザヴィダ"  # Zavida
+  female = yes
+  dynasty = 18002
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "intricate_webweaver"
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1085.1.1 = {
+    death = "1085.1.1"
+  }
+}
+4493 = {
+  name = "ケラ"  # Kera
+  female = yes
+  dynasty = 18004
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "amateurish_plotter"
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1080.1.1 = {
+    death = "1080.1.1"
+  }
+}
+70350 = {
+  name = "ヴラディミル"  # Vladimir
+  dynasty = 101682
+  martial = 7
+  diplomacy = 6
+  intrigue = 3
+  stewardship = 4
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "charitable"
+  trait = "kind"
+  trait = "misguided_warrior"
+  father = 20474
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1103.1.1 = {
+    add_spouse = 34129
+  }
+  1114.1.1 = {
+    death = "1114.1.1"
+  }
+}
+70351 = {
+  name = "プリアスラヴ"  # Priaslav
+  dynasty = 101682
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "slothful"
+  trait = "drunkard"
+  trait = "amateurish_plotter"
+  father = 20491
+  mother = 4491
+  1031.1.1 = {
+    birth = "1031.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+70352 = {
+  name = "セルゲイ"  # Sergei
+  dynasty = 101682
+  martial = 8
+  diplomacy = 3
+  intrigue = 3
+  stewardship = 3
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "slow"
+  trait = "gardener"
+  trait = "tough_soldier"
+  father = 20491
+  mother = 4491
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+70353 = {
+  name = "デリア"  # Deria
+  dynasty = 101682
+  martial = 3
+  diplomacy = 4
+  intrigue = 3
+  stewardship = 4
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "scholar"
+  trait = "homosexual"
+  trait = "naive_appeaser"
+  father = 20491
+  mother = 4491
+  1033.1.1 = {
+    birth = "1033.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+70354 = {
+  name = "ガヴリル"  # Gavril
+  dynasty = 101682
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "genius"
+  trait = "hunter"
+  trait = "charismatic_negotiator"
+  father = 20491
+  mother = 4491
+  1034.1.1 = {
+    birth = "1034.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+70355 = {
+  name = "ミロスラヴ"  # Miroslav
+  dynasty = 101682
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 3
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "craven"
+  trait = "content"
+  trait = "misguided_warrior"
+  father = 20491
+  mother = 4491
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+70356 = {
+  name = "ドブロスラヴ"  # Dobroslav
+  dynasty = 101682
+  martial = 7
+  diplomacy = 3
+  intrigue = 5
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "gregarious"
+  trait = "chaste"
+  trait = "thrifty_clerk"
+  father = 20491
+  mother = 4495
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1114.1.1 = {
+    death = "1114.1.1"
+  }
+}
+70359 = {
+  name = "グラディスラヴ"  # Gradislav
+  dynasty = 101682
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 5
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "honest"
+  trait = "patient"
+  trait = "tough_soldier"
+  father = 20492
+  mother = 4493
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1101.1.1 = {
+    death = "1101.1.1"
+  }
+}
+70360 = {
+  name = "コチャパル"  # Kocapar
+  dynasty = 101682
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "hunter"
+  trait = "just"
+  trait = "thrifty_clerk"
+  father = 20492
+  mother = 4493
+  1057.1.1 = {
+    birth = "1057.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+70361 = {
+  name = "サガネツ"  # Saganec
+  dynasty = 101682
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 4
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "temperate"
+  trait = "brave"
+  trait = "misguided_warrior"
+  father = 20490
+  mother = 4490
+  1018.1.1 = {
+    birth = "1018.1.1"
+  }
+  1066.1.1 = {
+    employer = 20491
+  }
+  1070.1.1 = {
+    death = "1070.1.1"
+  }
+}
+70362 = {
+  name = "ドブロスラヴ"  # Dobroslav
+  dynasty = 15004
+  martial = 3
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "gregarious"
+  trait = "mystic"
+  trait = "detached_priest"
+  father = 20494
+  1018.1.1 = {
+    birth = "1018.1.1"
+  }
+  1066.1.1 = {
+    employer = 20491
+  }
+  1073.1.1 = {
+    death = "1073.1.1"
+  }
+}
+468511 = {
+  name = "アンナ"  # Anna
+  female = yes
+  dynasty = 184
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "zealous"
+  trait = "fortune_builder"
+  father = 468505
+  mother = 467531
+  1281.1.2 = {
+    birth = "1281.1.2"
+  }
+  1329.1.2 = {
+    death = "1329.1.2"
   }
 }
 34070 = {
@@ -1311,346 +1608,364 @@
     death = "1350.1.1"
   }
 }
-40530 = {
-  name = "ヨヴァン・ヴラディミール"  # Jovan Vladimir
-  dynasty = 15004
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 4
-  religion = "orthodox"
-  culture = "serbian"
-  father = 20496
-  978.1.1 = {
-    birth = "978.1.1"
-  }
-  1010.1.1 = {
-    add_spouse = 40531
-  }
-  1016.5.22 = {
-    death = "1016.5.22"
-  }
-}
-70350 = {
-  name = "ヴラディミル"  # Vladimir
-  dynasty = 101682
-  martial = 7
-  diplomacy = 6
-  intrigue = 3
-  stewardship = 4
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "charitable"
-  trait = "kind"
-  trait = "misguided_warrior"
-  father = 20474
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1103.1.1 = {
-    add_spouse = 34129
-  }
-  1114.1.1 = {
-    death = "1114.1.1"
-  }
-}
-70351 = {
-  name = "プリアスラヴ"  # Priaslav
-  dynasty = 101682
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "slothful"
-  trait = "drunkard"
-  trait = "amateurish_plotter"
-  father = 20491
-  mother = 4491
-  1031.1.1 = {
-    birth = "1031.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-70352 = {
-  name = "セルゲイ"  # Sergei
-  dynasty = 101682
-  martial = 8
-  diplomacy = 3
-  intrigue = 3
-  stewardship = 3
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "slow"
-  trait = "gardener"
-  trait = "tough_soldier"
-  father = 20491
-  mother = 4491
-  1032.1.1 = {
-    birth = "1032.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-70353 = {
-  name = "デリア"  # Deria
-  dynasty = 101682
-  martial = 3
-  diplomacy = 4
-  intrigue = 3
-  stewardship = 4
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "scholar"
-  trait = "homosexual"
-  trait = "naive_appeaser"
-  father = 20491
-  mother = 4491
-  1033.1.1 = {
-    birth = "1033.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-70354 = {
-  name = "ガヴリル"  # Gavril
-  dynasty = 101682
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
+218510 = {
+  name = "ウロシュ"  # Uros
+  dynasty = 18000
+  martial = 4
+  diplomacy = 8
+  intrigue = 5
   stewardship = 7
   religion = "orthodox"
   culture = "serbian"
-  trait = "genius"
-  trait = "hunter"
-  trait = "charismatic_negotiator"
-  father = 20491
-  mother = 4491
-  1034.1.1 = {
-    birth = "1034.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-70355 = {
-  name = "ミロスラヴ"  # Miroslav
-  dynasty = 101682
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 3
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "craven"
-  trait = "content"
-  trait = "misguided_warrior"
-  father = 20491
-  mother = 4491
-  1035.1.1 = {
-    birth = "1035.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-70356 = {
-  name = "ドブロスラヴ"  # Dobroslav
-  dynasty = 101682
-  martial = 7
-  diplomacy = 3
-  intrigue = 5
-  stewardship = 6
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "gregarious"
-  trait = "chaste"
-  trait = "thrifty_clerk"
-  father = 20491
-  mother = 4495
-  1047.1.1 = {
-    birth = "1047.1.1"
-  }
-  1114.1.1 = {
-    death = "1114.1.1"
-  }
-}
-70359 = {
-  name = "グラディスラヴ"  # Gradislav
-  dynasty = 101682
-  martial = 5
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "serbian"
+  trait = "just"
+  trait = "kind"
   trait = "honest"
-  trait = "patient"
   trait = "tough_soldier"
-  father = 20492
-  mother = 4493
-  1056.1.1 = {
-    birth = "1056.1.1"
+  father = 20538
+  1087.1.1 = {
+    birth = "1087.1.1"
   }
-  1101.1.1 = {
-    death = "1101.1.1"
+  1107.1.1 = {
+    add_spouse = 215523
+  }
+  1145.1.1 = {
+    death = "1145.1.1"
   }
 }
-70360 = {
-  name = "コチャパル"  # Kocapar
-  dynasty = 101682
-  martial = 6
+218511 = {
+  name = "イェレナ"  # Jelena
+  female = yes
+  dynasty = 18000
+  martial = 8
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "serbian"
+  trait = "deceitful"
+  trait = "stutter"
+  trait = "martial_cleric"
+  father = 218510
+  mother = 215523
+  1109.1.1 = {
+    birth = "1109.1.1"
+  }
+  1146.1.1 = {
+    death = "1146.1.1"
+  }
+}
+218512 = {
+  name = "マリヤ"  # Marija
+  female = yes
+  dynasty = 18000
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "serbian"
+  trait = "wroth"
+  trait = "temperate"
+  trait = "charismatic_negotiator"
+  father = 218510
+  mother = 215523
+  1116.1.1 = {
+    birth = "1116.1.1"
+  }
+  1166.1.1 = {
+    death = "1166.1.1"
+  }
+}
+218505 = {
+  name = "ザヴィダ"  # Zavida
+  dynasty = 18000
+  martial = 4
   diplomacy = 5
   intrigue = 8
   stewardship = 6
   religion = "orthodox"
   culture = "serbian"
-  trait = "hunter"
   trait = "just"
-  trait = "thrifty_clerk"
-  father = 20492
-  mother = 4493
-  1057.1.1 = {
-    birth = "1057.1.1"
+  trait = "cynical"
+  trait = "patient"
+  trait = "underhanded_rogue"
+  father = 218510
+  mother = 215523
+  1113.1.1 = {
+    birth = "1113.1.1"
   }
-  1110.1.1 = {
-    death = "1110.1.1"
+  1163.1.1 = {
+    death = "1163.1.1"
   }
 }
-70361 = {
-  name = "サガネツ"  # Saganec
-  dynasty = 101682
-  martial = 6
+218500 = {
+  name = "ネマニャ"  # Nemanja
+  dynasty = 184
+  martial = 7
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "greedy"
+  trait = "patient"
+  trait = "martial_cleric"
+  father = 218505
+  1133.1.1 = {
+    birth = "1133.1.1"
+  }
+  1172.1.1 = {
+    add_spouse = 218501
+  }
+  1199.2.13 = {
+    death = "1199.2.13"
+  }
+}
+218501 = {
+  name = "アナ"  # Ana
+  female = yes
+  dynasty = 37
+  martial = 4
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "arbitrary"
+  trait = "envious"
+  trait = "honest"
+  trait = "martial_cleric"
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1192.1.1 = {
+    death = "1192.1.1"
+  }
+}
+218506 = {
+  name = "ヴカン"  # Vukan
+  dynasty = 184
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "patient"
+  trait = "thrifty_clerk"
+  father = 218500
+  mother = 218501
+  1173.1.1 = {
+    birth = "1173.1.1"
+  }
+  1209.1.1 = {
+    death = "1209.1.1"
+  }
+}
+218507 = {
+  name = "ステファン"  # Stefan
+  dynasty = 184
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 4
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "deceitful"
+  trait = "tough_soldier"
+  father = 218500
+  mother = 218501
+  1176.1.1 = {
+    birth = "1176.1.1"
+  }
+  1192.1.1 = {
+    add_spouse = 215512
+  }
+  1202.1.1 = {
+    remove_spouse = 215512
+  }
+  1216.1.1 = {
+    add_spouse = 32122
+  }
+  1227.9.24 = {
+    death = "1227.9.24"
+  }
+}
+218508 = {
+  name = "ラストコ"  # Rastko
+  dynasty = 184
+  martial = 4
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "charitable"
+  trait = "kind"
+  trait = "martial_cleric"
+  father = 218500
+  mother = 218501
+  1174.1.2 = {
+    birth = "1174.1.2"
+  }
+  1224.1.2 = {
+    death = "1224.1.2"
+  }
+}
+468500 = {
+  name = "ウロシュ・ドゥシャン"  # Uros Dusan
+  dynasty = 184
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "diligent"
+  trait = "proud"
+  trait = "strong"
+  trait = "brilliant_strategist"
+  father = 468510
+  mother = 467541
+  1308.1.1 = {
+    birth = "1308.1.1"
+  }
+  1331.8.21 = {
+    give_nickname = nick_the_strong
+  }
+  1332.4.9 = {
+    add_spouse = 467501
+  }
+  1355.12.20 = {
+    death = "1355.12.20"
+  }
+}
+468501 = {
+  name = "ウロシュ"  # Uros
+  dynasty = 184
+  martial = 2
   diplomacy = 6
+  intrigue = 3
+  stewardship = 5
+  religion = "orthodox"
+  culture = "serbian"
+  father = 468500
+  mother = 467501
+  1336.1.1 = {
+    birth = "1336.1.1"
+  }
+  1367.12.3 = {
+    death = "1367.12.3"
+  }
+}
+468502 = {
+  name = "シメオン"  # Simeon
+  dynasty = 184
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "proud"
+  trait = "thrifty_clerk"
+  father = 468510
+  mother = 468503
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1372.1.1 = {
+    death = "1372.1.1"
+  }
+}
+468504 = {
+  name = "テオドラ"  # Theodora
+  female = yes
+  dynasty = 184
+  martial = 5
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "thrifty_clerk"
+  father = 468510
+  mother = 468503
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1381.1.1 = {
+    death = "1381.1.1"
+  }
+}
+468505 = {
+  name = "ウロシュ・ミルティン"  # Uros Milutin
+  dynasty = 184
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "orthodox"
+  culture = "serbian"
+  trait = "zealous"
+  trait = "skilled_tactician"
+  father = 34088
+  mother = 34116
+  1253.1.1 = {
+    birth = "1253.1.1"
+  }
+  1278.1.1 = {
+    add_spouse = 467531
+  }
+  1321.10.29 = {
+    death = "1321.10.29"
+  }
+}
+468506 = {
+  name = "イェレナ"  # Jelena
+  female = yes
+  dynasty = 184
+  martial = 6
+  diplomacy = 7
   intrigue = 4
   stewardship = 4
   religion = "orthodox"
   culture = "serbian"
-  trait = "temperate"
-  trait = "brave"
-  trait = "misguided_warrior"
-  father = 20490
-  mother = 4490
-  1018.1.1 = {
-    birth = "1018.1.1"
+  trait = "greedy"
+  trait = "naive_appeaser"
+  father = 468510
+  mother = 467541
+  1301.1.1 = {
+    birth = "1301.1.1"
   }
-  1066.1.1 = {
-    employer = 20491
-  }
-  1070.1.1 = {
-    death = "1070.1.1"
+  1345.1.2 = {
+    death = "1345.1.2"
   }
 }
-70362 = {
-  name = "ドブロスラヴ"  # Dobroslav
-  dynasty = 15004
-  martial = 3
-  diplomacy = 8
+468510 = {
+  name = "ウロシュ・デチャンスキ"  # Uros Decanski
+  dynasty = 184
+  martial = 4
+  diplomacy = 6
   intrigue = 7
-  stewardship = 6
+  stewardship = 8
   religion = "orthodox"
   culture = "serbian"
-  trait = "gregarious"
-  trait = "mystic"
-  trait = "detached_priest"
-  father = 20494
-  1018.1.1 = {
-    birth = "1018.1.1"
+  trait = "bastard"
+  trait = "proud"
+  trait = "skilled_tactician"
+  father = 468505
+  1276.1.1 = {
+    birth = "1276.1.1"
   }
-  1066.1.1 = {
-    employer = 20491
+  1300.1.1 = {
+    add_spouse = 467541
   }
-  1073.1.1 = {
-    death = "1073.1.1"
+  1329.1.2 = {
+    add_spouse = 468503
   }
-}
-145119 = {
-  name = "ヴェセリン"  # Veselin
-  dynasty = 15009
-  religion = "orthodox"
-  culture = "serbian"
-  844.1.1 = {
-    birth = "844.1.1"
-  }
-  904.1.1 = {
-    death = "904.1.1"
-  }
-}
-145180 = {
-  name = "ボリヴォイェ"  # Borivoje
-  dynasty = 15010
-  religion = "orthodox"
-  culture = "serbian"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-145186 = {
-  name = "プレドラグ"  # Predrag
-  dynasty = 15011
-  religion = "orthodox"
-  culture = "serbian"
-  846.1.1 = {
-    birth = "846.1.1"
-  }
-  904.1.1 = {
-    death = "904.1.1"
-  }
-}
-145799 = {
-  name = "ブディミル"  # Budimir
-  dynasty = 15005
-  religion = "slavic_pagan"
-  culture = "serbian"
-  740.1.1 = {
-    birth = "740.1.1"
-  }
-  800.1.1 = {
-    death = "800.1.1"
-  }
-}
-145809 = {
-  name = "ミヤト"  # Mijat
-  dynasty = 15006
-  religion = "slavic_pagan"
-  culture = "serbian"
-  742.1.1 = {
-    birth = "742.1.1"
-  }
-  804.1.1 = {
-    death = "804.1.1"
-  }
-}
-145810 = {
-  name = "スヴェティスラヴ"  # Svetislav
-  dynasty = 15007
-  religion = "slavic_pagan"
-  culture = "serbian"
-  746.1.1 = {
-    birth = "746.1.1"
-  }
-  802.1.1 = {
-    death = "802.1.1"
-  }
-}
-145816 = {
-  name = "ヴク"  # Vuk
-  dynasty = 15008
-  religion = "slavic_pagan"
-  culture = "serbian"
-  731.1.1 = {
-    birth = "731.1.1"
-  }
-  789.1.1 = {
-    death = "789.1.1"
+  1331.11.3 = {
+    death = "1331.11.3"
   }
 }
 163116 = {
@@ -1951,238 +2266,88 @@
     death = "917.1.1"
   }
 }
-217009 = {
-  name = "イヴァン"  # Ivan
-  dynasty = 100501
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 6
+145799 = {
+  name = "ブディミル"  # Budimir
+  dynasty = 15005
+  religion = "slavic_pagan"
+  culture = "serbian"
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+145809 = {
+  name = "ミヤト"  # Mijat
+  dynasty = 15006
+  religion = "slavic_pagan"
+  culture = "serbian"
+  742.1.1 = {
+    birth = "742.1.1"
+  }
+  804.1.1 = {
+    death = "804.1.1"
+  }
+}
+145810 = {
+  name = "スヴェティスラヴ"  # Svetislav
+  dynasty = 15007
+  religion = "slavic_pagan"
+  culture = "serbian"
+  746.1.1 = {
+    birth = "746.1.1"
+  }
+  802.1.1 = {
+    death = "802.1.1"
+  }
+}
+145816 = {
+  name = "ヴク"  # Vuk
+  dynasty = 15008
+  religion = "slavic_pagan"
+  culture = "serbian"
+  731.1.1 = {
+    birth = "731.1.1"
+  }
+  789.1.1 = {
+    death = "789.1.1"
+  }
+}
+145119 = {
+  name = "ヴェセリン"  # Veselin
+  dynasty = 15009
   religion = "orthodox"
   culture = "serbian"
-  trait = "cynical"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
+  844.1.1 = {
+    birth = "844.1.1"
   }
-  1200.1.1 = {
-    death = "1200.1.1"
+  904.1.1 = {
+    death = "904.1.1"
   }
 }
-218500 = {
-  name = "ネマニャ"  # Nemanja
-  dynasty = 184
-  martial = 7
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
+145180 = {
+  name = "ボリヴォイェ"  # Borivoje
+  dynasty = 15010
   religion = "orthodox"
   culture = "serbian"
-  trait = "greedy"
-  trait = "patient"
-  trait = "martial_cleric"
-  father = 218505
-  1133.1.1 = {
-    birth = "1133.1.1"
+  840.1.1 = {
+    birth = "840.1.1"
   }
-  1172.1.1 = {
-    add_spouse = 218501
-  }
-  1199.2.13 = {
-    death = "1199.2.13"
+  900.1.1 = {
+    death = "900.1.1"
   }
 }
-218501 = {
-  name = "アナ"  # Ana
-  female = yes
-  dynasty = 37
-  martial = 4
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 8
+145186 = {
+  name = "プレドラグ"  # Predrag
+  dynasty = 15011
   religion = "orthodox"
   culture = "serbian"
-  trait = "arbitrary"
-  trait = "envious"
-  trait = "honest"
-  trait = "martial_cleric"
-  1142.1.1 = {
-    birth = "1142.1.1"
+  846.1.1 = {
+    birth = "846.1.1"
   }
-  1192.1.1 = {
-    death = "1192.1.1"
-  }
-}
-218505 = {
-  name = "ザヴィダ"  # Zavida
-  dynasty = 18000
-  martial = 4
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 6
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "just"
-  trait = "cynical"
-  trait = "patient"
-  trait = "underhanded_rogue"
-  father = 218510
-  mother = 215523
-  1113.1.1 = {
-    birth = "1113.1.1"
-  }
-  1163.1.1 = {
-    death = "1163.1.1"
-  }
-}
-218506 = {
-  name = "ヴカン"  # Vukan
-  dynasty = 184
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "patient"
-  trait = "thrifty_clerk"
-  father = 218500
-  mother = 218501
-  1173.1.1 = {
-    birth = "1173.1.1"
-  }
-  1209.1.1 = {
-    death = "1209.1.1"
-  }
-}
-218507 = {
-  name = "ステファン"  # Stefan
-  dynasty = 184
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 4
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "deceitful"
-  trait = "tough_soldier"
-  father = 218500
-  mother = 218501
-  1176.1.1 = {
-    birth = "1176.1.1"
-  }
-  1192.1.1 = {
-    add_spouse = 215512
-  }
-  1202.1.1 = {
-    remove_spouse = 215512
-  }
-  1216.1.1 = {
-    add_spouse = 32122
-  }
-  1227.9.24 = {
-    death = "1227.9.24"
-  }
-}
-218508 = {
-  name = "ラストコ"  # Rastko
-  dynasty = 184
-  martial = 4
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "charitable"
-  trait = "kind"
-  trait = "martial_cleric"
-  father = 218500
-  mother = 218501
-  1174.1.2 = {
-    birth = "1174.1.2"
-  }
-  1224.1.2 = {
-    death = "1224.1.2"
-  }
-}
-218510 = {
-  name = "ウロシュ"  # Uros
-  dynasty = 18000
-  martial = 4
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 7
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "just"
-  trait = "kind"
-  trait = "honest"
-  trait = "tough_soldier"
-  father = 20538
-  1087.1.1 = {
-    birth = "1087.1.1"
-  }
-  1107.1.1 = {
-    add_spouse = 215523
-  }
-  1145.1.1 = {
-    death = "1145.1.1"
-  }
-}
-218511 = {
-  name = "イェレナ"  # Jelena
-  female = yes
-  dynasty = 18000
-  martial = 8
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "serbian"
-  trait = "deceitful"
-  trait = "stutter"
-  trait = "martial_cleric"
-  father = 218510
-  mother = 215523
-  1109.1.1 = {
-    birth = "1109.1.1"
-  }
-  1146.1.1 = {
-    death = "1146.1.1"
-  }
-}
-218512 = {
-  name = "マリヤ"  # Marija
-  female = yes
-  dynasty = 18000
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "serbian"
-  trait = "wroth"
-  trait = "temperate"
-  trait = "charismatic_negotiator"
-  father = 218510
-  mother = 215523
-  1116.1.1 = {
-    birth = "1116.1.1"
-  }
-  1166.1.1 = {
-    death = "1166.1.1"
-  }
-}
-250693 = {
-  name = "フヴァリミル"  # Hvalimir
-  dynasty = 9560
-  religion = orthodox
-  culture = serbian
-  850.1.1 = {
-    birth = yes
-  }
-  926.1.1 = {
-    death = yes
+  904.1.1 = {
+    death = "904.1.1"
   }
 }
 260645 = {
@@ -2209,6 +2374,18 @@
     death = yes
   }
 }
+250693 = {
+  name = "フヴァリミル"  # Hvalimir
+  dynasty = 9560
+  religion = orthodox
+  culture = serbian
+  850.1.1 = {
+    birth = yes
+  }
+  926.1.1 = {
+    death = yes
+  }
+}
 260648 = {
   name = "チュチミル"  # Cucimir
   dynasty = 9560
@@ -2222,18 +2399,6 @@
     death = yes
   }
 }
-260649 = {
-  name = "ジョルジェ"  # Djordje
-  dynasty = 1062289
-  religion = orthodox
-  culture = serbian
-  905.1.1 = {
-    birth = yes
-  }
-  967.1.1 = {
-    death = yes
-  }
-}
 261331 = {
   name = "ドラゴミル"  # Dragomir
   dynasty = 9560
@@ -2244,6 +2409,18 @@
     birth = yes
   }
   1018.1.1 = {
+    death = yes
+  }
+}
+260649 = {
+  name = "ジョルジェ"  # Djordje
+  dynasty = 1062289
+  religion = orthodox
+  culture = serbian
+  905.1.1 = {
+    birth = yes
+  }
+  967.1.1 = {
     death = yes
   }
 }
@@ -2273,182 +2450,5 @@
   }
   985.1.1 = {
     death = yes
-  }
-}
-468500 = {
-  name = "ウロシュ・ドゥシャン"  # Uros Dusan
-  dynasty = 184
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "diligent"
-  trait = "proud"
-  trait = "strong"
-  trait = "brilliant_strategist"
-  father = 468510
-  mother = 467541
-  1308.1.1 = {
-    birth = "1308.1.1"
-  }
-  1331.8.21 = {
-    give_nickname = nick_the_strong
-  }
-  1332.4.9 = {
-    add_spouse = 467501
-  }
-  1355.12.20 = {
-    death = "1355.12.20"
-  }
-}
-468501 = {
-  name = "ウロシュ"  # Uros
-  dynasty = 184
-  martial = 2
-  diplomacy = 6
-  intrigue = 3
-  stewardship = 5
-  religion = "orthodox"
-  culture = "serbian"
-  father = 468500
-  mother = 467501
-  1336.1.1 = {
-    birth = "1336.1.1"
-  }
-  1367.12.3 = {
-    death = "1367.12.3"
-  }
-}
-468502 = {
-  name = "シメオン"  # Simeon
-  dynasty = 184
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "proud"
-  trait = "thrifty_clerk"
-  father = 468510
-  mother = 468503
-  1330.1.1 = {
-    birth = "1330.1.1"
-  }
-  1372.1.1 = {
-    death = "1372.1.1"
-  }
-}
-468504 = {
-  name = "テオドラ"  # Theodora
-  female = yes
-  dynasty = 184
-  martial = 5
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "thrifty_clerk"
-  father = 468510
-  mother = 468503
-  1330.1.1 = {
-    birth = "1330.1.1"
-  }
-  1381.1.1 = {
-    death = "1381.1.1"
-  }
-}
-468505 = {
-  name = "ウロシュ・ミルティン"  # Uros Milutin
-  dynasty = 184
-  martial = 7
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "zealous"
-  trait = "skilled_tactician"
-  father = 34088
-  mother = 34116
-  1253.1.1 = {
-    birth = "1253.1.1"
-  }
-  1278.1.1 = {
-    add_spouse = 467531
-  }
-  1321.10.29 = {
-    death = "1321.10.29"
-  }
-}
-468506 = {
-  name = "イェレナ"  # Jelena
-  female = yes
-  dynasty = 184
-  martial = 6
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "greedy"
-  trait = "naive_appeaser"
-  father = 468510
-  mother = 467541
-  1301.1.1 = {
-    birth = "1301.1.1"
-  }
-  1345.1.2 = {
-    death = "1345.1.2"
-  }
-}
-468510 = {
-  name = "ウロシュ・デチャンスキ"  # Uros Decanski
-  dynasty = 184
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "bastard"
-  trait = "proud"
-  trait = "skilled_tactician"
-  father = 468505
-  1276.1.1 = {
-    birth = "1276.1.1"
-  }
-  1300.1.1 = {
-    add_spouse = 467541
-  }
-  1329.1.2 = {
-    add_spouse = 468503
-  }
-  1331.11.3 = {
-    death = "1331.11.3"
-  }
-}
-468511 = {
-  name = "アンナ"  # Anna
-  female = yes
-  dynasty = 184
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "orthodox"
-  culture = "serbian"
-  trait = "zealous"
-  trait = "fortune_builder"
-  father = 468505
-  mother = 467531
-  1281.1.2 = {
-    birth = "1281.1.2"
-  }
-  1329.1.2 = {
-    death = "1329.1.2"
   }
 }

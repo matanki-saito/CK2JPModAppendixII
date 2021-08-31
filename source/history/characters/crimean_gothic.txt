@@ -1,4 +1,67 @@
-﻿20463 = {
+﻿145851 = {
+  name = "セバストス"  # Sebastos
+  dynasty = 1022301
+  religion = "iconoclast"
+  culture = "crimean_gothic"
+  732.1.1 = {
+    birth = "732.1.1"
+  }
+  787.10.23 = {
+    religion = "orthodox"
+  }
+  793.1.1 = {
+    death = "793.1.1"
+  }
+}
+145932 = {
+  name = "ペトロナス"  # Petronas
+  dynasty = 101099
+  religion = "orthodox"
+  culture = "crimean_gothic"
+  trait = "diligent"
+  trait = "scholar"
+  trait = "fortune_builder"
+  804.1.1 = {
+    birth = "804.1.1"
+  }
+  815.1.1 = {
+    religion = "iconoclast"
+  }
+  842.2.19 = {
+    religion = "orthodox"
+  }
+  871.1.1 = {
+    death = "871.1.1"
+  }
+}
+145933 = {
+  name = "フィラレトス"  # Philaretos
+  dynasty = 101099
+  religion = "orthodox"
+  culture = "crimean_gothic"
+  father = 145932
+  844.1.1 = {
+    birth = "844.1.1"
+  }
+  908.1.1 = {
+    death = "908.1.1"
+  }
+}
+145957 = {
+  name = "アスパシア"  # Aspasia
+  dynasty = 101099
+  female = yes
+  religion = "orthodox"
+  culture = "crimean_gothic"
+  father = 145932
+  850.1.1 = {
+    birth = yes
+  }
+  912.1.1 = {
+    death = yes
+  }
+}
+20463 = {
   name = "テオドロス"  # Theodoros
   dynasty = 101085
   martial = 4
@@ -78,35 +141,6 @@
     death = "1108.1.1"
   }
 }
-145027 = {
-  name = "ゲルマノス"  # Germanos
-  dynasty = 101091
-  religion = "orthodox"
-  culture = "crimean_gothic"
-  trait = "martial_cleric"
-  father = 215039
-  1204.1.1 = {
-    birth = "1204.1.1"
-  }
-  1280.1.1 = {
-    death = "1280.1.1"
-  }
-}
-145851 = {
-  name = "セバストス"  # Sebastos
-  dynasty = 1022301
-  religion = "iconoclast"
-  culture = "crimean_gothic"
-  732.1.1 = {
-    birth = "732.1.1"
-  }
-  787.10.23 = {
-    religion = "orthodox"
-  }
-  793.1.1 = {
-    death = "793.1.1"
-  }
-}
 145853 = {
   name = "ボスポリオス"  # Bosporios
   dynasty = 1022303
@@ -120,54 +154,6 @@
   }
   795.1.1 = {
     death = "795.1.1"
-  }
-}
-145932 = {
-  name = "ペトロナス"  # Petronas
-  dynasty = 101099
-  religion = "orthodox"
-  culture = "crimean_gothic"
-  trait = "diligent"
-  trait = "scholar"
-  trait = "fortune_builder"
-  804.1.1 = {
-    birth = "804.1.1"
-  }
-  815.1.1 = {
-    religion = "iconoclast"
-  }
-  842.2.19 = {
-    religion = "orthodox"
-  }
-  871.1.1 = {
-    death = "871.1.1"
-  }
-}
-145933 = {
-  name = "フィラレトス"  # Philaretos
-  dynasty = 101099
-  religion = "orthodox"
-  culture = "crimean_gothic"
-  father = 145932
-  844.1.1 = {
-    birth = "844.1.1"
-  }
-  908.1.1 = {
-    death = "908.1.1"
-  }
-}
-145957 = {
-  name = "アスパシア"  # Aspasia
-  dynasty = 101099
-  female = yes
-  religion = "orthodox"
-  culture = "crimean_gothic"
-  father = 145932
-  850.1.1 = {
-    birth = yes
-  }
-  912.1.1 = {
-    death = yes
   }
 }
 215039 = {
@@ -188,6 +174,20 @@
   }
   1205.1.1 = {
     death = "1205.1.1"
+  }
+}
+145027 = {
+  name = "ゲルマノス"  # Germanos
+  dynasty = 101091
+  religion = "orthodox"
+  culture = "crimean_gothic"
+  trait = "martial_cleric"
+  father = 215039
+  1204.1.1 = {
+    birth = "1204.1.1"
+  }
+  1280.1.1 = {
+    death = "1280.1.1"
   }
 }
 215040 = {

@@ -1,706 +1,4 @@
-﻿601 = {
-  name = "オリガ"  # Olga
-  female = yes
-  religion = "slavic_pagan"
-  culture = "russian"
-  890.1.2 = {
-    birth = "890.1.2"
-    effect = {
-      set_character_flag = is_olga
-    }
-  }
-  950.1.1 = {
-    effect = {
-      religion = orthodox
-    }
-  }
-  969.1.2 = {
-    death = "969.1.2"
-  }
-}
-602 = {
-  name = "スヴャトスラフ"  # Sviatoslav
-  dynasty = 705
-  religion = "norse_pagan"
-  culture = "russian"
-  trait = "tough_soldier"
-  father = 600
-  mother = 601
-  942.1.2 = {
-    birth = "942.1.2"
-  }
-  957.1.2 = {
-    add_spouse = 599
-  }
-  972.1.2 = {
-    death = "972.1.2"
-  }
-}
-603 = {
-  name = "マルシャ"  # Malusha
-  female = yes
-  religion = "norse_pagan"
-  culture = "russian"
-  944.1.2 = {
-    birth = "944.1.2"
-  }
-  1015.1.2 = {
-    death = "1015.1.2"
-  }
-}
-604 = {
-  name = "ヤロポルク"  # Yaropolk
-  dynasty = 705
-  religion = "norse_pagan"
-  culture = "russian"
-  father = 602
-  mother = 599
-  958.1.2 = {
-    birth = "958.1.2"
-  }
-  980.1.2 = {
-    death = "980.1.2"
-  }
-}
-606 = {
-  name = "オレグ"  # Oleg
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 602
-  mother = 599
-  959.1.2 = {
-    birth = "959.1.2"
-  }
-  977.1.2 = {
-    death = "977.1.2"
-  }
-}
-608 = {
-  name = "ウラジーミル"  # Vladimir
-  dynasty = 705
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  trait = "envious"
-  trait = "zealous"
-  trait = "bastard"
-  trait = "skilled_tactician"
-  father = 602
-  mother = 603
-  960.1.2 = {
-    birth = "960.1.2"
-  }
-  977.1.2 = {
-    add_spouse = 609
-  }
-  980.1.1 = {
-    give_nickname = "nick_the_great"
-  }
-  989.1.2 = {
-    remove_spouse = 609
-  }
-  989.1.2 = {
-    add_spouse = 41100
-  }
-  1015.7.15 = {
-    death = "1015.7.15"
-  }
-}
-609 = {
-  name = "ログネダ"  # Rogneda
-  female = yes
-  dynasty = 703
-  religion = "orthodox"
-  culture = "russian"
-  960.1.2 = {
-    birth = "960.1.2"
-  }
-  989.1.2 = {
-    death = "989.1.2"
-  }
-}
-610 = {
-  name = "スヴャトポルク"  # Sviatopolk
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "envious"
-  trait = "wroth"
-  trait = "kinslayer"
-  trait = "misguided_warrior"
-  father = 604
-  979.1.2 = {
-    birth = "979.1.2"
-  }
-  1015.7.15 = {
-    give_nickname = "nick_the_accursed"
-  }
-  1016.1.2 = {
-    add_claim = d_kiev
-    add_claim = c_kiev
-    add_claim = c_korsun
-  }
-  1019.1.2 = {
-    death = "1019.1.2"
-  }
-}
-612 = {
-  name = "ヤロスラフ"  # Yaroslav
-  dynasty = 705
-  martial = 8
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 10
-  religion = "orthodox"
-  culture = "russian"
-  trait = "scholar"
-  trait = "midas_touched"
-  father = 608
-  mother = 609
-  983.1.2 = {
-    birth = "983.1.2"
-  }
-  1015.1.2 = {
-    add_claim = d_kiev
-  }
-  1016.1.2 = {
-    give_nickname = "nick_the_wise"
-  }
-  1019.1.2 = {
-    add_spouse = 100511
-  }
-  1054.2.20 = {
-    death = "1054.2.20"
-  }
-}
-616 = {
-  name = "イジャスラフ"  # Iziaslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  mother = 609
-  978.1.2 = {
-    birth = "978.1.2"
-  }
-  1001.1.2 = {
-    death = "1001.1.2"
-  }
-}
-618 = {
-  name = "ムスチスラフ"  # Mstislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  983.1.2 = {
-    birth = "983.1.2"
-  }
-  1020.1.2 = {
-    add_spouse = 122502
-  }
-  1036.1.2 = {
-    death = "1036.1.2"
-  }
-}
-620 = {
-  name = "スジスラフ"  # Sudislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  987.1.2 = {
-    birth = "987.1.2"
-  }
-  1063.1.2 = {
-    death = "1063.1.2"
-  }
-}
-622 = {
-  name = "ヴィシェスラフ"  # Vysheslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  977.1.2 = {
-    birth = "977.1.2"
-  }
-  1010.1.2 = {
-    death = "1010.1.2"
-  }
-}
-624 = {
-  name = "ボリス"  # Boris
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  986.1.2 = {
-    birth = "986.1.2"
-  }
-  1015.7.24 = {
-    death = "1015.7.24"
-  }
-}
-625 = {
-  name = "グレプ"  # Gleb
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  987.1.2 = {
-    birth = "987.1.2"
-  }
-  1015.9.9 = {
-    death = "1015.9.9"
-  }
-}
-626 = {
-  name = "イジャスラフ"  # Iziaslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1024.1.2 = {
-    birth = "1024.1.2"
-  }
-  1045.1.2 = {
-    add_spouse = 761
-  }
-  1078.10.3 = {
-    death = "1078.10.3"
-  }
-}
-627 = {
-  name = "アンナ"  # Anna
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1032.1.2 = {
-    birth = "1032.1.2"
-  }
-  1075.1.2 = {
-    death = "1075.1.2"
-  }
-}
-628 = {
-  name = "スヴャトスラフ"  # Sviatoslav
-  dynasty = 705
-  diplomacy = 8
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1027.1.2 = {
-    birth = "1027.1.2"
-  }
-  1045.1.2 = {
-    add_spouse = 125044
-  }
-  1070.1.2 = {
-    add_spouse = 1353
-  }
-  1076.12.27 = {
-    death = "1076.12.27"
-  }
-}
-630 = {
-  name = "フセヴォロド"  # Vsevolod
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "scholar"
-  father = 612
-  mother = 100511
-  1030.1.2 = {
-    birth = "1030.1.2"
-  }
-  1046.1.2 = {
-    add_spouse = 1727
-  }
-  1068.1.2 = {
-    add_spouse = 125092
-  }
-  1093.4.13 = {
-    death = "1093.4.13"
-  }
-}
-633 = {
-  name = "エリザヴェータ"  # Yelizaveta
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1025.1.2 = {
-    birth = "1025.1.2"
-  }
-  1067.1.5 = {
-    death = "1067.1.5"
-  }
-}
-634 = {
-  name = "ウラジーミル"  # Vladimir
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1020.1.2 = {
-    birth = "1020.1.2"
-  }
-  1052.10.4 = {
-    death = "1052.10.4"
-  }
-}
-637 = {
-  name = "アナスタシア"  # Anastasia
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1023.1.2 = {
-    birth = "1023.1.2"
-  }
-  1074.1.2 = {
-    death = "1074.1.2"
-  }
-}
-638 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1037.1.2 = {
-    birth = "1037.1.2"
-  }
-  1060.1.2 = {
-    death = "1060.1.2"
-  }
-}
-642 = {
-  name = "ブリャチスラフ"  # Briachislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 616
-  997.1.2 = {
-    birth = "997.1.2"
-  }
-  1044.1.2 = {
-    death = "1044.1.2"
-  }
-}
-644 = {
-  name = "イェスタヒィ"  # Yevstafiy
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 618
-  mother = 122502
-  1021.1.2 = {
-    birth = "1021.1.2"
-  }
-  1033.1.2 = {
-    death = "1033.1.2"
-  }
-}
-650 = {
-  name = "フセスラフ"  # Vseslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "cynical"
-  trait = "skilled_tactician"
-  father = 642
-  1030.1.2 = {
-    birth = "1030.1.2"
-  }
-  1053.1.2 = {
-    add_spouse = 40603
-  }
-  1101.4.14 = {
-    death = "1101.4.14"
-  }
-}
-652 = {
-  name = "スヴャトポルク"  # Sviatopolk
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "legit_bastard"
-  father = 626
-  1050.11.8 = {
-    birth = "1050.11.8"
-  }
-  1113.4.16 = {
-    death = "1113.4.16"
-  }
-}
-654 = {
-  name = "グレプ"  # Gleb
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 628
-  mother = 125044
-  1046.1.2 = {
-    birth = "1046.1.2"
-  }
-  1078.5.30 = {
-    death = "1078.5.30"
-  }
-}
-656 = {
-  name = "ダヴィド"  # Davyd
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 628
-  mother = 125044
-  1050.1.2 = {
-    birth = "1050.1.2"
-  }
-  1123.1.2 = {
-    death = "1123.1.2"
-  }
-}
-658 = {
-  name = "ロマン"  # Roman
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 628
-  mother = 125044
-  1048.1.2 = {
-    birth = "1048.1.2"
-  }
-  1079.8.2 = {
-    death = "1079.8.2"
-  }
-}
-660 = {
-  name = "オレグ"  # Oleg
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "ambitious"
-  trait = "cynical"
-  father = 628
-  mother = 125044
-  1053.1.2 = {
-    birth = "1053.1.2"
-  }
-  1084.1.2 = {
-    add_spouse = 125051
-  }
-  1115.8.1 = {
-    death = "1115.8.1"
-  }
-}
-662 = {
-  name = "ヤロスラフ"  # Yaroslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 628
-  mother = 1353
-  1071.1.2 = {
-    birth = "1071.1.2"
-  }
-  1129.1.2 = {
-    death = "1129.1.2"
-  }
-}
-666 = {
-  name = "ウラジーミル"  # Vladimir
-  dynasty = 705
-  martial = 8
-  diplomacy = 9
-  intrigue = 6
-  stewardship = 9
-  religion = "orthodox"
-  culture = "russian"
-  trait = "genius"
-  father = 630
-  mother = 1727
-  1053.1.2 = {
-    birth = "1053.1.2"
-  }
-  1074.1.2 = {
-    add_spouse = 127
-  }
-  1125.5.19 = {
-    death = "1125.5.19"
-  }
-}
-668 = {
-  name = "ダヴィド"  # Davyd
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 638
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1113.7.27 = {
-    death = "1113.7.27"
-  }
-}
-670 = {
-  name = "ロスチスラフ"  # Rostislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 634
-  1038.1.2 = {
-    birth = "1038.1.2"
-  }
-  1057.1.1 = {
-    add_spouse = 41201
-  }
-  1067.2.3 = {
-    death = "1067.2.3"
-  }
-}
-672 = {
-  name = "グレプ"  # Gleb
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1053.1.2 = {
-    birth = "1053.1.2"
-  }
-  1090.1.2 = {
-    add_spouse = 125095
-  }
-  1119.9.13 = {
-    death = "1119.9.13"
-  }
-}
-674 = {
-  name = "ロマン"  # Roman
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1116.1.2 = {
-    death = "1116.1.2"
-  }
-}
-676 = {
-  name = "ダヴィド"  # Davyd
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1129.1.1 = {
-    death = "1129.1.1"
-  }
-}
-678 = {
-  name = "ブリャチスラフ"  # Briachislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 676
-  1080.1.2 = {
-    birth = "1080.1.2"
-  }
-  1124.1.2 = {
-    add_spouse = 125112
-  }
-  1135.1.2 = {
-    death = "1135.1.2"
-  }
-}
-680 = {
-  name = "ログヴォロド"  # Rogvolod
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1066.1.2 = {
-    birth = "1066.1.2"
-  }
-  1128.1.2 = {
-    death = "1128.1.2"
-  }
-}
-682 = {
-  name = "スヴャトスラフ"  # Sviatoslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1063.1.2 = {
-    birth = "1063.1.2"
-  }
-  1129.1.2 = {
-    death = "1129.1.2"
-  }
-}
-684 = {
-  name = "ヤロポルク"  # Yaropolk
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 626
-  mother = 761
-  1046.1.1 = {
-    birth = "1046.1.1"
-  }
-  1075.1.1 = {
-    add_spouse = 7061
-  }
-  1086.12.5 = {
-    death = "1086.12.5"
-  }
-}
-686 = {
-  name = "ムスチスラフ"  # Mstislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 626
-  mother = 761
-  1047.1.2 = {
-    birth = "1047.1.2"
-  }
-  1062.1.2 = {
-    add_spouse = 40601
-  }
-  1069.1.2 = {
-    death = "1069.1.2"
-  }
-}
-6825 = {
+﻿6825 = {
   name = "ヤロポルク"  # Yaropolk
   religion = "slavic_pagan"
   culture = "russian"
@@ -894,897 +192,6 @@
   }
   894.1.1 = {
     death = yes
-  }
-}
-9126 = {
-  name = "リューリク"  # Rurik
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 670
-  mother = 41201
-  1058.1.2 = {
-    birth = "1058.1.2"
-  }
-  1092.1.2 = {
-    death = "1092.1.2"
-  }
-}
-9128 = {
-  name = "ヴォロダリ"  # Volodar
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 670
-  mother = 41201
-  1060.1.2 = {
-    birth = "1060.1.2"
-  }
-  1124.3.19 = {
-    death = "1124.3.19"
-  }
-}
-9130 = {
-  name = "ヴァシリコ"  # Vasilko
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 670
-  mother = 41201
-  1066.1.2 = {
-    birth = "1066.1.2"
-  }
-  1098.1.2 = {
-    give_nickname = "nick_the_blind"
-    trait = "blinded"
-  }
-  1124.1.2 = {
-    death = "1124.1.2"
-  }
-}
-9132 = {
-  name = "ヴャチェスラフ"  # Viacheslav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 612
-  mother = 100511
-  1036.1.2 = {
-    birth = "1036.1.2"
-  }
-  1057.1.2 = {
-    death = "1057.1.2"
-  }
-}
-9134 = {
-  name = "ボリス"  # Boris
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 9132
-  1054.1.2 = {
-    birth = "1054.1.2"
-  }
-  1078.10.3 = {
-    death = "1078.10.3"
-  }
-}
-9300 = {
-  name = "ドミトリー"  # Dmitriy
-  dynasty = 511
-  religion = "orthodox"
-  culture = "russian"
-  1061.1.2 = {
-    birth = "1061.1.2"
-  }
-  1111.1.2 = {
-    death = "1111.1.2"
-  }
-}
-13501 = {
-  name = "ドブロネガ・マリア"  # Dobronega Maria
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  1012.1.2 = {
-    birth = "1012.1.2"
-  }
-  1087.1.2 = {
-    death = "1087.1.2"
-  }
-}
-20416 = {
-  name = "ドミトリィ"  # Dmitrii
-  dynasty = 100583
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "envious"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20419 = {
-  name = "ドマジル"  # Domazhir
-  dynasty = 100408
-  martial = 4
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 8
-  religion = "orthodox"
-  culture = "russian"
-  trait = "proud"
-  trait = "underhanded_rogue"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20420 = {
-  name = "ボリス"  # Boris
-  dynasty = 100571
-  martial = 4
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "flamboyant_schemer"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20421 = {
-  name = "ジロスラフ"  # Zhiroslav
-  dynasty = 100572
-  martial = 8
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 8
-  religion = "orthodox"
-  culture = "russian"
-  trait = "honest"
-  trait = "flamboyant_schemer"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20423 = {
-  name = "アレクサンドリィ"  # Alexandrii
-  dynasty = 100570
-  martial = 4
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  trait = "hunchback"
-  trait = "flamboyant_schemer"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20424 = {
-  name = "ゲオルギー"  # Georgii
-  dynasty = 100575
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "envious"
-  trait = "zealous"
-  trait = "underhanded_rogue"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20445 = {
-  name = "ドマスラフ"  # Domaslav
-  dynasty = 100414
-  martial = 4
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "greedy"
-  trait = "scholarly_theologian"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20446 = {
-  name = "ドマジル"  # Domazhir
-  dynasty = 100413
-  martial = 4
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 4
-  religion = "orthodox"
-  culture = "russian"
-  trait = "cynical"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20448 = {
-  name = "ドマスラフ"  # Domaslav
-  dynasty = 100551
-  martial = 4
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "greedy"
-  trait = "proud"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20449 = {
-  name = "オレグ"  # Oleg
-  dynasty = 100417
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "orthodox"
-  culture = "russian"
-  trait = "gluttonous"
-  trait = "martial_cleric"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20450 = {
-  name = "フョードル"  # Fedor
-  dynasty = 100586
-  martial = 4
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "honest"
-  trait = "lisp"
-  trait = "amateurish_plotter"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20451 = {
-  name = "シメオン"  # Simeon
-  dynasty = 100580
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 8
-  religion = "orthodox"
-  culture = "russian"
-  trait = "envious"
-  trait = "clubfooted"
-  trait = "flamboyant_schemer"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20453 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 100577
-  martial = 5
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  trait = "temperate"
-  trait = "martial_cleric"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20454 = {
-  name = "オレグ"  # Oleg
-  dynasty = 100581
-  martial = 6
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "just"
-  trait = "envious"
-  trait = "proud"
-  trait = "honest"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20458 = {
-  name = "ユーリー"  # Iurii
-  dynasty = 100535
-  martial = 5
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  trait = "hunchback"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20459 = {
-  name = "ミロスラフ"  # Miloslav
-  dynasty = 100549
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 4
-  religion = "orthodox"
-  culture = "russian"
-  trait = "cynical"
-  trait = "scholarly_theologian"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20468 = {
-  name = "トリフォン"  # Trifon
-  dynasty = 100418
-  martial = 8
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "orthodox"
-  culture = "russian"
-  trait = "deceitful"
-  trait = "tough_soldier"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-20870 = {
-  name = "アイユーブ"  # Ayyub
-  dynasty = 101018
-  martial = 5
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "russian"
-  trait = "martial_cleric"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-40600 = {
-  name = "エフプラクシア"  # Yevpraxia
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 626
-  mother = 761
-  1060.1.2 = {
-    birth = "1060.1.2"
-  }
-  1110.1.2 = {
-    death = "1110.1.2"
-  }
-}
-40601 = {
-  name = "プレドスラヴァ"  # Predslava
-  female = yes
-  religion = "orthodox"
-  culture = "russian"
-  1047.1.2 = {
-    birth = "1047.1.2"
-  }
-  1097.1.2 = {
-    death = "1097.1.2"
-  }
-}
-40602 = {
-  name = "アンナ"  # Anna
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "zealous"
-  father = 630
-  mother = 1727
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1112.11.2 = {
-    death = "1112.11.2"
-  }
-}
-40603 = {
-  name = "ソフィア"  # Sofia
-  female = yes
-  religion = "orthodox"
-  culture = "russian"
-  1035.1.2 = {
-    birth = "1035.1.2"
-  }
-  1085.1.2 = {
-    death = "1085.1.2"
-  }
-}
-40604 = {
-  name = "ロスチスラフ"  # Rostislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 650
-  mother = 40603
-  1070.1.2 = {
-    birth = "1070.1.2"
-  }
-  1130.1.2 = {
-    death = "1130.1.2"
-  }
-}
-41101 = {
-  name = "アガタ"  # Agatha
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 608
-  1015.1.2 = {
-    birth = "1015.1.2"
-  }
-  1093.1.2 = {
-    death = "1093.1.2"
-  }
-}
-82266 = {
-  name = "ボリスラフ"  # Boryslav
-  dynasty = 9125
-  father = 82258
-  religion = "slavic_pagan"
-  culture = "russian"
-  trait = "bastard"
-  824.1.1 = {
-    birth = "824.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-82267 = {
-  name = "ボグダン"  # Bogdan
-  dynasty = 9125
-  father = 82266
-  religion = "slavic_pagan"
-  culture = "russian"
-  846.1.1 = {
-    birth = "846.1.1"
-  }
-  927.1.1 = {
-    death = "927.1.1"
-  }
-}
-82268 = {
-  name = "ヤロスラフ"  # Yaroslav
-  dynasty = 9125
-  father = 82267
-  religion = "slavic_pagan"
-  culture = "russian"
-  910.1.1 = {
-    birth = "910.1.1"
-  }
-  977.1.2 = {
-    death = "977.1.2"
-  }
-}
-82269 = {
-  name = "ブロニスラフ"  # Bronislav
-  dynasty = 9125
-  father = 82266
-  religion = "slavic_pagan"
-  culture = "russian"
-  848.1.1 = {
-    birth = "848.1.1"
-  }
-  929.1.1 = {
-    death = "929.1.1"
-  }
-}
-82270 = {
-  name = "フラスチミル"  # Vlastimil
-  dynasty = 9125
-  father = 82269
-  religion = "slavic_pagan"
-  culture = "russian"
-  909.1.1 = {
-    birth = "909.1.1"
-  }
-  977.1.2 = {
-    death = "977.1.2"
-  }
-}
-82271 = {
-  name = "スツィボル"  # Ctibor
-  dynasty = 9125
-  father = 82266
-  religion = "slavic_pagan"
-  culture = "russian"
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  928.1.1 = {
-    death = "928.1.1"
-  }
-}
-82272 = {
-  name = "ミロスラフ"  # Miroslav
-  dynasty = 9125
-  father = 82271
-  religion = "slavic_pagan"
-  culture = "russian"
-  911.1.1 = {
-    birth = "911.1.1"
-  }
-  977.1.2 = {
-    death = "977.1.2"
-  }
-}
-90135 = {
-  name = "ヴィシャタ"  # Vyshata
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 4
-  religion = "orthodox"
-  culture = "russian"
-  trait = "tough_soldier"
-  trait = "wroth"
-  trait = "brave"
-  1012.1.2 = {
-    birth = "1012.1.2"
-  }
-  1062.1.2 = {
-    death = "1062.1.2"
-  }
-}
-90136 = {
-  name = "イヴァン"  # Ivan
-  dynasty = 20080
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 4
-  religion = "orthodox"
-  culture = "russian"
-  trait = "skilled_tactician"
-  trait = "temperate"
-  trait = "zealous"
-  father = 90135
-  1042.1.2 = {
-    birth = "1042.1.2"
-  }
-  1092.1.2 = {
-    death = "1092.1.2"
-  }
-}
-90137 = {
-  name = "プチャータ"  # Putyata
-  dynasty = 20080
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 4
-  religion = "orthodox"
-  culture = "russian"
-  trait = "skilled_tactician"
-  trait = "deceitful"
-  trait = "cynical"
-  father = 90135
-  1050.1.2 = {
-    birth = "1050.1.2"
-  }
-  1100.1.2 = {
-    death = "1100.1.2"
-  }
-}
-90138 = {
-  name = "ネストル"  # Nestor
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 6
-  religion = "orthodox"
-  culture = "russian"
-  trait = "martial_cleric"
-  trait = "patient"
-  1056.1.2 = {
-    birth = "1056.1.2"
-  }
-  1106.1.2 = {
-    death = "1106.1.2"
-  }
-}
-90139 = {
-  name = "アントニウス"  # Antonius
-  dynasty = 20081
-  martial = 4
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 9
-  religion = "orthodox"
-  culture = "russian"
-  trait = "scholarly_theologian"
-  trait = "zealous"
-  trait = "humble"
-  983.1.2 = {
-    birth = "983.1.2"
-  }
-  1033.1.2 = {
-    death = "1033.1.2"
-  }
-}
-90140 = {
-  name = "テオドシウス"  # Theodosius
-  dynasty = 20081
-  martial = 4
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 9
-  religion = "orthodox"
-  culture = "russian"
-  trait = "scholarly_theologian"
-  trait = "zealous"
-  trait = "just"
-  trait = "temperate"
-  1036.1.2 = {
-    birth = "1036.1.2"
-  }
-  1086.1.2 = {
-    death = "1086.1.2"
-  }
-}
-90141 = {
-  name = "ラティボル"  # Ratibor
-  dynasty = 100555
-  martial = 5
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 8
-  religion = "orthodox"
-  culture = "russian"
-  trait = "thrifty_clerk"
-  trait = "deceitful"
-  1054.1.2 = {
-    birth = "1054.1.2"
-  }
-  1104.1.2 = {
-    death = "1104.1.2"
-  }
-}
-90145 = {
-  name = "レオンティウス"  # Leontius
-  dynasty = 100574
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  trait = "scholarly_theologian"
-  trait = "patient"
-  1016.1.2 = {
-    birth = "1016.1.2"
-  }
-  1066.1.2 = {
-    death = "1066.1.2"
-  }
-}
-90146 = {
-  name = "キハ"  # Kicha
-  dynasty = 100574
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 7
-  religion = "baltic_pagan"
-  culture = "russian"
-  trait = "mastermind_theologian"
-  trait = "wroth"
-  trait = "deceitful"
-  trait = "cynical"
-  1022.1.2 = {
-    birth = "1022.1.2"
-  }
-  1072.1.2 = {
-    death = "1072.1.2"
-  }
-}
-90147 = {
-  name = "クルグレツ"  # Kruglets
-  dynasty = 100574
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 7
-  religion = "baltic_pagan"
-  culture = "russian"
-  trait = "martial_cleric"
-  father = 90146
-  1056.1.2 = {
-    birth = "1056.1.2"
-  }
-  1106.1.2 = {
-    death = "1106.1.2"
-  }
-}
-90148 = {
-  name = "アルカジー"  # Arkadiy
-  dynasty = 20082
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 7
-  religion = "orthodox"
-  culture = "russian"
-  trait = "detached_priest"
-  trait = "zealous"
-  trait = "possessed"
-  1040.1.2 = {
-    birth = "1040.1.2"
-  }
-  1090.1.2 = {
-    death = "1090.1.2"
-  }
-}
-96095 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 660
-  mother = 125051
-  1097.1.2 = {
-    birth = "1097.1.2"
-  }
-  1162.1.1 = {
-    death = "1162.1.1"
-  }
-}
-98015 = {
-  name = "ロスチスラフ"  # Rostislav
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 222654
-  mother = 125104
-  1227.1.2 = {
-    birth = "1227.1.2"
-  }
-  1243.1.2 = {
-    add_spouse = 98012
-  }
-  1262.1.2 = {
-    death = "1262.1.2"
-  }
-}
-98016 = {
-  name = "クニグンダ"  # Kunigunda
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 98015
-  mother = 98012
-  1245.1.2 = {
-    birth = "1245.1.2"
-  }
-  1285.9.9 = {
-    death = "1285.9.9"
-  }
-}
-98018 = {
-  name = "エウフェミア"  # Euphemia
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  father = 666
-  mother = 127
-  1097.1.2 = {
-    birth = "1097.1.2"
-  }
-  1139.4.4 = {
-    death = "1139.4.4"
-  }
-}
-98022 = {
-  name = "ヤロスラヴァ"  # Yaroslava
-  female = yes
-  dynasty = 705
-  martial = 2
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "russian"
-  father = 222500
-  mother = 222501
-  1154.1.2 = {
-    birth = "1154.1.2"
-  }
-  1180.1.2 = {
-    death = "1180.1.2"
   }
 }
 122503 = {
@@ -5747,1049 +4154,347 @@
     death = "1360.1.2"
   }
 }
-159718 = {
-  name = "ヴャチェスラフ"  # Vyacheslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 194138
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  920.1.1 = {
-    death = "920.1.1"
-  }
-}
-159719 = {
-  name = "イジャスラフ"  # Iziaslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 160050
-  835.1.1 = {
-    birth = "835.1.1"
-  }
-  920.1.1 = {
-    death = "920.1.1"
-  }
-}
-159720 = {
-  name = "ボグダン"  # Bogdan
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  trait = content
-  trait = craven
-  trait = cynical
-  father = 160064
-  840.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-159721 = {
-  name = "タチミル"  # Tatimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 194144
-  822.1.1 = {
-    birth = "822.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-160049 = {
-  name = "フセヴォロド"  # Vsevolod
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 194133
-  780.1.1 = {
-    birth = "780.1.1"
-  }
-  830.1.1 = {
-    death = "830.1.1"
-  }
-}
-160050 = {
-  name = "プティミル"  # Putimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 160049
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  860.1.1 = {
-    death = "860.1.1"
-  }
-}
-160051 = {
-  name = "ラディゴスト"  # Radigost
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 160049
-  815.1.1 = {
-    birth = "815.1.1"
-  }
-  860.1.1 = {
-    death = "860.1.1"
-  }
-}
-160052 = {
-  name = "ラドスラフ"  # Radoslav
-  dynasty = 1029116
-  religion = "slavic_pagan"
-  culture = russian
-  father = 160051
-  trait = content
-  850.1.1 = {
-    birth = yes
-  }
-  899.1.1 = {
-    death = yes
-  }
-}
-160053 = {
-  name = "サモフラド"  # Samovlad
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 160050
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  925.1.1 = {
-    death = "925.1.1"
-  }
-}
-160054 = {
-  name = "プシェームィシリ"  # Premsyl
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 160050
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  926.1.1 = {
-    death = "926.1.1"
-  }
-}
-160055 = {
-  name = "リュボスラフ"  # Ljuboslav
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029136
-  father = 160057
-  780.1.1 = {
-    birth = "780.1.1"
-  }
-  830.1.1 = {
-    death = "830.1.1"
-  }
-}
-160056 = {
-  name = "クラシミール"  # Krasimir
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029136
-  father = 160057
-  785.1.1 = {
-    birth = "785.1.1"
-  }
-  830.1.1 = {
-    death = "830.1.1"
-  }
-}
-160057 = {
-  name = "ズビグニェフ"  # Zbignev
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029136
-  father = 194131
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  812.1.1 = {
-    death = yes
-  }
-}
-160058 = {
-  name = "サモフラド"  # Samovlad
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 160055
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  860.1.1 = {
-    death = "860.1.1"
-  }
-}
-160059 = {
-  name = "ウラジスラフ"  # Vladislav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029118
-  father = 6834
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-160060 = {
-  name = "ドラガン"  # Dragan
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029118
-  father = 6834
-  851.1.1 = {
-    birth = "851.1.1"
-  }
-  905.1.1 = {
-    death = "905.1.1"
-  }
-}
-160061 = {
-  name = "グラジミール"  # Gradimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029118
-  father = 6834
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  905.1.1 = {
-    death = "905.1.1"
-  }
-}
-160062 = {
-  name = "ゴスチェヴィド"  # Gostevid
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 160057
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  865.1.1 = {
-    death = "865.1.1"
-  }
-}
-160063 = {
-  name = "ボヤン"  # Bojan
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029118
-  father = 194146
-  816.1.1 = {
-    birth = "816.1.1"
-  }
-  860.1.1 = {
-    death = "860.1.1"
-  }
-}
-160064 = {
-  name = "ドブロミル"  # Dobromir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  father = 194135
-  816.1.1 = {
-    birth = "816.1.1"
-  }
-  860.1.1 = {
-    death = "860.1.1"
-  }
-}
-160089 = {
-  name = "イズブィグネフ"  # Izbygnev
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 6860
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160090 = {
-  name = "クラシミール"  # Krasimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 6860
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160091 = {
-  name = "ラージミル"  # Ladimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6829
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160092 = {
-  name = "ラドゴル"  # Radogor
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6829
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160093 = {
-  name = "スヴャトゴール"  # Svyatogor
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6831
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160094 = {
-  name = "チホミル"  # Tihomir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6831
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160095 = {
-  name = "ゴドスラフ"  # Godoslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6832
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160096 = {
-  name = "ヴャチェスラフ"  # Vyacheslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6832
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160097 = {
-  name = "ドブロフラド"  # Dobrovlad
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6833
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160098 = {
-  name = "ジロスラフ"  # Zhiroslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6833
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160099 = {
-  name = "ズヴォニミル"  # Zvonimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029137
-  father = 6826
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160100 = {
-  name = "ヴェリミル"  # Velimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029137
-  father = 6826
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160101 = {
-  name = "ブリャチェスラフ"  # Bryacheslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  father = 159720
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160102 = {
-  name = "ヴェンシェスラフ"  # Venceslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  father = 159720
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160103 = {
-  name = "ヤロスラフ"  # Yaroslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  father = 6825
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160104 = {
-  name = "ブジミル"  # Budimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029117
-  father = 6825
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160105 = {
-  name = "ムラダン"  # Mladan
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 159719
-  860.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160106 = {
-  name = "ラードムィシリ"  # Radomysl
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 159719
-  861.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160107 = {
-  name = "スヴャトヴィト"  # Svetovid
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 6859
-  862.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160108 = {
-  name = "プレドラグ"  # Predrag
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029116
-  father = 6859
-  863.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160109 = {
-  name = "スヴャトゴール"  # Svyatogor
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6835
-  851.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160110 = {
-  name = "トヴェルジミル"  # Tverdimir
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029136
-  father = 6835
-  852.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160111 = {
-  name = "メチスラフ"  # Mechislav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 159721
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-160112 = {
-  name = "クリスラフ"  # Kreslav
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 159721
-  851.1.1 = {
-    birth = "851.1.1"
-  }
-  905.1.1 = {
-    death = "905.1.1"
-  }
-}
-160113 = {
-  name = "ヴァジム"  # Vadim
-  religion = "slavic_pagan"
-  culture = "russian"
-  dynasty = 1029138
-  father = 159721
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  905.1.1 = {
-    death = "905.1.1"
-  }
-}
-160134 = {
-  name = "ラドミル"  # Radomir
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029116
-  father = 160049
-  810.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-160135 = {
-  name = "スタニスラフ"  # Stanislav
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029116
-  father = 6869
-  857.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160136 = {
-  name = "ヴラスチミル"  # Vlastimir
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029116
-  father = 6869
-  858.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-160137 = {
-  name = "ロスチスラフ"  # Rostislav
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029117
-  father = 6868
-  862.1.1 = {
-    birth = yes
-  }
-  905.1.1 = {
-    death = yes
-  }
-}
-160138 = {
-  name = "カジミール"  # Kazimir
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029117
-  father = 6868
-  863.1.1 = {
-    birth = yes
-  }
-  905.1.1 = {
-    death = yes
-  }
-}
-160139 = {
-  name = "ヴェリミル"  # Velimir
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029137
-  father = 194141
-  810.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-160140 = {
-  name = "スヴェトスラフ"  # Svetoslav
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029137
-  father = 6870
-  857.1.1 = {
-    birth = yes
-  }
-  905.1.1 = {
-    death = yes
-  }
-}
-160141 = {
-  name = "ズヴォニミル"  # Zvonimir
-  religion = "slavic_pagan"
-  culture = russian
-  dynasty = 1029137
-  father = 6870
-  858.1.1 = {
-    birth = yes
-  }
-  905.1.1 = {
-    death = yes
-  }
-}
-161257 = {
-  name = "ヴィシャスラヴァ"  # Wyszeslawa
+13501 = {
+  name = "ドブロネガ・マリア"  # Dobronega Maria
   female = yes
   dynasty = 705
   religion = "orthodox"
   culture = "russian"
-  father = 628
-  mother = 125044
-  1047.1.1 = {
-    birth = "1047.1.1"
-  }
-  1099.1.1 = {
-    death = "1099.1.1"
-  }
-}
-168530 = {
-  name = "ソフィア"  # Sofia
-  female = yes
-  dynasty = 705
-  religion = "orthodox"
-  culture = "russian"
-  trait = "bastard"
   father = 608
-  990.1.1 = {
-    birth = yes
+  1012.1.2 = {
+    birth = "1012.1.2"
   }
-  1051.1.1 = {
-    death = yes
+  1087.1.2 = {
+    death = "1087.1.2"
   }
 }
-170087 = {
-  name = "アナスタシア"  # Anastasia
-  female = yes
-  dynasty = 705
+20416 = {
+  name = "ドミトリィ"  # Dmitrii
+  dynasty = 100583
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
   religion = "orthodox"
   culture = "russian"
-  father = 125130
-  mother = 125141
-  1229.1.1 = {
-    birth = "1229.1.1"
+  trait = "envious"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1270.1.1 = {
-    death = "1270.1.1"
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-170099 = {
-  name = "ヤロポルク"  # Iaropolk
-  dynasty = 705
+20419 = {
+  name = "ドマジル"  # Domazhir
+  dynasty = 100408
+  martial = 4
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 8
   religion = "orthodox"
   culture = "russian"
-  father = 222525
-  mother = 30201
-  1137.1.2 = {
-    birth = "1137.1.2"
+  trait = "proud"
+  trait = "underhanded_rogue"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1168.1.2 = {
-    add_spouse = 170100
-  }
-  1170.3.7 = {
-    death = "1168.3.7"
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-170100 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 705
+20420 = {
+  name = "ボリス"  # Boris
+  dynasty = 100571
+  martial = 4
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
   religion = "orthodox"
   culture = "russian"
-  father = 222650
-  mother = 222651
-  1152.1.2 = {
-    birth = "1152.1.2"
+  trait = "flamboyant_schemer"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1223.1.2 = {
-    death = "1223.1.2"
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-170101 = {
-  name = "ヴァシリコ"  # Vasilko
-  dynasty = 705
+20421 = {
+  name = "ジロスラフ"  # Zhiroslav
+  dynasty = 100572
+  martial = 8
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 8
   religion = "orthodox"
   culture = "russian"
-  father = 170099
-  1153.1.2 = {
-    birth = "1153.1.2"
+  trait = "honest"
+  trait = "flamboyant_schemer"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1175.1.2 = {
-    add_spouse = 170102
-  }
-  1178.1.2 = {
-    death = "1178.1.2"
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-194131 = {
-  name = "ヴィシェスラフ"  # Vysheslav
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029136
-  720.1.1 = {
-    birth = yes
+20423 = {
+  name = "アレクサンドリィ"  # Alexandrii
+  dynasty = 100570
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "orthodox"
+  culture = "russian"
+  trait = "hunchback"
+  trait = "flamboyant_schemer"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  760.1.1 = {
-    death = yes
-  }
-}
-194132 = {
-  name = "ラジスラフ"  # Rodislav
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029136
-  father = 194131
-  743.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-194133 = {
-  name = "スヴェトザル"  # Svetozar
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029116
-  750.1.1 = {
-    birth = yes
+20424 = {
+  name = "ゲオルギー"  # Georgii
+  dynasty = 100575
+  martial = 4
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "orthodox"
+  culture = "russian"
+  trait = "envious"
+  trait = "zealous"
+  trait = "underhanded_rogue"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  799.1.1 = {
-    death = yes
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-194134 = {
+20445 = {
+  name = "ドマスラフ"  # Domaslav
+  dynasty = 100414
+  martial = 4
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "orthodox"
+  culture = "russian"
+  trait = "greedy"
+  trait = "scholarly_theologian"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20446 = {
+  name = "ドマジル"  # Domazhir
+  dynasty = 100413
+  martial = 4
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 4
+  religion = "orthodox"
+  culture = "russian"
+  trait = "cynical"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20448 = {
+  name = "ドマスラフ"  # Domaslav
+  dynasty = 100551
+  martial = 4
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 5
+  religion = "orthodox"
+  culture = "russian"
+  trait = "greedy"
+  trait = "proud"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20449 = {
+  name = "オレグ"  # Oleg
+  dynasty = 100417
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "orthodox"
+  culture = "russian"
+  trait = "gluttonous"
+  trait = "martial_cleric"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20450 = {
+  name = "フョードル"  # Fedor
+  dynasty = 100586
+  martial = 4
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 5
+  religion = "orthodox"
+  culture = "russian"
+  trait = "honest"
+  trait = "lisp"
+  trait = "amateurish_plotter"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20451 = {
+  name = "シメオン"  # Simeon
+  dynasty = 100580
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 8
+  religion = "orthodox"
+  culture = "russian"
+  trait = "envious"
+  trait = "clubfooted"
+  trait = "flamboyant_schemer"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20453 = {
   name = "イーゴリ"  # Igor
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029117
-  738.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194135 = {
-  name = "イーゴリ"  # Igor
-  religion = "slavic_pagan"
-  culture = "ilmenian"
-  dynasty = 1029117
-  father = 194134
-  764.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194136 = {
-  name = "ブリャチスラフ"  # Briachislav
-  dynasty = 1029167
-  religion = slavic_pagan
-  culture = volhynian
-  733.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194137 = {
-  name = "スヴェトザル"  # Svetozar
-  dynasty = 1029138
-  religion = slavic_pagan
-  culture = volhynian
-  father = 194136
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194138 = {
-  name = "グレプ"  # Gleb
-  dynasty = 1029138
-  religion = slavic_pagan
-  culture = russian
-  father = 194137
-  810.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-194139 = {
-  name = "ドブラヴァ"  # Dobrava
-  female = yes
-  dynasty = 1045024
-  religion = slavic_pagan
-  culture = volhynian
-  750.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194140 = {
-  name = "スタニスラフ"  # Stanislav
-  dynasty = 1029137
-  religion = slavic_pagan
-  culture = severian
-  733.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194141 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 1029137
-  religion = slavic_pagan
-  culture = severian
-  father = 194140
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194142 = {
-  name = "スヴャトスラフ"  # Sviatoslav
-  dynasty = 1029137
-  religion = slavic_pagan
-  culture = severian
-  father = 194140
-  746.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194143 = {
-  name = "ヴォロダール"  # Volodar
-  dynasty = 1029137
-  religion = slavic_pagan
-  culture = severian
-  father = 194140
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194144 = {
-  name = "スヴェトザル"  # Svetozar
-  dynasty = 1029138
-  religion = slavic_pagan
-  culture = ilmenian
-  father = 194137
-  802.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    death = yes
-  }
-}
-194145 = {
-  name = "ヴォロダール"  # Volodar
-  dynasty = 1029118
-  religion = slavic_pagan
-  culture = ilmenian
-  733.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194146 = {
-  name = "イリヤ"  # Iliya
-  dynasty = 1029118
-  religion = slavic_pagan
-  culture = ilmenian
-  father = 194145
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194177 = {
-  name = "イヴァン"  # Ivan
-  dynasty = 11107
+  dynasty = 100577
+  martial = 5
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 7
   religion = "orthodox"
   culture = "russian"
-  father = 125244
-  1217.1.2 = {
-    birth = yes
+  trait = "temperate"
+  trait = "martial_cleric"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1258.1.2 = {
-    death = yes
-  }
-}
-194184 = {
-  name = "フセヴォロド"  # Vselovod
-  dynasty = 101803
-  religion = "orthodox"
-  culture = "russian"
-  1188.1.1 = {
-    birth = yes
-  }
-  1219.7.2 = {
-    capital = "c_novgorod"
-  }
-  1220.1.1 = {
-    capital = "c_novgorod"
-  }
-  1234.1.1 = {
-    death = yes
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-194185 = {
-  name = "フセヴォロド"  # Vselovod
-  dynasty = 101803
+20454 = {
+  name = "オレグ"  # Oleg
+  dynasty = 100581
+  martial = 6
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
   religion = "orthodox"
   culture = "russian"
-  father = 194184
-  1210.5.5 = {
-    birth = yes
+  trait = "just"
+  trait = "envious"
+  trait = "proud"
+  trait = "honest"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1260.5.1 = {
-    death = yes
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
-194186 = {
-  name = "ヤロポルク"  # Yaropolk
-  dynasty = 101803
+20458 = {
+  name = "ユーリー"  # Iurii
+  dynasty = 100535
+  martial = 5
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
   religion = "orthodox"
   culture = "russian"
-  father = 194184
-  1212.4.5 = {
-    birth = yes
+  trait = "hunchback"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1261.3.1 = {
-    death = yes
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20459 = {
+  name = "ミロスラフ"  # Miloslav
+  dynasty = 100549
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 4
+  religion = "orthodox"
+  culture = "russian"
+  trait = "cynical"
+  trait = "scholarly_theologian"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20468 = {
+  name = "トリフォン"  # Trifon
+  dynasty = 100418
+  martial = 8
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "orthodox"
+  culture = "russian"
+  trait = "deceitful"
+  trait = "tough_soldier"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+20870 = {
+  name = "アイユーブ"  # Ayyub
+  dynasty = 101018
+  martial = 5
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "russian"
+  trait = "martial_cleric"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
 218003 = {
@@ -9146,1274 +6851,87 @@
     death = "1194.1.2"
   }
 }
-256042 = {
-  name = "オレグ"  # Oleg
-  dynasty = 1061019
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  745.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-256043 = {
-  name = "ムスチスラフ"  # Mstislav
-  dynasty = 1061020
-  religion = "slavic_pagan"
-  culture = "russian"
-  840.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-256044 = {
-  name = "ドブロスラヴ"  # Dobroslav
-  dynasty = 1061021
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  748.1.1 = {
-    birth = yes
-  }
-  775.1.1 = {
-    death = yes
-  }
-}
-256045 = {
-  name = "ドブロスラヴ"  # Dobroslav
-  dynasty = 1061022
-  religion = "slavic_pagan"
-  culture = "russian"
-  833.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-256046 = {
-  name = "リウドミール"  # Lyubomir
-  dynasty = 1061023
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  751.1.1 = {
-    birth = yes
-  }
-  812.1.1 = {
-    death = yes
-  }
-}
-256047 = {
-  name = "ラドヴァン"  # Radovan
-  dynasty = 1061024
-  religion = "slavic_pagan"
-  culture = "russian"
-  840.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-256048 = {
-  name = "プシェミスル"  # Premysl
-  dynasty = 1061025
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  741.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-256049 = {
-  name = "フセヴォロド"  # Vsevolod
-  dynasty = 1061026
-  religion = "slavic_pagan"
-  culture = "russian"
-  840.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-256050 = {
-  name = "ミロドラグ"  # Milodrag
-  dynasty = 1061027
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  720.1.1 = {
-    birth = yes
-  }
-  781.1.1 = {
-    death = yes
-  }
-}
-256051 = {
-  name = "グリゴリー"  # Grigorii
-  dynasty = 1061027
-  religion = "slavic_pagan"
-  culture = "russian"
-  830.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-256055 = {
-  name = "チスラーフル"  # Tislavl
-  dynasty = 1061035
-  religion = "slavic_pagan"
-  culture = "volhynian"
-  729.1.1 = {
-    birth = yes
-  }
-  784.1.1 = {
-    death = yes
-  }
-}
-256059 = {
-  name = "ピョートル"  # Piotr
-  dynasty = 1061039
-  religion = "slavic_pagan"
-  culture = "russian"
-  830.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-256060 = {
-  name = "アレクセイ"  # Alexei
-  dynasty = 1061040
-  religion = orthodox
-  culture = russian
-  1100.1.1 = {
-    birth = yes
-  }
-  1163.8.6 = {
-    death = yes
-  }
-}
-256061 = {
-  name = "アレクセイ"  # Alexei
-  dynasty = 1061040
-  father = 256060
-  religion = orthodox
-  culture = russian
-  1125.1.1 = {
-    birth = yes
-  }
-  1182.3.4 = {
-    death = yes
-  }
-}
-256062 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 1061040
-  father = 256060
-  religion = orthodox
-  culture = russian
-  1125.1.1 = {
-    birth = yes
-  }
-  1187.3.4 = {
-    death = yes
-  }
-}
-256063 = {
-  name = "グリゴリー"  # Grigoriy
-  dynasty = 1061040
-  father = 256061
-  religion = orthodox
-  culture = russian
-  1151.11.9 = {
-    birth = yes
-  }
-  1189.4.7 = {
-    death = yes
-  }
-}
-256064 = {
-  name = "ボリス"  # Boris
-  dynasty = 1061040
-  father = 256061
-  religion = orthodox
-  culture = russian
-  1155.10.5 = {
-    birth = yes
-  }
-  1197.5.5 = {
-    death = yes
-  }
-}
-256065 = {
-  name = "アンドレイ"  # Andrei
-  dynasty = 1061040
-  father = 256063
-  religion = orthodox
-  culture = russian
-  1180.4.10 = {
-    birth = yes
-  }
-  1240.7.7 = {
-    death = yes
-  }
-}
-256067 = {
-  name = "イヴァン"  # Ivan
-  dynasty = 1061046
-  religion = orthodox
-  culture = russian
-  1022.1.1 = {
-    birth = yes
-  }
-  1078.1.1 = {
-    death = yes
-  }
-}
-256068 = {
-  name = "イヴァン"  # Ivan
-  dynasty = 1061046
-  father = 256067
-  religion = orthodox
-  culture = russian
-  1045.1.1 = {
-    birth = yes
-  }
-  1097.1.1 = {
-    death = yes
-  }
-}
-256069 = {
-  name = "ニキータ"  # Nikita
-  dynasty = 1061046
-  father = 256067
-  religion = orthodox
-  culture = russian
-  1048.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-256070 = {
-  name = "ヴァシリコ"  # Vasilko
-  dynasty = 1061047
-  religion = orthodox
-  culture = russian
-  1030.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-256071 = {
-  name = "ヴァシリコ"  # Vasilko
-  dynasty = 1061047
-  father = 256070
-  religion = orthodox
-  culture = russian
-  1053.1.1 = {
-    birth = yes
-  }
-  1095.1.1 = {
-    death = yes
-  }
-}
-256072 = {
-  name = "ログネダ"  # Rogneda
-  dynasty = 1061047
-  father = 256070
+40600 = {
+  name = "エフプラクシア"  # Yevpraxia
   female = yes
-  religion = orthodox
-  culture = russian
-  1055.1.1 = {
-    birth = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 626
+  mother = 761
+  1060.1.2 = {
+    birth = "1060.1.2"
   }
-  1102.1.1 = {
-    death = yes
-  }
-}
-256073 = {
-  name = "ボリス"  # Boris
-  dynasty = 1061047
-  father = 256070
-  religion = orthodox
-  culture = russian
-  1059.1.1 = {
-    birth = yes
-  }
-  1110.1.1 = {
-    death = yes
+  1110.1.2 = {
+    death = "1110.1.2"
   }
 }
-256074 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 1061048
-  religion = orthodox
-  culture = russian
-  1020.1.1 = {
-    birth = yes
+40601 = {
+  name = "プレドスラヴァ"  # Predslava
+  female = yes
+  religion = "orthodox"
+  culture = "russian"
+  1047.1.2 = {
+    birth = "1047.1.2"
   }
-  1064.1.1 = {
-    death = yes
-  }
-}
-256075 = {
-  name = "フセヴォロド"  # Vsevolod
-  dynasty = 1061048
-  father = 256074
-  religion = orthodox
-  culture = russian
-  1042.1.1 = {
-    birth = yes
-  }
-  1095.1.1 = {
-    death = yes
+  1097.1.2 = {
+    death = "1097.1.2"
   }
 }
-256076 = {
-  name = "パーヴェル"  # Pavel
-  dynasty = 1061048
-  father = 256074
-  religion = orthodox
-  culture = russian
-  1045.1.1 = {
-    birth = yes
+40602 = {
+  name = "アンナ"  # Anna
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "zealous"
+  father = 630
+  mother = 1727
+  1055.1.2 = {
+    birth = "1055.1.2"
   }
-  1099.1.1 = {
-    death = yes
+  1112.11.2 = {
+    death = "1112.11.2"
   }
 }
-256077 = {
+40603 = {
   name = "ソフィア"  # Sofia
-  dynasty = 1061048
   female = yes
-  father = 256074
-  religion = orthodox
-  culture = russian
-  1050.1.1 = {
-    birth = yes
+  religion = "orthodox"
+  culture = "russian"
+  1035.1.2 = {
+    birth = "1035.1.2"
   }
-  1099.1.1 = {
-    death = yes
+  1085.1.2 = {
+    death = "1085.1.2"
   }
 }
-256078 = {
-  name = "エリザヴェータ"  # Yelizaveta
-  dynasty = 1061049
+40604 = {
+  name = "ロスチスラフ"  # Rostislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1070.1.2 = {
+    birth = "1070.1.2"
+  }
+  1130.1.2 = {
+    death = "1130.1.2"
+  }
+}
+41101 = {
+  name = "アガタ"  # Agatha
   female = yes
-  religion = orthodox
-  culture = russian
-  1038.1.1 = {
-    birth = yes
-  }
-  1088.1.5 = {
-    death = yes
-  }
-}
-256079 = {
-  name = "ヤロスラヴァ"  # Yaroslava
-  dynasty = 1061049
-  female = yes
-  mother = 256078
-  religion = orthodox
-  culture = russian
-  1060.1.1 = {
-    birth = yes
-  }
-  1095.1.5 = {
-    death = yes
-  }
-}
-256080 = {
-  name = "マリーア"  # Maria
-  dynasty = 1061049
-  female = yes
-  mother = 256078
-  religion = orthodox
-  culture = russian
-  1064.1.1 = {
-    birth = yes
-  }
-  1109.1.5 = {
-    death = yes
-  }
-}
-256082 = {
-  name = "エリェミェーイ"  # Yeremey
-  dynasty = 1061051
-  religion = orthodox
-  culture = russian
-  1045.1.1 = {
-    birth = yes
-  }
-  1072.1.1 = {
-    death = yes
-  }
-}
-256083 = {
-  name = "エリェミェーイ"  # Yeremey
-  dynasty = 1061051
-  father = 256082
-  religion = orthodox
-  culture = russian
-  1063.1.1 = {
-    birth = yes
-  }
-  1090.1.1 = {
-    death = yes
-  }
-}
-256084 = {
-  name = "キリル"  # Kirill
-  dynasty = 1061052
-  religion = orthodox
-  culture = russian
-  1030.1.1 = {
-    birth = yes
-  }
-  1075.1.1 = {
-    death = yes
-  }
-}
-256085 = {
-  name = "ラコフ"  # Iakov
-  dynasty = 1061052
-  father = 256084
-  religion = orthodox
-  culture = russian
-  1054.1.1 = {
-    birth = yes
-  }
-  1087.1.1 = {
-    death = yes
-  }
-}
-256086 = {
-  name = "ダニール"  # Daniil
-  dynasty = 1061052
-  father = 256084
-  religion = orthodox
-  culture = russian
-  1057.1.1 = {
-    birth = yes
-  }
-  1093.1.1 = {
-    death = yes
-  }
-}
-256087 = {
-  name = "コンスタンチン"  # Konstantin
-  dynasty = 1061053
-  religion = orthodox
-  culture = russian
-  1022.1.1 = {
-    birth = yes
-  }
-  1081.1.1 = {
-    death = yes
-  }
-}
-256088 = {
-  name = "コンスタンチン"  # Konstantin
-  dynasty = 1061053
-  father = 256087
-  religion = orthodox
-  culture = russian
-  1050.1.1 = {
-    birth = yes
-  }
-  1112.1.1 = {
-    death = yes
-  }
-}
-256089 = {
-  name = "オレグ"  # Oleg
-  dynasty = 1061019
-  religion = orthodox
-  culture = russian
-  1048.1.1 = {
-    birth = yes
-  }
-  1081.1.1 = {
-    death = yes
-  }
-}
-256090 = {
-  name = "イリヤ"  # Iliya
-  dynasty = 1061027
-  religion = orthodox
-  culture = russian
-  1045.1.1 = {
-    birth = yes
-  }
-  1084.1.2 = {
-    death = yes
-  }
-}
-256091 = {
-  name = "スチパン"  # Stepan
-  dynasty = 1061054
-  religion = orthodox
-  culture = russian
-  1038.1.1 = {
-    birth = yes
-  }
-  1091.1.2 = {
-    death = yes
-  }
-}
-256092 = {
-  name = "ヴォロダール"  # Volodar
-  dynasty = 1029117
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = tough_soldier
-  998.1.1 = {
-    birth = yes
-  }
-  1070.1.1 = {
-    death = yes
-  }
-}
-256093 = {
-  name = "ユーリー"  # Yuriy
-  dynasty = 1029117
-  father = 256092
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = skilled_tactician
-  trait = robust
-  1031.1.1 = {
-    birth = yes
-  }
-  1089.1.1 = {
-    death = yes
-  }
-}
-256094 = {
-  name = "イリーナ"  # Irina
-  dynasty = 1029117
-  father = 256092
-  female = yes
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = tough_soldier
-  1036.1.1 = {
-    birth = yes
-  }
-  1080.1.1 = {
-    death = yes
-  }
-}
-256095 = {
-  name = "シメオン"  # Simeon
-  dynasty = 1029117
-  father = 256093
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = tough_soldier
-  1060.1.1 = {
-    birth = yes
-  }
-  1122.1.1 = {
-    death = yes
-  }
-}
-256096 = {
-  name = "リュバヴァ"  # Liubava
-  dynasty = 1029117
-  father = 256093
-  female = yes
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = tough_soldier
-  1061.1.1 = {
-    birth = yes
-  }
-  1129.1.1 = {
-    death = yes
-  }
-}
-256097 = {
-  name = "ヴォロダール"  # Volodar
-  dynasty = 1029117
-  mother = 256094
-  religion = orthodox
-  culture = russian
-  trait = ambitious
-  trait = tough_soldier
-  1059.1.1 = {
-    birth = yes
-  }
-  1110.1.1 = {
-    death = yes
-  }
-}
-256098 = {
-  name = "ドミトリー"  # Dmitriy
-  dynasty = 1061055
-  religion = orthodox
-  culture = russian
-  1049.1.1 = {
-    birth = yes
-  }
-  1087.1.2 = {
-    death = yes
-  }
-}
-256099 = {
-  name = "スヴャトポルク"  # Sviatopolk
-  dynasty = 1061056
-  religion = orthodox
-  culture = russian
-  1032.1.1 = {
-    birth = yes
-  }
-  1077.1.12 = {
-    death = yes
-  }
-}
-256100 = {
-  name = "ダニール"  # Daniil
-  dynasty = 1061057
-  religion = orthodox
-  culture = russian
-  1040.1.1 = {
-    birth = yes
-  }
-  1087.1.2 = {
-    death = yes
-  }
-}
-256101 = {
-  name = "スジスラフ"  # Sudislav
-  dynasty = 1029118
-  religion = orthodox
-  culture = russian
-  1021.1.1 = {
-    birth = yes
-  }
-  1088.1.1 = {
-    death = yes
-  }
-}
-256102 = {
-  name = "イーゴリ"  # Igor
-  dynasty = 1029118
-  father = 256101
-  religion = orthodox
-  culture = russian
-  1045.1.1 = {
-    birth = yes
-  }
-  1104.1.1 = {
-    death = yes
-  }
-}
-256118 = {
-  name = "ブリャチスラフ"  # Briachislav
-  dynasty = 1061059
-  father = 256115
-  religion = orthodox
-  culture = russian
-  1051.1.1 = {
-    birth = yes
-  }
-  1077.1.2 = {
-    death = yes
-  }
-}
-256119 = {
-  name = "スヴェトザル"  # Svetozar
-  dynasty = 1061060
-  father = 256115
-  religion = orthodox
-  culture = russian
-  1049.1.1 = {
-    birth = yes
-  }
-  1079.11.12 = {
-    death = yes
-  }
-}
-256120 = {
-  name = "コズマ"  # Koz'ma
-  dynasty = 1061061
-  father = 256115
-  religion = orthodox
-  culture = russian
-  1053.1.1 = {
-    birth = yes
-  }
-  1077.5.8 = {
-    death = yes
-  }
-}
-256121 = {
-  name = "イェメリヤーン"  # Yemelyan
-  dynasty = 1061062
-  religion = orthodox
-  culture = russian
-  1044.1.1 = {
-    birth = yes
-  }
-  1088.1.1 = {
-    death = yes
-  }
-}
-256122 = {
-  name = "レフ"  # Lev
-  dynasty = 1029118
-  religion = orthodox
-  culture = russian
-  1027.1.1 = {
-    birth = yes
-  }
-  1089.1.1 = {
-    death = yes
-  }
-}
-256123 = {
-  name = "マトフェイ"  # Matfei
-  dynasty = 1029118
-  father = 256122
-  religion = orthodox
-  culture = russian
-  1049.1.1 = {
-    birth = yes
-  }
-  1103.1.1 = {
-    death = yes
-  }
-}
-260708 = {
-  name = "フェドット"  # Fedot
-  dynasty = 1062334
-  religion = slavic_pagan
-  culture = russian
-  903.1.1 = {
-    birth = yes
-  }
-  965.1.1 = {
-    death = yes
-  }
-}
-260709 = {
-  name = "プチャータ"  # Putiata
-  dynasty = 1062335
-  religion = slavic_pagan
-  culture = russian
-  907.1.1 = {
-    birth = yes
-  }
-  957.1.1 = {
-    death = yes
-  }
-}
-260710 = {
-  name = "ロジスラフ"  # Rodislav
-  dynasty = 1062336
-  religion = slavic_pagan
-  culture = russian
-  904.1.1 = {
-    birth = yes
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-260711 = {
-  name = "シメオン"  # Simeon
-  dynasty = 1062337
-  religion = slavic_pagan
-  culture = russian
-  902.1.1 = {
-    birth = yes
-  }
-  951.1.1 = {
-    death = yes
-  }
-}
-260712 = {
-  name = "オレグ"  # Oleg
-  dynasty = 1062338
-  religion = slavic_pagan
-  culture = russian
-  889.1.1 = {
-    birth = yes
-  }
-  943.1.1 = {
-    death = yes
-  }
-}
-260713 = {
-  name = "イジャスラフ"  # Iziaslav
-  dynasty = 1062339
-  religion = slavic_pagan
-  culture = russian
-  898.1.1 = {
-    birth = yes
-  }
-  939.1.1 = {
-    death = yes
-  }
-}
-260714 = {
-  name = "ミトロファン"  # Mitrofan
-  dynasty = 1062340
-  religion = slavic_pagan
-  culture = russian
-  910.1.1 = {
-    birth = yes
-  }
-  976.1.1 = {
-    death = yes
-  }
-}
-260715 = {
-  name = "パーヴェル"  # Pavel
-  dynasty = 1062341
-  religion = slavic_pagan
-  culture = russian
-  father = 260758
-  903.1.1 = {
-    birth = yes
-  }
-  967.1.1 = {
-    death = yes
-  }
-}
-260716 = {
-  name = "レフ"  # Lev
-  dynasty = 1062341
-  religion = slavic_pagan
-  culture = russian
-  father = 260758
-  905.1.1 = {
-    birth = yes
-  }
-  972.1.1 = {
-    death = yes
-  }
-}
-260717 = {
-  name = "ブリャチスラフ"  # Briachislav
-  dynasty = 1062342
-  religion = slavic_pagan
-  culture = russian
-  909.1.1 = {
-    birth = yes
-  }
-  976.1.1 = {
-    death = yes
-  }
-}
-260718 = {
-  name = "ガヴリール"  # Gavriil
-  dynasty = 1062343
-  religion = slavic_pagan
-  culture = russian
-  874.1.1 = {
-    birth = yes
-  }
-  923.1.1 = {
-    death = yes
-  }
-}
-260719 = {
-  name = "スヴャトスラフ"  # Sviatoslav
-  dynasty = 1062343
-  religion = slavic_pagan
-  culture = russian
-  father = 260718
-  905.1.1 = {
-    birth = yes
-  }
-  968.1.1 = {
-    death = yes
-  }
-}
-260720 = {
-  name = "スヴャトポルク"  # Sviatopolk
-  dynasty = 1062343
-  religion = slavic_pagan
-  culture = russian
-  father = 260718
-  909.1.1 = {
-    birth = yes
-  }
-  956.1.1 = {
-    death = yes
-  }
-}
-260721 = {
-  name = "プチャータ"  # Putiata
-  dynasty = 1062344
-  religion = slavic_pagan
-  culture = russian
-  915.1.1 = {
-    birth = yes
-  }
-  963.1.1 = {
-    death = yes
-  }
-}
-260722 = {
-  name = "ニキータ"  # Nikita
-  dynasty = 1062345
-  religion = slavic_pagan
-  culture = russian
-  918.1.1 = {
-    birth = yes
-  }
-  978.1.1 = {
-    death = yes
-  }
-}
-260723 = {
-  name = "グリゴリー"  # Grigoriy
-  dynasty = 1062346
-  religion = slavic_pagan
-  culture = russian
-  873.1.1 = {
-    birth = yes
-  }
-  929.1.1 = {
-    death = yes
-  }
-}
-260724 = {
-  name = "フョードル"  # Feodor
-  dynasty = 1062346
-  religion = slavic_pagan
-  culture = russian
-  father = 260723
-  905.1.1 = {
-    birth = yes
-  }
-  967.1.1 = {
-    death = yes
-  }
-}
-260725 = {
-  name = "グリゴリー"  # Grigoriy
-  dynasty = 1062346
-  religion = slavic_pagan
-  culture = russian
-  father = 260723
-  907.1.1 = {
-    birth = yes
-  }
-  954.1.1 = {
-    death = yes
-  }
-}
-260726 = {
-  name = "ヴィシャタ"  # Vyshata
-  dynasty = 1062347
-  religion = slavic_pagan
-  culture = russian
-  914.1.1 = {
-    birth = yes
-  }
-  983.1.1 = {
-    death = yes
-  }
-}
-260727 = {
-  name = "ウラディスラフ"  # Vladislav
-  dynasty = 1062348
-  religion = slavic_pagan
-  culture = russian
-  899.1.1 = {
-    birth = yes
-  }
-  949.1.1 = {
-    death = yes
-  }
-}
-260728 = {
-  name = "ルスラーン"  # Ruslan
-  dynasty = 1062349
-  religion = slavic_pagan
-  culture = russian
-  914.1.1 = {
-    birth = yes
-  }
-  973.1.1 = {
-    death = yes
-  }
-}
-260729 = {
-  name = "ヴェスヴォロド"  # Vesvolod
-  dynasty = 1062350
-  religion = slavic_pagan
-  culture = russian
-  904.1.1 = {
-    birth = yes
-  }
-  957.1.1 = {
-    death = yes
-  }
-}
-260730 = {
-  name = "ヴォイスラフ"  # Voislav
-  dynasty = 1062351
-  religion = slavic_pagan
-  culture = russian
-  908.1.1 = {
-    birth = yes
-  }
-  964.1.1 = {
-    death = yes
-  }
-}
-260732 = {
-  name = "ダニール"  # Daniil
-  dynasty = 1062353
-  religion = slavic_pagan
-  culture = russian
-  904.1.1 = {
-    birth = yes
-  }
-  945.1.1 = {
-    death = yes
-  }
-}
-260733 = {
-  name = "スヴェトザル"  # Svetozar
-  dynasty = 1062354
-  religion = slavic_pagan
-  culture = russian
-  899.1.1 = {
-    birth = yes
-  }
-  961.1.1 = {
-    death = yes
-  }
-}
-260734 = {
-  name = "フセヴォロド"  # Vsevolod
-  dynasty = 1062355
-  religion = slavic_pagan
-  culture = russian
-  907.1.1 = {
-    birth = yes
-  }
-  956.1.1 = {
-    death = yes
-  }
-}
-260735 = {
-  name = "チェレンチー"  # Terentiy
-  dynasty = 1062356
-  religion = slavic_pagan
-  culture = russian
-  918.1.1 = {
-    birth = yes
-  }
-  967.1.1 = {
-    death = yes
-  }
-}
-260736 = {
-  name = "プラスコーヴャ"  # Praskovya
-  female = yes
-  dynasty = 1062357
-  religion = slavic_pagan
-  culture = russian
-  915.1.1 = {
-    birth = yes
-  }
-  961.1.1 = {
-    death = yes
-  }
-}
-260737 = {
-  name = "ヴォロダール"  # Volodar
-  dynasty = 1062358
-  religion = slavic_pagan
-  culture = russian
-  893.1.1 = {
-    birth = yes
-  }
-  945.1.1 = {
-    death = yes
-  }
-}
-260738 = {
-  name = "エフィーム"  # Yefimiy
-  dynasty = 1062359
-  religion = slavic_pagan
-  culture = russian
-  871.1.1 = {
-    birth = yes
-  }
-  939.1.1 = {
-    death = yes
-  }
-}
-260739 = {
-  name = "ユーリー"  # Yuriy
-  dynasty = 1062360
-  religion = slavic_pagan
-  culture = russian
-  913.1.1 = {
-    birth = yes
-  }
-  975.1.1 = {
-    death = yes
-  }
-}
-260740 = {
-  name = "エリセイ"  # Yelisey
-  dynasty = 1062361
-  religion = slavic_pagan
-  culture = russian
-  904.1.1 = {
-    birth = yes
-  }
-  965.1.1 = {
-    death = yes
-  }
-}
-260741 = {
-  name = "ステパン"  # Stepan
-  dynasty = 1062362
-  religion = slavic_pagan
-  culture = russian
-  897.1.1 = {
-    birth = yes
-  }
-  959.1.1 = {
-    death = yes
-  }
-}
-260745 = {
-  name = "アレクサンドル"  # Alexandr
-  dynasty = 1062366
-  religion = slavic_pagan
-  culture = russian
-  868.1.1 = {
-    birth = yes
-  }
-  915.1.1 = {
-    death = yes
-  }
-}
-260746 = {
-  name = "アレクサンドル"  # Alexandr
-  dynasty = 1062366
-  religion = slavic_pagan
-  culture = russian
-  father = 260745
-  899.1.1 = {
-    birth = yes
-  }
-  948.1.1 = {
-    death = yes
-  }
-}
-260747 = {
-  name = "ダヴィド"  # Davyd
-  dynasty = 1062366
-  religion = slavic_pagan
-  culture = russian
-  father = 260745
-  902.1.1 = {
-    birth = yes
-  }
-  957.1.1 = {
-    death = yes
-  }
-}
-260748 = {
-  name = "ヴィシャタ"  # Vyshata
-  dynasty = 1062367
-  religion = slavic_pagan
-  culture = russian
-  909.1.1 = {
-    birth = yes
-  }
-  946.1.1 = {
-    death = yes
-  }
-}
-260749 = {
-  name = "ログヴォロド"  # Rogvolod
-  dynasty = 1062368
-  religion = slavic_pagan
-  culture = russian
-  908.1.1 = {
-    birth = yes
-  }
-  938.1.1 = {
-    death = yes
-  }
-}
-260750 = {
-  name = "ヴァシーリー"  # Vasiliy
-  dynasty = 1062369
-  religion = slavic_pagan
-  culture = russian
-  912.1.1 = {
-    birth = yes
-  }
-  956.1.1 = {
-    death = yes
-  }
-}
-260751 = {
-  name = "グリゴリー"  # Grigoriy
-  dynasty = 1062370
-  religion = slavic_pagan
-  culture = russian
-  914.1.1 = {
-    birth = yes
-  }
-  962.1.1 = {
-    death = yes
-  }
-}
-260758 = {
-  name = "パーヴェル"  # Pavel
-  dynasty = 1062341
-  religion = slavic_pagan
-  culture = russian
-  868.1.1 = {
-    birth = yes
-  }
-  934.1.1 = {
-    death = yes
-  }
-}
-260770 = {
-  name = "ヴァロポルク"  # Varopolk
-  dynasty = 1062381
-  religion = slavic_pagan
-  culture = russian
-  912.1.1 = {
-    birth = yes
-  }
-  959.1.1 = {
-    death = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  1015.1.2 = {
+    birth = "1015.1.2"
+  }
+  1093.1.2 = {
+    death = "1093.1.2"
   }
 }
 468830 = {
@@ -12608,5 +9126,3487 @@
   }
   1350.1.1 = {
     death = "1350.1.1"
+  }
+}
+601 = {
+  name = "オリガ"  # Olga
+  female = yes
+  religion = "slavic_pagan"
+  culture = "russian"
+  890.1.2 = {
+    birth = "890.1.2"
+    effect = {
+      set_character_flag = is_olga
+    }
+  }
+  950.1.1 = {
+    effect = {
+      religion = orthodox
+    }
+  }
+  969.1.2 = {
+    death = "969.1.2"
+  }
+}
+602 = {
+  name = "スヴャトスラフ"  # Sviatoslav
+  dynasty = 705
+  religion = "norse_pagan"
+  culture = "russian"
+  trait = "tough_soldier"
+  father = 600
+  mother = 601
+  942.1.2 = {
+    birth = "942.1.2"
+  }
+  957.1.2 = {
+    add_spouse = 599
+  }
+  972.1.2 = {
+    death = "972.1.2"
+  }
+}
+603 = {
+  name = "マルシャ"  # Malusha
+  female = yes
+  religion = "norse_pagan"
+  culture = "russian"
+  944.1.2 = {
+    birth = "944.1.2"
+  }
+  1015.1.2 = {
+    death = "1015.1.2"
+  }
+}
+604 = {
+  name = "ヤロポルク"  # Yaropolk
+  dynasty = 705
+  religion = "norse_pagan"
+  culture = "russian"
+  father = 602
+  mother = 599
+  958.1.2 = {
+    birth = "958.1.2"
+  }
+  980.1.2 = {
+    death = "980.1.2"
+  }
+}
+606 = {
+  name = "オレグ"  # Oleg
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 602
+  mother = 599
+  959.1.2 = {
+    birth = "959.1.2"
+  }
+  977.1.2 = {
+    death = "977.1.2"
+  }
+}
+608 = {
+  name = "ウラジーミル"  # Vladimir
+  dynasty = 705
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "orthodox"
+  culture = "russian"
+  trait = "envious"
+  trait = "zealous"
+  trait = "bastard"
+  trait = "skilled_tactician"
+  father = 602
+  mother = 603
+  960.1.2 = {
+    birth = "960.1.2"
+  }
+  977.1.2 = {
+    add_spouse = 609
+  }
+  980.1.1 = {
+    give_nickname = "nick_the_great"
+  }
+  989.1.2 = {
+    remove_spouse = 609
+  }
+  989.1.2 = {
+    add_spouse = 41100
+  }
+  1015.7.15 = {
+    death = "1015.7.15"
+  }
+}
+609 = {
+  name = "ログネダ"  # Rogneda
+  female = yes
+  dynasty = 703
+  religion = "orthodox"
+  culture = "russian"
+  960.1.2 = {
+    birth = "960.1.2"
+  }
+  989.1.2 = {
+    death = "989.1.2"
+  }
+}
+610 = {
+  name = "スヴャトポルク"  # Sviatopolk
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "envious"
+  trait = "wroth"
+  trait = "kinslayer"
+  trait = "misguided_warrior"
+  father = 604
+  979.1.2 = {
+    birth = "979.1.2"
+  }
+  1015.7.15 = {
+    give_nickname = "nick_the_accursed"
+  }
+  1016.1.2 = {
+    add_claim = d_kiev
+    add_claim = c_kiev
+    add_claim = c_korsun
+  }
+  1019.1.2 = {
+    death = "1019.1.2"
+  }
+}
+612 = {
+  name = "ヤロスラフ"  # Yaroslav
+  dynasty = 705
+  martial = 8
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 10
+  religion = "orthodox"
+  culture = "russian"
+  trait = "scholar"
+  trait = "midas_touched"
+  father = 608
+  mother = 609
+  983.1.2 = {
+    birth = "983.1.2"
+  }
+  1015.1.2 = {
+    add_claim = d_kiev
+  }
+  1016.1.2 = {
+    give_nickname = "nick_the_wise"
+  }
+  1019.1.2 = {
+    add_spouse = 100511
+  }
+  1054.2.20 = {
+    death = "1054.2.20"
+  }
+}
+616 = {
+  name = "イジャスラフ"  # Iziaslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  mother = 609
+  978.1.2 = {
+    birth = "978.1.2"
+  }
+  1001.1.2 = {
+    death = "1001.1.2"
+  }
+}
+618 = {
+  name = "ムスチスラフ"  # Mstislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  983.1.2 = {
+    birth = "983.1.2"
+  }
+  1020.1.2 = {
+    add_spouse = 122502
+  }
+  1036.1.2 = {
+    death = "1036.1.2"
+  }
+}
+620 = {
+  name = "スジスラフ"  # Sudislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  987.1.2 = {
+    birth = "987.1.2"
+  }
+  1063.1.2 = {
+    death = "1063.1.2"
+  }
+}
+622 = {
+  name = "ヴィシェスラフ"  # Vysheslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  977.1.2 = {
+    birth = "977.1.2"
+  }
+  1010.1.2 = {
+    death = "1010.1.2"
+  }
+}
+624 = {
+  name = "ボリス"  # Boris
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  986.1.2 = {
+    birth = "986.1.2"
+  }
+  1015.7.24 = {
+    death = "1015.7.24"
+  }
+}
+625 = {
+  name = "グレプ"  # Gleb
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 608
+  987.1.2 = {
+    birth = "987.1.2"
+  }
+  1015.9.9 = {
+    death = "1015.9.9"
+  }
+}
+626 = {
+  name = "イジャスラフ"  # Iziaslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1024.1.2 = {
+    birth = "1024.1.2"
+  }
+  1045.1.2 = {
+    add_spouse = 761
+  }
+  1078.10.3 = {
+    death = "1078.10.3"
+  }
+}
+627 = {
+  name = "アンナ"  # Anna
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1032.1.2 = {
+    birth = "1032.1.2"
+  }
+  1075.1.2 = {
+    death = "1075.1.2"
+  }
+}
+628 = {
+  name = "スヴャトスラフ"  # Sviatoslav
+  dynasty = 705
+  diplomacy = 8
+  stewardship = 7
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1027.1.2 = {
+    birth = "1027.1.2"
+  }
+  1045.1.2 = {
+    add_spouse = 125044
+  }
+  1070.1.2 = {
+    add_spouse = 1353
+  }
+  1076.12.27 = {
+    death = "1076.12.27"
+  }
+}
+630 = {
+  name = "フセヴォロド"  # Vsevolod
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "scholar"
+  father = 612
+  mother = 100511
+  1030.1.2 = {
+    birth = "1030.1.2"
+  }
+  1046.1.2 = {
+    add_spouse = 1727
+  }
+  1068.1.2 = {
+    add_spouse = 125092
+  }
+  1093.4.13 = {
+    death = "1093.4.13"
+  }
+}
+633 = {
+  name = "エリザヴェータ"  # Yelizaveta
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1025.1.2 = {
+    birth = "1025.1.2"
+  }
+  1067.1.5 = {
+    death = "1067.1.5"
+  }
+}
+634 = {
+  name = "ウラジーミル"  # Vladimir
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1020.1.2 = {
+    birth = "1020.1.2"
+  }
+  1052.10.4 = {
+    death = "1052.10.4"
+  }
+}
+637 = {
+  name = "アナスタシア"  # Anastasia
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1023.1.2 = {
+    birth = "1023.1.2"
+  }
+  1074.1.2 = {
+    death = "1074.1.2"
+  }
+}
+638 = {
+  name = "イーゴリ"  # Igor
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1037.1.2 = {
+    birth = "1037.1.2"
+  }
+  1060.1.2 = {
+    death = "1060.1.2"
+  }
+}
+642 = {
+  name = "ブリャチスラフ"  # Briachislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 616
+  997.1.2 = {
+    birth = "997.1.2"
+  }
+  1044.1.2 = {
+    death = "1044.1.2"
+  }
+}
+644 = {
+  name = "イェスタヒィ"  # Yevstafiy
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 618
+  mother = 122502
+  1021.1.2 = {
+    birth = "1021.1.2"
+  }
+  1033.1.2 = {
+    death = "1033.1.2"
+  }
+}
+650 = {
+  name = "フセスラフ"  # Vseslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "cynical"
+  trait = "skilled_tactician"
+  father = 642
+  1030.1.2 = {
+    birth = "1030.1.2"
+  }
+  1053.1.2 = {
+    add_spouse = 40603
+  }
+  1101.4.14 = {
+    death = "1101.4.14"
+  }
+}
+652 = {
+  name = "スヴャトポルク"  # Sviatopolk
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "legit_bastard"
+  father = 626
+  1050.11.8 = {
+    birth = "1050.11.8"
+  }
+  1113.4.16 = {
+    death = "1113.4.16"
+  }
+}
+654 = {
+  name = "グレプ"  # Gleb
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 628
+  mother = 125044
+  1046.1.2 = {
+    birth = "1046.1.2"
+  }
+  1078.5.30 = {
+    death = "1078.5.30"
+  }
+}
+656 = {
+  name = "ダヴィド"  # Davyd
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 628
+  mother = 125044
+  1050.1.2 = {
+    birth = "1050.1.2"
+  }
+  1123.1.2 = {
+    death = "1123.1.2"
+  }
+}
+658 = {
+  name = "ロマン"  # Roman
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 628
+  mother = 125044
+  1048.1.2 = {
+    birth = "1048.1.2"
+  }
+  1079.8.2 = {
+    death = "1079.8.2"
+  }
+}
+660 = {
+  name = "オレグ"  # Oleg
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "ambitious"
+  trait = "cynical"
+  father = 628
+  mother = 125044
+  1053.1.2 = {
+    birth = "1053.1.2"
+  }
+  1084.1.2 = {
+    add_spouse = 125051
+  }
+  1115.8.1 = {
+    death = "1115.8.1"
+  }
+}
+662 = {
+  name = "ヤロスラフ"  # Yaroslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 628
+  mother = 1353
+  1071.1.2 = {
+    birth = "1071.1.2"
+  }
+  1129.1.2 = {
+    death = "1129.1.2"
+  }
+}
+666 = {
+  name = "ウラジーミル"  # Vladimir
+  dynasty = 705
+  martial = 8
+  diplomacy = 9
+  intrigue = 6
+  stewardship = 9
+  religion = "orthodox"
+  culture = "russian"
+  trait = "genius"
+  father = 630
+  mother = 1727
+  1053.1.2 = {
+    birth = "1053.1.2"
+  }
+  1074.1.2 = {
+    add_spouse = 127
+  }
+  1125.5.19 = {
+    death = "1125.5.19"
+  }
+}
+668 = {
+  name = "ダヴィド"  # Davyd
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 638
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1113.7.27 = {
+    death = "1113.7.27"
+  }
+}
+670 = {
+  name = "ロスチスラフ"  # Rostislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 634
+  1038.1.2 = {
+    birth = "1038.1.2"
+  }
+  1057.1.1 = {
+    add_spouse = 41201
+  }
+  1067.2.3 = {
+    death = "1067.2.3"
+  }
+}
+672 = {
+  name = "グレプ"  # Gleb
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1053.1.2 = {
+    birth = "1053.1.2"
+  }
+  1090.1.2 = {
+    add_spouse = 125095
+  }
+  1119.9.13 = {
+    death = "1119.9.13"
+  }
+}
+674 = {
+  name = "ロマン"  # Roman
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1116.1.2 = {
+    death = "1116.1.2"
+  }
+}
+676 = {
+  name = "ダヴィド"  # Davyd
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1129.1.1 = {
+    death = "1129.1.1"
+  }
+}
+678 = {
+  name = "ブリャチスラフ"  # Briachislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 676
+  1080.1.2 = {
+    birth = "1080.1.2"
+  }
+  1124.1.2 = {
+    add_spouse = 125112
+  }
+  1135.1.2 = {
+    death = "1135.1.2"
+  }
+}
+680 = {
+  name = "ログヴォロド"  # Rogvolod
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1066.1.2 = {
+    birth = "1066.1.2"
+  }
+  1128.1.2 = {
+    death = "1128.1.2"
+  }
+}
+682 = {
+  name = "スヴャトスラフ"  # Sviatoslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 650
+  mother = 40603
+  1063.1.2 = {
+    birth = "1063.1.2"
+  }
+  1129.1.2 = {
+    death = "1129.1.2"
+  }
+}
+684 = {
+  name = "ヤロポルク"  # Yaropolk
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 626
+  mother = 761
+  1046.1.1 = {
+    birth = "1046.1.1"
+  }
+  1075.1.1 = {
+    add_spouse = 7061
+  }
+  1086.12.5 = {
+    death = "1086.12.5"
+  }
+}
+686 = {
+  name = "ムスチスラフ"  # Mstislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 626
+  mother = 761
+  1047.1.2 = {
+    birth = "1047.1.2"
+  }
+  1062.1.2 = {
+    add_spouse = 40601
+  }
+  1069.1.2 = {
+    death = "1069.1.2"
+  }
+}
+90135 = {
+  name = "ヴィシャタ"  # Vyshata
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 4
+  religion = "orthodox"
+  culture = "russian"
+  trait = "tough_soldier"
+  trait = "wroth"
+  trait = "brave"
+  1012.1.2 = {
+    birth = "1012.1.2"
+  }
+  1062.1.2 = {
+    death = "1062.1.2"
+  }
+}
+90136 = {
+  name = "イヴァン"  # Ivan
+  dynasty = 20080
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 4
+  religion = "orthodox"
+  culture = "russian"
+  trait = "skilled_tactician"
+  trait = "temperate"
+  trait = "zealous"
+  father = 90135
+  1042.1.2 = {
+    birth = "1042.1.2"
+  }
+  1092.1.2 = {
+    death = "1092.1.2"
+  }
+}
+90137 = {
+  name = "プチャータ"  # Putyata
+  dynasty = 20080
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 4
+  religion = "orthodox"
+  culture = "russian"
+  trait = "skilled_tactician"
+  trait = "deceitful"
+  trait = "cynical"
+  father = 90135
+  1050.1.2 = {
+    birth = "1050.1.2"
+  }
+  1100.1.2 = {
+    death = "1100.1.2"
+  }
+}
+90138 = {
+  name = "ネストル"  # Nestor
+  martial = 4
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 6
+  religion = "orthodox"
+  culture = "russian"
+  trait = "martial_cleric"
+  trait = "patient"
+  1056.1.2 = {
+    birth = "1056.1.2"
+  }
+  1106.1.2 = {
+    death = "1106.1.2"
+  }
+}
+90139 = {
+  name = "アントニウス"  # Antonius
+  dynasty = 20081
+  martial = 4
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 9
+  religion = "orthodox"
+  culture = "russian"
+  trait = "scholarly_theologian"
+  trait = "zealous"
+  trait = "humble"
+  983.1.2 = {
+    birth = "983.1.2"
+  }
+  1033.1.2 = {
+    death = "1033.1.2"
+  }
+}
+90140 = {
+  name = "テオドシウス"  # Theodosius
+  dynasty = 20081
+  martial = 4
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 9
+  religion = "orthodox"
+  culture = "russian"
+  trait = "scholarly_theologian"
+  trait = "zealous"
+  trait = "just"
+  trait = "temperate"
+  1036.1.2 = {
+    birth = "1036.1.2"
+  }
+  1086.1.2 = {
+    death = "1086.1.2"
+  }
+}
+90141 = {
+  name = "ラティボル"  # Ratibor
+  dynasty = 100555
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 8
+  religion = "orthodox"
+  culture = "russian"
+  trait = "thrifty_clerk"
+  trait = "deceitful"
+  1054.1.2 = {
+    birth = "1054.1.2"
+  }
+  1104.1.2 = {
+    death = "1104.1.2"
+  }
+}
+90145 = {
+  name = "レオンティウス"  # Leontius
+  dynasty = 100574
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 7
+  religion = "orthodox"
+  culture = "russian"
+  trait = "scholarly_theologian"
+  trait = "patient"
+  1016.1.2 = {
+    birth = "1016.1.2"
+  }
+  1066.1.2 = {
+    death = "1066.1.2"
+  }
+}
+90146 = {
+  name = "キハ"  # Kicha
+  dynasty = 100574
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 7
+  religion = "baltic_pagan"
+  culture = "russian"
+  trait = "mastermind_theologian"
+  trait = "wroth"
+  trait = "deceitful"
+  trait = "cynical"
+  1022.1.2 = {
+    birth = "1022.1.2"
+  }
+  1072.1.2 = {
+    death = "1072.1.2"
+  }
+}
+90147 = {
+  name = "クルグレツ"  # Kruglets
+  dynasty = 100574
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 7
+  religion = "baltic_pagan"
+  culture = "russian"
+  trait = "martial_cleric"
+  father = 90146
+  1056.1.2 = {
+    birth = "1056.1.2"
+  }
+  1106.1.2 = {
+    death = "1106.1.2"
+  }
+}
+90148 = {
+  name = "アルカジー"  # Arkadiy
+  dynasty = 20082
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 7
+  religion = "orthodox"
+  culture = "russian"
+  trait = "detached_priest"
+  trait = "zealous"
+  trait = "possessed"
+  1040.1.2 = {
+    birth = "1040.1.2"
+  }
+  1090.1.2 = {
+    death = "1090.1.2"
+  }
+}
+9126 = {
+  name = "リューリク"  # Rurik
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 670
+  mother = 41201
+  1058.1.2 = {
+    birth = "1058.1.2"
+  }
+  1092.1.2 = {
+    death = "1092.1.2"
+  }
+}
+9128 = {
+  name = "ヴォロダリ"  # Volodar
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 670
+  mother = 41201
+  1060.1.2 = {
+    birth = "1060.1.2"
+  }
+  1124.3.19 = {
+    death = "1124.3.19"
+  }
+}
+9130 = {
+  name = "ヴァシリコ"  # Vasilko
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 670
+  mother = 41201
+  1066.1.2 = {
+    birth = "1066.1.2"
+  }
+  1098.1.2 = {
+    give_nickname = "nick_the_blind"
+    trait = "blinded"
+  }
+  1124.1.2 = {
+    death = "1124.1.2"
+  }
+}
+9132 = {
+  name = "ヴャチェスラフ"  # Viacheslav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 612
+  mother = 100511
+  1036.1.2 = {
+    birth = "1036.1.2"
+  }
+  1057.1.2 = {
+    death = "1057.1.2"
+  }
+}
+9134 = {
+  name = "ボリス"  # Boris
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 9132
+  1054.1.2 = {
+    birth = "1054.1.2"
+  }
+  1078.10.3 = {
+    death = "1078.10.3"
+  }
+}
+9300 = {
+  name = "ドミトリー"  # Dmitriy
+  dynasty = 511
+  religion = "orthodox"
+  culture = "russian"
+  1061.1.2 = {
+    birth = "1061.1.2"
+  }
+  1111.1.2 = {
+    death = "1111.1.2"
+  }
+}
+98015 = {
+  name = "ロスチスラフ"  # Rostislav
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 222654
+  mother = 125104
+  1227.1.2 = {
+    birth = "1227.1.2"
+  }
+  1243.1.2 = {
+    add_spouse = 98012
+  }
+  1262.1.2 = {
+    death = "1262.1.2"
+  }
+}
+98016 = {
+  name = "クニグンダ"  # Kunigunda
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 98015
+  mother = 98012
+  1245.1.2 = {
+    birth = "1245.1.2"
+  }
+  1285.9.9 = {
+    death = "1285.9.9"
+  }
+}
+98018 = {
+  name = "エウフェミア"  # Euphemia
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 666
+  mother = 127
+  1097.1.2 = {
+    birth = "1097.1.2"
+  }
+  1139.4.4 = {
+    death = "1139.4.4"
+  }
+}
+98022 = {
+  name = "ヤロスラヴァ"  # Yaroslava
+  female = yes
+  dynasty = 705
+  martial = 2
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 5
+  religion = "orthodox"
+  culture = "russian"
+  father = 222500
+  mother = 222501
+  1154.1.2 = {
+    birth = "1154.1.2"
+  }
+  1180.1.2 = {
+    death = "1180.1.2"
+  }
+}
+96095 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 660
+  mother = 125051
+  1097.1.2 = {
+    birth = "1097.1.2"
+  }
+  1162.1.1 = {
+    death = "1162.1.1"
+  }
+}
+161257 = {
+  name = "ヴィシャスラヴァ"  # Wyszeslawa
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 628
+  mother = 125044
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1099.1.1 = {
+    death = "1099.1.1"
+  }
+}
+159718 = {
+  name = "ヴャチェスラフ"  # Vyacheslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 194138
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  920.1.1 = {
+    death = "920.1.1"
+  }
+}
+159719 = {
+  name = "イジャスラフ"  # Iziaslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 160050
+  835.1.1 = {
+    birth = "835.1.1"
+  }
+  920.1.1 = {
+    death = "920.1.1"
+  }
+}
+159720 = {
+  name = "ボグダン"  # Bogdan
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  trait = content
+  trait = craven
+  trait = cynical
+  father = 160064
+  840.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+159721 = {
+  name = "タチミル"  # Tatimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 194144
+  822.1.1 = {
+    birth = "822.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+82266 = {
+  name = "ボリスラフ"  # Boryslav
+  dynasty = 9125
+  father = 82258
+  religion = "slavic_pagan"
+  culture = "russian"
+  trait = "bastard"
+  824.1.1 = {
+    birth = "824.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+82267 = {
+  name = "ボグダン"  # Bogdan
+  dynasty = 9125
+  father = 82266
+  religion = "slavic_pagan"
+  culture = "russian"
+  846.1.1 = {
+    birth = "846.1.1"
+  }
+  927.1.1 = {
+    death = "927.1.1"
+  }
+}
+82268 = {
+  name = "ヤロスラフ"  # Yaroslav
+  dynasty = 9125
+  father = 82267
+  religion = "slavic_pagan"
+  culture = "russian"
+  910.1.1 = {
+    birth = "910.1.1"
+  }
+  977.1.2 = {
+    death = "977.1.2"
+  }
+}
+82269 = {
+  name = "ブロニスラフ"  # Bronislav
+  dynasty = 9125
+  father = 82266
+  religion = "slavic_pagan"
+  culture = "russian"
+  848.1.1 = {
+    birth = "848.1.1"
+  }
+  929.1.1 = {
+    death = "929.1.1"
+  }
+}
+82270 = {
+  name = "フラスチミル"  # Vlastimil
+  dynasty = 9125
+  father = 82269
+  religion = "slavic_pagan"
+  culture = "russian"
+  909.1.1 = {
+    birth = "909.1.1"
+  }
+  977.1.2 = {
+    death = "977.1.2"
+  }
+}
+82271 = {
+  name = "スツィボル"  # Ctibor
+  dynasty = 9125
+  father = 82266
+  religion = "slavic_pagan"
+  culture = "russian"
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  928.1.1 = {
+    death = "928.1.1"
+  }
+}
+82272 = {
+  name = "ミロスラフ"  # Miroslav
+  dynasty = 9125
+  father = 82271
+  religion = "slavic_pagan"
+  culture = "russian"
+  911.1.1 = {
+    birth = "911.1.1"
+  }
+  977.1.2 = {
+    death = "977.1.2"
+  }
+}
+160049 = {
+  name = "フセヴォロド"  # Vsevolod
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 194133
+  780.1.1 = {
+    birth = "780.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+160050 = {
+  name = "プティミル"  # Putimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 160049
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+160051 = {
+  name = "ラディゴスト"  # Radigost
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 160049
+  815.1.1 = {
+    birth = "815.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+160052 = {
+  name = "ラドスラフ"  # Radoslav
+  dynasty = 1029116
+  religion = "slavic_pagan"
+  culture = russian
+  father = 160051
+  trait = content
+  850.1.1 = {
+    birth = yes
+  }
+  899.1.1 = {
+    death = yes
+  }
+}
+160053 = {
+  name = "サモフラド"  # Samovlad
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 160050
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  925.1.1 = {
+    death = "925.1.1"
+  }
+}
+160054 = {
+  name = "プシェームィシリ"  # Premsyl
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 160050
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  926.1.1 = {
+    death = "926.1.1"
+  }
+}
+160055 = {
+  name = "リュボスラフ"  # Ljuboslav
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029136
+  father = 160057
+  780.1.1 = {
+    birth = "780.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+160056 = {
+  name = "クラシミール"  # Krasimir
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029136
+  father = 160057
+  785.1.1 = {
+    birth = "785.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+160057 = {
+  name = "ズビグニェフ"  # Zbignev
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029136
+  father = 194131
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  812.1.1 = {
+    death = yes
+  }
+}
+160058 = {
+  name = "サモフラド"  # Samovlad
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 160055
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+160059 = {
+  name = "ウラジスラフ"  # Vladislav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029118
+  father = 6834
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+160060 = {
+  name = "ドラガン"  # Dragan
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029118
+  father = 6834
+  851.1.1 = {
+    birth = "851.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160061 = {
+  name = "グラジミール"  # Gradimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029118
+  father = 6834
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160062 = {
+  name = "ゴスチェヴィド"  # Gostevid
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 160057
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  865.1.1 = {
+    death = "865.1.1"
+  }
+}
+160063 = {
+  name = "ボヤン"  # Bojan
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029118
+  father = 194146
+  816.1.1 = {
+    birth = "816.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+160064 = {
+  name = "ドブロミル"  # Dobromir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  father = 194135
+  816.1.1 = {
+    birth = "816.1.1"
+  }
+  860.1.1 = {
+    death = "860.1.1"
+  }
+}
+160089 = {
+  name = "イズブィグネフ"  # Izbygnev
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 6860
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160090 = {
+  name = "クラシミール"  # Krasimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 6860
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160091 = {
+  name = "ラージミル"  # Ladimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6829
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160092 = {
+  name = "ラドゴル"  # Radogor
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6829
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160093 = {
+  name = "スヴャトゴール"  # Svyatogor
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6831
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160094 = {
+  name = "チホミル"  # Tihomir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6831
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160095 = {
+  name = "ゴドスラフ"  # Godoslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6832
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160096 = {
+  name = "ヴャチェスラフ"  # Vyacheslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6832
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160097 = {
+  name = "ドブロフラド"  # Dobrovlad
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6833
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160098 = {
+  name = "ジロスラフ"  # Zhiroslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6833
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160099 = {
+  name = "ズヴォニミル"  # Zvonimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029137
+  father = 6826
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160100 = {
+  name = "ヴェリミル"  # Velimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029137
+  father = 6826
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160101 = {
+  name = "ブリャチェスラフ"  # Bryacheslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  father = 159720
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160102 = {
+  name = "ヴェンシェスラフ"  # Venceslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  father = 159720
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160103 = {
+  name = "ヤロスラフ"  # Yaroslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  father = 6825
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160104 = {
+  name = "ブジミル"  # Budimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029117
+  father = 6825
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160105 = {
+  name = "ムラダン"  # Mladan
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 159719
+  860.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160106 = {
+  name = "ラードムィシリ"  # Radomysl
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 159719
+  861.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160107 = {
+  name = "スヴャトヴィト"  # Svetovid
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 6859
+  862.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160108 = {
+  name = "プレドラグ"  # Predrag
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029116
+  father = 6859
+  863.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160109 = {
+  name = "スヴャトゴール"  # Svyatogor
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6835
+  851.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160110 = {
+  name = "トヴェルジミル"  # Tverdimir
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029136
+  father = 6835
+  852.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160111 = {
+  name = "メチスラフ"  # Mechislav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 159721
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+160112 = {
+  name = "クリスラフ"  # Kreslav
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 159721
+  851.1.1 = {
+    birth = "851.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160113 = {
+  name = "ヴァジム"  # Vadim
+  religion = "slavic_pagan"
+  culture = "russian"
+  dynasty = 1029138
+  father = 159721
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
+  }
+}
+160134 = {
+  name = "ラドミル"  # Radomir
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029116
+  father = 160049
+  810.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+160135 = {
+  name = "スタニスラフ"  # Stanislav
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029116
+  father = 6869
+  857.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160136 = {
+  name = "ヴラスチミル"  # Vlastimir
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029116
+  father = 6869
+  858.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+160137 = {
+  name = "ロスチスラフ"  # Rostislav
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029117
+  father = 6868
+  862.1.1 = {
+    birth = yes
+  }
+  905.1.1 = {
+    death = yes
+  }
+}
+160138 = {
+  name = "カジミール"  # Kazimir
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029117
+  father = 6868
+  863.1.1 = {
+    birth = yes
+  }
+  905.1.1 = {
+    death = yes
+  }
+}
+160139 = {
+  name = "ヴェリミル"  # Velimir
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029137
+  father = 194141
+  810.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+160140 = {
+  name = "スヴェトスラフ"  # Svetoslav
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029137
+  father = 6870
+  857.1.1 = {
+    birth = yes
+  }
+  905.1.1 = {
+    death = yes
+  }
+}
+160141 = {
+  name = "ズヴォニミル"  # Zvonimir
+  religion = "slavic_pagan"
+  culture = russian
+  dynasty = 1029137
+  father = 6870
+  858.1.1 = {
+    birth = yes
+  }
+  905.1.1 = {
+    death = yes
+  }
+}
+168530 = {
+  name = "ソフィア"  # Sofia
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  trait = "bastard"
+  father = 608
+  990.1.1 = {
+    birth = yes
+  }
+  1051.1.1 = {
+    death = yes
+  }
+}
+170087 = {
+  name = "アナスタシア"  # Anastasia
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 125130
+  mother = 125141
+  1229.1.1 = {
+    birth = "1229.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+170099 = {
+  name = "ヤロポルク"  # Iaropolk
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 222525
+  mother = 30201
+  1137.1.2 = {
+    birth = "1137.1.2"
+  }
+  1168.1.2 = {
+    add_spouse = 170100
+  }
+  1170.3.7 = {
+    death = "1168.3.7"
+  }
+}
+170100 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 222650
+  mother = 222651
+  1152.1.2 = {
+    birth = "1152.1.2"
+  }
+  1223.1.2 = {
+    death = "1223.1.2"
+  }
+}
+170101 = {
+  name = "ヴァシリコ"  # Vasilko
+  dynasty = 705
+  religion = "orthodox"
+  culture = "russian"
+  father = 170099
+  1153.1.2 = {
+    birth = "1153.1.2"
+  }
+  1175.1.2 = {
+    add_spouse = 170102
+  }
+  1178.1.2 = {
+    death = "1178.1.2"
+  }
+}
+194131 = {
+  name = "ヴィシェスラフ"  # Vysheslav
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029136
+  720.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    death = yes
+  }
+}
+194132 = {
+  name = "ラジスラフ"  # Rodislav
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029136
+  father = 194131
+  743.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+194133 = {
+  name = "スヴェトザル"  # Svetozar
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029116
+  750.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194134 = {
+  name = "イーゴリ"  # Igor
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029117
+  738.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194135 = {
+  name = "イーゴリ"  # Igor
+  religion = "slavic_pagan"
+  culture = "ilmenian"
+  dynasty = 1029117
+  father = 194134
+  764.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194136 = {
+  name = "ブリャチスラフ"  # Briachislav
+  dynasty = 1029167
+  religion = slavic_pagan
+  culture = volhynian
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194137 = {
+  name = "スヴェトザル"  # Svetozar
+  dynasty = 1029138
+  religion = slavic_pagan
+  culture = volhynian
+  father = 194136
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194138 = {
+  name = "グレプ"  # Gleb
+  dynasty = 1029138
+  religion = slavic_pagan
+  culture = russian
+  father = 194137
+  810.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+194139 = {
+  name = "ドブラヴァ"  # Dobrava
+  female = yes
+  dynasty = 1045024
+  religion = slavic_pagan
+  culture = volhynian
+  750.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194140 = {
+  name = "スタニスラフ"  # Stanislav
+  dynasty = 1029137
+  religion = slavic_pagan
+  culture = severian
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194141 = {
+  name = "イーゴリ"  # Igor
+  dynasty = 1029137
+  religion = slavic_pagan
+  culture = severian
+  father = 194140
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194142 = {
+  name = "スヴャトスラフ"  # Sviatoslav
+  dynasty = 1029137
+  religion = slavic_pagan
+  culture = severian
+  father = 194140
+  746.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194143 = {
+  name = "ヴォロダール"  # Volodar
+  dynasty = 1029137
+  religion = slavic_pagan
+  culture = severian
+  father = 194140
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194144 = {
+  name = "スヴェトザル"  # Svetozar
+  dynasty = 1029138
+  religion = slavic_pagan
+  culture = ilmenian
+  father = 194137
+  802.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    death = yes
+  }
+}
+194145 = {
+  name = "ヴォロダール"  # Volodar
+  dynasty = 1029118
+  religion = slavic_pagan
+  culture = ilmenian
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194146 = {
+  name = "イリヤ"  # Iliya
+  dynasty = 1029118
+  religion = slavic_pagan
+  culture = ilmenian
+  father = 194145
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194177 = {
+  name = "イヴァン"  # Ivan
+  dynasty = 11107
+  religion = "orthodox"
+  culture = "russian"
+  father = 125244
+  1217.1.2 = {
+    birth = yes
+  }
+  1258.1.2 = {
+    death = yes
+  }
+}
+194184 = {
+  name = "フセヴォロド"  # Vselovod
+  dynasty = 101803
+  religion = "orthodox"
+  culture = "russian"
+  1188.1.1 = {
+    birth = yes
+  }
+  1219.7.2 = {
+    capital = "c_novgorod"
+  }
+  1220.1.1 = {
+    capital = "c_novgorod"
+  }
+  1234.1.1 = {
+    death = yes
+  }
+}
+194185 = {
+  name = "フセヴォロド"  # Vselovod
+  dynasty = 101803
+  religion = "orthodox"
+  culture = "russian"
+  father = 194184
+  1210.5.5 = {
+    birth = yes
+  }
+  1260.5.1 = {
+    death = yes
+  }
+}
+194186 = {
+  name = "ヤロポルク"  # Yaropolk
+  dynasty = 101803
+  religion = "orthodox"
+  culture = "russian"
+  father = 194184
+  1212.4.5 = {
+    birth = yes
+  }
+  1261.3.1 = {
+    death = yes
+  }
+}
+256042 = {
+  name = "オレグ"  # Oleg
+  dynasty = 1061019
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  745.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+256043 = {
+  name = "ムスチスラフ"  # Mstislav
+  dynasty = 1061020
+  religion = "slavic_pagan"
+  culture = "russian"
+  840.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+256044 = {
+  name = "ドブロスラヴ"  # Dobroslav
+  dynasty = 1061021
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  748.1.1 = {
+    birth = yes
+  }
+  775.1.1 = {
+    death = yes
+  }
+}
+256045 = {
+  name = "ドブロスラヴ"  # Dobroslav
+  dynasty = 1061022
+  religion = "slavic_pagan"
+  culture = "russian"
+  833.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+256046 = {
+  name = "リウドミール"  # Lyubomir
+  dynasty = 1061023
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  751.1.1 = {
+    birth = yes
+  }
+  812.1.1 = {
+    death = yes
+  }
+}
+256047 = {
+  name = "ラドヴァン"  # Radovan
+  dynasty = 1061024
+  religion = "slavic_pagan"
+  culture = "russian"
+  840.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+256048 = {
+  name = "プシェミスル"  # Premysl
+  dynasty = 1061025
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  741.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+256049 = {
+  name = "フセヴォロド"  # Vsevolod
+  dynasty = 1061026
+  religion = "slavic_pagan"
+  culture = "russian"
+  840.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+256050 = {
+  name = "ミロドラグ"  # Milodrag
+  dynasty = 1061027
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  720.1.1 = {
+    birth = yes
+  }
+  781.1.1 = {
+    death = yes
+  }
+}
+256051 = {
+  name = "グリゴリー"  # Grigorii
+  dynasty = 1061027
+  religion = "slavic_pagan"
+  culture = "russian"
+  830.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+256055 = {
+  name = "チスラーフル"  # Tislavl
+  dynasty = 1061035
+  religion = "slavic_pagan"
+  culture = "volhynian"
+  729.1.1 = {
+    birth = yes
+  }
+  784.1.1 = {
+    death = yes
+  }
+}
+256059 = {
+  name = "ピョートル"  # Piotr
+  dynasty = 1061039
+  religion = "slavic_pagan"
+  culture = "russian"
+  830.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+256060 = {
+  name = "アレクセイ"  # Alexei
+  dynasty = 1061040
+  religion = orthodox
+  culture = russian
+  1100.1.1 = {
+    birth = yes
+  }
+  1163.8.6 = {
+    death = yes
+  }
+}
+256061 = {
+  name = "アレクセイ"  # Alexei
+  dynasty = 1061040
+  father = 256060
+  religion = orthodox
+  culture = russian
+  1125.1.1 = {
+    birth = yes
+  }
+  1182.3.4 = {
+    death = yes
+  }
+}
+256062 = {
+  name = "イーゴリ"  # Igor
+  dynasty = 1061040
+  father = 256060
+  religion = orthodox
+  culture = russian
+  1125.1.1 = {
+    birth = yes
+  }
+  1187.3.4 = {
+    death = yes
+  }
+}
+256063 = {
+  name = "グリゴリー"  # Grigoriy
+  dynasty = 1061040
+  father = 256061
+  religion = orthodox
+  culture = russian
+  1151.11.9 = {
+    birth = yes
+  }
+  1189.4.7 = {
+    death = yes
+  }
+}
+256064 = {
+  name = "ボリス"  # Boris
+  dynasty = 1061040
+  father = 256061
+  religion = orthodox
+  culture = russian
+  1155.10.5 = {
+    birth = yes
+  }
+  1197.5.5 = {
+    death = yes
+  }
+}
+256065 = {
+  name = "アンドレイ"  # Andrei
+  dynasty = 1061040
+  father = 256063
+  religion = orthodox
+  culture = russian
+  1180.4.10 = {
+    birth = yes
+  }
+  1240.7.7 = {
+    death = yes
+  }
+}
+256067 = {
+  name = "イヴァン"  # Ivan
+  dynasty = 1061046
+  religion = orthodox
+  culture = russian
+  1022.1.1 = {
+    birth = yes
+  }
+  1078.1.1 = {
+    death = yes
+  }
+}
+256068 = {
+  name = "イヴァン"  # Ivan
+  dynasty = 1061046
+  father = 256067
+  religion = orthodox
+  culture = russian
+  1045.1.1 = {
+    birth = yes
+  }
+  1097.1.1 = {
+    death = yes
+  }
+}
+256069 = {
+  name = "ニキータ"  # Nikita
+  dynasty = 1061046
+  father = 256067
+  religion = orthodox
+  culture = russian
+  1048.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+256070 = {
+  name = "ヴァシリコ"  # Vasilko
+  dynasty = 1061047
+  religion = orthodox
+  culture = russian
+  1030.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+256071 = {
+  name = "ヴァシリコ"  # Vasilko
+  dynasty = 1061047
+  father = 256070
+  religion = orthodox
+  culture = russian
+  1053.1.1 = {
+    birth = yes
+  }
+  1095.1.1 = {
+    death = yes
+  }
+}
+256072 = {
+  name = "ログネダ"  # Rogneda
+  dynasty = 1061047
+  father = 256070
+  female = yes
+  religion = orthodox
+  culture = russian
+  1055.1.1 = {
+    birth = yes
+  }
+  1102.1.1 = {
+    death = yes
+  }
+}
+256073 = {
+  name = "ボリス"  # Boris
+  dynasty = 1061047
+  father = 256070
+  religion = orthodox
+  culture = russian
+  1059.1.1 = {
+    birth = yes
+  }
+  1110.1.1 = {
+    death = yes
+  }
+}
+256074 = {
+  name = "イーゴリ"  # Igor
+  dynasty = 1061048
+  religion = orthodox
+  culture = russian
+  1020.1.1 = {
+    birth = yes
+  }
+  1064.1.1 = {
+    death = yes
+  }
+}
+256075 = {
+  name = "フセヴォロド"  # Vsevolod
+  dynasty = 1061048
+  father = 256074
+  religion = orthodox
+  culture = russian
+  1042.1.1 = {
+    birth = yes
+  }
+  1095.1.1 = {
+    death = yes
+  }
+}
+256076 = {
+  name = "パーヴェル"  # Pavel
+  dynasty = 1061048
+  father = 256074
+  religion = orthodox
+  culture = russian
+  1045.1.1 = {
+    birth = yes
+  }
+  1099.1.1 = {
+    death = yes
+  }
+}
+256077 = {
+  name = "ソフィア"  # Sofia
+  dynasty = 1061048
+  female = yes
+  father = 256074
+  religion = orthodox
+  culture = russian
+  1050.1.1 = {
+    birth = yes
+  }
+  1099.1.1 = {
+    death = yes
+  }
+}
+256078 = {
+  name = "エリザヴェータ"  # Yelizaveta
+  dynasty = 1061049
+  female = yes
+  religion = orthodox
+  culture = russian
+  1038.1.1 = {
+    birth = yes
+  }
+  1088.1.5 = {
+    death = yes
+  }
+}
+256079 = {
+  name = "ヤロスラヴァ"  # Yaroslava
+  dynasty = 1061049
+  female = yes
+  mother = 256078
+  religion = orthodox
+  culture = russian
+  1060.1.1 = {
+    birth = yes
+  }
+  1095.1.5 = {
+    death = yes
+  }
+}
+256080 = {
+  name = "マリーア"  # Maria
+  dynasty = 1061049
+  female = yes
+  mother = 256078
+  religion = orthodox
+  culture = russian
+  1064.1.1 = {
+    birth = yes
+  }
+  1109.1.5 = {
+    death = yes
+  }
+}
+256082 = {
+  name = "エリェミェーイ"  # Yeremey
+  dynasty = 1061051
+  religion = orthodox
+  culture = russian
+  1045.1.1 = {
+    birth = yes
+  }
+  1072.1.1 = {
+    death = yes
+  }
+}
+256083 = {
+  name = "エリェミェーイ"  # Yeremey
+  dynasty = 1061051
+  father = 256082
+  religion = orthodox
+  culture = russian
+  1063.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    death = yes
+  }
+}
+256084 = {
+  name = "キリル"  # Kirill
+  dynasty = 1061052
+  religion = orthodox
+  culture = russian
+  1030.1.1 = {
+    birth = yes
+  }
+  1075.1.1 = {
+    death = yes
+  }
+}
+256085 = {
+  name = "ラコフ"  # Iakov
+  dynasty = 1061052
+  father = 256084
+  religion = orthodox
+  culture = russian
+  1054.1.1 = {
+    birth = yes
+  }
+  1087.1.1 = {
+    death = yes
+  }
+}
+256086 = {
+  name = "ダニール"  # Daniil
+  dynasty = 1061052
+  father = 256084
+  religion = orthodox
+  culture = russian
+  1057.1.1 = {
+    birth = yes
+  }
+  1093.1.1 = {
+    death = yes
+  }
+}
+256087 = {
+  name = "コンスタンチン"  # Konstantin
+  dynasty = 1061053
+  religion = orthodox
+  culture = russian
+  1022.1.1 = {
+    birth = yes
+  }
+  1081.1.1 = {
+    death = yes
+  }
+}
+256088 = {
+  name = "コンスタンチン"  # Konstantin
+  dynasty = 1061053
+  father = 256087
+  religion = orthodox
+  culture = russian
+  1050.1.1 = {
+    birth = yes
+  }
+  1112.1.1 = {
+    death = yes
+  }
+}
+256089 = {
+  name = "オレグ"  # Oleg
+  dynasty = 1061019
+  religion = orthodox
+  culture = russian
+  1048.1.1 = {
+    birth = yes
+  }
+  1081.1.1 = {
+    death = yes
+  }
+}
+256090 = {
+  name = "イリヤ"  # Iliya
+  dynasty = 1061027
+  religion = orthodox
+  culture = russian
+  1045.1.1 = {
+    birth = yes
+  }
+  1084.1.2 = {
+    death = yes
+  }
+}
+256091 = {
+  name = "スチパン"  # Stepan
+  dynasty = 1061054
+  religion = orthodox
+  culture = russian
+  1038.1.1 = {
+    birth = yes
+  }
+  1091.1.2 = {
+    death = yes
+  }
+}
+256092 = {
+  name = "ヴォロダール"  # Volodar
+  dynasty = 1029117
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = tough_soldier
+  998.1.1 = {
+    birth = yes
+  }
+  1070.1.1 = {
+    death = yes
+  }
+}
+256093 = {
+  name = "ユーリー"  # Yuriy
+  dynasty = 1029117
+  father = 256092
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = skilled_tactician
+  trait = robust
+  1031.1.1 = {
+    birth = yes
+  }
+  1089.1.1 = {
+    death = yes
+  }
+}
+256094 = {
+  name = "イリーナ"  # Irina
+  dynasty = 1029117
+  father = 256092
+  female = yes
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = tough_soldier
+  1036.1.1 = {
+    birth = yes
+  }
+  1080.1.1 = {
+    death = yes
+  }
+}
+256095 = {
+  name = "シメオン"  # Simeon
+  dynasty = 1029117
+  father = 256093
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = tough_soldier
+  1060.1.1 = {
+    birth = yes
+  }
+  1122.1.1 = {
+    death = yes
+  }
+}
+256096 = {
+  name = "リュバヴァ"  # Liubava
+  dynasty = 1029117
+  father = 256093
+  female = yes
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = tough_soldier
+  1061.1.1 = {
+    birth = yes
+  }
+  1129.1.1 = {
+    death = yes
+  }
+}
+256097 = {
+  name = "ヴォロダール"  # Volodar
+  dynasty = 1029117
+  mother = 256094
+  religion = orthodox
+  culture = russian
+  trait = ambitious
+  trait = tough_soldier
+  1059.1.1 = {
+    birth = yes
+  }
+  1110.1.1 = {
+    death = yes
+  }
+}
+256098 = {
+  name = "ドミトリー"  # Dmitriy
+  dynasty = 1061055
+  religion = orthodox
+  culture = russian
+  1049.1.1 = {
+    birth = yes
+  }
+  1087.1.2 = {
+    death = yes
+  }
+}
+256099 = {
+  name = "スヴャトポルク"  # Sviatopolk
+  dynasty = 1061056
+  religion = orthodox
+  culture = russian
+  1032.1.1 = {
+    birth = yes
+  }
+  1077.1.12 = {
+    death = yes
+  }
+}
+256100 = {
+  name = "ダニール"  # Daniil
+  dynasty = 1061057
+  religion = orthodox
+  culture = russian
+  1040.1.1 = {
+    birth = yes
+  }
+  1087.1.2 = {
+    death = yes
+  }
+}
+256101 = {
+  name = "スジスラフ"  # Sudislav
+  dynasty = 1029118
+  religion = orthodox
+  culture = russian
+  1021.1.1 = {
+    birth = yes
+  }
+  1088.1.1 = {
+    death = yes
+  }
+}
+256102 = {
+  name = "イーゴリ"  # Igor
+  dynasty = 1029118
+  father = 256101
+  religion = orthodox
+  culture = russian
+  1045.1.1 = {
+    birth = yes
+  }
+  1104.1.1 = {
+    death = yes
+  }
+}
+256118 = {
+  name = "ブリャチスラフ"  # Briachislav
+  dynasty = 1061059
+  father = 256115
+  religion = orthodox
+  culture = russian
+  1051.1.1 = {
+    birth = yes
+  }
+  1077.1.2 = {
+    death = yes
+  }
+}
+256119 = {
+  name = "スヴェトザル"  # Svetozar
+  dynasty = 1061060
+  father = 256115
+  religion = orthodox
+  culture = russian
+  1049.1.1 = {
+    birth = yes
+  }
+  1079.11.12 = {
+    death = yes
+  }
+}
+256120 = {
+  name = "コズマ"  # Koz'ma
+  dynasty = 1061061
+  father = 256115
+  religion = orthodox
+  culture = russian
+  1053.1.1 = {
+    birth = yes
+  }
+  1077.5.8 = {
+    death = yes
+  }
+}
+256121 = {
+  name = "イェメリヤーン"  # Yemelyan
+  dynasty = 1061062
+  religion = orthodox
+  culture = russian
+  1044.1.1 = {
+    birth = yes
+  }
+  1088.1.1 = {
+    death = yes
+  }
+}
+256122 = {
+  name = "レフ"  # Lev
+  dynasty = 1029118
+  religion = orthodox
+  culture = russian
+  1027.1.1 = {
+    birth = yes
+  }
+  1089.1.1 = {
+    death = yes
+  }
+}
+256123 = {
+  name = "マトフェイ"  # Matfei
+  dynasty = 1029118
+  father = 256122
+  religion = orthodox
+  culture = russian
+  1049.1.1 = {
+    birth = yes
+  }
+  1103.1.1 = {
+    death = yes
+  }
+}
+260708 = {
+  name = "フェドット"  # Fedot
+  dynasty = 1062334
+  religion = slavic_pagan
+  culture = russian
+  903.1.1 = {
+    birth = yes
+  }
+  965.1.1 = {
+    death = yes
+  }
+}
+260709 = {
+  name = "プチャータ"  # Putiata
+  dynasty = 1062335
+  religion = slavic_pagan
+  culture = russian
+  907.1.1 = {
+    birth = yes
+  }
+  957.1.1 = {
+    death = yes
+  }
+}
+260710 = {
+  name = "ロジスラフ"  # Rodislav
+  dynasty = 1062336
+  religion = slavic_pagan
+  culture = russian
+  904.1.1 = {
+    birth = yes
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+260711 = {
+  name = "シメオン"  # Simeon
+  dynasty = 1062337
+  religion = slavic_pagan
+  culture = russian
+  902.1.1 = {
+    birth = yes
+  }
+  951.1.1 = {
+    death = yes
+  }
+}
+260712 = {
+  name = "オレグ"  # Oleg
+  dynasty = 1062338
+  religion = slavic_pagan
+  culture = russian
+  889.1.1 = {
+    birth = yes
+  }
+  943.1.1 = {
+    death = yes
+  }
+}
+260713 = {
+  name = "イジャスラフ"  # Iziaslav
+  dynasty = 1062339
+  religion = slavic_pagan
+  culture = russian
+  898.1.1 = {
+    birth = yes
+  }
+  939.1.1 = {
+    death = yes
+  }
+}
+260714 = {
+  name = "ミトロファン"  # Mitrofan
+  dynasty = 1062340
+  religion = slavic_pagan
+  culture = russian
+  910.1.1 = {
+    birth = yes
+  }
+  976.1.1 = {
+    death = yes
+  }
+}
+260715 = {
+  name = "パーヴェル"  # Pavel
+  dynasty = 1062341
+  religion = slavic_pagan
+  culture = russian
+  father = 260758
+  903.1.1 = {
+    birth = yes
+  }
+  967.1.1 = {
+    death = yes
+  }
+}
+260716 = {
+  name = "レフ"  # Lev
+  dynasty = 1062341
+  religion = slavic_pagan
+  culture = russian
+  father = 260758
+  905.1.1 = {
+    birth = yes
+  }
+  972.1.1 = {
+    death = yes
+  }
+}
+260758 = {
+  name = "パーヴェル"  # Pavel
+  dynasty = 1062341
+  religion = slavic_pagan
+  culture = russian
+  868.1.1 = {
+    birth = yes
+  }
+  934.1.1 = {
+    death = yes
+  }
+}
+260717 = {
+  name = "ブリャチスラフ"  # Briachislav
+  dynasty = 1062342
+  religion = slavic_pagan
+  culture = russian
+  909.1.1 = {
+    birth = yes
+  }
+  976.1.1 = {
+    death = yes
+  }
+}
+260718 = {
+  name = "ガヴリール"  # Gavriil
+  dynasty = 1062343
+  religion = slavic_pagan
+  culture = russian
+  874.1.1 = {
+    birth = yes
+  }
+  923.1.1 = {
+    death = yes
+  }
+}
+260719 = {
+  name = "スヴャトスラフ"  # Sviatoslav
+  dynasty = 1062343
+  religion = slavic_pagan
+  culture = russian
+  father = 260718
+  905.1.1 = {
+    birth = yes
+  }
+  968.1.1 = {
+    death = yes
+  }
+}
+260720 = {
+  name = "スヴャトポルク"  # Sviatopolk
+  dynasty = 1062343
+  religion = slavic_pagan
+  culture = russian
+  father = 260718
+  909.1.1 = {
+    birth = yes
+  }
+  956.1.1 = {
+    death = yes
+  }
+}
+260721 = {
+  name = "プチャータ"  # Putiata
+  dynasty = 1062344
+  religion = slavic_pagan
+  culture = russian
+  915.1.1 = {
+    birth = yes
+  }
+  963.1.1 = {
+    death = yes
+  }
+}
+260722 = {
+  name = "ニキータ"  # Nikita
+  dynasty = 1062345
+  religion = slavic_pagan
+  culture = russian
+  918.1.1 = {
+    birth = yes
+  }
+  978.1.1 = {
+    death = yes
+  }
+}
+260723 = {
+  name = "グリゴリー"  # Grigoriy
+  dynasty = 1062346
+  religion = slavic_pagan
+  culture = russian
+  873.1.1 = {
+    birth = yes
+  }
+  929.1.1 = {
+    death = yes
+  }
+}
+260724 = {
+  name = "フョードル"  # Feodor
+  dynasty = 1062346
+  religion = slavic_pagan
+  culture = russian
+  father = 260723
+  905.1.1 = {
+    birth = yes
+  }
+  967.1.1 = {
+    death = yes
+  }
+}
+260725 = {
+  name = "グリゴリー"  # Grigoriy
+  dynasty = 1062346
+  religion = slavic_pagan
+  culture = russian
+  father = 260723
+  907.1.1 = {
+    birth = yes
+  }
+  954.1.1 = {
+    death = yes
+  }
+}
+260726 = {
+  name = "ヴィシャタ"  # Vyshata
+  dynasty = 1062347
+  religion = slavic_pagan
+  culture = russian
+  914.1.1 = {
+    birth = yes
+  }
+  983.1.1 = {
+    death = yes
+  }
+}
+260727 = {
+  name = "ウラディスラフ"  # Vladislav
+  dynasty = 1062348
+  religion = slavic_pagan
+  culture = russian
+  899.1.1 = {
+    birth = yes
+  }
+  949.1.1 = {
+    death = yes
+  }
+}
+260728 = {
+  name = "ルスラーン"  # Ruslan
+  dynasty = 1062349
+  religion = slavic_pagan
+  culture = russian
+  914.1.1 = {
+    birth = yes
+  }
+  973.1.1 = {
+    death = yes
+  }
+}
+260729 = {
+  name = "ヴェスヴォロド"  # Vesvolod
+  dynasty = 1062350
+  religion = slavic_pagan
+  culture = russian
+  904.1.1 = {
+    birth = yes
+  }
+  957.1.1 = {
+    death = yes
+  }
+}
+260730 = {
+  name = "ヴォイスラフ"  # Voislav
+  dynasty = 1062351
+  religion = slavic_pagan
+  culture = russian
+  908.1.1 = {
+    birth = yes
+  }
+  964.1.1 = {
+    death = yes
+  }
+}
+260732 = {
+  name = "ダニール"  # Daniil
+  dynasty = 1062353
+  religion = slavic_pagan
+  culture = russian
+  904.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+260733 = {
+  name = "スヴェトザル"  # Svetozar
+  dynasty = 1062354
+  religion = slavic_pagan
+  culture = russian
+  899.1.1 = {
+    birth = yes
+  }
+  961.1.1 = {
+    death = yes
+  }
+}
+260734 = {
+  name = "フセヴォロド"  # Vsevolod
+  dynasty = 1062355
+  religion = slavic_pagan
+  culture = russian
+  907.1.1 = {
+    birth = yes
+  }
+  956.1.1 = {
+    death = yes
+  }
+}
+260735 = {
+  name = "チェレンチー"  # Terentiy
+  dynasty = 1062356
+  religion = slavic_pagan
+  culture = russian
+  918.1.1 = {
+    birth = yes
+  }
+  967.1.1 = {
+    death = yes
+  }
+}
+260736 = {
+  name = "プラスコーヴャ"  # Praskovya
+  female = yes
+  dynasty = 1062357
+  religion = slavic_pagan
+  culture = russian
+  915.1.1 = {
+    birth = yes
+  }
+  961.1.1 = {
+    death = yes
+  }
+}
+260737 = {
+  name = "ヴォロダール"  # Volodar
+  dynasty = 1062358
+  religion = slavic_pagan
+  culture = russian
+  893.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+260738 = {
+  name = "エフィーム"  # Yefimiy
+  dynasty = 1062359
+  religion = slavic_pagan
+  culture = russian
+  871.1.1 = {
+    birth = yes
+  }
+  939.1.1 = {
+    death = yes
+  }
+}
+260739 = {
+  name = "ユーリー"  # Yuriy
+  dynasty = 1062360
+  religion = slavic_pagan
+  culture = russian
+  913.1.1 = {
+    birth = yes
+  }
+  975.1.1 = {
+    death = yes
+  }
+}
+260740 = {
+  name = "エリセイ"  # Yelisey
+  dynasty = 1062361
+  religion = slavic_pagan
+  culture = russian
+  904.1.1 = {
+    birth = yes
+  }
+  965.1.1 = {
+    death = yes
+  }
+}
+260741 = {
+  name = "ステパン"  # Stepan
+  dynasty = 1062362
+  religion = slavic_pagan
+  culture = russian
+  897.1.1 = {
+    birth = yes
+  }
+  959.1.1 = {
+    death = yes
+  }
+}
+260745 = {
+  name = "アレクサンドル"  # Alexandr
+  dynasty = 1062366
+  religion = slavic_pagan
+  culture = russian
+  868.1.1 = {
+    birth = yes
+  }
+  915.1.1 = {
+    death = yes
+  }
+}
+260746 = {
+  name = "アレクサンドル"  # Alexandr
+  dynasty = 1062366
+  religion = slavic_pagan
+  culture = russian
+  father = 260745
+  899.1.1 = {
+    birth = yes
+  }
+  948.1.1 = {
+    death = yes
+  }
+}
+260747 = {
+  name = "ダヴィド"  # Davyd
+  dynasty = 1062366
+  religion = slavic_pagan
+  culture = russian
+  father = 260745
+  902.1.1 = {
+    birth = yes
+  }
+  957.1.1 = {
+    death = yes
+  }
+}
+260748 = {
+  name = "ヴィシャタ"  # Vyshata
+  dynasty = 1062367
+  religion = slavic_pagan
+  culture = russian
+  909.1.1 = {
+    birth = yes
+  }
+  946.1.1 = {
+    death = yes
+  }
+}
+260749 = {
+  name = "ログヴォロド"  # Rogvolod
+  dynasty = 1062368
+  religion = slavic_pagan
+  culture = russian
+  908.1.1 = {
+    birth = yes
+  }
+  938.1.1 = {
+    death = yes
+  }
+}
+260750 = {
+  name = "ヴァシーリー"  # Vasiliy
+  dynasty = 1062369
+  religion = slavic_pagan
+  culture = russian
+  912.1.1 = {
+    birth = yes
+  }
+  956.1.1 = {
+    death = yes
+  }
+}
+260751 = {
+  name = "グリゴリー"  # Grigoriy
+  dynasty = 1062370
+  religion = slavic_pagan
+  culture = russian
+  914.1.1 = {
+    birth = yes
+  }
+  962.1.1 = {
+    death = yes
+  }
+}
+260770 = {
+  name = "ヴァロポルク"  # Varopolk
+  dynasty = 1062381
+  religion = slavic_pagan
+  culture = russian
+  912.1.1 = {
+    birth = yes
+  }
+  959.1.1 = {
+    death = yes
   }
 }

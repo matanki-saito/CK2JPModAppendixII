@@ -876,6 +876,1011 @@
     death = yes
   }
 }
+191295 = {
+  name = "ナンディヴァルマン"  # Nandivarman
+  dynasty = 1043014
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  740.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
+    death = yes
+  }
+}
+191296 = {
+  name = "ヴィジャヤディートヤ"  # Vijayaditya
+  dynasty = 1043014
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191295
+  770.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+191297 = {
+  name = "マッラデーヴァ"  # Malladeva
+  dynasty = 1043014
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191296
+  810.1.1 = {
+    birth = yes
+  }
+  870.1.1 = {
+    death = yes
+  }
+}
+191243 = {
+  name = "ヴァッラバーラージャ"  # Vallabharaja
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  740.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+191244 = {
+  name = "ラージャマッラ"  # Rajamalla
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191243
+  760.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+191245 = {
+  name = "ヴァンカーディトヤ"  # Vankhaditya
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191244
+  830.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+191246 = {
+  name = "ニラデーヴァ"  # Naladeva
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191245
+  850.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+191247 = {
+  name = "ラージャッラ"  # Rajalla
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191246
+  890.1.1 = {
+    birth = yes
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+191248 = {
+  name = "サンカーパーラ"  # Sankhapala
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191247
+  930.1.1 = {
+    birth = yes
+  }
+  1021.1.1 = {
+    death = yes
+  }
+}
+191249 = {
+  name = "ヌラパティブーサーナ"  # Nrapatibhusana
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191248
+  970.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+191250 = {
+  name = "ジャガデカブーサーナ"  # Jagadekabhusana
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191249
+  1020.1.1 = {
+    birth = yes
+  }
+  1065.1.1 = {
+    death = yes
+  }
+}
+191251 = {
+  name = "マドゥーランターカ"  # Madhurantaka
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191249
+  1021.1.1 = {
+    birth = yes
+  }
+  1069.1.1 = {
+    death = {
+      death_reason = death_battle
+      killer = 191252
+    }
+  }
+}
+191252 = {
+  name = "ソーメーシュヴァラ"  # Somesvara
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191250
+  1040.1.1 = {
+    birth = yes
+  }
+  1108.1.1 = {
+    death = yes
+  }
+}
+191253 = {
+  name = "ソーメーシュヴァラ"  # Somesvara
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191252
+  1060.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+191254 = {
+  name = "カンハラデーヴァ"  # Kanharadeva
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191252
+  1080.1.1 = {
+    birth = yes
+  }
+  1147.1.1 = {
+    death = yes
+  }
+}
+191255 = {
+  name = "ジャガケダブーサーナ"  # Jagakedabhusana
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191254
+  1120.1.1 = {
+    birth = yes
+  }
+  1218.1.1 = {
+    death = yes
+  }
+}
+191256 = {
+  name = "キルティパーラ"  # Kirtipala
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191255
+  1150.1.1 = {
+    birth = yes
+  }
+  1230.1.1 = {
+    death = yes
+  }
+}
+191257 = {
+  name = "ジャヌー"  # Janhu
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191256
+  1190.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
+191258 = {
+  name = "ハリスチャンドラデーヴァ"  # Harischandradeva
+  dynasty = 1044332
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191257
+  1230.1.1 = {
+    birth = yes
+  }
+  1324.1.1 = {
+    death = yes
+  }
+}
+191259 = {
+  name = "アンナム・デヴ"  # Annam Dev
+  dynasty = 1044334
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  1291.1.1 = {
+    birth = yes
+  }
+  1369.1.1 = {
+    death = yes
+  }
+}
+191260 = {
+  name = "ハミール・デヴ"  # Hamir Dev
+  dynasty = 1044334
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  1315.1.1 = {
+    birth = yes
+  }
+  1410.1.1 = {
+    death = yes
+  }
+}
+191261 = {
+  name = "バータイ・デヴ"  # Bhatai Dev
+  dynasty = 1044334
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  1370.1.1 = {
+    birth = yes
+  }
+  1468.1.1 = {
+    death = yes
+  }
+}
+191294 = {
+  name = "ラーマチャンドラ"  # Ramachandra
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  700.1.1 = {
+    birth = yes
+  }
+  730.1.1 = {
+    add_spouse = 191262
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+191263 = {
+  name = "アヒラージャ"  # Ahiraja
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191294
+  mother = 191262
+  750.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+191264 = {
+  name = "ラージャッラ"  # Rajalla
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191263
+  770.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+191265 = {
+  name = "ダールニダーラ"  # Dharnidhara
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191264
+  840.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+191266 = {
+  name = "マヒマデーヴァ"  # Mahimadeva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191265
+  870.1.1 = {
+    birth = yes
+  }
+  960.1.1 = {
+    death = yes
+  }
+}
+191267 = {
+  name = "サルヴァヴァンダーナ"  # Sarvavandana
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191266
+  940.1.1 = {
+    birth = yes
+  }
+  1030.1.1 = {
+    death = yes
+  }
+}
+191268 = {
+  name = "ゴーパーラデーヴァ"  # Gopaladeva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191267
+  1000.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    death = yes
+  }
+}
+191269 = {
+  name = "ニラデーヴァ"  # Naladeva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191268
+  1016.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+191270 = {
+  name = "ブーヴァナパーラ"  # Bhuvanapala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191269
+  1036.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = yes
+  }
+}
+191271 = {
+  name = "キルティパーラ"  # Kirtipala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191270
+  1056.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+191272 = {
+  name = "ジャヤトラパーラ"  # Jayatrapala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191270
+  1057.1.1 = {
+    birth = yes
+  }
+  1140.1.1 = {
+    death = yes
+  }
+}
+191273 = {
+  name = "マヒーパーラ"  # Mahipala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191272
+  1077.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+191274 = {
+  name = "ヴァサマパーラ"  # Visamapala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191273
+  1095.1.1 = {
+    birth = yes
+  }
+  1160.1.1 = {
+    death = yes
+  }
+}
+191275 = {
+  name = "ジャヌー"  # Janhu
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191274
+  1113.1.1 = {
+    birth = yes
+  }
+  1170.1.1 = {
+    death = yes
+  }
+}
+191276 = {
+  name = "ジャナパーラ"  # Janapala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191275
+  1131.1.1 = {
+    birth = yes
+  }
+  1175.1.1 = {
+    death = yes
+  }
+}
+191277 = {
+  name = "ヤソラージャ"  # Yasoraja
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191276
+  1149.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+191278 = {
+  name = "カナーダデーヴァ"  # Kanhadadeva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191277
+  1167.1.1 = {
+    birth = yes
+  }
+  1220.1.1 = {
+    death = yes
+  }
+}
+191279 = {
+  name = "ラクスマヴァルマ"  # Laksmavarma
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191277
+  1168.1.1 = {
+    birth = yes
+  }
+  1240.1.1 = {
+    death = yes
+  }
+}
+191280 = {
+  name = "カードガデーヴァ"  # Khadgadeva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191278
+  1186.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
+    death = yes
+  }
+}
+191281 = {
+  name = "ブーヴァナイカマッラ"  # Bhuvanaikamalla
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191280
+  1204.1.1 = {
+    birth = yes
+  }
+  1270.1.1 = {
+    death = yes
+  }
+}
+191282 = {
+  name = "アルジュナ"  # Arjuna
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191281
+  1222.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
+191283 = {
+  name = "ビーマ"  # Bhima
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191282
+  1240.1.1 = {
+    birth = yes
+  }
+  1290.1.1 = {
+    death = yes
+  }
+}
+191284 = {
+  name = "ボージャ"  # Bhoja
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191283
+  1258.1.1 = {
+    birth = yes
+  }
+  1300.1.1 = {
+    death = yes
+  }
+}
+191285 = {
+  name = "チャンダーナ"  # Chandana
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191279
+  1187.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+191286 = {
+  name = "チッジャーナ"  # Cijjana
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191285
+  1210.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
+191287 = {
+  name = "マルギデーヴァ"  # Malugideva
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191286
+  1250.1.1 = {
+    birth = yes
+  }
+  1300.1.1 = {
+    death = yes
+  }
+}
+191288 = {
+  name = "ラクスマーナ"  # Laksmana
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191287
+  1268.1.1 = {
+    birth = yes
+  }
+  1320.1.1 = {
+    death = yes
+  }
+}
+191289 = {
+  name = "ラーマチャンドラ"  # Ramachandra
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191288
+  1284.1.1 = {
+    birth = yes
+  }
+  1330.1.1 = {
+    death = yes
+  }
+}
+191290 = {
+  name = "ラーマチャンドラ"  # Ramachandra
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191289
+  1302.1.1 = {
+    birth = yes
+  }
+  1345.1.1 = {
+    death = yes
+  }
+}
+191291 = {
+  name = "ジャヤ"  # Jaya
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191290
+  1322.1.1 = {
+    birth = yes
+  }
+  1380.1.1 = {
+    death = yes
+  }
+}
+191292 = {
+  name = "アルジュナ"  # Arjuna
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191291
+  1340.1.1 = {
+    birth = yes
+  }
+  1400.1.1 = {
+    death = yes
+  }
+}
+191293 = {
+  name = "ハリパーラ"  # Haripala
+  dynasty = 1044333
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191291
+  1341.1.1 = {
+    birth = yes
+  }
+  1405.1.1 = {
+    death = yes
+  }
+}
+191304 = {
+  name = "サイロドバーヴァ"  # Sailodbhava
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  640.1.1 = {
+    birth = yes
+  }
+  680.1.1 = {
+    death = yes
+  }
+}
+191305 = {
+  name = "ラーナビーマ"  # Ranabhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191304
+  680.1.1 = {
+    birth = yes
+  }
+  750.1.1 = {
+    death = yes
+  }
+}
+191306 = {
+  name = "サイニャビータ"  # Sainyabhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191305
+  720.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+191307 = {
+  name = "ヤソビータ"  # Yasobhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191306
+  770.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+191308 = {
+  name = "サイニャビータ"  # Sainyabhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191307
+  830.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+191309 = {
+  name = "ヤソビータ"  # Yasobhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191308
+  850.1.1 = {
+    birth = yes
+  }
+  940.1.1 = {
+    death = yes
+  }
+}
+191310 = {
+  name = "マディヤマラージャ"  # Madhyamaraja
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191309
+  900.1.1 = {
+    birth = yes
+  }
+  980.1.1 = {
+    death = yes
+  }
+}
+191311 = {
+  name = "ダールマラージャ・マナビータ"  # Dharmaraja Manabhita
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191310
+  960.1.1 = {
+    birth = yes
+  }
+  1020.1.1 = {
+    death = yes
+  }
+}
+191312 = {
+  name = "マディヤマラージャ"  # Madhyamaraja
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191311
+  980.1.1 = {
+    birth = yes
+  }
+  1040.1.1 = {
+    death = yes
+  }
+}
+191313 = {
+  name = "ラナクソバー"  # Ranaksobha
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191312
+  1000.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+191314 = {
+  name = "ペタヴヤッロパラージャ"  # Petavyalloparaja
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191312
+  1000.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    death = yes
+  }
+}
+191315 = {
+  name = "ユーヴァラージャ"  # Yuvaraja
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191314
+  1020.1.1 = {
+    birth = yes
+  }
+  1070.1.1 = {
+    death = yes
+  }
+}
+191316 = {
+  name = "マディヤマラージャ"  # Madhyamaraja
+  dynasty = 1044314
+  religion = "buddhist"
+  culture = "oriya"
+  trait = kshatriya
+  trait = mahayana_buddhist
+  father = 191315
+  1050.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
 191169 = {
   name = "クセマンカラデーヴァ"  # Ksemankaradeva
   dynasty = 1043013
@@ -1163,6 +2168,66 @@
   trait = kshatriya
   trait = shaivist_hindu
   920.1.1 = {
+    birth = yes
+  }
+  960.1.1 = {
+    death = yes
+  }
+}
+191219 = {
+  name = "ディバーンジャ"  # Dibhanja
+  dynasty = 1029197
+  father = 189208
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  890.1.1 = {
+    birth = yes
+  }
+  924.1.1 = {
+    death = yes
+  }
+}
+191220 = {
+  name = "ラーナバーンジャ"  # Ranabhanja
+  dynasty = 1029197
+  father = 191219
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  910.1.1 = {
+    birth = yes
+  }
+  936.1.1 = {
+    death = yes
+  }
+}
+191221 = {
+  name = "プリットヴィバーンジャ"  # Prithvibhanja
+  dynasty = 1029197
+  father = 191219
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  911.1.1 = {
+    birth = yes
+  }
+  950.1.1 = {
+    death = yes
+  }
+}
+191222 = {
+  name = "ラージャバーンジャ"  # Rajabhanja
+  dynasty = 1029197
+  father = 191221
+  religion = "hindu"
+  culture = "oriya"
+  trait = kshatriya
+  trait = shaivist_hindu
+  930.1.1 = {
     birth = yes
   }
   960.1.1 = {
@@ -1636,66 +2701,6 @@
     death = yes
   }
 }
-191219 = {
-  name = "ディバーンジャ"  # Dibhanja
-  dynasty = 1029197
-  father = 189208
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  890.1.1 = {
-    birth = yes
-  }
-  924.1.1 = {
-    death = yes
-  }
-}
-191220 = {
-  name = "ラーナバーンジャ"  # Ranabhanja
-  dynasty = 1029197
-  father = 191219
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  910.1.1 = {
-    birth = yes
-  }
-  936.1.1 = {
-    death = yes
-  }
-}
-191221 = {
-  name = "プリットヴィバーンジャ"  # Prithvibhanja
-  dynasty = 1029197
-  father = 191219
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  911.1.1 = {
-    birth = yes
-  }
-  950.1.1 = {
-    death = yes
-  }
-}
-191222 = {
-  name = "ラージャバーンジャ"  # Rajabhanja
-  dynasty = 1029197
-  father = 191221
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  930.1.1 = {
-    birth = yes
-  }
-  960.1.1 = {
-    death = yes
-  }
-}
 191223 = {
   name = "ウダヤーナ"  # Udayana
   dynasty = 1029196
@@ -1989,1011 +2994,6 @@
     birth = yes
   }
   839.1.1 = {
-    death = yes
-  }
-}
-191243 = {
-  name = "ヴァッラバーラージャ"  # Vallabharaja
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  740.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-191244 = {
-  name = "ラージャマッラ"  # Rajamalla
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191243
-  760.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-191245 = {
-  name = "ヴァンカーディトヤ"  # Vankhaditya
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191244
-  830.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-191246 = {
-  name = "ニラデーヴァ"  # Naladeva
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191245
-  850.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-191247 = {
-  name = "ラージャッラ"  # Rajalla
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191246
-  890.1.1 = {
-    birth = yes
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-191248 = {
-  name = "サンカーパーラ"  # Sankhapala
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191247
-  930.1.1 = {
-    birth = yes
-  }
-  1021.1.1 = {
-    death = yes
-  }
-}
-191249 = {
-  name = "ヌラパティブーサーナ"  # Nrapatibhusana
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191248
-  970.1.1 = {
-    birth = yes
-  }
-  1060.1.1 = {
-    death = yes
-  }
-}
-191250 = {
-  name = "ジャガデカブーサーナ"  # Jagadekabhusana
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191249
-  1020.1.1 = {
-    birth = yes
-  }
-  1065.1.1 = {
-    death = yes
-  }
-}
-191251 = {
-  name = "マドゥーランターカ"  # Madhurantaka
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191249
-  1021.1.1 = {
-    birth = yes
-  }
-  1069.1.1 = {
-    death = {
-      death_reason = death_battle
-      killer = 191252
-    }
-  }
-}
-191252 = {
-  name = "ソーメーシュヴァラ"  # Somesvara
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191250
-  1040.1.1 = {
-    birth = yes
-  }
-  1108.1.1 = {
-    death = yes
-  }
-}
-191253 = {
-  name = "ソーメーシュヴァラ"  # Somesvara
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191252
-  1060.1.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
-    death = yes
-  }
-}
-191254 = {
-  name = "カンハラデーヴァ"  # Kanharadeva
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191252
-  1080.1.1 = {
-    birth = yes
-  }
-  1147.1.1 = {
-    death = yes
-  }
-}
-191255 = {
-  name = "ジャガケダブーサーナ"  # Jagakedabhusana
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191254
-  1120.1.1 = {
-    birth = yes
-  }
-  1218.1.1 = {
-    death = yes
-  }
-}
-191256 = {
-  name = "キルティパーラ"  # Kirtipala
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191255
-  1150.1.1 = {
-    birth = yes
-  }
-  1230.1.1 = {
-    death = yes
-  }
-}
-191257 = {
-  name = "ジャヌー"  # Janhu
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191256
-  1190.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
-    death = yes
-  }
-}
-191258 = {
-  name = "ハリスチャンドラデーヴァ"  # Harischandradeva
-  dynasty = 1044332
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191257
-  1230.1.1 = {
-    birth = yes
-  }
-  1324.1.1 = {
-    death = yes
-  }
-}
-191259 = {
-  name = "アンナム・デヴ"  # Annam Dev
-  dynasty = 1044334
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  1291.1.1 = {
-    birth = yes
-  }
-  1369.1.1 = {
-    death = yes
-  }
-}
-191260 = {
-  name = "ハミール・デヴ"  # Hamir Dev
-  dynasty = 1044334
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  1315.1.1 = {
-    birth = yes
-  }
-  1410.1.1 = {
-    death = yes
-  }
-}
-191261 = {
-  name = "バータイ・デヴ"  # Bhatai Dev
-  dynasty = 1044334
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  1370.1.1 = {
-    birth = yes
-  }
-  1468.1.1 = {
-    death = yes
-  }
-}
-191263 = {
-  name = "アヒラージャ"  # Ahiraja
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191294
-  mother = 191262
-  750.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-191264 = {
-  name = "ラージャッラ"  # Rajalla
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191263
-  770.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-191265 = {
-  name = "ダールニダーラ"  # Dharnidhara
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191264
-  840.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-191266 = {
-  name = "マヒマデーヴァ"  # Mahimadeva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191265
-  870.1.1 = {
-    birth = yes
-  }
-  960.1.1 = {
-    death = yes
-  }
-}
-191267 = {
-  name = "サルヴァヴァンダーナ"  # Sarvavandana
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191266
-  940.1.1 = {
-    birth = yes
-  }
-  1030.1.1 = {
-    death = yes
-  }
-}
-191268 = {
-  name = "ゴーパーラデーヴァ"  # Gopaladeva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191267
-  1000.1.1 = {
-    birth = yes
-  }
-  1090.1.1 = {
-    death = yes
-  }
-}
-191269 = {
-  name = "ニラデーヴァ"  # Naladeva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191268
-  1016.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-191270 = {
-  name = "ブーヴァナパーラ"  # Bhuvanapala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191269
-  1036.1.1 = {
-    birth = yes
-  }
-  1120.1.1 = {
-    death = yes
-  }
-}
-191271 = {
-  name = "キルティパーラ"  # Kirtipala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191270
-  1056.1.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
-    death = yes
-  }
-}
-191272 = {
-  name = "ジャヤトラパーラ"  # Jayatrapala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191270
-  1057.1.1 = {
-    birth = yes
-  }
-  1140.1.1 = {
-    death = yes
-  }
-}
-191273 = {
-  name = "マヒーパーラ"  # Mahipala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191272
-  1077.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-191274 = {
-  name = "ヴァサマパーラ"  # Visamapala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191273
-  1095.1.1 = {
-    birth = yes
-  }
-  1160.1.1 = {
-    death = yes
-  }
-}
-191275 = {
-  name = "ジャヌー"  # Janhu
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191274
-  1113.1.1 = {
-    birth = yes
-  }
-  1170.1.1 = {
-    death = yes
-  }
-}
-191276 = {
-  name = "ジャナパーラ"  # Janapala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191275
-  1131.1.1 = {
-    birth = yes
-  }
-  1175.1.1 = {
-    death = yes
-  }
-}
-191277 = {
-  name = "ヤソラージャ"  # Yasoraja
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191276
-  1149.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-191278 = {
-  name = "カナーダデーヴァ"  # Kanhadadeva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191277
-  1167.1.1 = {
-    birth = yes
-  }
-  1220.1.1 = {
-    death = yes
-  }
-}
-191279 = {
-  name = "ラクスマヴァルマ"  # Laksmavarma
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191277
-  1168.1.1 = {
-    birth = yes
-  }
-  1240.1.1 = {
-    death = yes
-  }
-}
-191280 = {
-  name = "カードガデーヴァ"  # Khadgadeva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191278
-  1186.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
-191281 = {
-  name = "ブーヴァナイカマッラ"  # Bhuvanaikamalla
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191280
-  1204.1.1 = {
-    birth = yes
-  }
-  1270.1.1 = {
-    death = yes
-  }
-}
-191282 = {
-  name = "アルジュナ"  # Arjuna
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191281
-  1222.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
-    death = yes
-  }
-}
-191283 = {
-  name = "ビーマ"  # Bhima
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191282
-  1240.1.1 = {
-    birth = yes
-  }
-  1290.1.1 = {
-    death = yes
-  }
-}
-191284 = {
-  name = "ボージャ"  # Bhoja
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191283
-  1258.1.1 = {
-    birth = yes
-  }
-  1300.1.1 = {
-    death = yes
-  }
-}
-191285 = {
-  name = "チャンダーナ"  # Chandana
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191279
-  1187.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-191286 = {
-  name = "チッジャーナ"  # Cijjana
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191285
-  1210.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
-    death = yes
-  }
-}
-191287 = {
-  name = "マルギデーヴァ"  # Malugideva
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191286
-  1250.1.1 = {
-    birth = yes
-  }
-  1300.1.1 = {
-    death = yes
-  }
-}
-191288 = {
-  name = "ラクスマーナ"  # Laksmana
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191287
-  1268.1.1 = {
-    birth = yes
-  }
-  1320.1.1 = {
-    death = yes
-  }
-}
-191289 = {
-  name = "ラーマチャンドラ"  # Ramachandra
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191288
-  1284.1.1 = {
-    birth = yes
-  }
-  1330.1.1 = {
-    death = yes
-  }
-}
-191290 = {
-  name = "ラーマチャンドラ"  # Ramachandra
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191289
-  1302.1.1 = {
-    birth = yes
-  }
-  1345.1.1 = {
-    death = yes
-  }
-}
-191291 = {
-  name = "ジャヤ"  # Jaya
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191290
-  1322.1.1 = {
-    birth = yes
-  }
-  1380.1.1 = {
-    death = yes
-  }
-}
-191292 = {
-  name = "アルジュナ"  # Arjuna
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191291
-  1340.1.1 = {
-    birth = yes
-  }
-  1400.1.1 = {
-    death = yes
-  }
-}
-191293 = {
-  name = "ハリパーラ"  # Haripala
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191291
-  1341.1.1 = {
-    birth = yes
-  }
-  1405.1.1 = {
-    death = yes
-  }
-}
-191294 = {
-  name = "ラーマチャンドラ"  # Ramachandra
-  dynasty = 1044333
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  700.1.1 = {
-    birth = yes
-  }
-  730.1.1 = {
-    add_spouse = 191262
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-191295 = {
-  name = "ナンディヴァルマン"  # Nandivarman
-  dynasty = 1043014
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  740.1.1 = {
-    birth = yes
-  }
-  810.1.1 = {
-    death = yes
-  }
-}
-191296 = {
-  name = "ヴィジャヤディートヤ"  # Vijayaditya
-  dynasty = 1043014
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191295
-  770.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-191297 = {
-  name = "マッラデーヴァ"  # Malladeva
-  dynasty = 1043014
-  religion = "hindu"
-  culture = "oriya"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191296
-  810.1.1 = {
-    birth = yes
-  }
-  870.1.1 = {
-    death = yes
-  }
-}
-191304 = {
-  name = "サイロドバーヴァ"  # Sailodbhava
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  640.1.1 = {
-    birth = yes
-  }
-  680.1.1 = {
-    death = yes
-  }
-}
-191305 = {
-  name = "ラーナビーマ"  # Ranabhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191304
-  680.1.1 = {
-    birth = yes
-  }
-  750.1.1 = {
-    death = yes
-  }
-}
-191306 = {
-  name = "サイニャビータ"  # Sainyabhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191305
-  720.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-191307 = {
-  name = "ヤソビータ"  # Yasobhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191306
-  770.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-191308 = {
-  name = "サイニャビータ"  # Sainyabhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191307
-  830.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-191309 = {
-  name = "ヤソビータ"  # Yasobhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191308
-  850.1.1 = {
-    birth = yes
-  }
-  940.1.1 = {
-    death = yes
-  }
-}
-191310 = {
-  name = "マディヤマラージャ"  # Madhyamaraja
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191309
-  900.1.1 = {
-    birth = yes
-  }
-  980.1.1 = {
-    death = yes
-  }
-}
-191311 = {
-  name = "ダールマラージャ・マナビータ"  # Dharmaraja Manabhita
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191310
-  960.1.1 = {
-    birth = yes
-  }
-  1020.1.1 = {
-    death = yes
-  }
-}
-191312 = {
-  name = "マディヤマラージャ"  # Madhyamaraja
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191311
-  980.1.1 = {
-    birth = yes
-  }
-  1040.1.1 = {
-    death = yes
-  }
-}
-191313 = {
-  name = "ラナクソバー"  # Ranaksobha
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191312
-  1000.1.1 = {
-    birth = yes
-  }
-  1060.1.1 = {
-    death = yes
-  }
-}
-191314 = {
-  name = "ペタヴヤッロパラージャ"  # Petavyalloparaja
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191312
-  1000.1.1 = {
-    birth = yes
-  }
-  1090.1.1 = {
-    death = yes
-  }
-}
-191315 = {
-  name = "ユーヴァラージャ"  # Yuvaraja
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191314
-  1020.1.1 = {
-    birth = yes
-  }
-  1070.1.1 = {
-    death = yes
-  }
-}
-191316 = {
-  name = "マディヤマラージャ"  # Madhyamaraja
-  dynasty = 1044314
-  religion = "buddhist"
-  culture = "oriya"
-  trait = kshatriya
-  trait = mahayana_buddhist
-  father = 191315
-  1050.1.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
     death = yes
   }
 }

@@ -1,4 +1,1555 @@
-﻿405 = {
+﻿110501 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 395
+  religion = "catholic"
+  culture = "catalan"
+  trait = "flamboyant_schemer"
+  father = 110560
+  mother = 110653
+  1049.1.1 = {
+    birth = yes
+  }
+  1071.12.20 = {
+    death = yes
+  }
+}
+110520 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "deceitful"
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 110530
+  mother = 107661
+  1023.1.1 = {
+    birth = "1023.1.1"
+  }
+  1050.11.14 = {
+    add_spouse = 110631
+  }
+  1053.6.29 = {
+    add_spouse = 325
+  }
+  1054.1.1 = {
+    give_nickname = nick_the_old
+  }
+  1076.5.26 = {
+    death = "1076.5.26"
+  }
+}
+110521 = {
+  name = "Pere-Ramon"
+  dynasty = 100204
+  martial = 4
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "skilled_tactician"
+  father = 110520
+  mother = 110631
+  1051.1.1 = {
+    birth = "1051.1.1"
+  }
+  1073.4.22 = {
+    death = "1073.4.22"
+  }
+}
+110522 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charitable"
+  trait = "honest"
+  trait = "tough_soldier"
+  trait = "twin"
+  father = 110520
+  mother = 325
+  1054.1.1 = {
+    birth = "1054.1.1"
+  }
+  1078.1.1 = {
+    add_spouse = 1121
+  }
+  1082.12.6 = {
+    death = "1082.12.6"
+  }
+}
+110524 = {
+  name = "サンカ"  # Sança
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  trait = "stutter"
+  trait = "naive_appeaser"
+  father = 110520
+  mother = 325
+  1059.1.1 = {
+    birth = "1059.1.1"
+  }
+  1087.1.1 = {
+    death = "1087.1.1"
+  }
+}
+110525 = {
+  name = "ベレンゲル＝ラモン"  # Berenguer-Ramon
+  dynasty = 100204
+  martial = 8
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "kind"
+  trait = "proud"
+  trait = "harelip"
+  trait = "twin"
+  trait = "intricate_webweaver"
+  father = 110520
+  mother = 325
+  1054.1.1 = {
+    birth = "1054.1.1"
+  }
+  1097.6.20 = {
+    death = "1097.6.20"
+  }
+}
+110530 = {
+  name = "ベレンゲル＝ラモン"  # Berenguer-Ramon
+  dynasty = 100204
+  martial = 7
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "hunchback"
+  trait = "stutter"
+  trait = "flamboyant_schemer"
+  father = 110540
+  mother = 110634
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1021.1.1 = {
+    add_spouse = 107661
+  }
+  1027.1.1 = {
+    add_spouse = 110633
+  }
+  1035.5.26 = {
+    death = "1035.5.26"
+  }
+}
+110531 = {
+  name = "シビラ"  # Sibila
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "thrifty_clerk"
+  father = 110530
+  mother = 110633
+  1033.1.1 = {
+    birth = "1033.1.1"
+  }
+  1074.7.6 = {
+    death = "1074.7.6"
+  }
+}
+110540 = {
+  name = "Ramon-Borrell"
+  dynasty = 100204
+  martial = 5
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "diligent"
+  trait = "craven"
+  trait = "flamboyant_schemer"
+  father = 110538
+  mother = 110539
+  972.5.26 = {
+    birth = "972.5.26"
+  }
+  990.1.1 = {
+    add_spouse = 110634
+  }
+  1017.2.15 = {
+    death = "1017.2.15"
+  }
+}
+110541 = {
+  name = "アデライダ"  # Adelaida
+  female = yes
+  dynasty = 100204
+  martial = 8
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "amateurish_plotter"
+  father = 110540
+  mother = 110634
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1035.1.1 = {
+    death = "1035.1.1"
+  }
+}
+110550 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  religion = "catholic"
+  culture = "catalan"
+  trait = "proud"
+  trait = "clubfooted"
+  trait = "tough_soldier"
+  father = 110560
+  mother = 110653
+  1048.1.1 = {
+    birth = yes
+  }
+  1077.1.1 = {
+    add_spouse = 70189
+  }
+  1079.1.1 = {
+    add_spouse = 407
+  }
+  1092.3.28 = {
+    death = yes
+  }
+}
+110560 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  religion = "catholic"
+  culture = "catalan"
+  trait = "flamboyant_schemer"
+  father = 110570
+  mother = 70188
+  1031.1.1 = {
+    birth = yes
+  }
+  1047.1.1 = {
+    add_spouse = 110653
+  }
+  1056.1.1 = {
+    add_spouse = 110636
+  }
+  1065.1.1 = {
+    add_spouse = 110514
+  }
+  1065.3.1 = {
+    death = "1065.3.1"
+  }
+}
+110561 = {
+  name = "ラモン"  # Ramon
+  dynasty = 395
+  martial = 4
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  trait = "envious"
+  trait = "thrifty_clerk"
+  father = 110560
+  mother = 110636
+  1057.1.1 = {
+    birth = yes
+  }
+  1066.1.1 = {
+    employer = 110550
+  }
+  1107.1.1 = {
+    death = yes
+  }
+}
+110562 = {
+  name = "ギリェム"  # Guillem
+  dynasty = 395
+  martial = 6
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 110560
+  mother = 110636
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1066.1.1 = {
+    employer = 110550
+  }
+  1106.1.1 = {
+    death = "1106.1.1"
+  }
+}
+110563 = {
+  name = "ベレンゲル"  # Berenguer
+  dynasty = 395
+  martial = 5
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 110560
+  mother = 110636
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1066.1.1 = {
+    employer = 110550
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+110564 = {
+  name = "サンカ"  # Sança
+  female = yes
+  dynasty = 395
+  martial = 8
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "arbitrary"
+  trait = "cynical"
+  trait = "thrifty_clerk"
+  father = 110560
+  mother = 110636
+  1062.1.1 = {
+    birth = "1062.1.1"
+  }
+  1066.1.1 = {
+    employer = 110550
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+110570 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "fortune_builder"
+  father = 110571
+  mother = 110572
+  1009.1.1 = {
+    birth = "1009.1.1"
+  }
+  1030.1.1 = {
+    add_spouse = 70188
+  }
+  1038.1.1 = {
+    death = "1038.1.1"
+  }
+}
+110571 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  father = 110538
+  mother = 110539
+  975.1.1 = {
+    birth = "975.1.1"
+  }
+  1000.1.1 = {
+    add_spouse = 110572
+  }
+  1010.9.1 = {
+    death = "1010.9.1"
+  }
+}
+110580 = {
+  name = "ポンク"  # Ponç
+  dynasty = 393
+  martial = 5
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 110590
+  mother = 110591
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1021.1.1 = {
+    add_spouse = 110663
+  }
+  1078.1.1 = {
+    death = "1078.1.1"
+  }
+}
+110581 = {
+  name = "ウク"  # Hug
+  dynasty = 393
+  martial = 4
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "arbitrary"
+  trait = "misguided_warrior"
+  father = 110580
+  mother = 110663
+  1034.1.1 = {
+    birth = "1034.1.1"
+  }
+  1078.1.1 = {
+    add_spouse = 110564
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+110582 = {
+  name = "ベレンゲル"  # Berenguer
+  dynasty = 393
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "flamboyant_schemer"
+  father = 110580
+  mother = 110663
+  1036.1.1 = {
+    birth = "1036.1.1"
+  }
+  1056.1.1 = {
+    add_spouse = 110583
+  }
+  1137.1.1 = {
+    death = "1137.1.1"
+  }
+}
+110583 = {
+  name = "アルセンダ"  # Arsenda
+  female = yes
+  dynasty = 392
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "cynical"
+  trait = "charismatic_negotiator"
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1098.1.1 = {
+    death = "1098.1.1"
+  }
+}
+110584 = {
+  name = "Dalmau-Berenguer"
+  dynasty = 392
+  martial = 8
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "thrifty_clerk"
+  father = 110582
+  mother = 110583
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1123.1.1 = {
+    death = "1123.1.1"
+  }
+}
+110585 = {
+  name = "Renard"
+  dynasty = 392
+  father = 110582
+  mother = 110583
+  religion = catholic
+  culture = catalan
+  1060.1.1 = {
+    birth = yes
+  }
+  1080.1.1 = {
+    add_spouse = 72236
+  }
+  1123.1.1 = {
+    name = "Dalmau"
+  }
+  1135.1.1 = {
+    death = yes
+  }
+}
+110586 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 393
+  martial = 7
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "skilled_tactician"
+  father = 110580
+  mother = 110663
+  1038.1.1 = {
+    birth = "1038.1.1"
+  }
+  1108.1.1 = {
+    death = "1108.1.1"
+  }
+}
+110587 = {
+  name = "ペレ"  # Pere
+  dynasty = 393
+  martial = 8
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "cynical"
+  trait = "harelip"
+  trait = "martial_cleric"
+  father = 110580
+  mother = 110663
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1111.1.1 = {
+    death = "1111.1.1"
+  }
+}
+110588 = {
+  name = "ギスラ"  # Guisla
+  female = yes
+  dynasty = 393
+  martial = 8
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "flamboyant_schemer"
+  father = 110580
+  mother = 110663
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+110589 = {
+  name = "エルメセンダ"  # Ermessenda
+  female = yes
+  dynasty = 393
+  martial = 4
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charitable"
+  trait = "amateurish_plotter"
+  father = 110580
+  mother = 110663
+  1044.1.1 = {
+    birth = "1044.1.1"
+  }
+  1108.1.1 = {
+    death = "1108.1.1"
+  }
+}
+110590 = {
+  name = "ウク"  # Hug
+  dynasty = 393
+  martial = 7
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "deceitful"
+  trait = "patient"
+  trait = "brave"
+  trait = "skilled_tactician"
+  father = 110600
+  mother = 331
+  960.1.1 = {
+    birth = "960.1.1"
+  }
+  999.1.1 = {
+    add_spouse = 110591
+  }
+  1040.1.1 = {
+    death = "1040.1.1"
+  }
+}
+110592 = {
+  name = "ラモン"  # Ramon
+  dynasty = 393
+  martial = 7
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "martial_cleric"
+  father = 110590
+  mother = 110591
+  1003.1.1 = {
+    birth = "1003.1.1"
+  }
+  1066.1.1 = {
+    employer = 110580
+  }
+  1073.1.1 = {
+    death = "1073.1.1"
+  }
+}
+110610 = {
+  name = "ガウスフレド"  # Gausfred
+  dynasty = 393
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "skilled_tactician"
+  father = 110620
+  mother = 110621
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1030.1.1 = {
+    add_spouse = 110611
+  }
+  1074.1.1 = {
+    death = "1074.1.1"
+  }
+}
+110611 = {
+  name = "アデライダ"  # Adelaida
+  female = yes
+  religion = catholic
+  culture = catalan
+  1012.1.1 = {
+    birth = yes
+  }
+  1078.1.1 = {
+    death = yes
+  }
+}
+110612 = {
+  name = "ギスラベルト"  # Guislabert
+  dynasty = 393
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "ill"
+  trait = "misguided_warrior"
+  trait = "diligent"
+  father = 110610
+  mother = 110611
+  1031.1.1 = {
+    birth = "1031.1.1"
+  }
+  1052.1.1 = {
+    add_spouse = 110613
+  }
+  1102.1.1 = {
+    death = "1102.1.1"
+  }
+}
+110613 = {
+  name = "エステファニア"  # Estefania
+  female = yes
+  religion = catholic
+  culture = catalan
+  1036.1.1 = {
+    birth = yes
+  }
+  1095.1.1 = {
+    death = yes
+  }
+}
+110614 = {
+  name = "ゲラルド"  # Gerard
+  dynasty = 393
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 110612
+  mother = 110613
+  1053.1.1 = {
+    birth = "1053.1.1"
+  }
+  1080.1.1 = {
+    add_spouse = 72119
+  }
+  1113.1.1 = {
+    death = "1113.1.1"
+  }
+}
+110615 = {
+  name = "アルナウ"  # Arnau
+  dynasty = 393
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "wroth"
+  trait = "amateurish_plotter"
+  father = 110610
+  mother = 110611
+  1036.1.1 = {
+    birth = "1036.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+110616 = {
+  name = "ペレ"  # Pere
+  dynasty = 393
+  martial = 8
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "gluttonous"
+  trait = "thrifty_clerk"
+  father = 110615
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1112.1.1 = {
+    death = "1112.1.1"
+  }
+}
+110620 = {
+  name = "ギスラベルト"  # Guislabert
+  dynasty = 393
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "skilled_tactician"
+  father = 110600
+  mother = 331
+  962.1.1 = {
+    birth = "962.1.1"
+  }
+  1002.1.1 = {
+    add_spouse = 110621
+  }
+  1014.1.1 = {
+    death = "1014.1.1"
+  }
+}
+110621 = {
+  name = "Beliarda"
+  female = yes
+  religion = catholic
+  culture = catalan
+  986.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
+110633 = {
+  name = "ギスラ"  # Guisla
+  female = yes
+  religion = catholic
+  culture = catalan
+  1011.1.1 = {
+    birth = yes
+  }
+  1070.1.1 = {
+    death = yes
+  }
+}
+110640 = {
+  name = "ギリェム"  # Guillem
+  dynasty = 10020
+  martial = 8
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "thrifty_clerk"
+  father = 110650
+  mother = 110651
+  1024.1.1 = {
+    birth = "1024.1.1"
+  }
+  1065.1.1 = {
+    add_spouse = 110641
+  }
+  1066.1.1 = {
+    employer = 110520
+  }
+  1070.1.25 = {
+    death = "1070.1.25"
+  }
+}
+110642 = {
+  name = "ベルナト"  # Bernat
+  dynasty = 10020
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 110640
+  mother = 110641
+  1066.1.1 = {
+    birth = "1066.1.1"
+  }
+  1112.1.1 = {
+    death = "1112.1.1"
+  }
+}
+110643 = {
+  name = "エステファニア"  # Estefania
+  female = yes
+  dynasty = 10020
+  martial = 5
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charitable"
+  trait = "flamboyant_schemer"
+  father = 110640
+  mother = 110641
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+110650 = {
+  name = "ギリェム"  # Guillem
+  dynasty = 10020
+  martial = 5
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "slothful"
+  trait = "tough_soldier"
+  father = 110660
+  mother = 110661
+  993.1.1 = {
+    birth = "993.1.1"
+  }
+  1020.3.30 = {
+    add_spouse = 110651
+  }
+  1052.1.21 = {
+    death = "1052.1.21"
+  }
+}
+110651 = {
+  name = "アデライダ"  # Adelaida
+  female = yes
+  religion = catholic
+  culture = catalan
+  1003.1.1 = {
+    birth = yes
+  }
+  1053.1.1 = {
+    death = yes
+  }
+}
+110652 = {
+  name = "ベルナト"  # Bernat
+  dynasty = 10020
+  martial = 4
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "underhanded_rogue"
+  father = 110650
+  mother = 110651
+  1028.1.1 = {
+    birth = "1028.1.1"
+  }
+  1062.1.1 = {
+    add_spouse = 70287
+  }
+  1066.1.1 = {
+    employer = 107520
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+110653 = {
+  name = "アデライダ"  # Adelaida
+  female = yes
+  dynasty = 10020
+  martial = 8
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "slothful"
+  trait = "deceitful"
+  trait = "stutter"
+  trait = "harelip"
+  trait = "amateurish_plotter"
+  father = 110650
+  mother = 110651
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1054.1.1 = {
+    death = "1054.1.1"
+  }
+}
+110660 = {
+  name = "ベルナト"  # Bernat
+  dynasty = 10020
+  religion = "catholic"
+  culture = "catalan"
+  trait = "humble"
+  trait = "lisp"
+  trait = "indulgent_wastrel"
+  father = 70156
+  mother = 70157
+  969.1.1 = {
+    birth = yes
+  }
+  992.1.1 = {
+    add_spouse = 110661
+  }
+  1020.9.26 = {
+    death = yes
+  }
+}
+110662 = {
+  name = "ギフレ"  # Guifré
+  dynasty = 10020
+  martial = 7
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "just"
+  trait = "scholarly_theologian"
+  father = 110660
+  mother = 110661
+  996.1.1 = {
+    birth = "996.1.1"
+  }
+  1054.1.1 = {
+    death = "1054.1.1"
+  }
+}
+110663 = {
+  name = "アデライダ"  # Adelaida
+  female = yes
+  dynasty = 10020
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "cynical"
+  trait = "amateurish_plotter"
+  father = 110660
+  mother = 110661
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1060.9.26 = {
+    death = "1060.9.26"
+  }
+}
+110664 = {
+  name = "アルセンダ"  # Arsenda
+  female = yes
+  dynasty = 10020
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "patient"
+  trait = "charismatic_negotiator"
+  father = 110660
+  mother = 110661
+  1006.1.1 = {
+    birth = "1006.1.1"
+  }
+  1067.2.5 = {
+    death = "1067.2.5"
+  }
+}
+144613 = {
+  name = "アルナウ"  # Arnau
+  religion = "catholic"
+  culture = "catalan"
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1184.1.1 = {
+    death = "1184.1.1"
+  }
+}
+210500 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "chaste"
+  trait = "patient"
+  trait = "elusive_shadow"
+  father = 210506
+  mother = 210507
+  1157.3.25 = {
+    birth = "1157.3.25"
+  }
+  1164.1.1 = {
+    name = "Alfons"
+    dynasty = 100204
+  }
+  1166.1.1 = {
+    add_claim = d_provence
+  }
+  1167.1.1 = {
+    remove_claim = d_provence
+  }
+  1174.1.18 = {
+    add_spouse = 207504
+  }
+  1174.10.16 = {
+    capital = c_barcelona
+    give_nickname = nick_the_troubadour
+  }
+  1195.4.25 = {
+    death = "1195.4.25"
+    give_nickname = nick_the_chaste
+  }
+}
+210501 = {
+  name = "ペレ"  # Pere
+  dynasty = 100204
+  religion = "catholic"
+  culture = "catalan"
+  trait = "zealous"
+  trait = "tough_soldier"
+  father = 210500
+  mother = 207504
+  1174.11.1 = {
+    birth = yes
+  }
+  1204.6.15 = {
+    add_spouse = 205582
+  }
+  1213.9.14 = {
+    death = yes
+  }
+}
+210502 = {
+  name = "アルフォンス"  # Alfons
+  dynasty = 100204
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 210500
+  mother = 207504
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1193.7.1 = {
+    add_spouse = 205988
+  }
+  1209.12.1 = {
+    death = "1209.12.1"
+  }
+}
+210503 = {
+  name = "コンスタンカ"  # Constança
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "thrifty_clerk"
+  father = 210500
+  mother = 207504
+  1179.1.1 = {
+    birth = "1179.1.1"
+  }
+  1222.6.23 = {
+    death = "1222.6.23"
+  }
+}
+210504 = {
+  name = "エリオノル"  # Elionor
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 3
+  religion = "catholic"
+  culture = "catalan"
+  trait = "thrifty_clerk"
+  father = 210500
+  mother = 207504
+  1182.1.1 = {
+    birth = "1182.1.1"
+  }
+  1223.1.1 = {
+    death = "1223.1.1"
+  }
+}
+210505 = {
+  name = "サンカ"  # Sança
+  female = yes
+  dynasty = 100204
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  father = 210500
+  mother = 207504
+  1186.1.1 = {
+    birth = "1186.1.1"
+  }
+  1241.1.1 = {
+    death = "1241.1.1"
+  }
+}
+210506 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 6
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "diligent"
+  trait = "patient"
+  trait = "skilled_tactician"
+  father = 210508
+  mother = 40806
+  1113.1.1 = {
+    birth = "1113.1.1"
+  }
+  1151.7.1 = {
+    add_spouse = 210507
+  }
+  1162.8.6 = {
+    death = "1162.8.6"
+    give_nickname = nick_the_saint
+  }
+}
+210508 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "humble"
+  trait = "gluttonous"
+  trait = "charismatic_negotiator"
+  father = 110522
+  mother = 1121
+  1082.11.11 = {
+    birth = "1082.11.11"
+  }
+  1103.1.1 = {
+    add_spouse = 210509
+  }
+  1112.2.3 = {
+    give_nickname = nick_the_great
+    add_spouse = 40806
+  }
+  1131.7.19 = {
+    death = "1131.7.19"
+  }
+}
+210511 = {
+  name = "Berenguera"
+  female = yes
+  dynasty = 100204
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "proud"
+  trait = "wroth"
+  trait = "flamboyant_schemer"
+  father = 210508
+  1116.1.1 = {
+    birth = "1116.1.1"
+  }
+  1149.1.30 = {
+    death = "1149.1.30"
+  }
+}
+210512 = {
+  name = "Ximena"
+  female = yes
+  dynasty = 100204
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charismatic_negotiator"
+  father = 210508
+  mother = 40806
+  1117.1.1 = {
+    birth = "1117.1.1"
+  }
+  1148.3.1 = {
+    death = "1148.3.1"
+  }
+}
+210513 = {
+  name = "ドルカ"  # Dolça
+  female = yes
+  dynasty = 100204
+  martial = 7
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "craven"
+  trait = "thrifty_clerk"
+  father = 210506
+  mother = 210507
+  1158.1.1 = {
+    birth = "1158.1.1"
+  }
+  1200.9.1 = {
+    death = "1200.9.1"
+  }
+}
+210514 = {
+  name = "サンク"  # Sanç
+  dynasty = 100204
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "patient"
+  trait = "tough_soldier"
+  father = 210506
+  mother = 210507
+  1161.1.1 = {
+    birth = "1161.1.1"
+  }
+  1180.1.1 = {
+    add_spouse = 72246
+  }
+  1184.1.1 = {
+    add_spouse = 210515
+  }
+  1185.1.1 = {
+    add_claim = d_provence
+  }
+  1226.1.1 = {
+    death = "1226.1.1"
+  }
+}
+210516 = {
+  name = "Nunó"
+  dynasty = 100204
+  martial = 3
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  father = 210514
+  mother = 210515
+  1185.1.1 = {
+    birth = "1185.1.1"
+  }
+  1238.1.1 = {
+    add_spouse = 71970
+  }
+  1242.1.1 = {
+    death = "1242.1.1"
+  }
+}
+210550 = {
+  name = "ベレンゲル"  # Berenguer
+  dynasty = 267
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "scholarly_theologian"
+  1137.1.2 = {
+    birth = "1137.1.2"
+  }
+  1187.1.2 = {
+    death = "1187.1.2"
+  }
+}
+210560 = {
+  name = "ポンク"  # Ponç
+  dynasty = 393
+  martial = 8
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  father = 72086
+  mother = 72087
+  trait = "cynical"
+  1138.1.1 = {
+    birth = "1138.1.1"
+  }
+  1170.1.1 = {
+    add_spouse = 72093
+  }
+  1197.1.1 = {
+    add_spouse = 72094
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+210570 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  father = 210571
+  mother = 205557
+  1158.1.1 = {
+    birth = "1158.1.1"
+  }
+  1188.1.1 = {
+    add_spouse = 207543
+  }
+  1209.10.16 = {
+    death = "1209.10.16"
+  }
+}
+210571 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  father = 210572
+  mother = 210573
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1157.5.26 = {
+    add_spouse = 205557
+  }
+  1184.8.11 = {
+    death = "1184.8.11"
+  }
+}
+210572 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 5
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 210576
+  mother = 107646
+  1096.1.1 = {
+    birth = "1096.1.1"
+  }
+  1119.1.1 = {
+    add_spouse = 210573
+  }
+  1142.1.1 = {
+    add_spouse = 210574
+  }
+  1154.6.28 = {
+    death = "1154.6.28"
+  }
+}
+210575 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 395
+  martial = 6
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "amateurish_plotter"
+  father = 210572
+  mother = 210574
+  1143.1.1 = {
+    birth = "1143.1.1"
+  }
+  1196.1.13 = {
+    death = "1196.1.13"
+  }
+}
+210576 = {
+  name = "エルメンゴロ"  # Ermengol
+  dynasty = 395
+  martial = 5
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 110550
+  mother = 70189
+  1071.1.1 = {
+    birth = "1071.1.1"
+  }
+  1095.5.25 = {
+    add_spouse = 107646
+  }
+  1102.9.14 = {
+    death = "1102.9.14"
+  }
+}
+31225 = {
+  name = "ロジェル"  # Roger
+  dynasty = 7206
+  religion = "catholic"
+  culture = "catalan"
+  1275.1.1 = {
+    birth = "1275.1.1"
+  }
+  1321.1.1 = {
+    death = "1321.1.1"
+  }
+}
+405 = {
   name = "アデライダ"  # Adelaida
   female = yes
   dynasty = 719
@@ -15,18 +1566,6 @@
   }
   1080.1.2 = {
     death = "1080.1.2"
-  }
-}
-31225 = {
-  name = "ロジェル"  # Roger
-  dynasty = 7206
-  religion = "catholic"
-  culture = "catalan"
-  1275.1.1 = {
-    birth = "1275.1.1"
-  }
-  1321.1.1 = {
-    death = "1321.1.1"
   }
 }
 40807 = {
@@ -51,6 +1590,1319 @@
   }
   1144.3.1 = {
     death = "1144.3.1"
+  }
+}
+455529 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "amateurish_plotter"
+  father = 460600
+  mother = 98030
+  1243.1.1 = {
+    birth = "1243.1.1"
+  }
+  1271.1.28 = {
+    death = "1271.1.28"
+  }
+}
+458024 = {
+  name = "ベアトリウ"  # Beatriu
+  female = yes
+  dynasty = 8762
+  martial = 6
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "lustful"
+  trait = "diligent"
+  trait = "flamboyant_schemer"
+  father = 70234
+  mother = 71702
+  1305.1.1 = {
+    birth = "1305.1.1"
+  }
+  1372.1.1 = {
+    death = "1372.1.1"
+  }
+}
+460010 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 8762
+  martial = 7
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "diligent"
+  trait = "bastard"
+  trait = "patient"
+  trait = "skilled_tactician"
+  father = 460600
+  mother = 71697
+  1255.1.1 = {
+    birth = "1255.1.1"
+  }
+  1275.1.1 = {
+    add_spouse = 71575
+  }
+  1276.7.27 = {
+    remove_trait = "bastard"
+  }
+  1299.1.1 = {
+    death = "1299.1.1"
+  }
+}
+460011 = {
+  name = "ペレ"  # Pere
+  dynasty = 8762
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "greedy"
+  trait = "temperate"
+  trait = "tough_soldier"
+  father = 70234
+  mother = 71702
+  1302.1.1 = {
+    birth = "1302.1.1"
+  }
+  1331.1.1 = {
+    add_spouse = 460012
+  }
+  1362.1.1 = {
+    death = "1362.1.1"
+  }
+}
+460013 = {
+  name = "ベアトリウ"  # Beatriu
+  female = yes
+  dynasty = 8762
+  martial = 5
+  diplomacy = 4
+  intrigue = 3
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  father = 460011
+  mother = 460012
+  1335.1.1 = {
+    birth = "1335.1.1"
+  }
+  1373.1.1 = {
+    death = "1373.1.1"
+  }
+}
+460020 = {
+  name = "アルナウ"  # Arnau
+  dynasty = 10027
+  father = 72320
+  mother = 200122
+  religion = catholic
+  culture = catalan
+  1282.1.1 = {
+    birth = yes
+  }
+  1298.1.1 = {
+    add_spouse = 460021
+  }
+  1330.1.1 = {
+    death = yes
+  }
+}
+460021 = {
+  name = "シビラ"  # Sibila
+  female = yes
+  religion = catholic
+  culture = catalan
+  1282.1.1 = {
+    birth = yes
+  }
+  1330.1.1 = {
+    death = yes
+  }
+}
+460022 = {
+  name = "アルナウ"  # Arnau
+  dynasty = 10027
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  trait = "brave"
+  trait = "skilled_tactician"
+  father = 460020
+  mother = 460021
+  1300.1.1 = {
+    birth = yes
+  }
+  1349.1.1 = {
+    death = yes
+  }
+}
+460023 = {
+  name = "ベアトリウ"  # Beatriu
+  female = yes
+  dynasty = 10027
+  martial = 5
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "proud"
+  trait = "cynical"
+  trait = "intricate_webweaver"
+  father = 460020
+  mother = 460021
+  1301.1.1 = {
+    birth = "1301.1.1"
+  }
+  1351.1.1 = {
+    death = "1351.1.1"
+  }
+}
+460024 = {
+  name = "ラモン"  # Ramon
+  dynasty = 10027
+  religion = "catholic"
+  culture = "catalan"
+  trait = "lustful"
+  trait = "just"
+  trait = "brilliant_strategist"
+  father = 460020
+  mother = 460021
+  1299.1.1 = {
+    birth = yes
+  }
+  1322.1.11 = {
+    add_spouse = 460030
+  }
+  1355.1.1 = {
+    death = yes
+  }
+}
+460025 = {
+  name = "ウク"  # Hug
+  dynasty = 10027
+  martial = 6
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "gluttonous"
+  trait = "slothful"
+  trait = "thrifty_clerk"
+  father = 460020
+  mother = 460021
+  1307.1.1 = {
+    birth = "1307.1.1"
+  }
+  1357.1.1 = {
+    death = "1357.1.1"
+  }
+}
+460026 = {
+  name = "Roger-Bernat"
+  dynasty = 10027
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "kind"
+  trait = "humble"
+  trait = "misguided_warrior"
+  father = 460020
+  mother = 460021
+  1309.1.1 = {
+    birth = "1309.1.1"
+  }
+  1359.1.1 = {
+    death = "1359.1.1"
+  }
+}
+460027 = {
+  name = "アルタウ"  # Artau
+  dynasty = 10027
+  martial = 4
+  diplomacy = 9
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "craven"
+  trait = "cynical"
+  trait = "underhanded_rogue"
+  father = 460020
+  mother = 460021
+  1311.1.1 = {
+    birth = "1311.1.1"
+  }
+  1361.1.1 = {
+    death = "1361.1.1"
+  }
+}
+460030 = {
+  name = "シビラ"  # Sibila
+  female = yes
+  martial = 6
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "lustful"
+  trait = "arbitrary"
+  trait = "charismatic_negotiator"
+  1295.1.1 = {
+    birth = "1295.1.1"
+  }
+  1356.1.1 = {
+    death = "1356.1.1"
+  }
+}
+460031 = {
+  name = "ウク"  # Hug
+  dynasty = 10027
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 460024
+  mother = 460030
+  1323.1.1 = {
+    birth = "1323.1.1"
+  }
+  1373.1.1 = {
+    death = "1373.1.1"
+  }
+}
+460032 = {
+  name = "ラモン"  # Ramon
+  dynasty = 10027
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "proud"
+  trait = "thrifty_clerk"
+  father = 460024
+  mother = 460030
+  1324.1.1 = {
+    birth = "1324.1.1"
+  }
+  1374.1.1 = {
+    death = "1374.1.1"
+  }
+}
+460033 = {
+  name = "アルタウ"  # Artau
+  dynasty = 10027
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charitable"
+  trait = "martial_cleric"
+  father = 460024
+  mother = 460030
+  1326.1.1 = {
+    birth = "1326.1.1"
+  }
+  1376.1.1 = {
+    death = "1376.1.1"
+  }
+}
+460034 = {
+  name = "アルナウ"  # Arnau
+  dynasty = 10027
+  martial = 7
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 460024
+  mother = 460030
+  1328.1.1 = {
+    birth = "1328.1.1"
+  }
+  1378.1.1 = {
+    death = "1378.1.1"
+  }
+}
+460035 = {
+  name = "エリオノル"  # Elionor
+  female = yes
+  dynasty = 10027
+  religion = "catholic"
+  culture = "catalan"
+  trait = "just"
+  trait = "thrifty_clerk"
+  father = 460024
+  mother = 460030
+  1322.10.1 = {
+    birth = yes
+  }
+  1361.1.1 = {
+    death = yes
+  }
+}
+460036 = {
+  name = "ベルナト"  # Bernat
+  dynasty = 10027
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  father = 460024
+  mother = 460030
+  1334.1.1 = {
+    birth = "1334.1.1"
+  }
+  1384.1.1 = {
+    death = "1384.1.1"
+  }
+}
+460500 = {
+  name = "ペレ"  # Pere
+  dynasty = 100204
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "patient"
+  trait = "flamboyant_schemer"
+  father = 460510
+  mother = 460511
+  1319.9.5 = {
+    birth = "1319.9.5"
+  }
+  1387.1.5 = {
+    death = "1387.1.5"
+  }
+}
+460510 = {
+  name = "アルフォンス"  # Alfons
+  dynasty = 100204
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "greedy"
+  trait = "hunchback"
+  trait = "amateurish_plotter"
+  father = 460560
+  mother = 461727
+  1299.2.1 = {
+    birth = "1299.2.1"
+  }
+  1314.11.10 = {
+    add_spouse = 460511
+  }
+  1328.1.1 = {
+    give_nickname = nick_the_gentle
+  }
+  1329.1.1 = {
+    add_spouse = 457521
+  }
+  1336.1.24 = {
+    death = "1336.1.24"
+  }
+}
+460511 = {
+  name = "テレサ"  # Teresa
+  female = yes
+  dynasty = 74
+  martial = 5
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 8
+  father = 72230
+  mother = 72229
+  religion = "catholic"
+  culture = "catalan"
+  1300.1.1 = {
+    birth = yes
+  }
+  1327.10.20 = {
+    death = {
+      death_reason = death_childbirth
+    }
+  }
+}
+460520 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "lustful"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  father = 460510
+  mother = 460511
+  1321.1.1 = {
+    birth = "1321.1.1"
+  }
+  1336.1.14 = {
+    dynasty = 266
+  }
+  1347.11.15 = {
+    death = "1347.11.15"
+  }
+}
+460530 = {
+  name = "フェラン"  # Ferran
+  dynasty = 100204
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 460510
+  mother = 457521
+  1329.12.11 = {
+    birth = "1329.12.11"
+  }
+  1363.7.16 = {
+    death = "1363.7.16"
+  }
+}
+460540 = {
+  name = "ジョアン"  # Joan
+  dynasty = 100204
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "ill"
+  trait = "tough_soldier"
+  father = 460510
+  mother = 457521
+  1334.1.1 = {
+    birth = "1334.1.1"
+  }
+  1361.1.1 = {
+    death = "1361.1.1"
+  }
+}
+460550 = {
+  name = "コンスタンカ"  # Constança
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "cynical"
+  trait = "temperate"
+  trait = "naive_appeaser"
+  father = 460510
+  mother = 460511
+  1318.1.1 = {
+    birth = "1318.1.1"
+  }
+  1346.1.1 = {
+    death = "1346.1.1"
+  }
+}
+460560 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  father = 460590
+  mother = 462515
+  religion = catholic
+  culture = catalan
+  martial = 5
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  trait = chaste
+  trait = greedy
+  trait = honest
+  trait = stutter
+  trait = tough_soldier
+  1267.8.10 = {
+    birth = yes
+  }
+  1296.1.1 = {
+    add_spouse = 461727
+  }
+  1315.11.27 = {
+    add_spouse = 200139
+  }
+  1322.12.25 = {
+    add_spouse = 71663
+  }
+  1325.1.1 = {
+    give_nickname = nick_the_just
+  }
+  1327.11.5 = {
+    death = yes
+  }
+}
+460561 = {
+  name = "エリゼンダ"  # Elisenda
+  female = yes
+  dynasty = 10026
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "greedy"
+  trait = "patient"
+  trait = "martial_cleric"
+  1300.1.2 = {
+    birth = "1300.1.2"
+  }
+  1350.1.2 = {
+    death = "1350.1.2"
+  }
+}
+460562 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  martial = 7
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "envious"
+  trait = "honest"
+  trait = "tough_soldier"
+  father = 460560
+  mother = 461727
+  1296.1.1 = {
+    birth = "1296.1.1"
+  }
+  1323.10.18 = {
+    add_spouse = 457521
+  }
+  1324.1.1 = {
+    remove_spouse = 457521
+  }
+  1324.1.1 = {
+    remove_trait = "tough_soldier"
+    trait = "martial_cleric"
+  }
+  1334.5.20 = {
+    death = "1334.5.20"
+  }
+}
+460563 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 100204
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "gluttonous"
+  trait = "honest"
+  trait = "flamboyant_schemer"
+  father = 460560
+  mother = 461727
+  1299.1.1 = {
+    birth = "1299.1.1"
+  }
+  1327.1.1 = {
+    death = "1327.1.1"
+  }
+}
+460564 = {
+  name = "コンスタンカ"  # Constança
+  female = yes
+  dynasty = 100204
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "diligent"
+  trait = "naive_appeaser"
+  father = 460560
+  mother = 461727
+  1300.4.1 = {
+    birth = "1300.4.1"
+  }
+  1327.8.19 = {
+    death = "1327.8.19"
+  }
+}
+460565 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "charitable"
+  trait = "amateurish_plotter"
+  father = 460560
+  mother = 461727
+  1300.4.1 = {
+    birth = "1300.4.1"
+  }
+  1330.7.12 = {
+    death = "1330.7.12"
+  }
+}
+460566 = {
+  name = "ブランカ"  # Blanca
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "patient"
+  trait = "gluttonous"
+  trait = "scholarly_theologian"
+  father = 460560
+  mother = 461727
+  1307.1.1 = {
+    birth = "1307.1.1"
+  }
+  1348.1.1 = {
+    death = "1348.1.1"
+  }
+}
+460567 = {
+  name = "ヴィオラント"  # Violant
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "chaste"
+  trait = "just"
+  trait = "envious"
+  trait = "honest"
+  trait = "thrifty_clerk"
+  father = 460560
+  mother = 461727
+  1310.10.1 = {
+    birth = "1310.10.1"
+  }
+  1353.7.19 = {
+    death = "1353.7.19"
+  }
+}
+460570 = {
+  name = "ペレ"  # Pere
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "intricate_webweaver"
+  father = 460560
+  mother = 461727
+  1305.1.1 = {
+    birth = "1305.1.1"
+  }
+  1331.5.1 = {
+    add_spouse = 71761
+  }
+  1381.11.4 = {
+    death = "1381.11.4"
+  }
+}
+460571 = {
+  name = "アルフォンス"  # Alfons
+  dynasty = 100204
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "tough_soldier"
+  father = 460570
+  mother = 71761
+  1332.2.1 = {
+    birth = "1332.2.1"
+  }
+  1412.3.5 = {
+    death = "1412.3.5"
+  }
+}
+460572 = {
+  name = "ジョアン"  # Joan
+  dynasty = 100204
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  father = 460570
+  mother = 71761
+  1335.1.1 = {
+    birth = "1335.1.1"
+  }
+  1414.1.1 = {
+    death = "1414.1.1"
+  }
+}
+460573 = {
+  name = "エリオノル"  # Elionor
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  father = 460570
+  mother = 71761
+  1333.1.2 = {
+    birth = "1333.1.2"
+  }
+  1417.12.26 = {
+    death = "1417.12.26"
+  }
+}
+460580 = {
+  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
+  dynasty = 100204
+  martial = 8
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "kind"
+  trait = "tough_soldier"
+  father = 460560
+  mother = 461727
+  1308.1.1 = {
+    birth = "1308.1.1"
+  }
+  1328.1.1 = {
+    add_spouse = 461715
+  }
+  1338.1.1 = {
+    death = "1338.1.1"
+  }
+}
+460590 = {
+  name = "ペレ"  # Pere
+  dynasty = 100204
+  martial = 8
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "just"
+  trait = "ambitious"
+  trait = "brilliant_strategist"
+  father = 460600
+  mother = 98030
+  1239.1.1 = {
+    birth = "1239.1.1"
+  }
+  1265.1.1 = {
+    add_spouse = 462515
+  }
+  1282.8.30 = {
+    give_nickname = nick_the_great
+  }
+  1285.11.11 = {
+    death = "1285.11.11"
+  }
+}
+460591 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 100204
+  martial = 4
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "arbitrary"
+  trait = "naive_appeaser"
+  father = 460590
+  mother = 462515
+  1271.1.4 = {
+    birth = "1271.1.4"
+  }
+  1336.6.4 = {
+    death = "1336.6.4"
+  }
+}
+460592 = {
+  name = "ヴィオラント"  # Violant
+  female = yes
+  dynasty = 100204
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "deceitful"
+  trait = "brave"
+  trait = "inbred"
+  trait = "flamboyant_schemer"
+  father = 460590
+  mother = 462515
+  1273.1.1 = {
+    birth = "1273.1.1"
+  }
+  1302.8.19 = {
+    death = "1302.8.19"
+  }
+}
+460600 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  martial = 6
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "brilliant_strategist"
+  father = 210501
+  mother = 205582
+  1208.2.1 = {
+    birth = "1208.2.1"
+  }
+  1224.1.1 = {
+    add_spouse = 460614
+  }
+  1229.4.1 = {
+    remove_spouse = 460614
+  }
+  1235.9.8 = {
+    add_spouse = 98030
+  }
+  1243.1.1 = {
+    give_nickname = nick_the_conqueror
+    create_bloodline = {
+      type = james
+      has_dlc = "Holy Fury"
+    }
+  }
+  1276.7.27 = {
+    add_spouse = 71697
+  }
+  1276.7.27 = {
+    death = "1276.7.27"
+  }
+}
+460602 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  father = 460600
+  mother = 98030
+  religion = catholic
+  culture = catalan
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 8
+  trait = skilled_tactician
+  1243.5.31 = {
+    birth = yes
+  }
+  1275.10.12 = {
+    add_spouse = 138155
+  }
+  1311.5.29 = {
+    death = yes
+  }
+}
+460603 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  father = 460602
+  mother = 138155
+  religion = catholic
+  culture = catalan
+  1276.8.1 = {
+    birth = yes
+  }
+  1330.1.1 = {
+    death = yes
+  }
+}
+460604 = {
+  name = "サンク"  # Sanç
+  dynasty = 100204
+  father = 460602
+  mother = 138155
+  religion = catholic
+  culture = catalan
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  trait = slothful
+  trait = just
+  trait = flamboyant_schemer
+  1278.1.1 = {
+    birth = yes
+  }
+  1309.1.1 = {
+    add_spouse = 200108
+  }
+  1324.9.4 = {
+    death = yes
+  }
+}
+460605 = {
+  name = "フェラン"  # Ferran
+  dynasty = 100204
+  father = 460602
+  religion = catholic
+  culture = catalan
+  1278.1.1 = {
+    birth = yes
+  }
+  1314.2.1 = {
+    add_spouse = 460606
+  }
+  1316.10.19 = {
+    death = yes
+  }
+}
+460606 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 71
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "brave"
+  trait = "martial_cleric"
+  1297.1.2 = {
+    birth = "1297.1.2"
+  }
+  1315.4.16 = {
+    death = "1315.4.16"
+  }
+}
+460607 = {
+  name = "フェラン"  # Ferran
+  dynasty = 100204
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "wroth"
+  father = 460605
+  1317.5.5 = {
+    birth = "1317.5.5"
+  }
+  1347.1.1 = {
+    death = "1347.1.1"
+  }
+}
+460608 = {
+  name = "フェリプ"  # Felip
+  dynasty = 100204
+  father = 460602
+  mother = 138155
+  religion = catholic
+  culture = catalan
+  trait = scholarly_theologian
+  1288.1.1 = {
+    birth = yes
+  }
+  1343.1.1 = {
+    death = yes
+  }
+}
+460609 = {
+  name = "イザベル"  # Isabel
+  female = yes
+  dynasty = 100204
+  father = 460602
+  mother = 138155
+  religion = catholic
+  culture = catalan
+  1280.1.1 = {
+    birth = yes
+  }
+  1301.10.10 = {
+    death = yes
+  }
+}
+460610 = {
+  name = "サンカ"  # Sança
+  female = yes
+  dynasty = 100204
+  father = 460602
+  mother = 138155
+  religion = catholic
+  culture = catalan
+  1285.1.1 = {
+    birth = yes
+  }
+  1345.7.28 = {
+    death = yes
+  }
+}
+460611 = {
+  name = "ヴィオラント"  # Violant
+  female = yes
+  dynasty = 100204
+  martial = 8
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  father = 460600
+  mother = 98030
+  1236.1.1 = {
+    birth = "1236.1.1"
+  }
+  1301.1.1 = {
+    death = "1301.1.1"
+  }
+}
+460612 = {
+  name = "コンスタンカ"  # Constança
+  female = yes
+  dynasty = 100204
+  martial = 8
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "zealous"
+  father = 460600
+  mother = 98030
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1266.1.1 = {
+    death = "1266.1.1"
+  }
+}
+460620 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "catalan"
+  trait = "deceitful"
+  trait = "tough_soldier"
+  father = 460605
+  mother = 460606
+  1315.4.15 = {
+    birth = "1315.4.15"
+  }
+  1336.9.24 = {
+    add_spouse = 460550
+  }
+  1349.10.25 = {
+    death = "1349.10.25"
+  }
+}
+460621 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 100204
+  martial = 4
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "bastard"
+  father = 460620
+  mother = 460550
+  1336.8.24 = {
+    birth = "1336.8.24"
+  }
+  1336.9.24 = {
+    remove_trait = "bastard"
+  }
+  1375.2.1 = {
+    death = "1375.2.1"
+  }
+}
+461501 = {
+  name = "シビラ"  # Sibila
+  female = yes
+  dynasty = 70
+  martial = 8
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "thrifty_clerk"
+  1274.1.2 = {
+    birth = "1274.1.2"
+  }
+  1340.1.2 = {
+    death = "1340.1.2"
+  }
+}
+461511 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 8762
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "underhanded_rogue"
+  father = 70234
+  mother = 71702
+  1310.1.1 = {
+    birth = "1310.1.1"
+  }
+  1364.1.1 = {
+    death = "1364.1.1"
+  }
+}
+461512 = {
+  name = "ジャウメ"  # Jaume
+  dynasty = 8762
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "catalan"
+  trait = "greedy"
+  trait = "flamboyant_schemer"
+  father = 70234
+  mother = 71702
+  1298.1.1 = {
+    birth = "1298.1.1"
+  }
+  1335.4.28 = {
+    death = "1335.4.28"
+  }
+}
+461521 = {
+  name = "Cesarea"
+  female = yes
+  dynasty = 69
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "catalan"
+  trait = "gluttonous"
+  trait = "hunchback"
+  trait = "charismatic_negotiator"
+  father = 461522
+  1317.1.2 = {
+    birth = "1317.1.2"
+  }
+  1367.1.2 = {
+    death = "1367.1.2"
+  }
+}
+461550 = {
+  name = "アルフォンス"  # Alfons
+  dynasty = 100204
+  martial = 8
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "bastard"
+  trait = "flamboyant_schemer"
+  father = 461500
+  mother = 461501
+  1290.1.1 = {
+    birth = "1290.1.1"
+  }
+  1291.6.18 = {
+    name = "アルフォンソ"  # Alfonso
+    culture = "italian"
+  }
+  1317.1.1 = {
+    add_spouse = 461571
+  }
+  1339.3.4 = {
+    death = "1339.3.4"
   }
 }
 70158 = {
@@ -3135,6 +5987,40 @@
     death = "1298.1.1"
   }
 }
+461500 = {
+  name = "フレデリコ"  # Frederic
+  dynasty = 100204
+  martial = 8
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  trait = "lustful"
+  trait = "deceitful"
+  trait = "tough_soldier"
+  father = 460590
+  mother = 462515
+  1272.1.1 = {
+    birth = "1272.1.1"
+  }
+  1291.6.18 = {
+    name = "Federigo"
+    culture = "italian"
+  }
+  1296.1.15 = {
+    add_claim = k_trinacria
+  }
+  1302.8.1 = {
+    remove_claim = k_trinacria
+  }
+  1303.5.1 = {
+    add_spouse = 455806
+  }
+  1337.6.25 = {
+    death = "1337.6.25"
+  }
+}
 72055 = {
   name = "Almodis"
   dynasty = 10019
@@ -4135,21 +7021,6 @@
     death = "1168.7.9"
   }
 }
-72131 = {
-  name = "ギリェム"  # Guillem
-  dynasty = 12129
-  religion = "catholic"
-  culture = "catalan"
-  1215.1.1 = {
-    birth = "1215.1.1"
-  }
-  1237.1.1 = {
-    add_spouse = 72210
-  }
-  1280.1.1 = {
-    death = "1280.1.1"
-  }
-}
 72132 = {
   name = "テレサ"  # Teresa
   dynasty = 395
@@ -4969,6 +7840,21 @@
   }
   1266.1.1 = {
     death = "1266.1.1"
+  }
+}
+72131 = {
+  name = "ギリェム"  # Guillem
+  dynasty = 12129
+  religion = "catholic"
+  culture = "catalan"
+  1215.1.1 = {
+    birth = "1215.1.1"
+  }
+  1237.1.1 = {
+    add_spouse = 72210
+  }
+  1280.1.1 = {
+    death = "1280.1.1"
   }
 }
 72218 = {
@@ -6965,6 +9851,47 @@
     death = "1400.8.2"
   }
 }
+110636 = {
+  name = "Clemencia"
+  female = yes
+  dynasty = 686
+  martial = 4
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "catalan"
+  trait = "honest"
+  trait = "just"
+  trait = "flamboyant_schemer"
+  father = 40188
+  1037.1.2 = {
+    birth = "1037.1.2"
+  }
+  1065.1.2 = {
+    death = "1065.1.2"
+  }
+}
+210573 = {
+  name = "アルセンダ"  # Arsenda
+  female = yes
+  dynasty = 101701
+  martial = 5
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "catalan"
+  father = 72156
+  mother = 72160
+  trait = "amateurish_plotter"
+  1102.1.1 = {
+    birth = "1102.1.1"
+  }
+  1135.1.1 = {
+    death = "1135.1.1"
+  }
+}
 72430 = {
   name = "ギリェルマ"  # Guillelma
   female = yes
@@ -7044,6 +9971,21 @@
     death = "1248.1.1"
   }
 }
+110523 = {
+  name = "アグネス"  # Agnès
+  female = yes
+  dynasty = 100204
+  religion = "catholic"
+  culture = "catalan"
+  father = 110520
+  mother = 325
+  1056.1.1 = {
+    birth = "1056.1.1"
+  }
+  1076.11.12 = {
+    death = "1076.11.12"
+  }
+}
 72681 = {
   name = "サンカ"  # Sança
   female = yes
@@ -7101,1125 +10043,6 @@
   }
   1180.4.17 = {
     death = yes
-  }
-}
-110501 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 395
-  religion = "catholic"
-  culture = "catalan"
-  trait = "flamboyant_schemer"
-  father = 110560
-  mother = 110653
-  1049.1.1 = {
-    birth = yes
-  }
-  1071.12.20 = {
-    death = yes
-  }
-}
-110520 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "deceitful"
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 110530
-  mother = 107661
-  1023.1.1 = {
-    birth = "1023.1.1"
-  }
-  1050.11.14 = {
-    add_spouse = 110631
-  }
-  1053.6.29 = {
-    add_spouse = 325
-  }
-  1054.1.1 = {
-    give_nickname = nick_the_old
-  }
-  1076.5.26 = {
-    death = "1076.5.26"
-  }
-}
-110521 = {
-  name = "Pere-Ramon"
-  dynasty = 100204
-  martial = 4
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "skilled_tactician"
-  father = 110520
-  mother = 110631
-  1051.1.1 = {
-    birth = "1051.1.1"
-  }
-  1073.4.22 = {
-    death = "1073.4.22"
-  }
-}
-110522 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charitable"
-  trait = "honest"
-  trait = "tough_soldier"
-  trait = "twin"
-  father = 110520
-  mother = 325
-  1054.1.1 = {
-    birth = "1054.1.1"
-  }
-  1078.1.1 = {
-    add_spouse = 1121
-  }
-  1082.12.6 = {
-    death = "1082.12.6"
-  }
-}
-110523 = {
-  name = "アグネス"  # Agnès
-  female = yes
-  dynasty = 100204
-  religion = "catholic"
-  culture = "catalan"
-  father = 110520
-  mother = 325
-  1056.1.1 = {
-    birth = "1056.1.1"
-  }
-  1076.11.12 = {
-    death = "1076.11.12"
-  }
-}
-110524 = {
-  name = "サンカ"  # Sança
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  trait = "stutter"
-  trait = "naive_appeaser"
-  father = 110520
-  mother = 325
-  1059.1.1 = {
-    birth = "1059.1.1"
-  }
-  1087.1.1 = {
-    death = "1087.1.1"
-  }
-}
-110525 = {
-  name = "ベレンゲル＝ラモン"  # Berenguer-Ramon
-  dynasty = 100204
-  martial = 8
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "kind"
-  trait = "proud"
-  trait = "harelip"
-  trait = "twin"
-  trait = "intricate_webweaver"
-  father = 110520
-  mother = 325
-  1054.1.1 = {
-    birth = "1054.1.1"
-  }
-  1097.6.20 = {
-    death = "1097.6.20"
-  }
-}
-110530 = {
-  name = "ベレンゲル＝ラモン"  # Berenguer-Ramon
-  dynasty = 100204
-  martial = 7
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "hunchback"
-  trait = "stutter"
-  trait = "flamboyant_schemer"
-  father = 110540
-  mother = 110634
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1021.1.1 = {
-    add_spouse = 107661
-  }
-  1027.1.1 = {
-    add_spouse = 110633
-  }
-  1035.5.26 = {
-    death = "1035.5.26"
-  }
-}
-110531 = {
-  name = "シビラ"  # Sibila
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "thrifty_clerk"
-  father = 110530
-  mother = 110633
-  1033.1.1 = {
-    birth = "1033.1.1"
-  }
-  1074.7.6 = {
-    death = "1074.7.6"
-  }
-}
-110540 = {
-  name = "Ramon-Borrell"
-  dynasty = 100204
-  martial = 5
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "diligent"
-  trait = "craven"
-  trait = "flamboyant_schemer"
-  father = 110538
-  mother = 110539
-  972.5.26 = {
-    birth = "972.5.26"
-  }
-  990.1.1 = {
-    add_spouse = 110634
-  }
-  1017.2.15 = {
-    death = "1017.2.15"
-  }
-}
-110541 = {
-  name = "アデライダ"  # Adelaida
-  female = yes
-  dynasty = 100204
-  martial = 8
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "amateurish_plotter"
-  father = 110540
-  mother = 110634
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1035.1.1 = {
-    death = "1035.1.1"
-  }
-}
-110550 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  religion = "catholic"
-  culture = "catalan"
-  trait = "proud"
-  trait = "clubfooted"
-  trait = "tough_soldier"
-  father = 110560
-  mother = 110653
-  1048.1.1 = {
-    birth = yes
-  }
-  1077.1.1 = {
-    add_spouse = 70189
-  }
-  1079.1.1 = {
-    add_spouse = 407
-  }
-  1092.3.28 = {
-    death = yes
-  }
-}
-110560 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  religion = "catholic"
-  culture = "catalan"
-  trait = "flamboyant_schemer"
-  father = 110570
-  mother = 70188
-  1031.1.1 = {
-    birth = yes
-  }
-  1047.1.1 = {
-    add_spouse = 110653
-  }
-  1056.1.1 = {
-    add_spouse = 110636
-  }
-  1065.1.1 = {
-    add_spouse = 110514
-  }
-  1065.3.1 = {
-    death = "1065.3.1"
-  }
-}
-110561 = {
-  name = "ラモン"  # Ramon
-  dynasty = 395
-  martial = 4
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  trait = "envious"
-  trait = "thrifty_clerk"
-  father = 110560
-  mother = 110636
-  1057.1.1 = {
-    birth = yes
-  }
-  1066.1.1 = {
-    employer = 110550
-  }
-  1107.1.1 = {
-    death = yes
-  }
-}
-110562 = {
-  name = "ギリェム"  # Guillem
-  dynasty = 395
-  martial = 6
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 110560
-  mother = 110636
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1066.1.1 = {
-    employer = 110550
-  }
-  1106.1.1 = {
-    death = "1106.1.1"
-  }
-}
-110563 = {
-  name = "ベレンゲル"  # Berenguer
-  dynasty = 395
-  martial = 5
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 110560
-  mother = 110636
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1066.1.1 = {
-    employer = 110550
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-110564 = {
-  name = "サンカ"  # Sança
-  female = yes
-  dynasty = 395
-  martial = 8
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "arbitrary"
-  trait = "cynical"
-  trait = "thrifty_clerk"
-  father = 110560
-  mother = 110636
-  1062.1.1 = {
-    birth = "1062.1.1"
-  }
-  1066.1.1 = {
-    employer = 110550
-  }
-  1116.1.1 = {
-    death = "1116.1.1"
-  }
-}
-110570 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "fortune_builder"
-  father = 110571
-  mother = 110572
-  1009.1.1 = {
-    birth = "1009.1.1"
-  }
-  1030.1.1 = {
-    add_spouse = 70188
-  }
-  1038.1.1 = {
-    death = "1038.1.1"
-  }
-}
-110571 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  father = 110538
-  mother = 110539
-  975.1.1 = {
-    birth = "975.1.1"
-  }
-  1000.1.1 = {
-    add_spouse = 110572
-  }
-  1010.9.1 = {
-    death = "1010.9.1"
-  }
-}
-110580 = {
-  name = "ポンク"  # Ponç
-  dynasty = 393
-  martial = 5
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 110590
-  mother = 110591
-  1000.1.1 = {
-    birth = "1000.1.1"
-  }
-  1021.1.1 = {
-    add_spouse = 110663
-  }
-  1078.1.1 = {
-    death = "1078.1.1"
-  }
-}
-110581 = {
-  name = "ウク"  # Hug
-  dynasty = 393
-  martial = 4
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "arbitrary"
-  trait = "misguided_warrior"
-  father = 110580
-  mother = 110663
-  1034.1.1 = {
-    birth = "1034.1.1"
-  }
-  1078.1.1 = {
-    add_spouse = 110564
-  }
-  1116.1.1 = {
-    death = "1116.1.1"
-  }
-}
-110582 = {
-  name = "ベレンゲル"  # Berenguer
-  dynasty = 393
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "flamboyant_schemer"
-  father = 110580
-  mother = 110663
-  1036.1.1 = {
-    birth = "1036.1.1"
-  }
-  1056.1.1 = {
-    add_spouse = 110583
-  }
-  1137.1.1 = {
-    death = "1137.1.1"
-  }
-}
-110583 = {
-  name = "アルセンダ"  # Arsenda
-  female = yes
-  dynasty = 392
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "cynical"
-  trait = "charismatic_negotiator"
-  1038.1.1 = {
-    birth = "1038.1.1"
-  }
-  1098.1.1 = {
-    death = "1098.1.1"
-  }
-}
-110584 = {
-  name = "Dalmau-Berenguer"
-  dynasty = 392
-  martial = 8
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "thrifty_clerk"
-  father = 110582
-  mother = 110583
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1123.1.1 = {
-    death = "1123.1.1"
-  }
-}
-110585 = {
-  name = "Renard"
-  dynasty = 392
-  father = 110582
-  mother = 110583
-  religion = catholic
-  culture = catalan
-  1060.1.1 = {
-    birth = yes
-  }
-  1080.1.1 = {
-    add_spouse = 72236
-  }
-  1123.1.1 = {
-    name = "Dalmau"
-  }
-  1135.1.1 = {
-    death = yes
-  }
-}
-110586 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 393
-  martial = 7
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "skilled_tactician"
-  father = 110580
-  mother = 110663
-  1038.1.1 = {
-    birth = "1038.1.1"
-  }
-  1108.1.1 = {
-    death = "1108.1.1"
-  }
-}
-110587 = {
-  name = "ペレ"  # Pere
-  dynasty = 393
-  martial = 8
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "cynical"
-  trait = "harelip"
-  trait = "martial_cleric"
-  father = 110580
-  mother = 110663
-  1040.1.1 = {
-    birth = "1040.1.1"
-  }
-  1111.1.1 = {
-    death = "1111.1.1"
-  }
-}
-110588 = {
-  name = "ギスラ"  # Guisla
-  female = yes
-  dynasty = 393
-  martial = 8
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "flamboyant_schemer"
-  father = 110580
-  mother = 110663
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-110589 = {
-  name = "エルメセンダ"  # Ermessenda
-  female = yes
-  dynasty = 393
-  martial = 4
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charitable"
-  trait = "amateurish_plotter"
-  father = 110580
-  mother = 110663
-  1044.1.1 = {
-    birth = "1044.1.1"
-  }
-  1108.1.1 = {
-    death = "1108.1.1"
-  }
-}
-110590 = {
-  name = "ウク"  # Hug
-  dynasty = 393
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "deceitful"
-  trait = "patient"
-  trait = "brave"
-  trait = "skilled_tactician"
-  father = 110600
-  mother = 331
-  960.1.1 = {
-    birth = "960.1.1"
-  }
-  999.1.1 = {
-    add_spouse = 110591
-  }
-  1040.1.1 = {
-    death = "1040.1.1"
-  }
-}
-110592 = {
-  name = "ラモン"  # Ramon
-  dynasty = 393
-  martial = 7
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "martial_cleric"
-  father = 110590
-  mother = 110591
-  1003.1.1 = {
-    birth = "1003.1.1"
-  }
-  1066.1.1 = {
-    employer = 110580
-  }
-  1073.1.1 = {
-    death = "1073.1.1"
-  }
-}
-110610 = {
-  name = "ガウスフレド"  # Gausfred
-  dynasty = 393
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "skilled_tactician"
-  father = 110620
-  mother = 110621
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1030.1.1 = {
-    add_spouse = 110611
-  }
-  1074.1.1 = {
-    death = "1074.1.1"
-  }
-}
-110611 = {
-  name = "アデライダ"  # Adelaida
-  female = yes
-  religion = catholic
-  culture = catalan
-  1012.1.1 = {
-    birth = yes
-  }
-  1078.1.1 = {
-    death = yes
-  }
-}
-110612 = {
-  name = "ギスラベルト"  # Guislabert
-  dynasty = 393
-  martial = 4
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "ill"
-  trait = "misguided_warrior"
-  trait = "diligent"
-  father = 110610
-  mother = 110611
-  1031.1.1 = {
-    birth = "1031.1.1"
-  }
-  1052.1.1 = {
-    add_spouse = 110613
-  }
-  1102.1.1 = {
-    death = "1102.1.1"
-  }
-}
-110613 = {
-  name = "エステファニア"  # Estefania
-  female = yes
-  religion = catholic
-  culture = catalan
-  1036.1.1 = {
-    birth = yes
-  }
-  1095.1.1 = {
-    death = yes
-  }
-}
-110614 = {
-  name = "ゲラルド"  # Gerard
-  dynasty = 393
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 110612
-  mother = 110613
-  1053.1.1 = {
-    birth = "1053.1.1"
-  }
-  1080.1.1 = {
-    add_spouse = 72119
-  }
-  1113.1.1 = {
-    death = "1113.1.1"
-  }
-}
-110615 = {
-  name = "アルナウ"  # Arnau
-  dynasty = 393
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "wroth"
-  trait = "amateurish_plotter"
-  father = 110610
-  mother = 110611
-  1036.1.1 = {
-    birth = "1036.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-110616 = {
-  name = "ペレ"  # Pere
-  dynasty = 393
-  martial = 8
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "gluttonous"
-  trait = "thrifty_clerk"
-  father = 110615
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1112.1.1 = {
-    death = "1112.1.1"
-  }
-}
-110620 = {
-  name = "ギスラベルト"  # Guislabert
-  dynasty = 393
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "skilled_tactician"
-  father = 110600
-  mother = 331
-  962.1.1 = {
-    birth = "962.1.1"
-  }
-  1002.1.1 = {
-    add_spouse = 110621
-  }
-  1014.1.1 = {
-    death = "1014.1.1"
-  }
-}
-110621 = {
-  name = "Beliarda"
-  female = yes
-  religion = catholic
-  culture = catalan
-  986.1.1 = {
-    birth = yes
-  }
-  1060.1.1 = {
-    death = yes
-  }
-}
-110633 = {
-  name = "ギスラ"  # Guisla
-  female = yes
-  religion = catholic
-  culture = catalan
-  1011.1.1 = {
-    birth = yes
-  }
-  1070.1.1 = {
-    death = yes
-  }
-}
-110636 = {
-  name = "Clemencia"
-  female = yes
-  dynasty = 686
-  martial = 4
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "just"
-  trait = "flamboyant_schemer"
-  father = 40188
-  1037.1.2 = {
-    birth = "1037.1.2"
-  }
-  1065.1.2 = {
-    death = "1065.1.2"
-  }
-}
-110640 = {
-  name = "ギリェム"  # Guillem
-  dynasty = 10020
-  martial = 8
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "thrifty_clerk"
-  father = 110650
-  mother = 110651
-  1024.1.1 = {
-    birth = "1024.1.1"
-  }
-  1065.1.1 = {
-    add_spouse = 110641
-  }
-  1066.1.1 = {
-    employer = 110520
-  }
-  1070.1.25 = {
-    death = "1070.1.25"
-  }
-}
-110642 = {
-  name = "ベルナト"  # Bernat
-  dynasty = 10020
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "tough_soldier"
-  father = 110640
-  mother = 110641
-  1066.1.1 = {
-    birth = "1066.1.1"
-  }
-  1112.1.1 = {
-    death = "1112.1.1"
-  }
-}
-110643 = {
-  name = "エステファニア"  # Estefania
-  female = yes
-  dynasty = 10020
-  martial = 5
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charitable"
-  trait = "flamboyant_schemer"
-  father = 110640
-  mother = 110641
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-110650 = {
-  name = "ギリェム"  # Guillem
-  dynasty = 10020
-  martial = 5
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "slothful"
-  trait = "tough_soldier"
-  father = 110660
-  mother = 110661
-  993.1.1 = {
-    birth = "993.1.1"
-  }
-  1020.3.30 = {
-    add_spouse = 110651
-  }
-  1052.1.21 = {
-    death = "1052.1.21"
-  }
-}
-110651 = {
-  name = "アデライダ"  # Adelaida
-  female = yes
-  religion = catholic
-  culture = catalan
-  1003.1.1 = {
-    birth = yes
-  }
-  1053.1.1 = {
-    death = yes
-  }
-}
-110652 = {
-  name = "ベルナト"  # Bernat
-  dynasty = 10020
-  martial = 4
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "underhanded_rogue"
-  father = 110650
-  mother = 110651
-  1028.1.1 = {
-    birth = "1028.1.1"
-  }
-  1062.1.1 = {
-    add_spouse = 70287
-  }
-  1066.1.1 = {
-    employer = 107520
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-110653 = {
-  name = "アデライダ"  # Adelaida
-  female = yes
-  dynasty = 10020
-  martial = 8
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "slothful"
-  trait = "deceitful"
-  trait = "stutter"
-  trait = "harelip"
-  trait = "amateurish_plotter"
-  father = 110650
-  mother = 110651
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1054.1.1 = {
-    death = "1054.1.1"
-  }
-}
-110660 = {
-  name = "ベルナト"  # Bernat
-  dynasty = 10020
-  religion = "catholic"
-  culture = "catalan"
-  trait = "humble"
-  trait = "lisp"
-  trait = "indulgent_wastrel"
-  father = 70156
-  mother = 70157
-  969.1.1 = {
-    birth = yes
-  }
-  992.1.1 = {
-    add_spouse = 110661
-  }
-  1020.9.26 = {
-    death = yes
-  }
-}
-110662 = {
-  name = "ギフレ"  # Guifré
-  dynasty = 10020
-  martial = 7
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "just"
-  trait = "scholarly_theologian"
-  father = 110660
-  mother = 110661
-  996.1.1 = {
-    birth = "996.1.1"
-  }
-  1054.1.1 = {
-    death = "1054.1.1"
-  }
-}
-110663 = {
-  name = "アデライダ"  # Adelaida
-  female = yes
-  dynasty = 10020
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "cynical"
-  trait = "amateurish_plotter"
-  father = 110660
-  mother = 110661
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1060.9.26 = {
-    death = "1060.9.26"
-  }
-}
-110664 = {
-  name = "アルセンダ"  # Arsenda
-  female = yes
-  dynasty = 10020
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "patient"
-  trait = "charismatic_negotiator"
-  father = 110660
-  mother = 110661
-  1006.1.1 = {
-    birth = "1006.1.1"
-  }
-  1067.2.5 = {
-    death = "1067.2.5"
-  }
-}
-144613 = {
-  name = "アルナウ"  # Arnau
-  religion = "catholic"
-  culture = "catalan"
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1184.1.1 = {
-    death = "1184.1.1"
   }
 }
 200117 = {
@@ -8440,1828 +10263,5 @@
   }
   1360.1.1 = {
     death = yes
-  }
-}
-210500 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "chaste"
-  trait = "patient"
-  trait = "elusive_shadow"
-  father = 210506
-  mother = 210507
-  1157.3.25 = {
-    birth = "1157.3.25"
-  }
-  1164.1.1 = {
-    name = "Alfons"
-    dynasty = 100204
-  }
-  1166.1.1 = {
-    add_claim = d_provence
-  }
-  1167.1.1 = {
-    remove_claim = d_provence
-  }
-  1174.1.18 = {
-    add_spouse = 207504
-  }
-  1174.10.16 = {
-    capital = c_barcelona
-    give_nickname = nick_the_troubadour
-  }
-  1195.4.25 = {
-    death = "1195.4.25"
-    give_nickname = nick_the_chaste
-  }
-}
-210501 = {
-  name = "ペレ"  # Pere
-  dynasty = 100204
-  religion = "catholic"
-  culture = "catalan"
-  trait = "zealous"
-  trait = "tough_soldier"
-  father = 210500
-  mother = 207504
-  1174.11.1 = {
-    birth = yes
-  }
-  1204.6.15 = {
-    add_spouse = 205582
-  }
-  1213.9.14 = {
-    death = yes
-  }
-}
-210502 = {
-  name = "アルフォンス"  # Alfons
-  dynasty = 100204
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 210500
-  mother = 207504
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1193.7.1 = {
-    add_spouse = 205988
-  }
-  1209.12.1 = {
-    death = "1209.12.1"
-  }
-}
-210503 = {
-  name = "コンスタンカ"  # Constança
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "thrifty_clerk"
-  father = 210500
-  mother = 207504
-  1179.1.1 = {
-    birth = "1179.1.1"
-  }
-  1222.6.23 = {
-    death = "1222.6.23"
-  }
-}
-210504 = {
-  name = "エリオノル"  # Elionor
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 3
-  religion = "catholic"
-  culture = "catalan"
-  trait = "thrifty_clerk"
-  father = 210500
-  mother = 207504
-  1182.1.1 = {
-    birth = "1182.1.1"
-  }
-  1223.1.1 = {
-    death = "1223.1.1"
-  }
-}
-210505 = {
-  name = "サンカ"  # Sança
-  female = yes
-  dynasty = 100204
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  father = 210500
-  mother = 207504
-  1186.1.1 = {
-    birth = "1186.1.1"
-  }
-  1241.1.1 = {
-    death = "1241.1.1"
-  }
-}
-210506 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 6
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "diligent"
-  trait = "patient"
-  trait = "skilled_tactician"
-  father = 210508
-  mother = 40806
-  1113.1.1 = {
-    birth = "1113.1.1"
-  }
-  1151.7.1 = {
-    add_spouse = 210507
-  }
-  1162.8.6 = {
-    death = "1162.8.6"
-    give_nickname = nick_the_saint
-  }
-}
-210508 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "humble"
-  trait = "gluttonous"
-  trait = "charismatic_negotiator"
-  father = 110522
-  mother = 1121
-  1082.11.11 = {
-    birth = "1082.11.11"
-  }
-  1103.1.1 = {
-    add_spouse = 210509
-  }
-  1112.2.3 = {
-    give_nickname = nick_the_great
-    add_spouse = 40806
-  }
-  1131.7.19 = {
-    death = "1131.7.19"
-  }
-}
-210511 = {
-  name = "Berenguera"
-  female = yes
-  dynasty = 100204
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "proud"
-  trait = "wroth"
-  trait = "flamboyant_schemer"
-  father = 210508
-  1116.1.1 = {
-    birth = "1116.1.1"
-  }
-  1149.1.30 = {
-    death = "1149.1.30"
-  }
-}
-210512 = {
-  name = "Ximena"
-  female = yes
-  dynasty = 100204
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charismatic_negotiator"
-  father = 210508
-  mother = 40806
-  1117.1.1 = {
-    birth = "1117.1.1"
-  }
-  1148.3.1 = {
-    death = "1148.3.1"
-  }
-}
-210513 = {
-  name = "ドルカ"  # Dolça
-  female = yes
-  dynasty = 100204
-  martial = 7
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "craven"
-  trait = "thrifty_clerk"
-  father = 210506
-  mother = 210507
-  1158.1.1 = {
-    birth = "1158.1.1"
-  }
-  1200.9.1 = {
-    death = "1200.9.1"
-  }
-}
-210514 = {
-  name = "サンク"  # Sanç
-  dynasty = 100204
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "patient"
-  trait = "tough_soldier"
-  father = 210506
-  mother = 210507
-  1161.1.1 = {
-    birth = "1161.1.1"
-  }
-  1180.1.1 = {
-    add_spouse = 72246
-  }
-  1184.1.1 = {
-    add_spouse = 210515
-  }
-  1185.1.1 = {
-    add_claim = d_provence
-  }
-  1226.1.1 = {
-    death = "1226.1.1"
-  }
-}
-210516 = {
-  name = "Nunó"
-  dynasty = 100204
-  martial = 3
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  father = 210514
-  mother = 210515
-  1185.1.1 = {
-    birth = "1185.1.1"
-  }
-  1238.1.1 = {
-    add_spouse = 71970
-  }
-  1242.1.1 = {
-    death = "1242.1.1"
-  }
-}
-210550 = {
-  name = "ベレンゲル"  # Berenguer
-  dynasty = 267
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "scholarly_theologian"
-  1137.1.2 = {
-    birth = "1137.1.2"
-  }
-  1187.1.2 = {
-    death = "1187.1.2"
-  }
-}
-210560 = {
-  name = "ポンク"  # Ponç
-  dynasty = 393
-  martial = 8
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  father = 72086
-  mother = 72087
-  trait = "cynical"
-  1138.1.1 = {
-    birth = "1138.1.1"
-  }
-  1170.1.1 = {
-    add_spouse = 72093
-  }
-  1197.1.1 = {
-    add_spouse = 72094
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-210570 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  father = 210571
-  mother = 205557
-  1158.1.1 = {
-    birth = "1158.1.1"
-  }
-  1188.1.1 = {
-    add_spouse = 207543
-  }
-  1209.10.16 = {
-    death = "1209.10.16"
-  }
-}
-210571 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  father = 210572
-  mother = 210573
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1157.5.26 = {
-    add_spouse = 205557
-  }
-  1184.8.11 = {
-    death = "1184.8.11"
-  }
-}
-210572 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 5
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 210576
-  mother = 107646
-  1096.1.1 = {
-    birth = "1096.1.1"
-  }
-  1119.1.1 = {
-    add_spouse = 210573
-  }
-  1142.1.1 = {
-    add_spouse = 210574
-  }
-  1154.6.28 = {
-    death = "1154.6.28"
-  }
-}
-210573 = {
-  name = "アルセンダ"  # Arsenda
-  female = yes
-  dynasty = 101701
-  martial = 5
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  father = 72156
-  mother = 72160
-  trait = "amateurish_plotter"
-  1102.1.1 = {
-    birth = "1102.1.1"
-  }
-  1135.1.1 = {
-    death = "1135.1.1"
-  }
-}
-210575 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 395
-  martial = 6
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "amateurish_plotter"
-  father = 210572
-  mother = 210574
-  1143.1.1 = {
-    birth = "1143.1.1"
-  }
-  1196.1.13 = {
-    death = "1196.1.13"
-  }
-}
-210576 = {
-  name = "エルメンゴロ"  # Ermengol
-  dynasty = 395
-  martial = 5
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 110550
-  mother = 70189
-  1071.1.1 = {
-    birth = "1071.1.1"
-  }
-  1095.5.25 = {
-    add_spouse = 107646
-  }
-  1102.9.14 = {
-    death = "1102.9.14"
-  }
-}
-455529 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "amateurish_plotter"
-  father = 460600
-  mother = 98030
-  1243.1.1 = {
-    birth = "1243.1.1"
-  }
-  1271.1.28 = {
-    death = "1271.1.28"
-  }
-}
-458024 = {
-  name = "ベアトリウ"  # Beatriu
-  female = yes
-  dynasty = 8762
-  martial = 6
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "lustful"
-  trait = "diligent"
-  trait = "flamboyant_schemer"
-  father = 70234
-  mother = 71702
-  1305.1.1 = {
-    birth = "1305.1.1"
-  }
-  1372.1.1 = {
-    death = "1372.1.1"
-  }
-}
-460010 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 8762
-  martial = 7
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "diligent"
-  trait = "bastard"
-  trait = "patient"
-  trait = "skilled_tactician"
-  father = 460600
-  mother = 71697
-  1255.1.1 = {
-    birth = "1255.1.1"
-  }
-  1275.1.1 = {
-    add_spouse = 71575
-  }
-  1276.7.27 = {
-    remove_trait = "bastard"
-  }
-  1299.1.1 = {
-    death = "1299.1.1"
-  }
-}
-460011 = {
-  name = "ペレ"  # Pere
-  dynasty = 8762
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "greedy"
-  trait = "temperate"
-  trait = "tough_soldier"
-  father = 70234
-  mother = 71702
-  1302.1.1 = {
-    birth = "1302.1.1"
-  }
-  1331.1.1 = {
-    add_spouse = 460012
-  }
-  1362.1.1 = {
-    death = "1362.1.1"
-  }
-}
-460013 = {
-  name = "ベアトリウ"  # Beatriu
-  female = yes
-  dynasty = 8762
-  martial = 5
-  diplomacy = 4
-  intrigue = 3
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  father = 460011
-  mother = 460012
-  1335.1.1 = {
-    birth = "1335.1.1"
-  }
-  1373.1.1 = {
-    death = "1373.1.1"
-  }
-}
-460020 = {
-  name = "アルナウ"  # Arnau
-  dynasty = 10027
-  father = 72320
-  mother = 200122
-  religion = catholic
-  culture = catalan
-  1282.1.1 = {
-    birth = yes
-  }
-  1298.1.1 = {
-    add_spouse = 460021
-  }
-  1330.1.1 = {
-    death = yes
-  }
-}
-460021 = {
-  name = "シビラ"  # Sibila
-  female = yes
-  religion = catholic
-  culture = catalan
-  1282.1.1 = {
-    birth = yes
-  }
-  1330.1.1 = {
-    death = yes
-  }
-}
-460022 = {
-  name = "アルナウ"  # Arnau
-  dynasty = 10027
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  trait = "brave"
-  trait = "skilled_tactician"
-  father = 460020
-  mother = 460021
-  1300.1.1 = {
-    birth = yes
-  }
-  1349.1.1 = {
-    death = yes
-  }
-}
-460023 = {
-  name = "ベアトリウ"  # Beatriu
-  female = yes
-  dynasty = 10027
-  martial = 5
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "proud"
-  trait = "cynical"
-  trait = "intricate_webweaver"
-  father = 460020
-  mother = 460021
-  1301.1.1 = {
-    birth = "1301.1.1"
-  }
-  1351.1.1 = {
-    death = "1351.1.1"
-  }
-}
-460024 = {
-  name = "ラモン"  # Ramon
-  dynasty = 10027
-  religion = "catholic"
-  culture = "catalan"
-  trait = "lustful"
-  trait = "just"
-  trait = "brilliant_strategist"
-  father = 460020
-  mother = 460021
-  1299.1.1 = {
-    birth = yes
-  }
-  1322.1.11 = {
-    add_spouse = 460030
-  }
-  1355.1.1 = {
-    death = yes
-  }
-}
-460025 = {
-  name = "ウク"  # Hug
-  dynasty = 10027
-  martial = 6
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "gluttonous"
-  trait = "slothful"
-  trait = "thrifty_clerk"
-  father = 460020
-  mother = 460021
-  1307.1.1 = {
-    birth = "1307.1.1"
-  }
-  1357.1.1 = {
-    death = "1357.1.1"
-  }
-}
-460026 = {
-  name = "Roger-Bernat"
-  dynasty = 10027
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "kind"
-  trait = "humble"
-  trait = "misguided_warrior"
-  father = 460020
-  mother = 460021
-  1309.1.1 = {
-    birth = "1309.1.1"
-  }
-  1359.1.1 = {
-    death = "1359.1.1"
-  }
-}
-460027 = {
-  name = "アルタウ"  # Artau
-  dynasty = 10027
-  martial = 4
-  diplomacy = 9
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "craven"
-  trait = "cynical"
-  trait = "underhanded_rogue"
-  father = 460020
-  mother = 460021
-  1311.1.1 = {
-    birth = "1311.1.1"
-  }
-  1361.1.1 = {
-    death = "1361.1.1"
-  }
-}
-460030 = {
-  name = "シビラ"  # Sibila
-  female = yes
-  martial = 6
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "lustful"
-  trait = "arbitrary"
-  trait = "charismatic_negotiator"
-  1295.1.1 = {
-    birth = "1295.1.1"
-  }
-  1356.1.1 = {
-    death = "1356.1.1"
-  }
-}
-460031 = {
-  name = "ウク"  # Hug
-  dynasty = 10027
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "tough_soldier"
-  father = 460024
-  mother = 460030
-  1323.1.1 = {
-    birth = "1323.1.1"
-  }
-  1373.1.1 = {
-    death = "1373.1.1"
-  }
-}
-460032 = {
-  name = "ラモン"  # Ramon
-  dynasty = 10027
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "proud"
-  trait = "thrifty_clerk"
-  father = 460024
-  mother = 460030
-  1324.1.1 = {
-    birth = "1324.1.1"
-  }
-  1374.1.1 = {
-    death = "1374.1.1"
-  }
-}
-460033 = {
-  name = "アルタウ"  # Artau
-  dynasty = 10027
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charitable"
-  trait = "martial_cleric"
-  father = 460024
-  mother = 460030
-  1326.1.1 = {
-    birth = "1326.1.1"
-  }
-  1376.1.1 = {
-    death = "1376.1.1"
-  }
-}
-460034 = {
-  name = "アルナウ"  # Arnau
-  dynasty = 10027
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 460024
-  mother = 460030
-  1328.1.1 = {
-    birth = "1328.1.1"
-  }
-  1378.1.1 = {
-    death = "1378.1.1"
-  }
-}
-460035 = {
-  name = "エリオノル"  # Elionor
-  female = yes
-  dynasty = 10027
-  religion = "catholic"
-  culture = "catalan"
-  trait = "just"
-  trait = "thrifty_clerk"
-  father = 460024
-  mother = 460030
-  1322.10.1 = {
-    birth = yes
-  }
-  1361.1.1 = {
-    death = yes
-  }
-}
-460036 = {
-  name = "ベルナト"  # Bernat
-  dynasty = 10027
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  father = 460024
-  mother = 460030
-  1334.1.1 = {
-    birth = "1334.1.1"
-  }
-  1384.1.1 = {
-    death = "1384.1.1"
-  }
-}
-460500 = {
-  name = "ペレ"  # Pere
-  dynasty = 100204
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "patient"
-  trait = "flamboyant_schemer"
-  father = 460510
-  mother = 460511
-  1319.9.5 = {
-    birth = "1319.9.5"
-  }
-  1387.1.5 = {
-    death = "1387.1.5"
-  }
-}
-460510 = {
-  name = "アルフォンス"  # Alfons
-  dynasty = 100204
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "greedy"
-  trait = "hunchback"
-  trait = "amateurish_plotter"
-  father = 460560
-  mother = 461727
-  1299.2.1 = {
-    birth = "1299.2.1"
-  }
-  1314.11.10 = {
-    add_spouse = 460511
-  }
-  1328.1.1 = {
-    give_nickname = nick_the_gentle
-  }
-  1329.1.1 = {
-    add_spouse = 457521
-  }
-  1336.1.24 = {
-    death = "1336.1.24"
-  }
-}
-460511 = {
-  name = "テレサ"  # Teresa
-  female = yes
-  dynasty = 74
-  martial = 5
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 8
-  father = 72230
-  mother = 72229
-  religion = "catholic"
-  culture = "catalan"
-  1300.1.1 = {
-    birth = yes
-  }
-  1327.10.20 = {
-    death = {
-      death_reason = death_childbirth
-    }
-  }
-}
-460520 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "lustful"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  father = 460510
-  mother = 460511
-  1321.1.1 = {
-    birth = "1321.1.1"
-  }
-  1336.1.14 = {
-    dynasty = 266
-  }
-  1347.11.15 = {
-    death = "1347.11.15"
-  }
-}
-460530 = {
-  name = "フェラン"  # Ferran
-  dynasty = 100204
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 460510
-  mother = 457521
-  1329.12.11 = {
-    birth = "1329.12.11"
-  }
-  1363.7.16 = {
-    death = "1363.7.16"
-  }
-}
-460540 = {
-  name = "ジョアン"  # Joan
-  dynasty = 100204
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "ill"
-  trait = "tough_soldier"
-  father = 460510
-  mother = 457521
-  1334.1.1 = {
-    birth = "1334.1.1"
-  }
-  1361.1.1 = {
-    death = "1361.1.1"
-  }
-}
-460550 = {
-  name = "コンスタンカ"  # Constança
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "cynical"
-  trait = "temperate"
-  trait = "naive_appeaser"
-  father = 460510
-  mother = 460511
-  1318.1.1 = {
-    birth = "1318.1.1"
-  }
-  1346.1.1 = {
-    death = "1346.1.1"
-  }
-}
-460560 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  father = 460590
-  mother = 462515
-  religion = catholic
-  culture = catalan
-  martial = 5
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  trait = chaste
-  trait = greedy
-  trait = honest
-  trait = stutter
-  trait = tough_soldier
-  1267.8.10 = {
-    birth = yes
-  }
-  1296.1.1 = {
-    add_spouse = 461727
-  }
-  1315.11.27 = {
-    add_spouse = 200139
-  }
-  1322.12.25 = {
-    add_spouse = 71663
-  }
-  1325.1.1 = {
-    give_nickname = nick_the_just
-  }
-  1327.11.5 = {
-    death = yes
-  }
-}
-460561 = {
-  name = "エリゼンダ"  # Elisenda
-  female = yes
-  dynasty = 10026
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "greedy"
-  trait = "patient"
-  trait = "martial_cleric"
-  1300.1.2 = {
-    birth = "1300.1.2"
-  }
-  1350.1.2 = {
-    death = "1350.1.2"
-  }
-}
-460562 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  martial = 7
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "envious"
-  trait = "honest"
-  trait = "tough_soldier"
-  father = 460560
-  mother = 461727
-  1296.1.1 = {
-    birth = "1296.1.1"
-  }
-  1323.10.18 = {
-    add_spouse = 457521
-  }
-  1324.1.1 = {
-    remove_spouse = 457521
-  }
-  1324.1.1 = {
-    remove_trait = "tough_soldier"
-    trait = "martial_cleric"
-  }
-  1334.5.20 = {
-    death = "1334.5.20"
-  }
-}
-460563 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 100204
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "gluttonous"
-  trait = "honest"
-  trait = "flamboyant_schemer"
-  father = 460560
-  mother = 461727
-  1299.1.1 = {
-    birth = "1299.1.1"
-  }
-  1327.1.1 = {
-    death = "1327.1.1"
-  }
-}
-460564 = {
-  name = "コンスタンカ"  # Constança
-  female = yes
-  dynasty = 100204
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "diligent"
-  trait = "naive_appeaser"
-  father = 460560
-  mother = 461727
-  1300.4.1 = {
-    birth = "1300.4.1"
-  }
-  1327.8.19 = {
-    death = "1327.8.19"
-  }
-}
-460565 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "charitable"
-  trait = "amateurish_plotter"
-  father = 460560
-  mother = 461727
-  1300.4.1 = {
-    birth = "1300.4.1"
-  }
-  1330.7.12 = {
-    death = "1330.7.12"
-  }
-}
-460566 = {
-  name = "ブランカ"  # Blanca
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "patient"
-  trait = "gluttonous"
-  trait = "scholarly_theologian"
-  father = 460560
-  mother = 461727
-  1307.1.1 = {
-    birth = "1307.1.1"
-  }
-  1348.1.1 = {
-    death = "1348.1.1"
-  }
-}
-460567 = {
-  name = "ヴィオラント"  # Violant
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "chaste"
-  trait = "just"
-  trait = "envious"
-  trait = "honest"
-  trait = "thrifty_clerk"
-  father = 460560
-  mother = 461727
-  1310.10.1 = {
-    birth = "1310.10.1"
-  }
-  1353.7.19 = {
-    death = "1353.7.19"
-  }
-}
-460570 = {
-  name = "ペレ"  # Pere
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "intricate_webweaver"
-  father = 460560
-  mother = 461727
-  1305.1.1 = {
-    birth = "1305.1.1"
-  }
-  1331.5.1 = {
-    add_spouse = 71761
-  }
-  1381.11.4 = {
-    death = "1381.11.4"
-  }
-}
-460571 = {
-  name = "アルフォンス"  # Alfons
-  dynasty = 100204
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "tough_soldier"
-  father = 460570
-  mother = 71761
-  1332.2.1 = {
-    birth = "1332.2.1"
-  }
-  1412.3.5 = {
-    death = "1412.3.5"
-  }
-}
-460572 = {
-  name = "ジョアン"  # Joan
-  dynasty = 100204
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  father = 460570
-  mother = 71761
-  1335.1.1 = {
-    birth = "1335.1.1"
-  }
-  1414.1.1 = {
-    death = "1414.1.1"
-  }
-}
-460573 = {
-  name = "エリオノル"  # Elionor
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  father = 460570
-  mother = 71761
-  1333.1.2 = {
-    birth = "1333.1.2"
-  }
-  1417.12.26 = {
-    death = "1417.12.26"
-  }
-}
-460580 = {
-  name = "ラモン＝ベレンゲル"  # Ramon-Berenguer
-  dynasty = 100204
-  martial = 8
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "kind"
-  trait = "tough_soldier"
-  father = 460560
-  mother = 461727
-  1308.1.1 = {
-    birth = "1308.1.1"
-  }
-  1328.1.1 = {
-    add_spouse = 461715
-  }
-  1338.1.1 = {
-    death = "1338.1.1"
-  }
-}
-460590 = {
-  name = "ペレ"  # Pere
-  dynasty = 100204
-  martial = 8
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "just"
-  trait = "ambitious"
-  trait = "brilliant_strategist"
-  father = 460600
-  mother = 98030
-  1239.1.1 = {
-    birth = "1239.1.1"
-  }
-  1265.1.1 = {
-    add_spouse = 462515
-  }
-  1282.8.30 = {
-    give_nickname = nick_the_great
-  }
-  1285.11.11 = {
-    death = "1285.11.11"
-  }
-}
-460591 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 100204
-  martial = 4
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "arbitrary"
-  trait = "naive_appeaser"
-  father = 460590
-  mother = 462515
-  1271.1.4 = {
-    birth = "1271.1.4"
-  }
-  1336.6.4 = {
-    death = "1336.6.4"
-  }
-}
-460592 = {
-  name = "ヴィオラント"  # Violant
-  female = yes
-  dynasty = 100204
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "deceitful"
-  trait = "brave"
-  trait = "inbred"
-  trait = "flamboyant_schemer"
-  father = 460590
-  mother = 462515
-  1273.1.1 = {
-    birth = "1273.1.1"
-  }
-  1302.8.19 = {
-    death = "1302.8.19"
-  }
-}
-460600 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  martial = 6
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "brilliant_strategist"
-  father = 210501
-  mother = 205582
-  1208.2.1 = {
-    birth = "1208.2.1"
-  }
-  1224.1.1 = {
-    add_spouse = 460614
-  }
-  1229.4.1 = {
-    remove_spouse = 460614
-  }
-  1235.9.8 = {
-    add_spouse = 98030
-  }
-  1243.1.1 = {
-    give_nickname = nick_the_conqueror
-    create_bloodline = {
-      type = james
-      has_dlc = "Holy Fury"
-    }
-  }
-  1276.7.27 = {
-    add_spouse = 71697
-  }
-  1276.7.27 = {
-    death = "1276.7.27"
-  }
-}
-460602 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  father = 460600
-  mother = 98030
-  religion = catholic
-  culture = catalan
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 8
-  trait = skilled_tactician
-  1243.5.31 = {
-    birth = yes
-  }
-  1275.10.12 = {
-    add_spouse = 138155
-  }
-  1311.5.29 = {
-    death = yes
-  }
-}
-460603 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  father = 460602
-  mother = 138155
-  religion = catholic
-  culture = catalan
-  1276.8.1 = {
-    birth = yes
-  }
-  1330.1.1 = {
-    death = yes
-  }
-}
-460604 = {
-  name = "サンク"  # Sanç
-  dynasty = 100204
-  father = 460602
-  mother = 138155
-  religion = catholic
-  culture = catalan
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  trait = slothful
-  trait = just
-  trait = flamboyant_schemer
-  1278.1.1 = {
-    birth = yes
-  }
-  1309.1.1 = {
-    add_spouse = 200108
-  }
-  1324.9.4 = {
-    death = yes
-  }
-}
-460605 = {
-  name = "フェラン"  # Ferran
-  dynasty = 100204
-  father = 460602
-  religion = catholic
-  culture = catalan
-  1278.1.1 = {
-    birth = yes
-  }
-  1314.2.1 = {
-    add_spouse = 460606
-  }
-  1316.10.19 = {
-    death = yes
-  }
-}
-460606 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 71
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "brave"
-  trait = "martial_cleric"
-  1297.1.2 = {
-    birth = "1297.1.2"
-  }
-  1315.4.16 = {
-    death = "1315.4.16"
-  }
-}
-460607 = {
-  name = "フェラン"  # Ferran
-  dynasty = 100204
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "wroth"
-  father = 460605
-  1317.5.5 = {
-    birth = "1317.5.5"
-  }
-  1347.1.1 = {
-    death = "1347.1.1"
-  }
-}
-460608 = {
-  name = "フェリプ"  # Felip
-  dynasty = 100204
-  father = 460602
-  mother = 138155
-  religion = catholic
-  culture = catalan
-  trait = scholarly_theologian
-  1288.1.1 = {
-    birth = yes
-  }
-  1343.1.1 = {
-    death = yes
-  }
-}
-460609 = {
-  name = "イザベル"  # Isabel
-  female = yes
-  dynasty = 100204
-  father = 460602
-  mother = 138155
-  religion = catholic
-  culture = catalan
-  1280.1.1 = {
-    birth = yes
-  }
-  1301.10.10 = {
-    death = yes
-  }
-}
-460610 = {
-  name = "サンカ"  # Sança
-  female = yes
-  dynasty = 100204
-  father = 460602
-  mother = 138155
-  religion = catholic
-  culture = catalan
-  1285.1.1 = {
-    birth = yes
-  }
-  1345.7.28 = {
-    death = yes
-  }
-}
-460611 = {
-  name = "ヴィオラント"  # Violant
-  female = yes
-  dynasty = 100204
-  martial = 8
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  father = 460600
-  mother = 98030
-  1236.1.1 = {
-    birth = "1236.1.1"
-  }
-  1301.1.1 = {
-    death = "1301.1.1"
-  }
-}
-460612 = {
-  name = "コンスタンカ"  # Constança
-  female = yes
-  dynasty = 100204
-  martial = 8
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "zealous"
-  father = 460600
-  mother = 98030
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1266.1.1 = {
-    death = "1266.1.1"
-  }
-}
-460620 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "catalan"
-  trait = "deceitful"
-  trait = "tough_soldier"
-  father = 460605
-  mother = 460606
-  1315.4.15 = {
-    birth = "1315.4.15"
-  }
-  1336.9.24 = {
-    add_spouse = 460550
-  }
-  1349.10.25 = {
-    death = "1349.10.25"
-  }
-}
-460621 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 100204
-  martial = 4
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "bastard"
-  father = 460620
-  mother = 460550
-  1336.8.24 = {
-    birth = "1336.8.24"
-  }
-  1336.9.24 = {
-    remove_trait = "bastard"
-  }
-  1375.2.1 = {
-    death = "1375.2.1"
-  }
-}
-461500 = {
-  name = "フレデリコ"  # Frederic
-  dynasty = 100204
-  martial = 8
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "lustful"
-  trait = "deceitful"
-  trait = "tough_soldier"
-  father = 460590
-  mother = 462515
-  1272.1.1 = {
-    birth = "1272.1.1"
-  }
-  1291.6.18 = {
-    name = "Federigo"
-    culture = "italian"
-  }
-  1296.1.15 = {
-    add_claim = k_trinacria
-  }
-  1302.8.1 = {
-    remove_claim = k_trinacria
-  }
-  1303.5.1 = {
-    add_spouse = 455806
-  }
-  1337.6.25 = {
-    death = "1337.6.25"
-  }
-}
-461501 = {
-  name = "シビラ"  # Sibila
-  female = yes
-  dynasty = 70
-  martial = 8
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "honest"
-  trait = "thrifty_clerk"
-  1274.1.2 = {
-    birth = "1274.1.2"
-  }
-  1340.1.2 = {
-    death = "1340.1.2"
-  }
-}
-461511 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 8762
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "catalan"
-  trait = "underhanded_rogue"
-  father = 70234
-  mother = 71702
-  1310.1.1 = {
-    birth = "1310.1.1"
-  }
-  1364.1.1 = {
-    death = "1364.1.1"
-  }
-}
-461512 = {
-  name = "ジャウメ"  # Jaume
-  dynasty = 8762
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "catalan"
-  trait = "greedy"
-  trait = "flamboyant_schemer"
-  father = 70234
-  mother = 71702
-  1298.1.1 = {
-    birth = "1298.1.1"
-  }
-  1335.4.28 = {
-    death = "1335.4.28"
-  }
-}
-461521 = {
-  name = "Cesarea"
-  female = yes
-  dynasty = 69
-  martial = 5
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "catalan"
-  trait = "gluttonous"
-  trait = "hunchback"
-  trait = "charismatic_negotiator"
-  father = 461522
-  1317.1.2 = {
-    birth = "1317.1.2"
-  }
-  1367.1.2 = {
-    death = "1367.1.2"
-  }
-}
-461550 = {
-  name = "アルフォンス"  # Alfons
-  dynasty = 100204
-  martial = 8
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "catalan"
-  trait = "bastard"
-  trait = "flamboyant_schemer"
-  father = 461500
-  mother = 461501
-  1290.1.1 = {
-    birth = "1290.1.1"
-  }
-  1291.6.18 = {
-    name = "アルフォンソ"  # Alfonso
-    culture = "italian"
-  }
-  1317.1.1 = {
-    add_spouse = 461571
-  }
-  1339.3.4 = {
-    death = "1339.3.4"
   }
 }

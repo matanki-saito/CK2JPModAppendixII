@@ -1,4 +1,384 @@
-﻿166632 = {
+﻿166696 = {
+  name = "Qishiq"
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  711.1.1 = {
+    birth = yes
+  }
+  763.1.1 = {
+    death = yes
+  }
+}
+166697 = {
+  name = "Shahrokh"
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  father = 166696
+  741.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+166698 = {
+  name = "Shayn"
+  female = yes
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  father = 166696
+  745.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+166699 = {
+  name = "Artivan"
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  father = 166697
+  787.1.1 = {
+    birth = yes
+  }
+  849.1.1 = {
+    death = yes
+  }
+}
+166700 = {
+  name = "デーヴァダサ"  # Devadasa
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  father = 166699
+  838.1.1 = {
+    birth = yes
+  }
+  902.1.1 = {
+    death = yes
+  }
+}
+166701 = {
+  name = "イエナ"  # Yena
+  female = yes
+  dynasty = 1040058
+  religion = "buddhist"
+  culture = "saka"
+  father = 166699
+  844.1.1 = {
+    birth = yes
+  }
+  896.1.1 = {
+    death = yes
+  }
+}
+166690 = {
+  name = "カルティール"  # Kartir
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  705.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    death = yes
+  }
+}
+166691 = {
+  name = "レンレン"  # Lengleng
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  father = 166690
+  732.1.1 = {
+    birth = yes
+  }
+  798.1.1 = {
+    death = yes
+  }
+}
+166692 = {
+  name = "ラニーサ"  # Ranisa
+  female = yes
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  father = 166690
+  740.1.1 = {
+    birth = yes
+  }
+  802.1.1 = {
+    death = yes
+  }
+}
+166693 = {
+  name = "Resan"
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  father = 166691
+  785.1.1 = {
+    birth = yes
+  }
+  846.1.1 = {
+    death = yes
+  }
+}
+166694 = {
+  name = "Dharma"
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  father = 166693
+  840.1.1 = {
+    birth = yes
+  }
+  891.1.1 = {
+    death = yes
+  }
+}
+166695 = {
+  name = "ヤサマン"  # Yasaman
+  female = yes
+  dynasty = 1040057
+  religion = "buddhist"
+  culture = "saka"
+  father = 166693
+  845.1.1 = {
+    birth = yes
+  }
+  898.1.1 = {
+    death = yes
+  }
+}
+248029 = {
+  name = "Sariqol"
+  dynasty = 1059008
+  religion = zoroastrian
+  culture = "saka"
+  trait = fair
+  565.1.1 = {
+    birth = yes
+  }
+  592.1.1 = {
+    add_spouse = 248010
+  }
+  640.1.1 = {
+    death = yes
+  }
+}
+248030 = {
+  name = "Khosrow"
+  dynasty = 1059008
+  religion = zoroastrian
+  culture = "saka"
+  trait = legit_bastard
+  father = 248029
+  mother = 248010
+  595.1.1 = {
+    birth = yes
+  }
+  670.1.1 = {
+    death = yes
+  }
+}
+248031 = {
+  name = "Kamnai"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248030
+  630.1.1 = {
+    birth = yes
+  }
+  700.1.1 = {
+    death = yes
+  }
+}
+248032 = {
+  name = "Khina"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248031
+  660.1.1 = {
+    birth = yes
+  }
+  735.1.1 = {
+    death = yes
+  }
+}
+248033 = {
+  name = "Padatcaina"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  trait = tough_soldier
+  trait = mountain_terrain_leader
+  trait = sympathy_zoroastrianism
+  trait = sympathy_christendom
+  father = 248032
+  705.1.1 = {
+    birth = yes
+  }
+  775.1.1 = {
+    death = yes
+  }
+}
+248034 = {
+  name = "Naganpaka"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248033
+  735.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+248035 = {
+  name = "Visma"
+  dynasty = 1059008
+  religion = nestorian
+  culture = "saka"
+  father = 248033
+  738.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+248036 = {
+  name = "Raghu"
+  dynasty = 1059008
+  religion = manichean
+  culture = "saka"
+  father = 248033
+  741.1.1 = {
+    birth = yes
+  }
+  812.1.1 = {
+    death = yes
+  }
+}
+248037 = {
+  name = "カパスタカ"  # Capastaka
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248034
+  771.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    death = yes
+  }
+}
+248038 = {
+  name = "シャンバヴァ"  # Shambhava
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  trait = sympathy_zoroastrianism
+  trait = sympathy_christendom
+  trait = tough_soldier
+  trait = mountain_terrain_leader
+  father = 248037
+  827.1.1 = {
+    birth = yes
+  }
+  880.1.1 = {
+    death = yes
+  }
+}
+248039 = {
+  name = "Pakyau"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248038
+  mother = 248040
+  848.1.1 = {
+    birth = yes
+  }
+  910.1.1 = {
+    death = yes
+  }
+}
+248040 = {
+  name = "ナーマラ"  # Nirmala
+  female = yes
+  dynasty = 0
+  religion = manichean
+  culture = sogdian
+  830.1.1 = {
+    birth = yes
+  }
+  910.1.1 = {
+    death = yes
+  }
+}
+248041 = {
+  name = "イカム"  # Ikam
+  dynasty = 1059008
+  religion = nestorian
+  culture = "saka"
+  father = 248038
+  mother = 248040
+  850.1.1 = {
+    birth = yes
+  }
+  917.1.1 = {
+    death = yes
+  }
+}
+248042 = {
+  name = "Sham"
+  dynasty = 1059008
+  religion = buddhist
+  culture = "saka"
+  trait = vajrayana_buddhist
+  father = 248039
+  880.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+248043 = {
+  name = "ファルザード"  # Farzad
+  dynasty = 1059008
+  religion = buddhist
+  culture = persian
+  trait = vajrayana_buddhist
+  father = 248042
+  910.1.1 = {
+    birth = yes
+  }
+  950.1.1 = {
+    culture = persian
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+166632 = {
   name = "キルティ"  # Kirti
   dynasty = 1040024
   religion = "buddhist"
@@ -799,386 +1179,6 @@
     birth = yes
   }
   1006.1.1 = {
-    death = yes
-  }
-}
-166690 = {
-  name = "カルティール"  # Kartir
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  705.1.1 = {
-    birth = yes
-  }
-  760.1.1 = {
-    death = yes
-  }
-}
-166691 = {
-  name = "レンレン"  # Lengleng
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  father = 166690
-  732.1.1 = {
-    birth = yes
-  }
-  798.1.1 = {
-    death = yes
-  }
-}
-166692 = {
-  name = "ラニーサ"  # Ranisa
-  female = yes
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  father = 166690
-  740.1.1 = {
-    birth = yes
-  }
-  802.1.1 = {
-    death = yes
-  }
-}
-166693 = {
-  name = "Resan"
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  father = 166691
-  785.1.1 = {
-    birth = yes
-  }
-  846.1.1 = {
-    death = yes
-  }
-}
-166694 = {
-  name = "Dharma"
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  father = 166693
-  840.1.1 = {
-    birth = yes
-  }
-  891.1.1 = {
-    death = yes
-  }
-}
-166695 = {
-  name = "ヤサマン"  # Yasaman
-  female = yes
-  dynasty = 1040057
-  religion = "buddhist"
-  culture = "saka"
-  father = 166693
-  845.1.1 = {
-    birth = yes
-  }
-  898.1.1 = {
-    death = yes
-  }
-}
-166696 = {
-  name = "Qishiq"
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  711.1.1 = {
-    birth = yes
-  }
-  763.1.1 = {
-    death = yes
-  }
-}
-166697 = {
-  name = "Shahrokh"
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  father = 166696
-  741.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-166698 = {
-  name = "Shayn"
-  female = yes
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  father = 166696
-  745.1.1 = {
-    birth = yes
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-166699 = {
-  name = "Artivan"
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  father = 166697
-  787.1.1 = {
-    birth = yes
-  }
-  849.1.1 = {
-    death = yes
-  }
-}
-166700 = {
-  name = "デーヴァダサ"  # Devadasa
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  father = 166699
-  838.1.1 = {
-    birth = yes
-  }
-  902.1.1 = {
-    death = yes
-  }
-}
-166701 = {
-  name = "イエナ"  # Yena
-  female = yes
-  dynasty = 1040058
-  religion = "buddhist"
-  culture = "saka"
-  father = 166699
-  844.1.1 = {
-    birth = yes
-  }
-  896.1.1 = {
-    death = yes
-  }
-}
-248029 = {
-  name = "Sariqol"
-  dynasty = 1059008
-  religion = zoroastrian
-  culture = "saka"
-  trait = fair
-  565.1.1 = {
-    birth = yes
-  }
-  592.1.1 = {
-    add_spouse = 248010
-  }
-  640.1.1 = {
-    death = yes
-  }
-}
-248030 = {
-  name = "Khosrow"
-  dynasty = 1059008
-  religion = zoroastrian
-  culture = "saka"
-  trait = legit_bastard
-  father = 248029
-  mother = 248010
-  595.1.1 = {
-    birth = yes
-  }
-  670.1.1 = {
-    death = yes
-  }
-}
-248031 = {
-  name = "Kamnai"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248030
-  630.1.1 = {
-    birth = yes
-  }
-  700.1.1 = {
-    death = yes
-  }
-}
-248032 = {
-  name = "Khina"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248031
-  660.1.1 = {
-    birth = yes
-  }
-  735.1.1 = {
-    death = yes
-  }
-}
-248033 = {
-  name = "Padatcaina"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  trait = tough_soldier
-  trait = mountain_terrain_leader
-  trait = sympathy_zoroastrianism
-  trait = sympathy_christendom
-  father = 248032
-  705.1.1 = {
-    birth = yes
-  }
-  775.1.1 = {
-    death = yes
-  }
-}
-248034 = {
-  name = "Naganpaka"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248033
-  735.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-248035 = {
-  name = "Visma"
-  dynasty = 1059008
-  religion = nestorian
-  culture = "saka"
-  father = 248033
-  738.1.1 = {
-    birth = yes
-  }
-  805.1.1 = {
-    death = yes
-  }
-}
-248036 = {
-  name = "Raghu"
-  dynasty = 1059008
-  religion = manichean
-  culture = "saka"
-  father = 248033
-  741.1.1 = {
-    birth = yes
-  }
-  812.1.1 = {
-    death = yes
-  }
-}
-248037 = {
-  name = "カパスタカ"  # Capastaka
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248034
-  771.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-248038 = {
-  name = "シャンバヴァ"  # Shambhava
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  trait = sympathy_zoroastrianism
-  trait = sympathy_christendom
-  trait = tough_soldier
-  trait = mountain_terrain_leader
-  father = 248037
-  827.1.1 = {
-    birth = yes
-  }
-  880.1.1 = {
-    death = yes
-  }
-}
-248039 = {
-  name = "Pakyau"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248038
-  mother = 248040
-  848.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-248040 = {
-  name = "ナーマラ"  # Nirmala
-  female = yes
-  dynasty = 0
-  religion = manichean
-  culture = sogdian
-  830.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-248041 = {
-  name = "イカム"  # Ikam
-  dynasty = 1059008
-  religion = nestorian
-  culture = "saka"
-  father = 248038
-  mother = 248040
-  850.1.1 = {
-    birth = yes
-  }
-  917.1.1 = {
-    death = yes
-  }
-}
-248042 = {
-  name = "Sham"
-  dynasty = 1059008
-  religion = buddhist
-  culture = "saka"
-  trait = vajrayana_buddhist
-  father = 248039
-  880.1.1 = {
-    birth = yes
-  }
-  945.1.1 = {
-    death = yes
-  }
-}
-248043 = {
-  name = "ファルザード"  # Farzad
-  dynasty = 1059008
-  religion = buddhist
-  culture = persian
-  trait = vajrayana_buddhist
-  father = 248042
-  910.1.1 = {
-    birth = yes
-  }
-  950.1.1 = {
-    culture = persian
-  }
-  970.1.1 = {
     death = yes
   }
 }

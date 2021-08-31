@@ -60,26 +60,6 @@
     death = yes
   }
 }
-1761 = {
-  name = "Eudokia"
-  female = yes
-  dynasty = 1022158
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "orthodox"
-  culture = "norse"
-  trait = "lustful"
-  trait = "envious"
-  trait = "naive_appeaser"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  882.1.1 = {
-    death = "882.1.1"
-  }
-}
 5789 = {
   name = "Sihtric Caech"
   dynasty = 20084
@@ -211,85 +191,6 @@
     death = yes
   }
 }
-6811 = {
-  name = "デューレ"  # Dyre
-  dynasty = 7516
-  religion = "norse_pagan"
-  culture = norse
-  martial = 9
-  diplomacy = 9
-  stewardship = 6
-  trait = ambitious
-  trait = cynical
-  trait = greedy
-  trait = gregarious
-  trait = grey_eminence
-  trait = brave
-  trait = heavy_infantry_leader
-  trait = genius
-  give_nickname = nick_the_stranger
-  845.1.1 = {
-    birth = yes
-    create_bloodline = {
-      type = dyre
-      has_dlc = "Holy Fury"
-    }
-  }
-  863.1.1 = {
-    add_spouse = 6872
-  }
-  867.1.1 = {
-    wealth = 500
-    effect = {
-      spawn_unit = {
-        province = 547
-        owner = ROOT
-        troops = {
-          light_infantry = {
-            722
-            722
-          }
-          heavy_infantry = {
-            156
-            156
-          }
-          archers = {
-            200
-            200
-          }
-        }
-        attrition = 1.0
-      }
-      spawn_fleet = {
-        province = closest
-        owner = ROOT
-        cannot_inherit = yes
-        troops = {
-          galleys = {
-            30
-            30
-          }
-        }
-      }
-    }
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-6814 = {
-  name = "バリッド"  # Barid
-  dynasty = 20084
-  religion = "norse_pagan"
-  culture = norse
-  father = 163111
-  844.1.1 = {
-    birth = yes
-  }
-  881.1.1 = {
-    death = yes
-  }
-}
 6827 = {
   name = "エギル"  # Egill
   dynasty = 828
@@ -300,29 +201,6 @@
     birth = yes
   }
   885.1.1 = {
-    death = yes
-  }
-}
-6836 = {
-  name = "アスロウグ"  # Aslaug
-  female = yes
-  religion = "norse_pagan"
-  culture = "norse"
-  diplomacy = 7
-  martial = 7
-  stewardship = 7
-  intrigue = 5
-  learning = 7
-  trait = fair
-  trait = quick
-  trait = zealous
-  trait = temperate
-  trait = mystic
-  trait = midas_touched
-  802.1.1 = {
-    birth = yes
-  }
-  875.1.1 = {
     death = yes
   }
 }
@@ -344,19 +222,6 @@
   religion = "norse_pagan"
   culture = "norse"
   835.1.1 = {
-    birth = yes
-  }
-  888.1.1 = {
-    death = yes
-  }
-}
-6839 = {
-  name = "イリアナ"  # Iliana
-  female = yes
-  religion = "norse_pagan"
-  culture = "norse"
-  trait = fortune_builder
-  822.1.1 = {
     birth = yes
   }
   888.1.1 = {
@@ -835,50 +700,6 @@
     birth = yes
   }
   912.1.1 = {
-    death = yes
-  }
-}
-40607 = {
-  name = "ラグナル"  # Ragnarr
-  dynasty = 7514
-  religion = "norse_pagan"
-  culture = norse
-  father = 163112
-  trait = legit_bastard
-  trait = tough_soldier
-  845.1.1 = {
-    birth = yes
-  }
-  864.1.1 = {
-    add_spouse = 6867
-  }
-  893.1.1 = {
-    death = yes
-  }
-}
-40608 = {
-  name = "シグトリック"  # Sigtrygg
-  dynasty = 20084
-  religion = "norse_pagan"
-  culture = norse
-  father = 163111
-  838.1.1 = {
-    birth = yes
-  }
-  896.1.1 = {
-    death = yes
-  }
-}
-40609 = {
-  name = "Sigfroþ"
-  dynasty = 20084
-  religion = "norse_pagan"
-  culture = norse
-  father = 163111
-  842.1.1 = {
-    birth = yes
-  }
-  888.1.1 = {
     death = yes
   }
 }
@@ -1645,27 +1466,6 @@
     death = "986.11.1"
   }
 }
-101504 = {
-  name = "グンヒルド"  # Gunnhildr
-  female = yes
-  dynasty = 490
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "norse_pagan"
-  culture = norse
-  trait = "humble"
-  trait = "martial_cleric"
-  father = 101500
-  mother = 101501
-  910.1.1 = {
-    birth = "910.1.1"
-  }
-  980.1.1 = {
-    death = "980.1.1"
-  }
-}
 101505 = {
   name = "スヴェン"  # Sveinn
   dynasty = 490
@@ -1831,28 +1631,6 @@
   }
   1042.6.8 = {
     death = "1042.6.8"
-  }
-}
-101512 = {
-  name = "グンヒルド"  # Gunnhildr
-  female = yes
-  dynasty = 490
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = norse
-  trait = "patient"
-  trait = "temperate"
-  trait = "flamboyant_schemer"
-  father = 101510
-  mother = 259
-  1020.1.1 = {
-    birth = "1020.1.1"
-  }
-  1038.7.18 = {
-    death = "1038.7.18"
   }
 }
 101513 = {
@@ -2712,26 +2490,6 @@
     death = "980.1.2"
   }
 }
-102543 = {
-  name = "エイリフ"  # Eilif
-  dynasty = 500
-  martial = 5
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 7
-  religion = "norse_pagan"
-  culture = norse
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 100521
-  mother = 102545
-  1002.1.2 = {
-    birth = "1002.1.2"
-  }
-  1052.10.4 = {
-    death = "1052.10.4"
-  }
-}
 102544 = {
   name = "アストリッド"  # Astrid
   female = yes
@@ -2790,6 +2548,26 @@
   }
   1041.1.2 = {
     death = "1041.1.2"
+  }
+}
+102543 = {
+  name = "エイリフ"  # Eilif
+  dynasty = 500
+  martial = 5
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 7
+  religion = "norse_pagan"
+  culture = norse
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 100521
+  mother = 102545
+  1002.1.2 = {
+    birth = "1002.1.2"
+  }
+  1052.10.4 = {
+    death = "1052.10.4"
   }
 }
 102548 = {
@@ -3736,20 +3514,6 @@
     death = "1060.1.1"
   }
 }
-161425 = {
-  name = "ビョルン"  # Björn
-  dynasty = 502
-  religion = "catholic"
-  culture = norse
-  father = 101535
-  mother = 101509
-  1021.1.1 = {
-    birth = "1021.1.1"
-  }
-  1049.1.1 = {
-    death = "1049.1.1"
-  }
-}
 163106 = {
   name = "アヌンドル"  # Anundr
   dynasty = 502
@@ -3810,6 +3574,19 @@
     death = yes
   }
 }
+6839 = {
+  name = "イリアナ"  # Iliana
+  female = yes
+  religion = "norse_pagan"
+  culture = "norse"
+  trait = fortune_builder
+  822.1.1 = {
+    birth = yes
+  }
+  888.1.1 = {
+    death = yes
+  }
+}
 163109 = {
   name = "ラグナル"  # Ragnarr
   dynasty = 502
@@ -3849,6 +3626,29 @@
       death_reason = death_execution
       killer = 163103
     }
+  }
+}
+6836 = {
+  name = "アスロウグ"  # Aslaug
+  female = yes
+  religion = "norse_pagan"
+  culture = "norse"
+  diplomacy = 7
+  martial = 7
+  stewardship = 7
+  intrigue = 5
+  learning = 7
+  trait = fair
+  trait = quick
+  trait = zealous
+  trait = temperate
+  trait = mystic
+  trait = midas_touched
+  802.1.1 = {
+    birth = yes
+  }
+  875.1.1 = {
+    death = yes
   }
 }
 163110 = {
@@ -4009,6 +3809,45 @@
     death = yes
   }
 }
+40608 = {
+  name = "シグトリック"  # Sigtrygg
+  dynasty = 20084
+  religion = "norse_pagan"
+  culture = norse
+  father = 163111
+  838.1.1 = {
+    birth = yes
+  }
+  896.1.1 = {
+    death = yes
+  }
+}
+40609 = {
+  name = "Sigfroþ"
+  dynasty = 20084
+  religion = "norse_pagan"
+  culture = norse
+  father = 163111
+  842.1.1 = {
+    birth = yes
+  }
+  888.1.1 = {
+    death = yes
+  }
+}
+6814 = {
+  name = "バリッド"  # Barid
+  dynasty = 20084
+  religion = "norse_pagan"
+  culture = norse
+  father = 163111
+  844.1.1 = {
+    birth = yes
+  }
+  881.1.1 = {
+    death = yes
+  }
+}
 163112 = {
   name = "ハルフダン"  # Halfdan
   dynasty = 7514
@@ -4149,30 +3988,22 @@
     death = yes
   }
 }
-163113 = {
-  name = "Bagsecg"
-  dynasty = 818
+40607 = {
+  name = "ラグナル"  # Ragnarr
+  dynasty = 7514
   religion = "norse_pagan"
   culture = norse
-  martial = 7
-  stewardship = 4
-  diplomacy = 4
-  intrigue = 4
-  learning = 3
-  trait = wroth
-  trait = hunter
-  trait = proud
-  trait = honest
-  trait = skilled_tactician
-  father = 6866
-  830.1.1 = {
-    birth = "830.1.1"
+  father = 163112
+  trait = legit_bastard
+  trait = tough_soldier
+  845.1.1 = {
+    birth = yes
   }
-  866.1.1 = {
-    add_spouse = 6864
+  864.1.1 = {
+    add_spouse = 6867
   }
-  880.1.1 = {
-    death = "880.1.1"
+  893.1.1 = {
+    death = yes
   }
 }
 163119 = {
@@ -4200,6 +4031,179 @@
     death = yes
   }
 }
+6811 = {
+  name = "デューレ"  # Dyre
+  dynasty = 7516
+  religion = "norse_pagan"
+  culture = norse
+  martial = 9
+  diplomacy = 9
+  stewardship = 6
+  trait = ambitious
+  trait = cynical
+  trait = greedy
+  trait = gregarious
+  trait = grey_eminence
+  trait = brave
+  trait = heavy_infantry_leader
+  trait = genius
+  give_nickname = nick_the_stranger
+  845.1.1 = {
+    birth = yes
+    create_bloodline = {
+      type = dyre
+      has_dlc = "Holy Fury"
+    }
+  }
+  863.1.1 = {
+    add_spouse = 6872
+  }
+  867.1.1 = {
+    wealth = 500
+    effect = {
+      spawn_unit = {
+        province = 547
+        owner = ROOT
+        troops = {
+          light_infantry = {
+            722
+            722
+          }
+          heavy_infantry = {
+            156
+            156
+          }
+          archers = {
+            200
+            200
+          }
+        }
+        attrition = 1.0
+      }
+      spawn_fleet = {
+        province = closest
+        owner = ROOT
+        cannot_inherit = yes
+        troops = {
+          galleys = {
+            30
+            30
+          }
+        }
+      }
+    }
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+167649 = {
+  name = "イングリッド"  # Ingrid
+  female = yes
+  religion = "catholic"
+  culture = norse
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1060.1.1 = {
+    death = "1060.1.1"
+  }
+}
+101512 = {
+  name = "グンヒルド"  # Gunnhildr
+  female = yes
+  dynasty = 490
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = norse
+  trait = "patient"
+  trait = "temperate"
+  trait = "flamboyant_schemer"
+  father = 101510
+  mother = 259
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1038.7.18 = {
+    death = "1038.7.18"
+  }
+}
+101504 = {
+  name = "グンヒルド"  # Gunnhildr
+  female = yes
+  dynasty = 490
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "norse_pagan"
+  culture = norse
+  trait = "humble"
+  trait = "martial_cleric"
+  father = 101500
+  mother = 101501
+  910.1.1 = {
+    birth = "910.1.1"
+  }
+  980.1.1 = {
+    death = "980.1.1"
+  }
+}
+161425 = {
+  name = "ビョルン"  # Björn
+  dynasty = 502
+  religion = "catholic"
+  culture = norse
+  father = 101535
+  mother = 101509
+  1021.1.1 = {
+    birth = "1021.1.1"
+  }
+  1049.1.1 = {
+    death = "1049.1.1"
+  }
+}
+163113 = {
+  name = "Bagsecg"
+  dynasty = 818
+  religion = "norse_pagan"
+  culture = norse
+  martial = 7
+  stewardship = 4
+  diplomacy = 4
+  intrigue = 4
+  learning = 3
+  trait = wroth
+  trait = hunter
+  trait = proud
+  trait = honest
+  trait = skilled_tactician
+  father = 6866
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  866.1.1 = {
+    add_spouse = 6864
+  }
+  880.1.1 = {
+    death = "880.1.1"
+  }
+}
+166332 = {
+  name = "Bjarni"
+  dynasty = 1040003
+  religion = "norse_pagan"
+  culture = norse
+  807.1.1 = {
+    birth = "807.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
 166040 = {
   name = "Eyvindr"
   dynasty = 1040003
@@ -4216,6 +4220,20 @@
     death = "900.1.1"
   }
 }
+166331 = {
+  name = "ヘルジ"  # Helgi
+  dynasty = 1040003
+  religion = "catholic"
+  culture = norse
+  father = 166040
+  mother = 166035
+  848.1.1 = {
+    birth = "848.1.1"
+  }
+  908.5.20 = {
+    death = "908.5.20"
+  }
+}
 166041 = {
   name = "Þurid"
   female = yes
@@ -4229,6 +4247,21 @@
   }
   925.1.1 = {
     death = "925.1.1"
+  }
+}
+166330 = {
+  name = "ビョルク"  # Björg
+  female = yes
+  dynasty = 1040003
+  religion = "catholic"
+  culture = norse
+  father = 166040
+  mother = 166035
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  905.1.1 = {
+    death = "905.1.1"
   }
 }
 166042 = {
@@ -4257,6 +4290,18 @@
   }
   940.1.1 = {
     death = "940.1.1"
+  }
+}
+166329 = {
+  name = "エイリク"  # Eirikr
+  dynasty = 1040004
+  religion = "norse_pagan"
+  culture = norse
+  819.1.1 = {
+    birth = "819.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
   }
 }
 166044 = {
@@ -4343,69 +4388,130 @@
     death = "1049.1.1"
   }
 }
-166329 = {
-  name = "エイリク"  # Eirikr
-  dynasty = 1040004
-  religion = "norse_pagan"
-  culture = norse
-  819.1.1 = {
-    birth = "819.1.1"
-  }
-  870.1.1 = {
-    death = "870.1.1"
-  }
-}
-166330 = {
-  name = "ビョルク"  # Björg
+451000 = {
+  name = "イルヴァ"  # Ylva
   female = yes
-  dynasty = 1040003
+  dynasty = 490
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
   religion = "catholic"
   culture = norse
-  father = 166040
-  mother = 166035
-  850.1.1 = {
-    birth = "850.1.1"
+  trait = "charismatic_negotiator"
+  trait = "wroth"
+  trait = "gregarious"
+  father = 101502
+  971.1.1 = {
+    birth = "971.1.1"
   }
-  905.1.1 = {
-    death = "905.1.1"
+  1059.1.1 = {
+    death = "1059.1.1"
   }
 }
-166331 = {
-  name = "ヘルジ"  # Helgi
-  dynasty = 1040003
+451001 = {
+  name = "オルマル"  # Ormr
+  female = no
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
   religion = "catholic"
   culture = norse
-  father = 166040
-  mother = 166035
-  848.1.1 = {
-    birth = "848.1.1"
+  trait = "skilled_tactician"
+  trait = "inspiring_leader"
+  trait = "wroth"
+  trait = "brave"
+  trait = "strong"
+  trait = "just"
+  965.1.1 = {
+    birth = "965.1.1"
   }
-  908.5.20 = {
-    death = "908.5.20"
+  991.1.1 = {
+    add_spouse = 451000
   }
-}
-166332 = {
-  name = "Bjarni"
-  dynasty = 1040003
-  religion = "norse_pagan"
-  culture = norse
-  807.1.1 = {
-    birth = "807.1.1"
-  }
-  870.1.1 = {
-    death = "870.1.1"
+  1043.1.1 = {
+    death = "1043.1.1"
   }
 }
-167649 = {
-  name = "イングリッド"  # Ingrid
+451002 = {
+  name = "Oddny"
   female = yes
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
   religion = "catholic"
   culture = norse
-  1010.1.1 = {
-    birth = "1010.1.1"
+  trait = "twin"
+  trait = "shy"
+  father = 451001
+  mother = 451000
+  992.1.1 = {
+    birth = "992.1.1"
   }
-  1060.1.1 = {
-    death = "1060.1.1"
+  1065.1.1 = {
+    death = "1065.1.1"
+  }
+}
+451003 = {
+  name = "Ludmila"
+  female = yes
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = norse
+  trait = "twin"
+  trait = "fair"
+  trait = "deceitful"
+  father = 451001
+  mother = 451000
+  992.1.1 = {
+    birth = "992.1.1"
+  }
+  1062.1.1 = {
+    death = "1062.1.1"
+  }
+}
+451004 = {
+  name = "ハーラル"  # Haraldr
+  female = no
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = norse
+  father = 451001
+  mother = 451000
+  994.1.1 = {
+    birth = "994.1.1"
+  }
+  1057.1.1 = {
+    death = "1057.1.1"
+  }
+}
+451005 = {
+  name = "Svarthöfde"
+  female = no
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = norse
+  trait = "brave"
+  trait = "skilled_tactician"
+  trait = "inspiring_leader"
+  father = 451001
+  mother = 451000
+  995.1.1 = {
+    birth = "995.1.1"
+  }
+  1063.1.1 = {
+    death = "1063.1.1"
   }
 }
 167715 = {
@@ -4540,6 +4646,251 @@
     death = "865.1.1"
   }
 }
+186004 = {
+  name = "ラングバルト"  # Rögnvaldr
+  dynasty = 1043303
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 161301
+  840.1.1 = {
+    birth = "830.1.1"
+  }
+  892.1.1 = {
+    death = "892.1.1"
+  }
+}
+186005 = {
+  name = "Hild"
+  female = yes
+  religion = "norse_pagan"
+  culture = "norse"
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  892.1.1 = {
+    death = "892.1.1"
+  }
+}
+186007 = {
+  name = "Thorir"
+  dynasty = 1043303
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 186004
+  mother = 186005
+  862.1.1 = {
+    birth = yes
+  }
+  891.1.1 = {
+    add_spouse = 261159
+  }
+  936.10.1 = {
+    death = yes
+  }
+}
+186002 = {
+  name = "Grjotgard"
+  dynasty = 1043302
+  religion = "norse_pagan"
+  culture = "norse"
+  790.1.1 = {
+    birth = "790.1.1"
+  }
+  868.1.1 = {
+    death = "868.1.1"
+  }
+}
+186003 = {
+  name = "ホーコン"  # Hakon
+  dynasty = 1043302
+  father = 186002
+  religion = "norse_pagan"
+  culture = "norse"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  917.1.1 = {
+    death = "917.1.1"
+  }
+}
+186000 = {
+  name = "Ottar"
+  dynasty = 1043300
+  religion = "norse_pagan"
+  culture = "norse"
+  845.1.1 = {
+    birth = "845.1.1"
+  }
+  898.1.1 = {
+    death = "898.1.1"
+  }
+}
+186016 = {
+  name = "オーラブ"  # Olafr
+  dynasty = 1043308
+  religion = "norse_pagan"
+  culture = "norse"
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  882.1.1 = {
+    death = "882.1.1"
+  }
+}
+186015 = {
+  name = "ビョルン"  # Björn
+  dynasty = 1043309
+  religion = "norse_pagan"
+  culture = "norse"
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  882.1.1 = {
+    death = "882.1.1"
+  }
+}
+186017 = {
+  name = "Roald"
+  dynasty = 1043307
+  religion = "norse_pagan"
+  culture = "norse"
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  872.1.1 = {
+    death = "872.1.1"
+  }
+}
+186011 = {
+  name = "Kjøtve"
+  dynasty = 1043304
+  religion = "norse_pagan"
+  culture = "norse"
+  812.1.1 = {
+    birth = "812.1.1"
+  }
+  872.1.1 = {
+    death = "872.1.1"
+  }
+}
+186012 = {
+  name = "Tore"
+  dynasty = 1043304
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 186011
+  842.1.1 = {
+    birth = "842.1.1"
+  }
+  872.1.1 = {
+    death = "872.1.1"
+  }
+}
+186014 = {
+  name = "Heljarskinn"
+  dynasty = 1043306
+  religion = "norse_pagan"
+  culture = "norse"
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  890.1.1 = {
+    death = "890.1.1"
+  }
+}
+186013 = {
+  name = "エイリク"  # Eirikr
+  dynasty = 1043305
+  religion = "norse_pagan"
+  culture = "norse"
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  872.1.1 = {
+    death = "872.1.1"
+  }
+}
+186500 = {
+  name = "シグルド"  # Sigurðr
+  dynasty = 1043500
+  religion = "norse_pagan"
+  culture = "norse"
+  852.1.1 = {
+    birth = "825.1.1"
+  }
+  874.1.1 = {
+    death = "874.1.1"
+  }
+}
+186501 = {
+  name = "エイナル"  # Einarr
+  dynasty = 1043501
+  religion = "norse_pagan"
+  culture = "norse"
+  803.1.1 = {
+    birth = "803.1.1"
+  }
+  874.1.1 = {
+    death = "874.1.1"
+  }
+}
+186502 = {
+  name = "トルケル"  # Þorgil
+  dynasty = 1043502
+  religion = "norse_pagan"
+  culture = "norse"
+  816.1.1 = {
+    birth = "816.1.1"
+  }
+  881.1.1 = {
+    death = "881.1.1"
+  }
+}
+186503 = {
+  name = "Hrafna-Flóki"
+  dynasty = 1043503
+  religion = "norse_pagan"
+  culture = "norse"
+  829.1.1 = {
+    birth = "829.1.1"
+  }
+  871.1.1 = {
+    death = "871.1.1"
+  }
+}
+186504 = {
+  name = "インゴッフ"  # Ingólfr
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180773
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  891.1.1 = {
+    death = "891.1.1"
+  }
+}
+1761 = {
+  name = "Eudokia"
+  female = yes
+  dynasty = 1022158
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
+  religion = "orthodox"
+  culture = "norse"
+  trait = "lustful"
+  trait = "envious"
+  trait = "naive_appeaser"
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  882.1.1 = {
+    death = "882.1.1"
+  }
+}
 167776 = {
   name = "ハルフダン"  # Halfdan
   dynasty = 9552
@@ -4651,6 +5002,31 @@
   }
   853.1.1 = {
     death = "853.1.1"
+  }
+}
+180257 = {
+  name = "Garðar"
+  dynasty = 1042061
+  religion = "norse_pagan"
+  culture = "norse"
+  825.3.21 = {
+    birth = "825.3.21"
+  }
+  871.1.1 = {
+    death = "871.1.1"
+  }
+}
+180258 = {
+  name = "Uni"
+  dynasty = 1042061
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180257
+  850.6.11 = {
+    birth = "850.6.11"
+  }
+  894.1.1 = {
+    death = "894.1.1"
   }
 }
 168316 = {
@@ -5265,6 +5641,27 @@
     death = yes
   }
 }
+183001 = {
+  name = "イングバル"  # Yngvar
+  dynasty = 502
+  martial = 9
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 4
+  religion = "norse_pagan"
+  culture = "norse"
+  trait = "brave"
+  trait = "zealous"
+  trait = "skilled_tactician"
+  trait = "legit_bastard"
+  father = 100509
+  1021.1.1 = {
+    birth = "1021.1.1"
+  }
+  1042.1.1 = {
+    death = "1042.1.1"
+  }
+}
 168631 = {
   name = "ハルフダン"  # Halfdan
   dynasty = 9552
@@ -5508,171 +5905,6 @@
     death = yes
   }
 }
-180257 = {
-  name = "Garðar"
-  dynasty = 1042061
-  religion = "norse_pagan"
-  culture = "norse"
-  825.3.21 = {
-    birth = "825.3.21"
-  }
-  871.1.1 = {
-    death = "871.1.1"
-  }
-}
-180258 = {
-  name = "Uni"
-  dynasty = 1042061
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180257
-  850.6.11 = {
-    birth = "850.6.11"
-  }
-  894.1.1 = {
-    death = "894.1.1"
-  }
-}
-180680 = {
-  name = "オーダ"  # Oda
-  religion = "catholic"
-  culture = "norse"
-  add_trait = "mastermind_theologian"
-  875.1.1 = {
-    birth = yes
-  }
-  958.6.2 = {
-    death = yes
-  }
-}
-180770 = {
-  name = "Grip"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  725.1.1 = {
-    birth = "725.1.1"
-  }
-  775.1.1 = {
-    death = "775.1.1"
-  }
-}
-180771 = {
-  name = "Hrómundar"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180770
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  800.1.1 = {
-    death = "800.1.1"
-  }
-}
-180772 = {
-  name = "Björnólfr"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180771
-  775.1.1 = {
-    birth = "775.1.1"
-  }
-  825.1.1 = {
-    death = "825.1.1"
-  }
-}
-180773 = {
-  name = "Árni"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180772
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  862.1.1 = {
-    death = "862.1.1"
-  }
-}
-180776 = {
-  name = "Helga"
-  female = yes
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180773
-  843.1.1 = {
-    birth = "843.1.1"
-  }
-  900.1.1 = {
-    death = "900.1.1"
-  }
-}
-180777 = {
-  name = "Hróaldur"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180771
-  779.1.1 = {
-    birth = "779.1.1"
-  }
-  830.1.1 = {
-    death = "830.1.1"
-  }
-}
-180778 = {
-  name = "Hróðmar"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180777
-  808.1.1 = {
-    birth = "808.1.1"
-  }
-  855.1.1 = {
-    death = "855.1.1"
-  }
-}
-180779 = {
-  name = "Hjörleifr"
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180778
-  838.1.1 = {
-    birth = "838.1.1"
-  }
-  866.1.1 = {
-    add_spouse = 180776
-  }
-  875.4.1 = {
-    death = "875.4.1"
-  }
-}
-183001 = {
-  name = "イングバル"  # Yngvar
-  dynasty = 502
-  martial = 9
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 4
-  religion = "norse_pagan"
-  culture = "norse"
-  trait = "brave"
-  trait = "zealous"
-  trait = "skilled_tactician"
-  trait = "legit_bastard"
-  father = 100509
-  1021.1.1 = {
-    birth = "1021.1.1"
-  }
-  1042.1.1 = {
-    death = "1042.1.1"
-  }
-}
 183900 = {
   name = "Eindride"
   dynasty = 451
@@ -5701,229 +5933,16 @@
     death = "1050.1.1"
   }
 }
-186000 = {
-  name = "Ottar"
-  dynasty = 1043300
-  religion = "norse_pagan"
+180680 = {
+  name = "オーダ"  # Oda
+  religion = "catholic"
   culture = "norse"
-  845.1.1 = {
-    birth = "845.1.1"
-  }
-  898.1.1 = {
-    death = "898.1.1"
-  }
-}
-186002 = {
-  name = "Grjotgard"
-  dynasty = 1043302
-  religion = "norse_pagan"
-  culture = "norse"
-  790.1.1 = {
-    birth = "790.1.1"
-  }
-  868.1.1 = {
-    death = "868.1.1"
-  }
-}
-186003 = {
-  name = "ホーコン"  # Hakon
-  dynasty = 1043302
-  father = 186002
-  religion = "norse_pagan"
-  culture = "norse"
-  845.1.1 = {
-    birth = "845.1.1"
-  }
-  917.1.1 = {
-    death = "917.1.1"
-  }
-}
-186004 = {
-  name = "ラングバルト"  # Rögnvaldr
-  dynasty = 1043303
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 161301
-  840.1.1 = {
-    birth = "830.1.1"
-  }
-  892.1.1 = {
-    death = "892.1.1"
-  }
-}
-186005 = {
-  name = "Hild"
-  female = yes
-  religion = "norse_pagan"
-  culture = "norse"
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  892.1.1 = {
-    death = "892.1.1"
-  }
-}
-186007 = {
-  name = "Thorir"
-  dynasty = 1043303
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 186004
-  mother = 186005
-  862.1.1 = {
+  add_trait = "mastermind_theologian"
+  875.1.1 = {
     birth = yes
   }
-  891.1.1 = {
-    add_spouse = 261159
-  }
-  936.10.1 = {
+  958.6.2 = {
     death = yes
-  }
-}
-186011 = {
-  name = "Kjøtve"
-  dynasty = 1043304
-  religion = "norse_pagan"
-  culture = "norse"
-  812.1.1 = {
-    birth = "812.1.1"
-  }
-  872.1.1 = {
-    death = "872.1.1"
-  }
-}
-186012 = {
-  name = "Tore"
-  dynasty = 1043304
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 186011
-  842.1.1 = {
-    birth = "842.1.1"
-  }
-  872.1.1 = {
-    death = "872.1.1"
-  }
-}
-186013 = {
-  name = "エイリク"  # Eirikr
-  dynasty = 1043305
-  religion = "norse_pagan"
-  culture = "norse"
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  872.1.1 = {
-    death = "872.1.1"
-  }
-}
-186014 = {
-  name = "Heljarskinn"
-  dynasty = 1043306
-  religion = "norse_pagan"
-  culture = "norse"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  890.1.1 = {
-    death = "890.1.1"
-  }
-}
-186015 = {
-  name = "ビョルン"  # Björn
-  dynasty = 1043309
-  religion = "norse_pagan"
-  culture = "norse"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  882.1.1 = {
-    death = "882.1.1"
-  }
-}
-186016 = {
-  name = "オーラブ"  # Olafr
-  dynasty = 1043308
-  religion = "norse_pagan"
-  culture = "norse"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  882.1.1 = {
-    death = "882.1.1"
-  }
-}
-186017 = {
-  name = "Roald"
-  dynasty = 1043307
-  religion = "norse_pagan"
-  culture = "norse"
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  872.1.1 = {
-    death = "872.1.1"
-  }
-}
-186500 = {
-  name = "シグルド"  # Sigurðr
-  dynasty = 1043500
-  religion = "norse_pagan"
-  culture = "norse"
-  852.1.1 = {
-    birth = "825.1.1"
-  }
-  874.1.1 = {
-    death = "874.1.1"
-  }
-}
-186501 = {
-  name = "エイナル"  # Einarr
-  dynasty = 1043501
-  religion = "norse_pagan"
-  culture = "norse"
-  803.1.1 = {
-    birth = "803.1.1"
-  }
-  874.1.1 = {
-    death = "874.1.1"
-  }
-}
-186502 = {
-  name = "トルケル"  # Þorgil
-  dynasty = 1043502
-  religion = "norse_pagan"
-  culture = "norse"
-  816.1.1 = {
-    birth = "816.1.1"
-  }
-  881.1.1 = {
-    death = "881.1.1"
-  }
-}
-186503 = {
-  name = "Hrafna-Flóki"
-  dynasty = 1043503
-  religion = "norse_pagan"
-  culture = "norse"
-  829.1.1 = {
-    birth = "829.1.1"
-  }
-  871.1.1 = {
-    death = "871.1.1"
-  }
-}
-186504 = {
-  name = "インゴッフ"  # Ingólfr
-  dynasty = 1043504
-  religion = "norse_pagan"
-  culture = "norse"
-  father = 180773
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  891.1.1 = {
-    death = "891.1.1"
   }
 }
 194003 = {
@@ -6367,6 +6386,113 @@
     death = yes
   }
 }
+180770 = {
+  name = "Grip"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  775.1.1 = {
+    death = "775.1.1"
+  }
+}
+180771 = {
+  name = "Hrómundar"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180770
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+180772 = {
+  name = "Björnólfr"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180771
+  775.1.1 = {
+    birth = "775.1.1"
+  }
+  825.1.1 = {
+    death = "825.1.1"
+  }
+}
+180773 = {
+  name = "Árni"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180772
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  862.1.1 = {
+    death = "862.1.1"
+  }
+}
+180776 = {
+  name = "Helga"
+  female = yes
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180773
+  843.1.1 = {
+    birth = "843.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+180777 = {
+  name = "Hróaldur"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180771
+  779.1.1 = {
+    birth = "779.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+180778 = {
+  name = "Hróðmar"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180777
+  808.1.1 = {
+    birth = "808.1.1"
+  }
+  855.1.1 = {
+    death = "855.1.1"
+  }
+}
+180779 = {
+  name = "Hjörleifr"
+  dynasty = 1043504
+  religion = "norse_pagan"
+  culture = "norse"
+  father = 180778
+  838.1.1 = {
+    birth = "838.1.1"
+  }
+  866.1.1 = {
+    add_spouse = 180776
+  }
+  875.4.1 = {
+    death = "875.4.1"
+  }
+}
 194045 = {
   name = "フロージ"  # Froði
   dynasty = 1045009
@@ -6642,6 +6768,138 @@
     death = yes
   }
 }
+216012 = {
+  name = "グリム"  # Grimr
+  dynasty = 101765
+  religion = norse_pagan
+  culture = norse
+  812.1.1 = {
+    birth = yes
+  }
+  874.1.1 = {
+    death = yes
+  }
+}
+280000 = {
+  name = "Alfgeir"
+  dynasty = 1062033
+  religion = norse_pagan
+  culture = norse
+  732.1.1 = {
+    birth = yes
+  }
+  792.1.1 = {
+    death = yes
+  }
+}
+280001 = {
+  name = "Sverker"
+  dynasty = 1062034
+  religion = norse_pagan
+  culture = norse
+  841.1.1 = {
+    birth = yes
+  }
+  869.1.1 = {
+    death = yes
+  }
+}
+280010 = {
+  name = "Magnus"
+  dynasty = 1062035
+  religion = norse_pagan
+  culture = norse
+  712.1.1 = {
+    birth = yes
+  }
+  772.1.1 = {
+    death = yes
+  }
+}
+280011 = {
+  name = "Grimr"
+  dynasty = 1062036
+  religion = norse_pagan
+  culture = norse
+  832.1.1 = {
+    birth = yes
+  }
+  874.1.1 = {
+    death = yes
+  }
+}
+280020 = {
+  name = "トリグヴェ"  # Tryggve
+  dynasty = 1062038
+  religion = norse_pagan
+  culture = norse
+  738.1.1 = {
+    birth = yes
+  }
+  791.1.1 = {
+    death = yes
+  }
+}
+280021 = {
+  name = "Magnus"
+  dynasty = 1062039
+  religion = norse_pagan
+  culture = norse
+  841.1.1 = {
+    birth = yes
+  }
+  891.1.1 = {
+    death = yes
+  }
+}
+280022 = {
+  name = "Gunarr"
+  dynasty = 1062040
+  religion = norse_pagan
+  culture = norse
+  729.1.1 = {
+    birth = yes
+  }
+  772.1.1 = {
+    death = yes
+  }
+}
+280023 = {
+  name = "Alfgeir"
+  dynasty = 1062041
+  religion = norse_pagan
+  culture = norse
+  816.1.1 = {
+    birth = yes
+  }
+  870.1.1 = {
+    death = yes
+  }
+}
+280024 = {
+  name = "Ale"
+  dynasty = 1062041
+  religion = norse_pagan
+  culture = norse
+  740.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+280025 = {
+  name = "Hroðgar"
+  dynasty = 1062042
+  religion = norse_pagan
+  culture = norse
+  839.1.1 = {
+    birth = yes
+  }
+  881.1.1 = {
+    death = yes
+  }
+}
 214900 = {
   name = "グッスリフ"  # Guðfrið
   dynasty = 20084
@@ -6818,15 +7076,99 @@
     death = yes
   }
 }
-216012 = {
-  name = "グリム"  # Grimr
-  dynasty = 101765
+310018 = {
+  name = "Peder"
   religion = norse_pagan
   culture = norse
-  812.1.1 = {
+  dynasty = 1062001
+  843.1.1 = {
     birth = yes
   }
-  874.1.1 = {
+  890.1.1 = {
+    death = yes
+  }
+}
+310019 = {
+  name = "Svend"
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062002
+  730.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
+310020 = {
+  name = "ヴァルデマー"  # Valdemar
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062003
+  722.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+310021 = {
+  name = "Filip"
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062004
+  842.1.1 = {
+    birth = yes
+  }
+  901.1.1 = {
+    death = yes
+  }
+}
+310022 = {
+  name = "フロールフ"  # Hrolfr
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062005
+  731.1.1 = {
+    birth = yes
+  }
+  781.1.1 = {
+    death = yes
+  }
+}
+310023 = {
+  name = "Toke"
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062006
+  822.1.1 = {
+    birth = yes
+  }
+  873.1.1 = {
+    death = yes
+  }
+}
+310024 = {
+  name = "Gunnarr"
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062007
+  736.1.1 = {
+    birth = yes
+  }
+  786.1.1 = {
+    death = yes
+  }
+}
+310025 = {
+  name = "Anundr"
+  religion = norse_pagan
+  culture = norse
+  dynasty = 1062008
+  818.1.1 = {
+    birth = yes
+  }
+  876.1.1 = {
     death = yes
   }
 }
@@ -8305,347 +8647,5 @@
   }
   937.1.1 = {
     death = yes
-  }
-}
-280000 = {
-  name = "Alfgeir"
-  dynasty = 1062033
-  religion = norse_pagan
-  culture = norse
-  732.1.1 = {
-    birth = yes
-  }
-  792.1.1 = {
-    death = yes
-  }
-}
-280001 = {
-  name = "Sverker"
-  dynasty = 1062034
-  religion = norse_pagan
-  culture = norse
-  841.1.1 = {
-    birth = yes
-  }
-  869.1.1 = {
-    death = yes
-  }
-}
-280010 = {
-  name = "Magnus"
-  dynasty = 1062035
-  religion = norse_pagan
-  culture = norse
-  712.1.1 = {
-    birth = yes
-  }
-  772.1.1 = {
-    death = yes
-  }
-}
-280011 = {
-  name = "Grimr"
-  dynasty = 1062036
-  religion = norse_pagan
-  culture = norse
-  832.1.1 = {
-    birth = yes
-  }
-  874.1.1 = {
-    death = yes
-  }
-}
-280020 = {
-  name = "トリグヴェ"  # Tryggve
-  dynasty = 1062038
-  religion = norse_pagan
-  culture = norse
-  738.1.1 = {
-    birth = yes
-  }
-  791.1.1 = {
-    death = yes
-  }
-}
-280021 = {
-  name = "Magnus"
-  dynasty = 1062039
-  religion = norse_pagan
-  culture = norse
-  841.1.1 = {
-    birth = yes
-  }
-  891.1.1 = {
-    death = yes
-  }
-}
-280022 = {
-  name = "Gunarr"
-  dynasty = 1062040
-  religion = norse_pagan
-  culture = norse
-  729.1.1 = {
-    birth = yes
-  }
-  772.1.1 = {
-    death = yes
-  }
-}
-280023 = {
-  name = "Alfgeir"
-  dynasty = 1062041
-  religion = norse_pagan
-  culture = norse
-  816.1.1 = {
-    birth = yes
-  }
-  870.1.1 = {
-    death = yes
-  }
-}
-280024 = {
-  name = "Ale"
-  dynasty = 1062041
-  religion = norse_pagan
-  culture = norse
-  740.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-280025 = {
-  name = "Hroðgar"
-  dynasty = 1062042
-  religion = norse_pagan
-  culture = norse
-  839.1.1 = {
-    birth = yes
-  }
-  881.1.1 = {
-    death = yes
-  }
-}
-310018 = {
-  name = "Peder"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062001
-  843.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-310019 = {
-  name = "Svend"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062002
-  730.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
-    death = yes
-  }
-}
-310020 = {
-  name = "ヴァルデマー"  # Valdemar
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062003
-  722.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-310021 = {
-  name = "Filip"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062004
-  842.1.1 = {
-    birth = yes
-  }
-  901.1.1 = {
-    death = yes
-  }
-}
-310022 = {
-  name = "フロールフ"  # Hrolfr
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062005
-  731.1.1 = {
-    birth = yes
-  }
-  781.1.1 = {
-    death = yes
-  }
-}
-310023 = {
-  name = "Toke"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062006
-  822.1.1 = {
-    birth = yes
-  }
-  873.1.1 = {
-    death = yes
-  }
-}
-310024 = {
-  name = "Gunnarr"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062007
-  736.1.1 = {
-    birth = yes
-  }
-  786.1.1 = {
-    death = yes
-  }
-}
-310025 = {
-  name = "Anundr"
-  religion = norse_pagan
-  culture = norse
-  dynasty = 1062008
-  818.1.1 = {
-    birth = yes
-  }
-  876.1.1 = {
-    death = yes
-  }
-}
-451000 = {
-  name = "イルヴァ"  # Ylva
-  female = yes
-  dynasty = 490
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  trait = "charismatic_negotiator"
-  trait = "wroth"
-  trait = "gregarious"
-  father = 101502
-  971.1.1 = {
-    birth = "971.1.1"
-  }
-  1059.1.1 = {
-    death = "1059.1.1"
-  }
-}
-451001 = {
-  name = "オルマル"  # Ormr
-  female = no
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  trait = "skilled_tactician"
-  trait = "inspiring_leader"
-  trait = "wroth"
-  trait = "brave"
-  trait = "strong"
-  trait = "just"
-  965.1.1 = {
-    birth = "965.1.1"
-  }
-  991.1.1 = {
-    add_spouse = 451000
-  }
-  1043.1.1 = {
-    death = "1043.1.1"
-  }
-}
-451002 = {
-  name = "Oddny"
-  female = yes
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  trait = "twin"
-  trait = "shy"
-  father = 451001
-  mother = 451000
-  992.1.1 = {
-    birth = "992.1.1"
-  }
-  1065.1.1 = {
-    death = "1065.1.1"
-  }
-}
-451003 = {
-  name = "Ludmila"
-  female = yes
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  trait = "twin"
-  trait = "fair"
-  trait = "deceitful"
-  father = 451001
-  mother = 451000
-  992.1.1 = {
-    birth = "992.1.1"
-  }
-  1062.1.1 = {
-    death = "1062.1.1"
-  }
-}
-451004 = {
-  name = "ハーラル"  # Haraldr
-  female = no
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  father = 451001
-  mother = 451000
-  994.1.1 = {
-    birth = "994.1.1"
-  }
-  1057.1.1 = {
-    death = "1057.1.1"
-  }
-}
-451005 = {
-  name = "Svarthöfde"
-  female = no
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = norse
-  trait = "brave"
-  trait = "skilled_tactician"
-  trait = "inspiring_leader"
-  father = 451001
-  mother = 451000
-  995.1.1 = {
-    birth = "995.1.1"
-  }
-  1063.1.1 = {
-    death = "1063.1.1"
   }
 }

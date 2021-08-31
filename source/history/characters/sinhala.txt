@@ -13,21 +13,6 @@
     death = yes
   }
 }
-175105 = {
-  name = "シャヴァリ"  # Sivali
-  dynasty = 1043015
-  female = yes
-  religion = "buddhist"
-  culture = "sinhala"
-  trait = kshatriya
-  trait = theravada_buddhist
-  834.1.1 = {
-    birth = "834.1.1"
-  }
-  883.1.1 = {
-    death = "883.1.1"
-  }
-}
 189000 = {
   name = "マヌヴァノ"  # Manavanna
   dynasty = 1043001
@@ -772,6 +757,38 @@
     death = "905.1.1"
   }
 }
+189166 = {
+  name = "アディテヤ"  # Aditya
+  dynasty = 1029192
+  religion = "buddhist"
+  culture = "sinhala"
+  trait = kshatriya
+  trait = theravada_buddhist
+  father = 189151
+  mother = 175105
+  851.1.1 = {
+    birth = "851.1.1"
+  }
+  910.1.1 = {
+    death = "910.1.1"
+  }
+}
+189165 = {
+  name = "アナンダ"  # Ananda
+  dynasty = 1029192
+  religion = "buddhist"
+  culture = "sinhala"
+  trait = kshatriya
+  trait = theravada_buddhist
+  father = 189151
+  mother = 175105
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  915.1.1 = {
+    death = "915.1.1"
+  }
+}
 189153 = {
   name = "キッティ"  # Kitti
   dynasty = 1029192
@@ -881,6 +898,21 @@
     death = "1023.1.1"
   }
 }
+175105 = {
+  name = "シャヴァリ"  # Sivali
+  dynasty = 1043015
+  female = yes
+  religion = "buddhist"
+  culture = "sinhala"
+  trait = kshatriya
+  trait = theravada_buddhist
+  834.1.1 = {
+    birth = "834.1.1"
+  }
+  883.1.1 = {
+    death = "883.1.1"
+  }
+}
 189160 = {
   name = "バラディトヤ"  # Baladitya
   dynasty = 1029191
@@ -957,38 +989,6 @@
   }
   1141.1.1 = {
     death = "1141.1.1"
-  }
-}
-189165 = {
-  name = "アナンダ"  # Ananda
-  dynasty = 1029192
-  religion = "buddhist"
-  culture = "sinhala"
-  trait = kshatriya
-  trait = theravada_buddhist
-  father = 189151
-  mother = 175105
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  915.1.1 = {
-    death = "915.1.1"
-  }
-}
-189166 = {
-  name = "アディテヤ"  # Aditya
-  dynasty = 1029192
-  religion = "buddhist"
-  culture = "sinhala"
-  trait = kshatriya
-  trait = theravada_buddhist
-  father = 189151
-  mother = 175105
-  851.1.1 = {
-    birth = "851.1.1"
-  }
-  910.1.1 = {
-    death = "910.1.1"
   }
 }
 217365 = {
@@ -1245,6 +1245,24 @@
     }
   }
 }
+217391 = {
+  name = "ヴィクラマバーフ"  # Vikramabahu
+  dynasty = 1029195
+  religion = "buddhist"
+  culture = "sinhala"
+  father = 191209
+  mother = 217378
+  trait = kshatriya
+  trait = theravada_buddhist
+  1161.1.1 = {
+    birth = yes
+  }
+  1196.7.1 = {
+    death = {
+      death_reason = death_murder_unknown
+    }
+  }
+}
 217380 = {
   name = "チョダガンガ"  # Chodaganga
   dynasty = 1029195
@@ -1403,24 +1421,6 @@
   }
   1283.1.1 = {
     death = yes
-  }
-}
-217391 = {
-  name = "ヴィクラマバーフ"  # Vikramabahu
-  dynasty = 1029195
-  religion = "buddhist"
-  culture = "sinhala"
-  father = 191209
-  mother = 217378
-  trait = kshatriya
-  trait = theravada_buddhist
-  1161.1.1 = {
-    birth = yes
-  }
-  1196.7.1 = {
-    death = {
-      death_reason = death_murder_unknown
-    }
   }
 }
 217392 = {

@@ -1063,24 +1063,6 @@
     death = yes
   }
 }
-12369 = {
-  name = "アーナンダデーヴァ"  # Anandadeva
-  dynasty = 19120
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  father = 12419
-  mother = 12420
-  1212.1.1 = {
-    birth = yes
-  }
-  1232.1.1 = {
-    add_spouse = 12371
-  }
-  1260.1.1 = {
-    death = yes
-  }
-}
 12370 = {
   name = "ボージャデーヴァ"  # Bhojadeva
   dynasty = 19117
@@ -1093,19 +1075,6 @@
     birth = yes
   }
   1010.1.1 = {
-    death = yes
-  }
-}
-12371 = {
-  name = "ガンガバイ"  # Gangabai
-  female = yes
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  1212.1.1 = {
-    birth = yes
-  }
-  1260.1.1 = {
     death = yes
   }
 }
@@ -1218,19 +1187,6 @@
     death = yes
   }
 }
-12379 = {
-  name = "カムラバイ"  # Kamlabai
-  female = yes
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  1007.1.1 = {
-    birth = yes
-  }
-  1060.1.1 = {
-    death = yes
-  }
-}
 12380 = {
   name = "イサデーヴァ"  # Yisadeva
   dynasty = 19118
@@ -1262,6 +1218,19 @@
     death = "1049.1.1"
   }
 }
+12379 = {
+  name = "カムラバイ"  # Kamlabai
+  female = yes
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  1007.1.1 = {
+    birth = yes
+  }
+  1060.1.1 = {
+    death = yes
+  }
+}
 12382 = {
   name = "パラダインナカマデーヴァ"  # Pradymnakamadeva
   dynasty = 19118
@@ -1290,6 +1259,24 @@
     birth = yes
   }
   1066.1.1 = {
+    death = yes
+  }
+}
+12439 = {
+  name = "ナーガールジュナデーヴァ"  # Nagarjunadeva
+  dynasty = 19118
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  father = 12382
+  mother = 12383
+  1039.1.1 = {
+    birth = yes
+  }
+  1055.1.1 = {
+    add_spouse = 12384
+  }
+  1069.1.1 = {
     death = yes
   }
 }
@@ -2015,37 +2002,6 @@
     death = yes
   }
 }
-12431 = {
-  name = "ジャヤリ"  # Jayari
-  dynasty = 19120
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  father = 12429
-  mother = 12430
-  1296.1.1 = {
-    birth = yes
-  }
-  1312.1.1 = {
-    add_spouse = 12432
-  }
-  1344.1.1 = {
-    death = yes
-  }
-}
-12432 = {
-  name = "グンヴァンティバイ"  # Gunvantibai
-  female = yes
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  1296.1.1 = {
-    birth = yes
-  }
-  1344.1.1 = {
-    death = yes
-  }
-}
 12433 = {
   name = "ジャヤルドラ"  # Jayarudra
   dynasty = 19120
@@ -2074,6 +2030,37 @@
     birth = yes
   }
   1326.1.1 = {
+    death = yes
+  }
+}
+12431 = {
+  name = "ジャヤリ"  # Jayari
+  dynasty = 19120
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  father = 12429
+  mother = 12430
+  1296.1.1 = {
+    birth = yes
+  }
+  1312.1.1 = {
+    add_spouse = 12432
+  }
+  1344.1.1 = {
+    death = yes
+  }
+}
+12432 = {
+  name = "グンヴァンティバイ"  # Gunvantibai
+  female = yes
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  1296.1.1 = {
+    birth = yes
+  }
+  1344.1.1 = {
     death = yes
   }
 }
@@ -2139,21 +2126,34 @@
     death = yes
   }
 }
-12439 = {
-  name = "ナーガールジュナデーヴァ"  # Nagarjunadeva
-  dynasty = 19118
+12369 = {
+  name = "アーナンダデーヴァ"  # Anandadeva
+  dynasty = 19120
   religion = "hindu"
   culture = "nepali"
   trait = kshatriya
-  father = 12382
-  mother = 12383
-  1039.1.1 = {
+  father = 12419
+  mother = 12420
+  1212.1.1 = {
     birth = yes
   }
-  1055.1.1 = {
-    add_spouse = 12384
+  1232.1.1 = {
+    add_spouse = 12371
   }
-  1069.1.1 = {
+  1260.1.1 = {
+    death = yes
+  }
+}
+12371 = {
+  name = "ガンガバイ"  # Gangabai
+  female = yes
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  1212.1.1 = {
+    birth = yes
+  }
+  1260.1.1 = {
     death = yes
   }
 }
@@ -2887,6 +2887,20 @@
     death = yes
   }
 }
+247720 = {
+  name = "アムリタデーヴァ"  # Amritadeva
+  dynasty = 105840
+  religion = "hindu"
+  culture = "nepali"
+  trait = kshatriya
+  father = 247458
+  1140.1.1 = {
+    birth = yes
+  }
+  1178.1.1 = {
+    death = yes
+  }
+}
 247459 = {
   name = "ソメスヴァラデーヴァ"  # Somesvaradeva
   dynasty = 105840
@@ -3148,20 +3162,6 @@
     birth = yes
   }
   1260.1.1 = {
-    death = yes
-  }
-}
-247720 = {
-  name = "アムリタデーヴァ"  # Amritadeva
-  dynasty = 105840
-  religion = "hindu"
-  culture = "nepali"
-  trait = kshatriya
-  father = 247458
-  1140.1.1 = {
-    birth = yes
-  }
-  1178.1.1 = {
     death = yes
   }
 }

@@ -1,1119 +1,4 @@
-﻿7600 = {
-  name = "ポンティアヌス"  # Pontianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  170.1.1 = {
-    birth = "170.1.1"
-  }
-  230.1.1 = {
-    name = "ポンティアヌス"  # Pontianus
-  }
-  235.9.29 = {
-    death = "235.9.29"
-  }
-}
-7601 = {
-  name = "セウェルス"  # Severus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  170.1.1 = {
-    birth = "170.1.1"
-  }
-  222.10.14 = {
-    name = "ウルバヌス"  # Urbanus
-  }
-  230.1.1 = {
-    death = "230.1.1"
-  }
-}
-7602 = {
-  name = "カリストゥス"  # Callistus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  160.1.1 = {
-    birth = "160.1.1"
-  }
-  217.12.20 = {
-    name = "カリストゥス"  # Callistus
-  }
-  222.10.14 = {
-    death = "222.10.14"
-  }
-}
-7603 = {
-  name = "ゼフィリヌス"  # Zephyrinus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  150.1.1 = {
-    birth = "150.1.1"
-  }
-  199.1.1 = {
-    name = "ゼフィリヌス"  # Zephyrinus
-  }
-  217.12.20 = {
-    death = "217.12.20"
-  }
-}
-7604 = {
-  name = "ウィクトル"  # Victor
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  140.1.1 = {
-    birth = "140.1.1"
-  }
-  189.1.1 = {
-    name = "ウィクトル"  # Victor
-  }
-  199.1.1 = {
-    death = "199.1.1"
-  }
-}
-7759 = {
-  name = "ゴルディアヌス"  # Gordianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  480.1.1 = {
-    birth = "480.1.1"
-  }
-  535.5.8 = {
-    name = "アガペトゥス"  # Agapetus
-  }
-  536.6.8 = {
-    death = "536.6.8"
-  }
-}
-7760 = {
-  name = "メルクリウス"  # Mercurius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  470.1.1 = {
-    birth = "470.1.1"
-  }
-  532.1.1 = {
-    name = "ヨハネス"  # Ioannes
-  }
-  535.5.8 = {
-    death = "535.5.8"
-  }
-}
-7762 = {
-  name = "カストリウス"  # Castorius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  470.1.1 = {
-    birth = "470.1.1"
-  }
-  526.5.18 = {
-    name = "フェリクス"  # Felix
-  }
-  530.1.1 = {
-    death = "530.1.1"
-  }
-}
-7763 = {
-  name = "カストリウス"  # Castorius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  470.1.1 = {
-    birth = "470.1.1"
-  }
-  523.8.6 = {
-    name = "ヨハネス"  # Ioannes
-  }
-  526.5.18 = {
-    death = "526.5.18"
-  }
-}
-7764 = {
-  name = "ゴルダニウス"  # Gordanius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  father = 7765
-  500.1.1 = {
-    birth = "500.1.1"
-  }
-  536.4.22 = {
-    name = "シルウェリウス"  # Silverius
-  }
-  536.6.8 = {
-    death = "536.6.8"
-  }
-}
-7765 = {
-  name = "ヨハネス"  # Johannes
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  450.1.1 = {
-    birth = "450.1.1"
-  }
-  514.7.19 = {
-    name = "ホルミスダス"  # Hormisdas
-  }
-  523.8.6 = {
-    death = "523.8.6"
-  }
-}
-7766 = {
-  name = "フォルトゥナトゥス"  # Fortunatus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  450.1.1 = {
-    birth = "450.1.1"
-  }
-  498.11.19 = {
-    name = "シンマクス"  # Symmachus
-  }
-  514.7.19 = {
-    death = "514.7.19"
-  }
-}
-7767 = {
-  name = "アカキウス"  # Acacius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  450.1.1 = {
-    birth = "450.1.1"
-  }
-  496.11.21 = {
-    name = "アナスタシウス"  # Anastasius
-  }
-  498.11.19 = {
-    death = "498.11.19"
-  }
-}
-7768 = {
-  name = "アカキウス"  # Acacius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  420.1.1 = {
-    birth = "420.1.1"
-  }
-  492.1.1 = {
-    name = "ゲラシウス"  # Gelasius
-  }
-  496.11.21 = {
-    death = "496.11.21"
-  }
-}
-7769 = {
-  name = "アカキウス"  # Acacius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  420.1.1 = {
-    birth = "420.1.1"
-  }
-  483.3.10 = {
-    name = "フェリクス"  # Felix
-  }
-  492.1.1 = {
-    death = "492.1.1"
-  }
-}
-7770 = {
-  name = "カスティヌス"  # Castinus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  420.1.1 = {
-    birth = "420.1.1"
-  }
-  468.2.28 = {
-    name = "シンプリキウス"  # Simplicius
-  }
-  483.3.10 = {
-    death = "483.3.10"
-  }
-}
-7771 = {
-  name = "ヒラリ"  # Hilary
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  400.1.1 = {
-    birth = "400.1.1"
-  }
-  461.11.10 = {
-    name = "ヒラリウス"  # Hilarius
-  }
-  468.2.28 = {
-    death = "468.2.28"
-  }
-}
-7772 = {
-  name = "ヒラリウス"  # Hilary
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  400.1.1 = {
-    birth = "400.1.1"
-  }
-  440.8.18 = {
-    name = "レオ"  # Leo
-  }
-  461.11.10 = {
-    death = "461.11.10"
-  }
-}
-7773 = {
-  name = "ヒラリ"  # Hilary
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  380.1.1 = {
-    birth = "380.1.1"
-  }
-  432.4.6 = {
-    name = "シクストゥス"  # Sixtus
-  }
-  440.8.18 = {
-    death = "440.8.18"
-  }
-}
-7774 = {
-  name = "プリスクス"  # Priscus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  380.1.1 = {
-    birth = "380.1.1"
-  }
-  422.9.4 = {
-    name = "ケレスティヌス"  # Caelestinus
-  }
-  432.4.6 = {
-    death = "432.4.6"
-  }
-}
-7775 = {
-  name = "エウラリウス"  # Eulalius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  360.1.1 = {
-    birth = "360.1.1"
-  }
-  418.12.26 = {
-    name = "ボニファティウス"  # Bonifatius
-  }
-  422.9.4 = {
-    death = "422.9.4"
-  }
-}
-7776 = {
-  name = "エウラリウス"  # Eulalius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  360.1.1 = {
-    birth = "360.1.1"
-  }
-  417.3.12 = {
-    name = "ゾシムス"  # Zosimus
-  }
-  418.12.26 = {
-    death = "418.12.26"
-  }
-}
-7777 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  father = 7778
-  360.1.1 = {
-    birth = "360.1.1"
-  }
-  401.11.27 = {
-    name = "インノケンティウス"  # Innocentius
-  }
-  417.3.12 = {
-    death = "417.3.12"
-  }
-}
-7778 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  330.1.1 = {
-    birth = "330.1.1"
-  }
-  399.11.26 = {
-    name = "アナスタシウス"  # Anastasius
-  }
-  401.11.27 = {
-    death = "401.11.27"
-  }
-}
-7779 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  330.1.1 = {
-    birth = "330.1.1"
-  }
-  384.12.11 = {
-    name = "シリキウス"  # Siricius
-  }
-  399.11.26 = {
-    death = "399.11.26"
-  }
-}
-7780 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  305.1.1 = {
-    birth = "305.1.1"
-  }
-  366.9.24 = {
-    name = "ダマスス"  # Damasus
-  }
-  384.12.11 = {
-    death = "384.12.11"
-  }
-}
-7781 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  305.1.1 = {
-    birth = "305.1.1"
-  }
-  352.4.12 = {
-    name = "リベリウス"  # Liberius
-  }
-  366.9.24 = {
-    death = "366.9.24"
-  }
-}
-7782 = {
-  name = "マクシムス"  # Maximus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  280.1.1 = {
-    birth = "280.1.1"
-  }
-  336.10.7 = {
-    name = "ユリウス"  # Iulius
-  }
-  352.4.12 = {
-    death = "352.4.12"
-  }
-}
-7783 = {
-  name = "マルクス"  # Marcus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  280.1.1 = {
-    birth = "280.1.1"
-  }
-  336.10.7 = {
-    death = "336.10.7"
-  }
-}
-7784 = {
-  name = "マルクス"  # Marcus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  270.1.1 = {
-    birth = "270.1.1"
-  }
-  314.1.10 = {
-    name = "シルウェステル"  # Silvester
-  }
-  335.12.31 = {
-    death = "335.12.31"
-  }
-}
-7785 = {
-  name = "マルクス"  # Marcus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  250.1.1 = {
-    birth = "250.1.1"
-  }
-  310.8.17 = {
-    name = "ミルティアデス"  # Miltiades
-  }
-  314.1.10 = {
-    death = "314.1.10"
-  }
-}
-7787 = {
-  name = "マルクス"  # Marcus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  250.1.1 = {
-    birth = "250.1.1"
-  }
-  304.4.1 = {
-    name = "マルケルス"  # Marcellus
-  }
-  309.1.16 = {
-    death = "309.1.16"
-  }
-}
-7789 = {
-  name = "マルクス"  # Marcus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  240.1.1 = {
-    birth = "240.1.1"
-  }
-  296.4.22 = {
-    name = "マルケリヌス"  # Marcellinus
-  }
-  304.4.1 = {
-    death = "304.4.1"
-  }
-}
-7790 = {
-  name = "ガイウス"  # Gaius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  240.1.1 = {
-    birth = "240.1.1"
-  }
-  283.7.12 = {
-    name = "カイウス"  # Caius
-  }
-  296.4.22 = {
-    death = "296.4.22"
-  }
-}
-7791 = {
-  name = "ガイウス"  # Gaius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  220.1.1 = {
-    birth = "220.1.1"
-  }
-  274.12.30 = {
-    name = "エウティキアヌス"  # Eutychianus
-  }
-  283.7.12 = {
-    death = "283.7.12"
-  }
-}
-7792 = {
-  name = "ガイウス"  # Gaius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  220.1.1 = {
-    birth = "220.1.1"
-  }
-  268.12.26 = {
-    name = "フェリクス"  # Felix
-  }
-  274.12.30 = {
-    death = "274.12.30"
-  }
-}
-7795 = {
-  name = "ステファヌス"  # Stephanus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  210.1.1 = {
-    birth = "210.1.1"
-  }
-  257.8.2 = {
-    death = "257.8.2"
-  }
-}
-7796 = {
-  name = "ポルピリアヌス"  # Porphyrianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  210.1.1 = {
-    birth = "210.1.1"
-  }
-  253.6.1 = {
-    name = "ルキウス"  # Lucius
-  }
-  254.3.5 = {
-    death = "254.3.5"
-  }
-}
-7797 = {
-  name = "デキウス"  # Decius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  210.1.1 = {
-    birth = "210.1.1"
-  }
-  250.1.20 = {
-    name = "コルネリウス"  # Cornelius
-  }
-  253.6.1 = {
-    death = "253.6.1"
-  }
-}
-7798 = {
-  name = "ファビアヌス"  # Fabianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  200.1.1 = {
-    birth = "200.1.1"
-  }
-  250.1.20 = {
-    death = "250.1.20"
-  }
-}
-7868 = {
-  name = "ザカリアス"  # Zacharias
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  669.1.1 = {
-    birth = "669.1.1"
-  }
-  715.4.9 = {
-    name = "グレゴリウス"  # Gregorius
-  }
-  731.2.11 = {
-    death = "731.2.11"
-  }
-}
-7876 = {
-  name = "プラトー"  # Plato
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  635.1.1 = {
-    birth = "635.1.1"
-  }
-  683.6.28 = {
-    name = "ベネディクトゥス"  # Benedictus
-  }
-  685.5.8 = {
-    death = "685.5.8"
-  }
-}
-7877 = {
-  name = "パウルス"  # Paulus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  611.1.1 = {
-    birth = "611.1.1"
-  }
-  681.1.10 = {
-    name = "レオ"  # Leo
-  }
-  683.6.28 = {
-    death = "683.6.28"
-  }
-}
-7880 = {
-  name = "マウリキウス"  # Mauricius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  672.1.27 = {
-    name = "アデオダトゥス"  # Adeodatus
-  }
-  676.6.17 = {
-    death = "676.6.17"
-  }
-}
-7881 = {
-  name = "アナスタシウス"  # Anastasius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  657.6.1 = {
-    name = "ウィタリアヌス"  # Vitalianus
-  }
-  672.1.27 = {
-    death = "672.1.27"
-  }
-}
-7882 = {
-  name = "ルフィニアヌス"  # Rufinianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  653.7.17 = {
-    name = "エウゲニウス"  # Eugenius
-  }
-  657.6.1 = {
-    death = "657.6.1"
-  }
-}
-7883 = {
-  name = "ルフィニアヌス"  # Rufinianus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  649.5.14 = {
-    name = "マルティヌス"  # Martinus
-  }
-  653.7.17 = {
-    death = "653.7.17"
-  }
-}
-7885 = {
-  name = "ウェナンティウス"  # Venantius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  640.8.2 = {
-    name = "ヨハネス"  # Ioannes
-  }
-  642.10.12 = {
-    death = "642.10.12"
-  }
-}
-7886 = {
-  name = "アウィエヌス"  # Avienus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  577.1.1 = {
-    birth = "577.1.1"
-  }
-  638.10.12 = {
-    name = "セウェリヌス"  # Severinus
-  }
-  640.8.2 = {
-    death = "640.8.2"
-  }
-}
-7887 = {
-  name = "ペトロニウス"  # Petronius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  560.1.1 = {
-    birth = "560.1.1"
-  }
-  625.10.25 = {
-    name = "ホノリウス"  # Honorius
-  }
-  638.10.12 = {
-    death = "638.10.12"
-  }
-}
-7888 = {
-  name = "ペトロニウス"  # Petronius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  560.1.1 = {
-    birth = "560.1.1"
-  }
-  618.11.8 = {
-    name = "ボニファティウス"  # Bonifatius
-  }
-  625.10.25 = {
-    death = "625.10.25"
-  }
-}
-7889 = {
-  name = "デオダトゥス"  # Deodatus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  550.1.1 = {
-    birth = "550.1.1"
-  }
-  615.5.25 = {
-    name = "アデオダトゥス"  # Adeodatus
-  }
-  618.11.8 = {
-    death = "618.11.8"
-  }
-}
-7890 = {
-  name = "ヨハネス"  # Johannes
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  550.1.1 = {
-    birth = "550.1.1"
-  }
-  607.11.12 = {
-    name = "ボニファティウス"  # Bonifatius
-  }
-  615.5.25 = {
-    death = "615.5.25"
-  }
-}
-7892 = {
-  name = "ヨハネス"  # John
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  530.1.1 = {
-    birth = "530.1.1"
-  }
-  604.3.15 = {
-    name = "サビニアヌス"  # Sabinianus
-  }
-  606.2.22 = {
-    death = "606.2.22"
-  }
-}
-7893 = {
-  name = "ゴルダニウス"  # Gordanius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  540.1.1 = {
-    birth = "540.1.1"
-  }
-  590.1.1 = {
-    name = "グレゴリウス"  # Gregorius
-    give_nickname = nick_the_great
-  }
-  604.3.15 = {
-    death = "604.3.15"
-  }
-}
-7896 = {
-  name = "ゴルダニウス"  # Gordanius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  579.7.20 = {
-    name = "ペラギウス"  # Pelagius
-  }
-  590.1.1 = {
-    death = "590.1.1"
-  }
-}
-7897 = {
-  name = "ボニファキウス"  # Bonifacius
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  574.7.13 = {
-    name = "ベネディクトゥス"  # Benedictus
-  }
-  579.7.20 = {
-    death = "579.7.20"
-  }
-}
-7898 = {
-  name = "カテリヌス"  # Catelinus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  561.3.4 = {
-    name = "ヨハネス"  # Ioannes
-  }
-  574.7.13 = {
-    death = "574.7.13"
-  }
-}
-7899 = {
-  name = "ベネディクトゥス"  # Benedictus
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  510.1.1 = {
-    birth = "510.1.1"
-  }
-  555.6.7 = {
-    name = "ペラギウス"  # Pelagius
-  }
-  561.3.4 = {
-    death = "561.3.4"
-  }
-}
-7900 = {
-  name = "ヨハネス"  # Johannes
-  religion = "catholic"
-  culture = "roman"
-  trait = "diligent"
-  trait = "patient"
-  trait = "zealous"
-  trait = "charismatic_negotiator"
-  500.1.1 = {
-    birth = "500.1.1"
-  }
-  536.6.8 = {
-    name = "ウィギリウス"  # Vigilius
-  }
-  555.6.7 = {
-    death = "555.6.7"
-  }
-}
-70512 = {
-  name = "ユスティニアヌス"  # Justinian
-  dynasty = 1022186
-  martial = 8
-  diplomacy = 9
-  intrigue = 7
-  stewardship = 9
-  religion = "orthodox"
-  culture = "roman"
-  add_trait = "just"
-  add_trait = "mystic"
-  add_trait = "genius"
-  add_trait = "midas_touched"
-  mother = 70528
-  482.5.11 = {
-    birth = "482.5.11"
-  }
-  565.11.14 = {
-    death = "565.11.14"
-  }
-}
-70513 = {
-  name = "ユスティヌス"  # Justin
-  dynasty = 1022186
-  martial = 7
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 5
-  religion = "orthodox"
-  culture = "roman"
-  add_trait = "quick"
-  add_trait = "ambitious"
-  add_trait = "tough_soldier"
-  father = 70529
-  452.1.1 = {
-    birth = "452.1.1"
-  }
-  527.8.1 = {
-    death = "527.8.1"
-  }
-}
-70518 = {
+﻿70518 = {
   name = "マルキアヌス"  # Marcian
   dynasty = 1022190
   martial = 6
@@ -1284,67 +169,6 @@
   }
   249.9.1 = {
     death = "249.9.1"
-  }
-}
-70527 = {
-  name = "ウィギランティア"  # Vigilantia
-  dynasty = 1022186
-  female = yes
-  martial = 3
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 6
-  religion = "orthodox"
-  culture = "roman"
-  add_trait = "ambitious"
-  add_trait = "scholar"
-  add_trait = "intricate_webweaver"
-  mother = 70528
-  485.1.1 = {
-    birth = "485.1.1"
-  }
-  570.1.1 = {
-    death = "570.1.1"
-  }
-}
-70528 = {
-  name = "ウィギランティア"  # Vigilantia
-  dynasty = 1022186
-  female = yes
-  martial = 4
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "orthodox"
-  culture = "roman"
-  add_trait = "temperate"
-  add_trait = "honest"
-  add_trait = "naive_appeaser"
-  father = 70529
-  460.1.1 = {
-    birth = "460.1.1"
-  }
-  535.1.1 = {
-    death = "535.1.1"
-  }
-}
-70529 = {
-  name = "ユスティニアヌス"  # Justinian
-  dynasty = 1022186
-  martial = 6
-  diplomacy = 3
-  intrigue = 4
-  stewardship = 3
-  religion = "orthodox"
-  culture = "roman"
-  add_trait = "proud"
-  add_trait = "brave"
-  add_trait = "tough_soldier"
-  430.1.1 = {
-    birth = "430.1.1"
-  }
-  485.1.1 = {
-    death = "485.1.1"
   }
 }
 70531 = {
@@ -2454,6 +1278,1080 @@
     death = "24.8.19"
   }
 }
+7600 = {
+  name = "ポンティアヌス"  # Pontianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  170.1.1 = {
+    birth = "170.1.1"
+  }
+  230.1.1 = {
+    name = "ポンティアヌス"  # Pontianus
+  }
+  235.9.29 = {
+    death = "235.9.29"
+  }
+}
+7601 = {
+  name = "セウェルス"  # Severus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  170.1.1 = {
+    birth = "170.1.1"
+  }
+  222.10.14 = {
+    name = "ウルバヌス"  # Urbanus
+  }
+  230.1.1 = {
+    death = "230.1.1"
+  }
+}
+7602 = {
+  name = "カリストゥス"  # Callistus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  160.1.1 = {
+    birth = "160.1.1"
+  }
+  217.12.20 = {
+    name = "カリストゥス"  # Callistus
+  }
+  222.10.14 = {
+    death = "222.10.14"
+  }
+}
+7603 = {
+  name = "ゼフィリヌス"  # Zephyrinus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  150.1.1 = {
+    birth = "150.1.1"
+  }
+  199.1.1 = {
+    name = "ゼフィリヌス"  # Zephyrinus
+  }
+  217.12.20 = {
+    death = "217.12.20"
+  }
+}
+7604 = {
+  name = "ウィクトル"  # Victor
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  140.1.1 = {
+    birth = "140.1.1"
+  }
+  189.1.1 = {
+    name = "ウィクトル"  # Victor
+  }
+  199.1.1 = {
+    death = "199.1.1"
+  }
+}
+7759 = {
+  name = "ゴルディアヌス"  # Gordianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  480.1.1 = {
+    birth = "480.1.1"
+  }
+  535.5.8 = {
+    name = "アガペトゥス"  # Agapetus
+  }
+  536.6.8 = {
+    death = "536.6.8"
+  }
+}
+7760 = {
+  name = "メルクリウス"  # Mercurius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  470.1.1 = {
+    birth = "470.1.1"
+  }
+  532.1.1 = {
+    name = "ヨハネス"  # Ioannes
+  }
+  535.5.8 = {
+    death = "535.5.8"
+  }
+}
+7762 = {
+  name = "カストリウス"  # Castorius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  470.1.1 = {
+    birth = "470.1.1"
+  }
+  526.5.18 = {
+    name = "フェリクス"  # Felix
+  }
+  530.1.1 = {
+    death = "530.1.1"
+  }
+}
+7763 = {
+  name = "カストリウス"  # Castorius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  470.1.1 = {
+    birth = "470.1.1"
+  }
+  523.8.6 = {
+    name = "ヨハネス"  # Ioannes
+  }
+  526.5.18 = {
+    death = "526.5.18"
+  }
+}
+7764 = {
+  name = "ゴルダニウス"  # Gordanius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  father = 7765
+  500.1.1 = {
+    birth = "500.1.1"
+  }
+  536.4.22 = {
+    name = "シルウェリウス"  # Silverius
+  }
+  536.6.8 = {
+    death = "536.6.8"
+  }
+}
+7765 = {
+  name = "ヨハネス"  # Johannes
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  450.1.1 = {
+    birth = "450.1.1"
+  }
+  514.7.19 = {
+    name = "ホルミスダス"  # Hormisdas
+  }
+  523.8.6 = {
+    death = "523.8.6"
+  }
+}
+7766 = {
+  name = "フォルトゥナトゥス"  # Fortunatus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  450.1.1 = {
+    birth = "450.1.1"
+  }
+  498.11.19 = {
+    name = "シンマクス"  # Symmachus
+  }
+  514.7.19 = {
+    death = "514.7.19"
+  }
+}
+7767 = {
+  name = "アカキウス"  # Acacius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  450.1.1 = {
+    birth = "450.1.1"
+  }
+  496.11.21 = {
+    name = "アナスタシウス"  # Anastasius
+  }
+  498.11.19 = {
+    death = "498.11.19"
+  }
+}
+7768 = {
+  name = "アカキウス"  # Acacius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  420.1.1 = {
+    birth = "420.1.1"
+  }
+  492.1.1 = {
+    name = "ゲラシウス"  # Gelasius
+  }
+  496.11.21 = {
+    death = "496.11.21"
+  }
+}
+7769 = {
+  name = "アカキウス"  # Acacius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  420.1.1 = {
+    birth = "420.1.1"
+  }
+  483.3.10 = {
+    name = "フェリクス"  # Felix
+  }
+  492.1.1 = {
+    death = "492.1.1"
+  }
+}
+7770 = {
+  name = "カスティヌス"  # Castinus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  420.1.1 = {
+    birth = "420.1.1"
+  }
+  468.2.28 = {
+    name = "シンプリキウス"  # Simplicius
+  }
+  483.3.10 = {
+    death = "483.3.10"
+  }
+}
+7771 = {
+  name = "ヒラリ"  # Hilary
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  400.1.1 = {
+    birth = "400.1.1"
+  }
+  461.11.10 = {
+    name = "ヒラリウス"  # Hilarius
+  }
+  468.2.28 = {
+    death = "468.2.28"
+  }
+}
+7772 = {
+  name = "ヒラリウス"  # Hilary
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  400.1.1 = {
+    birth = "400.1.1"
+  }
+  440.8.18 = {
+    name = "レオ"  # Leo
+  }
+  461.11.10 = {
+    death = "461.11.10"
+  }
+}
+7773 = {
+  name = "ヒラリ"  # Hilary
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  380.1.1 = {
+    birth = "380.1.1"
+  }
+  432.4.6 = {
+    name = "シクストゥス"  # Sixtus
+  }
+  440.8.18 = {
+    death = "440.8.18"
+  }
+}
+7774 = {
+  name = "プリスクス"  # Priscus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  380.1.1 = {
+    birth = "380.1.1"
+  }
+  422.9.4 = {
+    name = "ケレスティヌス"  # Caelestinus
+  }
+  432.4.6 = {
+    death = "432.4.6"
+  }
+}
+7775 = {
+  name = "エウラリウス"  # Eulalius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  360.1.1 = {
+    birth = "360.1.1"
+  }
+  418.12.26 = {
+    name = "ボニファティウス"  # Bonifatius
+  }
+  422.9.4 = {
+    death = "422.9.4"
+  }
+}
+7776 = {
+  name = "エウラリウス"  # Eulalius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  360.1.1 = {
+    birth = "360.1.1"
+  }
+  417.3.12 = {
+    name = "ゾシムス"  # Zosimus
+  }
+  418.12.26 = {
+    death = "418.12.26"
+  }
+}
+7777 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  father = 7778
+  360.1.1 = {
+    birth = "360.1.1"
+  }
+  401.11.27 = {
+    name = "インノケンティウス"  # Innocentius
+  }
+  417.3.12 = {
+    death = "417.3.12"
+  }
+}
+7778 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  330.1.1 = {
+    birth = "330.1.1"
+  }
+  399.11.26 = {
+    name = "アナスタシウス"  # Anastasius
+  }
+  401.11.27 = {
+    death = "401.11.27"
+  }
+}
+7779 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  330.1.1 = {
+    birth = "330.1.1"
+  }
+  384.12.11 = {
+    name = "シリキウス"  # Siricius
+  }
+  399.11.26 = {
+    death = "399.11.26"
+  }
+}
+7780 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  305.1.1 = {
+    birth = "305.1.1"
+  }
+  366.9.24 = {
+    name = "ダマスス"  # Damasus
+  }
+  384.12.11 = {
+    death = "384.12.11"
+  }
+}
+7781 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  305.1.1 = {
+    birth = "305.1.1"
+  }
+  352.4.12 = {
+    name = "リベリウス"  # Liberius
+  }
+  366.9.24 = {
+    death = "366.9.24"
+  }
+}
+7782 = {
+  name = "マクシムス"  # Maximus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  280.1.1 = {
+    birth = "280.1.1"
+  }
+  336.10.7 = {
+    name = "ユリウス"  # Iulius
+  }
+  352.4.12 = {
+    death = "352.4.12"
+  }
+}
+7783 = {
+  name = "マルクス"  # Marcus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  280.1.1 = {
+    birth = "280.1.1"
+  }
+  336.10.7 = {
+    death = "336.10.7"
+  }
+}
+7784 = {
+  name = "マルクス"  # Marcus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  270.1.1 = {
+    birth = "270.1.1"
+  }
+  314.1.10 = {
+    name = "シルウェステル"  # Silvester
+  }
+  335.12.31 = {
+    death = "335.12.31"
+  }
+}
+7785 = {
+  name = "マルクス"  # Marcus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  250.1.1 = {
+    birth = "250.1.1"
+  }
+  310.8.17 = {
+    name = "ミルティアデス"  # Miltiades
+  }
+  314.1.10 = {
+    death = "314.1.10"
+  }
+}
+7787 = {
+  name = "マルクス"  # Marcus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  250.1.1 = {
+    birth = "250.1.1"
+  }
+  304.4.1 = {
+    name = "マルケルス"  # Marcellus
+  }
+  309.1.16 = {
+    death = "309.1.16"
+  }
+}
+7789 = {
+  name = "マルクス"  # Marcus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  240.1.1 = {
+    birth = "240.1.1"
+  }
+  296.4.22 = {
+    name = "マルケリヌス"  # Marcellinus
+  }
+  304.4.1 = {
+    death = "304.4.1"
+  }
+}
+7790 = {
+  name = "ガイウス"  # Gaius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  240.1.1 = {
+    birth = "240.1.1"
+  }
+  283.7.12 = {
+    name = "カイウス"  # Caius
+  }
+  296.4.22 = {
+    death = "296.4.22"
+  }
+}
+7791 = {
+  name = "ガイウス"  # Gaius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  220.1.1 = {
+    birth = "220.1.1"
+  }
+  274.12.30 = {
+    name = "エウティキアヌス"  # Eutychianus
+  }
+  283.7.12 = {
+    death = "283.7.12"
+  }
+}
+7792 = {
+  name = "ガイウス"  # Gaius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  220.1.1 = {
+    birth = "220.1.1"
+  }
+  268.12.26 = {
+    name = "フェリクス"  # Felix
+  }
+  274.12.30 = {
+    death = "274.12.30"
+  }
+}
+7795 = {
+  name = "ステファヌス"  # Stephanus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  210.1.1 = {
+    birth = "210.1.1"
+  }
+  257.8.2 = {
+    death = "257.8.2"
+  }
+}
+7796 = {
+  name = "ポルピリアヌス"  # Porphyrianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  210.1.1 = {
+    birth = "210.1.1"
+  }
+  253.6.1 = {
+    name = "ルキウス"  # Lucius
+  }
+  254.3.5 = {
+    death = "254.3.5"
+  }
+}
+7797 = {
+  name = "デキウス"  # Decius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  210.1.1 = {
+    birth = "210.1.1"
+  }
+  250.1.20 = {
+    name = "コルネリウス"  # Cornelius
+  }
+  253.6.1 = {
+    death = "253.6.1"
+  }
+}
+7798 = {
+  name = "ファビアヌス"  # Fabianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  200.1.1 = {
+    birth = "200.1.1"
+  }
+  250.1.20 = {
+    death = "250.1.20"
+  }
+}
+7868 = {
+  name = "ザカリアス"  # Zacharias
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  669.1.1 = {
+    birth = "669.1.1"
+  }
+  715.4.9 = {
+    name = "グレゴリウス"  # Gregorius
+  }
+  731.2.11 = {
+    death = "731.2.11"
+  }
+}
+7876 = {
+  name = "プラトー"  # Plato
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  635.1.1 = {
+    birth = "635.1.1"
+  }
+  683.6.28 = {
+    name = "ベネディクトゥス"  # Benedictus
+  }
+  685.5.8 = {
+    death = "685.5.8"
+  }
+}
+7877 = {
+  name = "パウルス"  # Paulus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  611.1.1 = {
+    birth = "611.1.1"
+  }
+  681.1.10 = {
+    name = "レオ"  # Leo
+  }
+  683.6.28 = {
+    death = "683.6.28"
+  }
+}
+7880 = {
+  name = "マウリキウス"  # Mauricius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  672.1.27 = {
+    name = "アデオダトゥス"  # Adeodatus
+  }
+  676.6.17 = {
+    death = "676.6.17"
+  }
+}
+7881 = {
+  name = "アナスタシウス"  # Anastasius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  657.6.1 = {
+    name = "ウィタリアヌス"  # Vitalianus
+  }
+  672.1.27 = {
+    death = "672.1.27"
+  }
+}
+7882 = {
+  name = "ルフィニアヌス"  # Rufinianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  653.7.17 = {
+    name = "エウゲニウス"  # Eugenius
+  }
+  657.6.1 = {
+    death = "657.6.1"
+  }
+}
+7883 = {
+  name = "ルフィニアヌス"  # Rufinianus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  649.5.14 = {
+    name = "マルティヌス"  # Martinus
+  }
+  653.7.17 = {
+    death = "653.7.17"
+  }
+}
+7885 = {
+  name = "ウェナンティウス"  # Venantius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  640.8.2 = {
+    name = "ヨハネス"  # Ioannes
+  }
+  642.10.12 = {
+    death = "642.10.12"
+  }
+}
+7886 = {
+  name = "アウィエヌス"  # Avienus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  577.1.1 = {
+    birth = "577.1.1"
+  }
+  638.10.12 = {
+    name = "セウェリヌス"  # Severinus
+  }
+  640.8.2 = {
+    death = "640.8.2"
+  }
+}
+7887 = {
+  name = "ペトロニウス"  # Petronius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  625.10.25 = {
+    name = "ホノリウス"  # Honorius
+  }
+  638.10.12 = {
+    death = "638.10.12"
+  }
+}
+7888 = {
+  name = "ペトロニウス"  # Petronius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  618.11.8 = {
+    name = "ボニファティウス"  # Bonifatius
+  }
+  625.10.25 = {
+    death = "625.10.25"
+  }
+}
+7889 = {
+  name = "デオダトゥス"  # Deodatus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  615.5.25 = {
+    name = "アデオダトゥス"  # Adeodatus
+  }
+  618.11.8 = {
+    death = "618.11.8"
+  }
+}
+7890 = {
+  name = "ヨハネス"  # Johannes
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  607.11.12 = {
+    name = "ボニファティウス"  # Bonifatius
+  }
+  615.5.25 = {
+    death = "615.5.25"
+  }
+}
+7892 = {
+  name = "ヨハネス"  # John
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  530.1.1 = {
+    birth = "530.1.1"
+  }
+  604.3.15 = {
+    name = "サビニアヌス"  # Sabinianus
+  }
+  606.2.22 = {
+    death = "606.2.22"
+  }
+}
+7893 = {
+  name = "ゴルダニウス"  # Gordanius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  540.1.1 = {
+    birth = "540.1.1"
+  }
+  590.1.1 = {
+    name = "グレゴリウス"  # Gregorius
+    give_nickname = nick_the_great
+  }
+  604.3.15 = {
+    death = "604.3.15"
+  }
+}
+7896 = {
+  name = "ゴルダニウス"  # Gordanius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  579.7.20 = {
+    name = "ペラギウス"  # Pelagius
+  }
+  590.1.1 = {
+    death = "590.1.1"
+  }
+}
+7897 = {
+  name = "ボニファキウス"  # Bonifacius
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  574.7.13 = {
+    name = "ベネディクトゥス"  # Benedictus
+  }
+  579.7.20 = {
+    death = "579.7.20"
+  }
+}
+7898 = {
+  name = "カテリヌス"  # Catelinus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  561.3.4 = {
+    name = "ヨハネス"  # Ioannes
+  }
+  574.7.13 = {
+    death = "574.7.13"
+  }
+}
+7899 = {
+  name = "ベネディクトゥス"  # Benedictus
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  510.1.1 = {
+    birth = "510.1.1"
+  }
+  555.6.7 = {
+    name = "ペラギウス"  # Pelagius
+  }
+  561.3.4 = {
+    death = "561.3.4"
+  }
+}
+7900 = {
+  name = "ヨハネス"  # Johannes
+  religion = "catholic"
+  culture = "roman"
+  trait = "diligent"
+  trait = "patient"
+  trait = "zealous"
+  trait = "charismatic_negotiator"
+  500.1.1 = {
+    birth = "500.1.1"
+  }
+  536.6.8 = {
+    name = "ウィギリウス"  # Vigilius
+  }
+  555.6.7 = {
+    death = "555.6.7"
+  }
+}
 145293 = {
   name = "マクシミアヌス"  # Maximian
   dynasty = 1022233
@@ -2480,6 +2378,108 @@
   }
   312.10.28 = {
     death = "312.10.28"
+  }
+}
+70512 = {
+  name = "ユスティニアヌス"  # Justinian
+  dynasty = 1022186
+  martial = 8
+  diplomacy = 9
+  intrigue = 7
+  stewardship = 9
+  religion = "orthodox"
+  culture = "roman"
+  add_trait = "just"
+  add_trait = "mystic"
+  add_trait = "genius"
+  add_trait = "midas_touched"
+  mother = 70528
+  482.5.11 = {
+    birth = "482.5.11"
+  }
+  565.11.14 = {
+    death = "565.11.14"
+  }
+}
+70513 = {
+  name = "ユスティヌス"  # Justin
+  dynasty = 1022186
+  martial = 7
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "orthodox"
+  culture = "roman"
+  add_trait = "quick"
+  add_trait = "ambitious"
+  add_trait = "tough_soldier"
+  father = 70529
+  452.1.1 = {
+    birth = "452.1.1"
+  }
+  527.8.1 = {
+    death = "527.8.1"
+  }
+}
+70527 = {
+  name = "ウィギランティア"  # Vigilantia
+  dynasty = 1022186
+  female = yes
+  martial = 3
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 6
+  religion = "orthodox"
+  culture = "roman"
+  add_trait = "ambitious"
+  add_trait = "scholar"
+  add_trait = "intricate_webweaver"
+  mother = 70528
+  485.1.1 = {
+    birth = "485.1.1"
+  }
+  570.1.1 = {
+    death = "570.1.1"
+  }
+}
+70528 = {
+  name = "ウィギランティア"  # Vigilantia
+  dynasty = 1022186
+  female = yes
+  martial = 4
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "orthodox"
+  culture = "roman"
+  add_trait = "temperate"
+  add_trait = "honest"
+  add_trait = "naive_appeaser"
+  father = 70529
+  460.1.1 = {
+    birth = "460.1.1"
+  }
+  535.1.1 = {
+    death = "535.1.1"
+  }
+}
+70529 = {
+  name = "ユスティニアヌス"  # Justinian
+  dynasty = 1022186
+  martial = 6
+  diplomacy = 3
+  intrigue = 4
+  stewardship = 3
+  religion = "orthodox"
+  culture = "roman"
+  add_trait = "proud"
+  add_trait = "brave"
+  add_trait = "tough_soldier"
+  430.1.1 = {
+    birth = "430.1.1"
+  }
+  485.1.1 = {
+    death = "485.1.1"
   }
 }
 168799 = {

@@ -11,19 +11,6 @@
     death = yes
   }
 }
-159734 = {
-  name = "ベルモット"  # Burmort
-  dynasty = 1029125
-  religion = "finnish_pagan"
-  culture = "komi"
-  father = 188806
-  841.1.1 = {
-    birth = yes
-  }
-  911.1.1 = {
-    death = yes
-  }
-}
 161725 = {
   name = "ヴァラカ"  # Varaka
   dynasty = 1051137
@@ -87,6 +74,19 @@
   }
   1375.1.1 = {
     death = "1375.1.1"
+  }
+}
+159734 = {
+  name = "ベルモット"  # Burmort
+  dynasty = 1029125
+  religion = "finnish_pagan"
+  culture = "komi"
+  father = 188806
+  841.1.1 = {
+    birth = yes
+  }
+  911.1.1 = {
+    death = yes
   }
 }
 188803 = {

@@ -1,60 +1,4 @@
-﻿28015 = {
-  name = "ミルザス"  # Milzas
-  dynasty = 100370
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 5
-  religion = "baltic_pagan"
-  culture = "prussian"
-  trait = "diligent"
-  trait = "brave"
-  trait = "amateurish_plotter"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-28016 = {
-  name = "ブダ"  # Budo
-  dynasty = 100371
-  martial = 5
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 6
-  religion = "baltic_pagan"
-  culture = "prussian"
-  trait = "honest"
-  trait = "brave"
-  trait = "skilled_tactician"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-28019 = {
-  name = "グランダ"  # Glande
-  dynasty = 100427
-  martial = 6
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 8
-  religion = "baltic_pagan"
-  culture = "prussian"
-  trait = "ill"
-  trait = "flamboyant_schemer"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-144671 = {
+﻿144671 = {
   name = "ミルザス"  # Milzas
   dynasty = 100370
   religion = "baltic_pagan"
@@ -170,69 +114,6 @@
     death = "900.1.1"
   }
 }
-194074 = {
-  name = "ベスプシュン"  # Bezprzym
-  dynasty = 9540
-  religion = baltic_pagan
-  culture = prussian
-  733.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194075 = {
-  name = "プシビスワフ"  # Przybyslaw
-  dynasty = 9540
-  religion = baltic_pagan
-  culture = prussian
-  father = 194074
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194076 = {
-  name = "アルヴィダス"  # Alvydas
-  dynasty = 9541
-  religion = baltic_pagan
-  culture = prussian
-  733.1.1 = {
-    birth = yes
-  }
-  799.1.1 = {
-    death = yes
-  }
-}
-194077 = {
-  name = "ウリティス"  # Ulitis
-  dynasty = 9541
-  religion = baltic_pagan
-  culture = prussian
-  father = 194076
-  770.1.1 = {
-    birth = yes
-  }
-  822.1.1 = {
-    death = yes
-  }
-}
-194078 = {
-  name = "ミルザス"  # Milzas
-  dynasty = 9541
-  religion = slavic_pagan
-  culture = pommeranian
-  father = 194077
-  810.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    death = yes
-  }
-}
 228015 = {
   name = "ミルザス"  # Milzas
   dynasty = 100370
@@ -310,6 +191,125 @@
   }
   1225.1.1 = {
     death = "1225.1.1"
+  }
+}
+28015 = {
+  name = "ミルザス"  # Milzas
+  dynasty = 100370
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 5
+  religion = "baltic_pagan"
+  culture = "prussian"
+  trait = "diligent"
+  trait = "brave"
+  trait = "amateurish_plotter"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+28016 = {
+  name = "ブダ"  # Budo
+  dynasty = 100371
+  martial = 5
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 6
+  religion = "baltic_pagan"
+  culture = "prussian"
+  trait = "honest"
+  trait = "brave"
+  trait = "skilled_tactician"
+  1039.1.1 = {
+    birth = "1039.1.1"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
+  }
+}
+28019 = {
+  name = "グランダ"  # Glande
+  dynasty = 100427
+  martial = 6
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 8
+  religion = "baltic_pagan"
+  culture = "prussian"
+  trait = "ill"
+  trait = "flamboyant_schemer"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+194074 = {
+  name = "ベスプシュン"  # Bezprzym
+  dynasty = 9540
+  religion = baltic_pagan
+  culture = prussian
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194075 = {
+  name = "プシビスワフ"  # Przybyslaw
+  dynasty = 9540
+  religion = baltic_pagan
+  culture = prussian
+  father = 194074
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194076 = {
+  name = "アルヴィダス"  # Alvydas
+  dynasty = 9541
+  religion = baltic_pagan
+  culture = prussian
+  733.1.1 = {
+    birth = yes
+  }
+  799.1.1 = {
+    death = yes
+  }
+}
+194077 = {
+  name = "ウリティス"  # Ulitis
+  dynasty = 9541
+  religion = baltic_pagan
+  culture = prussian
+  father = 194076
+  770.1.1 = {
+    birth = yes
+  }
+  822.1.1 = {
+    death = yes
+  }
+}
+194078 = {
+  name = "ミルザス"  # Milzas
+  dynasty = 9541
+  religion = slavic_pagan
+  culture = pommeranian
+  father = 194077
+  810.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    death = yes
   }
 }
 260766 = {

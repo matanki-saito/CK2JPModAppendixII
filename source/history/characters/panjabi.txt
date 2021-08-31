@@ -1211,6 +1211,19 @@
     death = yes
   }
 }
+188537 = {
+  name = "イスマーイール"  # Ismail
+  dynasty = 1042099
+  religion = "sunni"
+  culture = "panjabi"
+  father = 188528
+  735.1.1 = {
+    birth = yes
+  }
+  790.1.1 = {
+    death = yes
+  }
+}
 188529 = {
   name = "ムハンマド"  # Muhammad
   dynasty = 1042099
@@ -1260,19 +1273,6 @@
     birth = yes
   }
   910.1.1 = {
-    death = yes
-  }
-}
-188537 = {
-  name = "イスマーイール"  # Ismail
-  dynasty = 1042099
-  religion = "sunni"
-  culture = "panjabi"
-  father = 188528
-  735.1.1 = {
-    birth = yes
-  }
-  790.1.1 = {
     death = yes
   }
 }
@@ -1350,6 +1350,20 @@
     birth = yes
   }
   1178.1.1 = {
+    death = yes
+  }
+}
+191017 = {
+  name = "シェール"  # Sher
+  dynasty = 1044305
+  religion = "hindu"
+  culture = "panjabi"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  740.1.1 = {
+    birth = yes
+  }
+  810.1.1 = {
     death = yes
   }
 }
@@ -1435,20 +1449,6 @@
     birth = yes
   }
   803.1.1 = {
-    death = yes
-  }
-}
-191017 = {
-  name = "シェール"  # Sher
-  dynasty = 1044305
-  religion = "hindu"
-  culture = "panjabi"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  740.1.1 = {
-    birth = yes
-  }
-  810.1.1 = {
     death = yes
   }
 }
@@ -1684,6 +1684,21 @@
     death = yes
   }
 }
+191987 = {
+  name = "スンダリ"  # Sundari
+  dynasty = 1044396
+  female = yes
+  religion = "sunni"
+  culture = "panjabi"
+  trait = "kshatriya"
+  father = 191974
+  1052.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = yes
+  }
+}
 191976 = {
   name = "アスィ"  # Asi
   dynasty = 1044396
@@ -1835,21 +1850,6 @@
     birth = yes
   }
   1399.1.1 = {
-    death = yes
-  }
-}
-191987 = {
-  name = "スンダリ"  # Sundari
-  dynasty = 1044396
-  female = yes
-  religion = "sunni"
-  culture = "panjabi"
-  trait = "kshatriya"
-  father = 191974
-  1052.1.1 = {
-    birth = yes
-  }
-  1120.1.1 = {
     death = yes
   }
 }

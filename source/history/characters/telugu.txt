@@ -13,49 +13,6 @@
     death = "892.1.1"
   }
 }
-178009 = {
-  name = "クマラジリ"  # Kumaragiri
-  dynasty = 1041109
-  religion = "hindu"
-  culture = "telugu"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  836.1.1 = {
-    birth = yes
-  }
-  892.1.1 = {
-    death = yes
-  }
-}
-178010 = {
-  name = "ユッダーマーラ"  # Yuddhamalla
-  dynasty = 1041110
-  religion = "hindu"
-  culture = "telugu"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  843.1.1 = {
-    birth = yes
-  }
-  892.1.1 = {
-    death = yes
-  }
-}
-189074 = {
-  name = "ヴィシュヌヴァルダナ"  # Vishnuvardhana
-  dynasty = 1029175
-  religion = "hindu"
-  culture = "telugu"
-  father = 74720
-  trait = kshatriya
-  trait = shaivist_hindu
-  590.1.1 = {
-    birth = "590.1.1"
-  }
-  641.1.1 = {
-    death = "641.1.1"
-  }
-}
 189075 = {
   name = "ジャヤシンハ"  # Jayasimha
   dynasty = 1029175
@@ -536,6 +493,21 @@
     death = "1102.1.1"
   }
 }
+189074 = {
+  name = "ヴィシュヌヴァルダナ"  # Vishnuvardhana
+  dynasty = 1029175
+  religion = "hindu"
+  culture = "telugu"
+  father = 74720
+  trait = kshatriya
+  trait = shaivist_hindu
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  641.1.1 = {
+    death = "641.1.1"
+  }
+}
 189223 = {
   name = "ドゥルジャヤー"  # Durjaya
   dynasty = 1029179
@@ -946,6 +918,34 @@
   }
   1340.1.1 = {
     death = "1340.1.1"
+  }
+}
+178009 = {
+  name = "クマラジリ"  # Kumaragiri
+  dynasty = 1041109
+  religion = "hindu"
+  culture = "telugu"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  836.1.1 = {
+    birth = yes
+  }
+  892.1.1 = {
+    death = yes
+  }
+}
+178010 = {
+  name = "ユッダーマーラ"  # Yuddhamalla
+  dynasty = 1041110
+  religion = "hindu"
+  culture = "telugu"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  843.1.1 = {
+    birth = yes
+  }
+  892.1.1 = {
+    death = yes
   }
 }
 260090 = {

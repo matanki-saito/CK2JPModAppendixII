@@ -228,6 +228,18 @@
     death = yes
   }
 }
+248817 = {
+  name = "カイ"  # Kay
+  dynasty = 1059965
+  religion = "west_african_pagan"
+  culture = "zaghawa"
+  750.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
 248767 = {
   name = "バラム"  # Baram
   dynasty = 1059965
@@ -506,18 +518,6 @@
     birth = yes
   }
   1350.1.1 = {
-    death = yes
-  }
-}
-248817 = {
-  name = "カイ"  # Kay
-  dynasty = 1059965
-  religion = "west_african_pagan"
-  culture = "zaghawa"
-  750.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
     death = yes
   }
 }

@@ -1,139 +1,81 @@
-﻿154000 = {
-  name = "サーマンタ"  # Samanta
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1020.1.1 = {
-    birth = yes
-  }
-  1071.1.1 = {
-    death = yes
-  }
-}
-154001 = {
-  name = "ヘーマンタ"  # Hemanta
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154000
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1050.1.1 = {
-    birth = yes
-  }
-  1097.1.1 = {
-    death = yes
-  }
-}
-154002 = {
-  name = "ヴィジャヤ"  # Vijay
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154001
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1080.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    add_spouse = 154003
-  }
-  1159.1.1 = {
-    death = yes
-  }
-}
-154003 = {
-  name = "ヴィラーシュデーヴィ"  # Vilasdevi
-  dynasty = 1026501
-  female = yes
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191073
-  1082.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-154004 = {
-  name = "ヴァラ"  # Valla
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154002
-  mother = 154003
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1100.1.1 = {
-    birth = yes
-  }
-  1116.1.1 = {
-    add_trait = "poet"
-  }
-  1179.1.1 = {
-    death = yes
-  }
-}
-154005 = {
-  name = "ラクシュマナ"  # Laksmana
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154004
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1130.1.1 = {
-    birth = yes
-  }
-  1206.1.1 = {
-    death = yes
-  }
-}
-154006 = {
-  name = "ヴィシュヌヴァルーパ"  # Visvarupa
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154005
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1160.1.1 = {
-    birth = yes
-  }
-  1225.1.1 = {
-    death = yes
-  }
-}
-154007 = {
-  name = "ケーシャヴァ"  # Kesava
-  dynasty = 1026500
-  religion = "hindu"
-  culture = "bengali"
-  father = 154006
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1190.1.1 = {
-    birth = yes
-  }
-  1230.1.1 = {
-    death = yes
-  }
-}
-178007 = {
-  name = "マヘンドラシンガ"  # Mahendrasingha
-  dynasty = 1041107
+﻿190025 = {
+  name = "ダイタヴィシュヌ"  # Dayitavishnu
+  dynasty = 1043000
   religion = "buddhist"
   culture = "bengali"
-  835.1.1 = {
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  682.1.1 = {
     birth = yes
   }
-  892.1.1 = {
+  727.1.1 = {
+    death = yes
+  }
+}
+190026 = {
+  name = "ヴァピャタ"  # Vapyata
+  dynasty = 1043000
+  religion = "buddhist"
+  culture = "bengali"
+  father = 190025
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  701.1.1 = {
+    birth = yes
+  }
+  748.1.1 = {
+    death = yes
+  }
+}
+190027 = {
+  name = "ゴーパーラ"  # Gopala
+  dynasty = 1043000
+  religion = "buddhist"
+  culture = "bengali"
+  father = 190026
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  734.1.1 = {
+    birth = yes
+    create_bloodline = {
+      type = pala
+      has_dlc = "Holy Fury"
+    }
+  }
+  750.1.1 = {
+    add_spouse = 191301
+  }
+  769.1.1 = {
+    death = yes
+  }
+}
+190028 = {
+  name = "ダルマパーラ"  # Dharmapala
+  dna = pdnpyfnsiad
+  properties = ac0acb000000000000
+  dynasty = 1043000
+  religion = "buddhist"
+  culture = "bengali"
+  father = 190027
+  mother = 191301
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  trait = brave
+  trait = proud
+  trait = ambitious
+  prestige = 2000
+  piety = 1000
+  wealth = 400
+  753.1.1 = {
+    birth = yes
+  }
+  769.1.1 = {
+    add_trait = brilliant_strategist
+  }
+  775.1.1 = {
+    add_spouse = 191302
+  }
+  810.1.1 = {
     death = yes
   }
 }
@@ -460,84 +402,118 @@
     death = yes
   }
 }
-190025 = {
-  name = "ダイタヴィシュヌ"  # Dayitavishnu
-  dynasty = 1043000
-  religion = "buddhist"
+190050 = {
+  name = "ルドーカ"  # Rudoka
+  dynasty = 1044001
+  religion = "hindu"
   culture = "bengali"
   trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  682.1.1 = {
+  trait = "shaivist_hindu"
+  1009.1.1 = {
     birth = yes
   }
-  727.1.1 = {
+  1060.1.1 = {
     death = yes
   }
 }
-190026 = {
-  name = "ヴァピャタ"  # Vapyata
-  dynasty = 1043000
-  religion = "buddhist"
+190051 = {
+  name = "ディヴャ"  # Divya
+  dynasty = 1044001
+  religion = "hindu"
   culture = "bengali"
-  father = 190025
+  father = 190050
   trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  701.1.1 = {
+  trait = "shaivist_hindu"
+  1031.1.1 = {
     birth = yes
   }
-  748.1.1 = {
+  1076.1.1 = {
     death = yes
   }
 }
-190027 = {
-  name = "ゴーパーラ"  # Gopala
-  dynasty = 1043000
-  religion = "buddhist"
+190052 = {
+  name = "ルドーカ"  # Rudoka
+  dynasty = 1044001
+  religion = "hindu"
   culture = "bengali"
-  father = 190026
+  father = 190050
   trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  734.1.1 = {
+  trait = "shaivist_hindu"
+  1034.1.1 = {
     birth = yes
-    create_bloodline = {
-      type = pala
-      has_dlc = "Holy Fury"
-    }
   }
-  750.1.1 = {
-    add_spouse = 191301
-  }
-  769.1.1 = {
+  1078.1.1 = {
     death = yes
   }
 }
-190028 = {
-  name = "ダルマパーラ"  # Dharmapala
-  dna = pdnpyfnsiad
-  properties = ac0acb000000000000
-  dynasty = 1043000
-  religion = "buddhist"
+190053 = {
+  name = "ビーマ"  # Bhima
+  dynasty = 1044001
+  religion = "hindu"
   culture = "bengali"
-  father = 190027
-  mother = 191301
+  father = 190052
   trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  trait = brave
-  trait = proud
-  trait = ambitious
-  prestige = 2000
-  piety = 1000
-  wealth = 400
-  753.1.1 = {
+  trait = "shaivist_hindu"
+  1056.1.1 = {
     birth = yes
   }
-  769.1.1 = {
-    add_trait = brilliant_strategist
+  1115.1.1 = {
+    death = yes
   }
-  775.1.1 = {
-    add_spouse = 191302
+}
+190035 = {
+  name = "クラ・デーヴィ"  # Kula Devi
+  female = yes
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  886.1.1 = {
+    birth = yes
   }
-  810.1.1 = {
+  924.1.1 = {
+    death = yes
+  }
+}
+190036 = {
+  name = "ドゥルラバー"  # Durlabha
+  female = yes
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  902.1.1 = {
+    birth = yes
+  }
+  963.1.1 = {
+    death = yes
+  }
+}
+190037 = {
+  name = "ラジャ・デーヴィ"  # Rajya Devi
+  female = yes
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  948.1.1 = {
+    birth = yes
+  }
+  989.1.1 = {
+    death = yes
+  }
+}
+190038 = {
+  name = "ナヤナ"  # Nayana
+  female = yes
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  974.1.1 = {
+    birth = yes
+  }
+  1029.1.1 = {
     death = yes
   }
 }
@@ -628,136 +604,6 @@
     birth = yes
   }
   1228.1.1 = {
-    death = yes
-  }
-}
-190035 = {
-  name = "クラ・デーヴィ"  # Kula Devi
-  female = yes
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  886.1.1 = {
-    birth = yes
-  }
-  924.1.1 = {
-    death = yes
-  }
-}
-190036 = {
-  name = "ドゥルラバー"  # Durlabha
-  female = yes
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  902.1.1 = {
-    birth = yes
-  }
-  963.1.1 = {
-    death = yes
-  }
-}
-190037 = {
-  name = "ラジャ・デーヴィ"  # Rajya Devi
-  female = yes
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  948.1.1 = {
-    birth = yes
-  }
-  989.1.1 = {
-    death = yes
-  }
-}
-190038 = {
-  name = "ナヤナ"  # Nayana
-  female = yes
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  974.1.1 = {
-    birth = yes
-  }
-  1029.1.1 = {
-    death = yes
-  }
-}
-190049 = {
-  name = "サーマラヴァルマン"  # Samalavarman
-  dynasty = 1044007
-  religion = "hindu"
-  culture = "bengali"
-  father = 190074
-  trait = "kshatriya"
-  trait = "smartist_hindu"
-  1053.1.1 = {
-    birth = yes
-  }
-  1124.1.1 = {
-    death = yes
-  }
-}
-190050 = {
-  name = "ルドーカ"  # Rudoka
-  dynasty = 1044001
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1009.1.1 = {
-    birth = yes
-  }
-  1060.1.1 = {
-    death = yes
-  }
-}
-190051 = {
-  name = "ディヴャ"  # Divya
-  dynasty = 1044001
-  religion = "hindu"
-  culture = "bengali"
-  father = 190050
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1031.1.1 = {
-    birth = yes
-  }
-  1076.1.1 = {
-    death = yes
-  }
-}
-190052 = {
-  name = "ルドーカ"  # Rudoka
-  dynasty = 1044001
-  religion = "hindu"
-  culture = "bengali"
-  father = 190050
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1034.1.1 = {
-    birth = yes
-  }
-  1078.1.1 = {
-    death = yes
-  }
-}
-190053 = {
-  name = "ビーマ"  # Bhima
-  dynasty = 1044001
-  religion = "hindu"
-  culture = "bengali"
-  father = 190052
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1056.1.1 = {
-    birth = yes
-  }
-  1115.1.1 = {
     death = yes
   }
 }
@@ -876,6 +722,21 @@
     birth = yes
   }
   1097.1.1 = {
+    death = yes
+  }
+}
+190049 = {
+  name = "サーマラヴァルマン"  # Samalavarman
+  dynasty = 1044007
+  religion = "hindu"
+  culture = "bengali"
+  father = 190074
+  trait = "kshatriya"
+  trait = "smartist_hindu"
+  1053.1.1 = {
+    birth = yes
+  }
+  1124.1.1 = {
     death = yes
   }
 }
@@ -1028,6 +889,148 @@
     birth = yes
   }
   1090.1.1 = {
+    death = yes
+  }
+}
+154000 = {
+  name = "サーマンタ"  # Samanta
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1020.1.1 = {
+    birth = yes
+  }
+  1071.1.1 = {
+    death = yes
+  }
+}
+154001 = {
+  name = "ヘーマンタ"  # Hemanta
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154000
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1050.1.1 = {
+    birth = yes
+  }
+  1097.1.1 = {
+    death = yes
+  }
+}
+154002 = {
+  name = "ヴィジャヤ"  # Vijay
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154001
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1080.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    add_spouse = 154003
+  }
+  1159.1.1 = {
+    death = yes
+  }
+}
+154003 = {
+  name = "ヴィラーシュデーヴィ"  # Vilasdevi
+  dynasty = 1026501
+  female = yes
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191073
+  1082.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+191545 = {
+  name = "マドフセナ"  # Madhusena
+  dynasty = 1026500
+  religion = "buddhist"
+  culture = "bengali"
+  father = 154007
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  1210.1.1 = {
+    birth = yes
+  }
+  1285.1.1 = {
+    death = yes
+  }
+}
+154004 = {
+  name = "ヴァラ"  # Valla
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154002
+  mother = 154003
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1100.1.1 = {
+    birth = yes
+  }
+  1116.1.1 = {
+    add_trait = "poet"
+  }
+  1179.1.1 = {
+    death = yes
+  }
+}
+154005 = {
+  name = "ラクシュマナ"  # Laksmana
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154004
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1130.1.1 = {
+    birth = yes
+  }
+  1206.1.1 = {
+    death = yes
+  }
+}
+154006 = {
+  name = "ヴィシュヌヴァルーパ"  # Visvarupa
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154005
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1160.1.1 = {
+    birth = yes
+  }
+  1225.1.1 = {
+    death = yes
+  }
+}
+154007 = {
+  name = "ケーシャヴァ"  # Kesava
+  dynasty = 1026500
+  religion = "hindu"
+  culture = "bengali"
+  father = 154006
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1190.1.1 = {
+    birth = yes
+  }
+  1230.1.1 = {
     death = yes
   }
 }
@@ -1319,6 +1322,18 @@
     death = yes
   }
 }
+178007 = {
+  name = "マヘンドラシンガ"  # Mahendrasingha
+  dynasty = 1041107
+  religion = "buddhist"
+  culture = "bengali"
+  835.1.1 = {
+    birth = yes
+  }
+  892.1.1 = {
+    death = yes
+  }
+}
 191062 = {
   name = "ナンヤデーヴァ"  # Nanyadeva
   dynasty = 1044311
@@ -1408,6 +1423,22 @@
     death = yes
   }
 }
+191403 = {
+  name = "シャンカラデヴィ"  # Sankaradevi
+  dynasty = 1044310
+  female = yes
+  father = 191067
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  1045.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
 191068 = {
   name = "カヌラデーヴァ"  # Kahnuradeva
   dynasty = 1044310
@@ -1467,6 +1498,23 @@
     add_spouse = 191403
   }
   1079.1.1 = {
+    death = yes
+  }
+}
+191404 = {
+  name = "クマラデヴィ"  # Kumaradevi
+  female = yes
+  dynasty = 1044312
+  religion = "buddhist"
+  culture = "bengali"
+  father = 191071
+  mother = 191403
+  trait = "kshatriya"
+  trait = "mahayana_buddhist"
+  1071.1.1 = {
+    birth = yes
+  }
+  1160.1.1 = {
     death = yes
   }
 }
@@ -1566,6 +1614,140 @@
     birth = yes
   }
   1120.1.1 = {
+    death = yes
+  }
+}
+191421 = {
+  name = "パスナ"  # Pasna
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  730.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+191422 = {
+  name = "クラマディトヤ"  # Kramaditya
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191421
+  750.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+191423 = {
+  name = "スガナ"  # Sugana
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191422
+  780.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+191424 = {
+  name = "コムタ"  # Komta
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191423
+  810.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+191425 = {
+  name = "パスナ"  # Pasna
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191424
+  860.1.1 = {
+    birth = yes
+  }
+  940.1.1 = {
+    death = yes
+  }
+}
+191426 = {
+  name = "スガナ"  # Sugana
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191425
+  900.1.1 = {
+    birth = yes
+  }
+  980.1.1 = {
+    death = yes
+  }
+}
+191427 = {
+  name = "スリヤディトヤ"  # Suryaditya
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191426
+  950.1.1 = {
+    birth = yes
+  }
+  1010.1.1 = {
+    death = yes
+  }
+}
+191428 = {
+  name = "ヴィクラマーディティヤ"  # Vikramaditya
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191427
+  970.1.1 = {
+    birth = yes
+  }
+  1040.1.1 = {
+    death = yes
+  }
+}
+191429 = {
+  name = "クラマディトヤ"  # Kramaditya
+  dynasty = 1044320
+  religion = "hindu"
+  culture = "bengali"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191428
+  1000.1.1 = {
+    birth = yes
+  }
+  1063.1.1 = {
     death = yes
   }
 }
@@ -1866,6 +2048,21 @@
     birth = yes
   }
   727.1.1 = {
+    death = yes
+  }
+}
+191303 = {
+  name = "ラマグプタ"  # Ramagupta
+  dynasty = 1044321
+  religion = "hindu"
+  culture = "bengali"
+  father = 191099
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  720.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
     death = yes
   }
 }
@@ -2823,6 +3020,125 @@
     death = yes
   }
 }
+191510 = {
+  name = "パンディタ"  # Pandita
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  700.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+191511 = {
+  name = "ラナカ"  # Ranaka
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191510
+  760.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+191512 = {
+  name = "マンダリカ"  # Mandalika
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191511
+  780.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    death = yes
+  }
+}
+191513 = {
+  name = "サダニカ"  # Sadhanika
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191512
+  800.1.1 = {
+    birth = yes
+  }
+  890.1.1 = {
+    death = yes
+  }
+}
+191514 = {
+  name = "パンディタ"  # Pandita
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191513
+  840.1.1 = {
+    birth = yes
+  }
+  930.1.1 = {
+    death = yes
+  }
+}
+191515 = {
+  name = "ラナカ"  # Ranaka
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191514
+  880.1.1 = {
+    birth = yes
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+191516 = {
+  name = "サダニカ"  # Sadhanika
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191515
+  940.1.1 = {
+    birth = yes
+  }
+  1000.1.1 = {
+    death = yes
+  }
+}
+191517 = {
+  name = "マンダリカ"  # Mandalika
+  dynasty = 1044331
+  religion = "buddhist"
+  culture = "bengali"
+  trait = "brahmin"
+  trait = "mahayana_buddhist"
+  father = 191516
+  960.1.1 = {
+    birth = yes
+  }
+  1040.1.1 = {
+    death = yes
+  }
+}
 191164 = {
   name = "サダニカ"  # Sadhanika
   dynasty = 1044331
@@ -2906,21 +3222,6 @@
   trait = "kshatriya"
   trait = "mahayana_buddhist"
   730.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-191303 = {
-  name = "ラマグプタ"  # Ramagupta
-  dynasty = 1044321
-  religion = "hindu"
-  culture = "bengali"
-  father = 191099
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  720.1.1 = {
     birth = yes
   }
   800.1.1 = {
@@ -3072,39 +3373,6 @@
     birth = yes
   }
   1230.1.1 = {
-    death = yes
-  }
-}
-191403 = {
-  name = "シャンカラデヴィ"  # Sankaradevi
-  dynasty = 1044310
-  female = yes
-  father = 191067
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  1045.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-191404 = {
-  name = "クマラデヴィ"  # Kumaradevi
-  female = yes
-  dynasty = 1044312
-  religion = "buddhist"
-  culture = "bengali"
-  father = 191071
-  mother = 191403
-  trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  1071.1.1 = {
-    birth = yes
-  }
-  1160.1.1 = {
     death = yes
   }
 }
@@ -3329,259 +3597,6 @@
     birth = yes
   }
   1340.1.1 = {
-    death = yes
-  }
-}
-191421 = {
-  name = "パスナ"  # Pasna
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  730.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-191422 = {
-  name = "クラマディトヤ"  # Kramaditya
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191421
-  750.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-191423 = {
-  name = "スガナ"  # Sugana
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191422
-  780.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-191424 = {
-  name = "コムタ"  # Komta
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191423
-  810.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-191425 = {
-  name = "パスナ"  # Pasna
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191424
-  860.1.1 = {
-    birth = yes
-  }
-  940.1.1 = {
-    death = yes
-  }
-}
-191426 = {
-  name = "スガナ"  # Sugana
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191425
-  900.1.1 = {
-    birth = yes
-  }
-  980.1.1 = {
-    death = yes
-  }
-}
-191427 = {
-  name = "スリヤディトヤ"  # Suryaditya
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191426
-  950.1.1 = {
-    birth = yes
-  }
-  1010.1.1 = {
-    death = yes
-  }
-}
-191428 = {
-  name = "ヴィクラマーディティヤ"  # Vikramaditya
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191427
-  970.1.1 = {
-    birth = yes
-  }
-  1040.1.1 = {
-    death = yes
-  }
-}
-191429 = {
-  name = "クラマディトヤ"  # Kramaditya
-  dynasty = 1044320
-  religion = "hindu"
-  culture = "bengali"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191428
-  1000.1.1 = {
-    birth = yes
-  }
-  1063.1.1 = {
-    death = yes
-  }
-}
-191510 = {
-  name = "パンディタ"  # Pandita
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  700.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-191511 = {
-  name = "ラナカ"  # Ranaka
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191510
-  760.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-191512 = {
-  name = "マンダリカ"  # Mandalika
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191511
-  780.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    death = yes
-  }
-}
-191513 = {
-  name = "サダニカ"  # Sadhanika
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191512
-  800.1.1 = {
-    birth = yes
-  }
-  890.1.1 = {
-    death = yes
-  }
-}
-191514 = {
-  name = "パンディタ"  # Pandita
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191513
-  840.1.1 = {
-    birth = yes
-  }
-  930.1.1 = {
-    death = yes
-  }
-}
-191515 = {
-  name = "ラナカ"  # Ranaka
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191514
-  880.1.1 = {
-    birth = yes
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-191516 = {
-  name = "サダニカ"  # Sadhanika
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191515
-  940.1.1 = {
-    birth = yes
-  }
-  1000.1.1 = {
-    death = yes
-  }
-}
-191517 = {
-  name = "マンダリカ"  # Mandalika
-  dynasty = 1044331
-  religion = "buddhist"
-  culture = "bengali"
-  trait = "brahmin"
-  trait = "mahayana_buddhist"
-  father = 191516
-  960.1.1 = {
-    birth = yes
-  }
-  1040.1.1 = {
     death = yes
   }
 }
@@ -3926,21 +3941,6 @@
     birth = yes
   }
   1340.1.1 = {
-    death = yes
-  }
-}
-191545 = {
-  name = "マドフセナ"  # Madhusena
-  dynasty = 1026500
-  religion = "buddhist"
-  culture = "bengali"
-  father = 154007
-  trait = "kshatriya"
-  trait = "mahayana_buddhist"
-  1210.1.1 = {
-    birth = yes
-  }
-  1285.1.1 = {
     death = yes
   }
 }

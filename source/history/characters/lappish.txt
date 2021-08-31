@@ -1,60 +1,4 @@
-﻿20617 = {
-  name = "ニョーラ"  # Njuolla
-  dynasty = 100279
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = "finnish_pagan"
-  culture = "lappish"
-  trait = "skilled_tactician"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-28009 = {
-  name = "ヴァイビ"  # Baeivi
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 170150
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-143128 = {
-  name = "ヴァイビ"  # Baeivi
-  dynasty = 100386
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 228001
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1290.1.1 = {
-    death = "1290.1.1"
-  }
-}
-143131 = {
-  name = "ニョーラ"  # Njuolla
-  dynasty = 100386
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 143128
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1337.1.1 = {
-    death = "1337.1.1"
-  }
-}
-144625 = {
+﻿144625 = {
   name = "オルドット"  # Orddot
   dynasty = 100387
   religion = "finnish_pagan"
@@ -104,6 +48,125 @@
   }
   1320.1.1 = {
     death = "1320.1.1"
+  }
+}
+20617 = {
+  name = "ニョーラ"  # Njuolla
+  dynasty = 100279
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = "finnish_pagan"
+  culture = "lappish"
+  trait = "skilled_tactician"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+228000 = {
+  name = "ニョーラ"  # Njuolla
+  dynasty = 100279
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 6
+  religion = "finnish_pagan"
+  culture = "lappish"
+  trait = "diligent"
+  trait = "flamboyant_schemer"
+  father = 144644
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1220.1.1 = {
+    death = "1220.1.1"
+  }
+}
+228009 = {
+  name = "ヴァイビ"  # Baeivi
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 144625
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1227.1.1 = {
+    death = "1227.1.1"
+  }
+}
+28009 = {
+  name = "ヴァイビ"  # Baeivi
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 170150
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+486000 = {
+  name = "ヴァイビ"  # Bæivi
+  dynasty = 100279
+  martial = 6
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "finnish_pagan"
+  culture = "lappish"
+  trait = "lustful"
+  trait = "underhanded_rogue"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+486010 = {
+  name = "スンナ"  # Sunna
+  dynasty = 100386
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 143131
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+143128 = {
+  name = "ヴァイビ"  # Baeivi
+  dynasty = 100386
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 228001
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1290.1.1 = {
+    death = "1290.1.1"
+  }
+}
+143131 = {
+  name = "ニョーラ"  # Njuolla
+  dynasty = 100386
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 143128
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1337.1.1 = {
+    death = "1337.1.1"
   }
 }
 167725 = {
@@ -237,70 +300,6 @@
     death = "1066.1.1"
   }
 }
-170333 = {
-  name = "ヴァイビ"  # Baeivi
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  730.1.1 = {
-    birth = yes
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-170334 = {
-  name = "モハコ"  # Mohkku
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 170333
-  750.1.1 = {
-    birth = yes
-  }
-  803.1.1 = {
-    death = yes
-  }
-}
-170335 = {
-  name = "オルドット"  # Orddot
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 170334
-  776.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-170336 = {
-  name = "イェンサ"  # Jeansa
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 170335
-  789.1.1 = {
-    birth = yes
-  }
-  836.1.1 = {
-    death = yes
-  }
-}
-170337 = {
-  name = "モハコ"  # Mohkku
-  dynasty = 100387
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 170336
-  804.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    death = yes
-  }
-}
 186001 = {
   name = "アンモット"  # Ámmot
   dynasty = 837
@@ -373,36 +372,68 @@
     death = yes
   }
 }
-228000 = {
-  name = "ニョーラ"  # Njuolla
-  dynasty = 100279
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 6
-  religion = "finnish_pagan"
-  culture = "lappish"
-  trait = "diligent"
-  trait = "flamboyant_schemer"
-  father = 144644
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1220.1.1 = {
-    death = "1220.1.1"
-  }
-}
-228009 = {
+170333 = {
   name = "ヴァイビ"  # Baeivi
   dynasty = 100387
   religion = "finnish_pagan"
   culture = "lappish"
-  father = 144625
-  1150.1.1 = {
-    birth = "1150.1.1"
+  730.1.1 = {
+    birth = yes
   }
-  1227.1.1 = {
-    death = "1227.1.1"
+  776.1.1 = {
+    death = yes
+  }
+}
+170334 = {
+  name = "モハコ"  # Mohkku
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 170333
+  750.1.1 = {
+    birth = yes
+  }
+  803.1.1 = {
+    death = yes
+  }
+}
+170335 = {
+  name = "オルドット"  # Orddot
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 170334
+  776.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+170336 = {
+  name = "イェンサ"  # Jeansa
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 170335
+  789.1.1 = {
+    birth = yes
+  }
+  836.1.1 = {
+    death = yes
+  }
+}
+170337 = {
+  name = "モハコ"  # Mohkku
+  dynasty = 100387
+  religion = "finnish_pagan"
+  culture = "lappish"
+  father = 170336
+  804.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    death = yes
   }
 }
 260549 = {
@@ -439,36 +470,5 @@
   }
   967.1.1 = {
     death = yes
-  }
-}
-486000 = {
-  name = "ヴァイビ"  # Bæivi
-  dynasty = 100279
-  martial = 6
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 4
-  religion = "finnish_pagan"
-  culture = "lappish"
-  trait = "lustful"
-  trait = "underhanded_rogue"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-486010 = {
-  name = "スンナ"  # Sunna
-  dynasty = 100386
-  religion = "finnish_pagan"
-  culture = "lappish"
-  father = 143131
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
   }
 }

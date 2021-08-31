@@ -987,6 +987,76 @@
     death = "1130.4.23"
   }
 }
+131601 = {
+  name = "エゼルウィネ"  # Æthelwine
+  dynasty = 100056
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "humble"
+  trait = "scholarly_theologian"
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1072.1.1 = {
+    death = "1072.1.1"
+  }
+}
+41002 = {
+  name = "ハロルド"  # Harold
+  dynasty = 756
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "saxon"
+  trait = "twin"
+  father = 122
+  mother = 123
+  1066.11.8 = {
+    birth = "1066.11.8"
+    employer = 102532
+  }
+  1069.4.28 = {
+    employer = 102534
+  }
+  1093.1.1 = {
+    employer = 102577
+  }
+  1094.6.6 = {
+    employer = 202511
+  }
+  1112.4.16 = {
+    death = "1112.4.16"
+  }
+}
+41003 = {
+  name = "ウルフ"  # Ulf
+  dynasty = 756
+  martial = 4
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "saxon"
+  trait = "twin"
+  father = 122
+  mother = 123
+  1066.11.8 = {
+    birth = "1066.11.8"
+    employer = 140
+  }
+  1087.9.9 = {
+    employer = 142
+  }
+  1103.6.3 = {
+    death = "1103.6.3"
+  }
+}
 511 = {
   name = "Elgiva"
   female = yes
@@ -1137,38 +1207,6 @@
     death = "1078.1.1"
   }
 }
-6861 = {
-  name = "ブリャヤ"  # Blæja
-  female = yes
-  dynasty = 814
-  religion = "catholic"
-  culture = saxon
-  father = 163103
-  mother = 6890
-  841.1.1 = {
-    birth = yes
-  }
-  893.1.1 = {
-    death = yes
-  }
-}
-6875 = {
-  name = "エルヴガル"  # Ælfgar
-  dynasty = 814
-  religion = "catholic"
-  culture = saxon
-  father = 163103
-  mother = 6890
-  843.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    add_spouse = 6891
-  }
-  867.3.21 = {
-    death = yes
-  }
-}
 6890 = {
   name = "エジウュン"  # Ecgwyn
   female = yes
@@ -1270,231 +1308,6 @@
   }
   929.6.7 = {
     death = "929.6.7"
-  }
-}
-32703 = {
-  name = "エドムンド"  # Edmund
-  religion = "catholic"
-  culture = "saxon"
-  trait = "martial_cleric"
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1100.1.1 = {
-    culture = "english"
-  }
-  1125.1.1 = {
-    death = "1125.1.1"
-  }
-}
-33350 = {
-  name = "エゼルスタン"  # Æthelstan
-  dna = dwuqrcylhrw
-  prp = amq00b00000000000000000000000000000000
-  disallow_random_traits = yes
-  diplomacy = 9
-  martial = 8
-  intrigue = 5
-  stewardship = 6
-  learning = 5
-  trait = scholarly_theologian
-  trait = erudite
-  trait = ambitious
-  trait = chaste
-  trait = diligent
-  trait = proud
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 100
-  893.1.1 = {
-    birth = "893.1.1"
-  }
-  927.1.1 = {
-    create_bloodline = {
-      type = athelstan
-      has_dlc = "Holy Fury"
-    }
-  }
-  936.1.1 = {
-    capital = c_winchester
-  }
-  937.1.1 = {
-    capital = c_winchester
-  }
-  939.10.27 = {
-    death = "939.10.27"
-  }
-}
-33351 = {
-  name = "エアドレド"  # Eadred
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 100
-  923.1.1 = {
-    birth = "923.1.1"
-  }
-  955.11.23 = {
-    death = "955.11.23"
-  }
-}
-33352 = {
-  name = "エアドウィ"  # Eadwig
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 102
-  941.1.1 = {
-    birth = "941.1.1"
-  }
-  959.1.1 = {
-    give_nickname = nick_the_fair
-  }
-  959.10.1 = {
-    death = "959.10.1"
-  }
-}
-33354 = {
-  name = "エッジベルフト"  # Ecgberht
-  dynasty = 1047006
-  religion = "catholic"
-  culture = "saxon"
-  father = 205189
-  769.1.1 = {
-    birth = "769.1.1"
-  }
-  839.1.1 = {
-    death = "839.1.1"
-    dynasty = 100072
-  }
-}
-33355 = {
-  name = "エゼルウルフ"  # Æthelwulf
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 33354
-  795.1.1 = {
-    birth = yes
-  }
-  830.1.1 = {
-    add_spouse = 252210
-  }
-  858.1.13 = {
-    death = yes
-  }
-}
-33356 = {
-  name = "エゼルバルド"  # Æthelbald
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 33355
-  mother = 252210
-  834.1.1 = {
-    birth = yes
-  }
-  860.12.20 = {
-    death = yes
-  }
-}
-33357 = {
-  name = "エゼルベルト"  # Æthelbert
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 33355
-  mother = 252210
-  836.1.1 = {
-    birth = "836.1.1"
-  }
-  865.9.1 = {
-    death = "865.9.1"
-  }
-}
-33358 = {
-  name = "エゼルレド"  # Æthelred
-  dynasty = 100072
-  religion = "catholic"
-  culture = "saxon"
-  father = 33355
-  mother = 252210
-  840.1.1 = {
-    birth = "840.1.1"
-  }
-  871.1.1 = {
-    death = "871.1.1"
-  }
-}
-40420 = {
-  name = "ハロルド"  # Harold
-  dynasty = 380
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 3
-  religion = "catholic"
-  culture = "saxon"
-  father = 40418
-  mother = 161274
-  1052.1.1 = {
-    birth = "1052.1.1"
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-41002 = {
-  name = "ハロルド"  # Harold
-  dynasty = 756
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "saxon"
-  trait = "twin"
-  father = 122
-  mother = 123
-  1066.11.8 = {
-    birth = "1066.11.8"
-    employer = 102532
-  }
-  1069.4.28 = {
-    employer = 102534
-  }
-  1093.1.1 = {
-    employer = 102577
-  }
-  1094.6.6 = {
-    employer = 202511
-  }
-  1112.4.16 = {
-    death = "1112.4.16"
-  }
-}
-41003 = {
-  name = "ウルフ"  # Ulf
-  dynasty = 756
-  martial = 4
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "saxon"
-  trait = "twin"
-  father = 122
-  mother = 123
-  1066.11.8 = {
-    birth = "1066.11.8"
-    employer = 140
-  }
-  1087.9.9 = {
-    employer = 142
-  }
-  1103.6.3 = {
-    death = "1103.6.3"
   }
 }
 82001 = {
@@ -1681,6 +1494,146 @@
     death = "956.1.2"
   }
 }
+33350 = {
+  name = "エゼルスタン"  # Æthelstan
+  dna = dwuqrcylhrw
+  prp = amq00b00000000000000000000000000000000
+  disallow_random_traits = yes
+  diplomacy = 9
+  martial = 8
+  intrigue = 5
+  stewardship = 6
+  learning = 5
+  trait = scholarly_theologian
+  trait = erudite
+  trait = ambitious
+  trait = chaste
+  trait = diligent
+  trait = proud
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 100
+  893.1.1 = {
+    birth = "893.1.1"
+  }
+  927.1.1 = {
+    create_bloodline = {
+      type = athelstan
+      has_dlc = "Holy Fury"
+    }
+  }
+  936.1.1 = {
+    capital = c_winchester
+  }
+  937.1.1 = {
+    capital = c_winchester
+  }
+  939.10.27 = {
+    death = "939.10.27"
+  }
+}
+33351 = {
+  name = "エアドレド"  # Eadred
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 100
+  923.1.1 = {
+    birth = "923.1.1"
+  }
+  955.11.23 = {
+    death = "955.11.23"
+  }
+}
+33352 = {
+  name = "エアドウィ"  # Eadwig
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 102
+  941.1.1 = {
+    birth = "941.1.1"
+  }
+  959.1.1 = {
+    give_nickname = nick_the_fair
+  }
+  959.10.1 = {
+    death = "959.10.1"
+  }
+}
+33354 = {
+  name = "エッジベルフト"  # Ecgberht
+  dynasty = 1047006
+  religion = "catholic"
+  culture = "saxon"
+  father = 205189
+  769.1.1 = {
+    birth = "769.1.1"
+  }
+  839.1.1 = {
+    death = "839.1.1"
+    dynasty = 100072
+  }
+}
+33355 = {
+  name = "エゼルウルフ"  # Æthelwulf
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33354
+  795.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    add_spouse = 252210
+  }
+  858.1.13 = {
+    death = yes
+  }
+}
+33356 = {
+  name = "エゼルバルド"  # Æthelbald
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  834.1.1 = {
+    birth = yes
+  }
+  860.12.20 = {
+    death = yes
+  }
+}
+33357 = {
+  name = "エゼルベルト"  # Æthelbert
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  836.1.1 = {
+    birth = "836.1.1"
+  }
+  865.9.1 = {
+    death = "865.9.1"
+  }
+}
+33358 = {
+  name = "エゼルレド"  # Æthelred
+  dynasty = 100072
+  religion = "catholic"
+  culture = "saxon"
+  father = 33355
+  mother = 252210
+  840.1.1 = {
+    birth = "840.1.1"
+  }
+  871.1.1 = {
+    death = "871.1.1"
+  }
+}
 129058 = {
   name = "サムゾン"  # Samson
   religion = "catholic"
@@ -1691,6 +1644,19 @@
   }
   1112.5.5 = {
     death = "1112.5.5"
+  }
+}
+151014 = {
+  name = "アルノルド"  # Arnold
+  religion = "catholic"
+  culture = "saxon"
+  trait = "trusting"
+  trait = "detached_priest"
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1124.5.24 = {
+    death = "1124.5.24"
   }
 }
 129059 = {
@@ -1708,74 +1674,19 @@
     death = "1123.10.20"
   }
 }
-131601 = {
-  name = "エゼルウィネ"  # Æthelwine
-  dynasty = 100056
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
+32703 = {
+  name = "エドムンド"  # Edmund
   religion = "catholic"
   culture = "saxon"
-  trait = "humble"
-  trait = "scholarly_theologian"
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1072.1.1 = {
-    death = "1072.1.1"
-  }
-}
-151014 = {
-  name = "アルノルド"  # Arnold
-  religion = "catholic"
-  culture = "saxon"
-  trait = "trusting"
-  trait = "detached_priest"
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1124.5.24 = {
-    death = "1124.5.24"
-  }
-}
-159465 = {
-  name = "エルヴリャド"  # Ælfræd
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 100031
-  father = 159464
-  970.1.1 = {
-    birth = "970.1.1"
-  }
-  1020.1.1 = {
-    death = "1020.1.1"
-  }
-}
-159470 = {
-  name = "ゴドウィネ"  # Godwine
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 100031
-  father = 159465
-  1014.1.1 = {
-    birth = "1014.1.1"
-  }
-  1070.1.1 = {
-    death = "1070.1.1"
-  }
-}
-159471 = {
-  name = "ヘレベルフト"  # Hereberht
-  religion = "catholic"
-  culture = "saxon"
-  dynasty = 100031
-  father = 159470
-  1050.1.1 = {
-    birth = "1050.1.1"
+  trait = "martial_cleric"
+  1060.1.1 = {
+    birth = "1060.1.1"
   }
   1100.1.1 = {
-    death = "1100.1.1"
+    culture = "english"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
   }
 }
 161260 = {
@@ -2077,6 +1988,24 @@
     death = "1070.1.1"
   }
 }
+40420 = {
+  name = "ハロルド"  # Harold
+  dynasty = 380
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 3
+  religion = "catholic"
+  culture = "saxon"
+  father = 40418
+  mother = 161274
+  1052.1.1 = {
+    birth = "1052.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
 161451 = {
   name = "アデリザ"  # Adelisa
   female = yes
@@ -2090,6 +2019,57 @@
   }
   1128.1.1 = {
     death = "1128.1.1"
+  }
+}
+167002 = {
+  name = "ハコン"  # Hacon
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  trait = "legit_bastard"
+  father = 128
+  1047.1.1 = {
+    birth = "1047.1.1"
+  }
+  1066.1.1 = {
+    add_claim = d_lancaster
+  }
+  1091.1.1 = {
+    death = "1091.1.1"
+  }
+}
+167003 = {
+  name = "エルヴガル"  # Ælfgar
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  trait = "chaste"
+  trait = "detached_priest"
+  father = 120
+  mother = 101534
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1066.1.5 = {
+    employer = 91173
+  }
+  1078.1.1 = {
+    death = "1078.1.1"
+  }
+}
+167004 = {
+  name = "エルヴイヴ"  # Ælfgifu
+  female = yes
+  dynasty = 756
+  religion = "catholic"
+  culture = "saxon"
+  father = 120
+  mother = 101534
+  1043.1.1 = {
+    birth = "1043.1.1"
+  }
+  1065.11.1 = {
+    death = "1065.11.1"
   }
 }
 163064 = {
@@ -2159,6 +2139,38 @@
     death = yes
   }
 }
+6861 = {
+  name = "ブリャヤ"  # Blæja
+  female = yes
+  dynasty = 814
+  religion = "catholic"
+  culture = saxon
+  father = 163103
+  mother = 6890
+  841.1.1 = {
+    birth = yes
+  }
+  893.1.1 = {
+    death = yes
+  }
+}
+6875 = {
+  name = "エルヴガル"  # Ælfgar
+  dynasty = 814
+  religion = "catholic"
+  culture = saxon
+  father = 163103
+  mother = 6890
+  843.1.1 = {
+    birth = yes
+  }
+  866.1.1 = {
+    add_spouse = 6891
+  }
+  867.3.21 = {
+    death = yes
+  }
+}
 163120 = {
   name = "エアルドゥルフ"  # Eardulf
   religion = "catholic"
@@ -2205,55 +2217,43 @@
     death = "885.1.1"
   }
 }
-167002 = {
-  name = "ハコン"  # Hacon
-  dynasty = 756
+159465 = {
+  name = "エルヴリャド"  # Ælfræd
   religion = "catholic"
   culture = "saxon"
-  trait = "legit_bastard"
-  father = 128
-  1047.1.1 = {
-    birth = "1047.1.1"
+  dynasty = 100031
+  father = 159464
+  970.1.1 = {
+    birth = "970.1.1"
   }
-  1066.1.1 = {
-    add_claim = d_lancaster
-  }
-  1091.1.1 = {
-    death = "1091.1.1"
+  1020.1.1 = {
+    death = "1020.1.1"
   }
 }
-167003 = {
-  name = "エルヴガル"  # Ælfgar
-  dynasty = 756
+159470 = {
+  name = "ゴドウィネ"  # Godwine
   religion = "catholic"
   culture = "saxon"
-  trait = "chaste"
-  trait = "detached_priest"
-  father = 120
-  mother = 101534
-  1035.1.1 = {
-    birth = "1035.1.1"
+  dynasty = 100031
+  father = 159465
+  1014.1.1 = {
+    birth = "1014.1.1"
   }
-  1066.1.5 = {
-    employer = 91173
-  }
-  1078.1.1 = {
-    death = "1078.1.1"
+  1070.1.1 = {
+    death = "1070.1.1"
   }
 }
-167004 = {
-  name = "エルヴイヴ"  # Ælfgifu
-  female = yes
-  dynasty = 756
+159471 = {
+  name = "ヘレベルフト"  # Hereberht
   religion = "catholic"
   culture = "saxon"
-  father = 120
-  mother = 101534
-  1043.1.1 = {
-    birth = "1043.1.1"
+  dynasty = 100031
+  father = 159470
+  1050.1.1 = {
+    birth = "1050.1.1"
   }
-  1065.11.1 = {
-    death = "1065.11.1"
+  1100.1.1 = {
+    death = "1100.1.1"
   }
 }
 168594 = {
@@ -2268,18 +2268,6 @@
     birth = yes
   }
   888.1.1 = {
-    death = yes
-  }
-}
-168608 = {
-  name = "エゼルノス"  # Aethelnoth
-  religion = "catholic"
-  culture = "saxon"
-  add_trait = "mastermind_theologian"
-  975.1.1 = {
-    birth = yes
-  }
-  1038.10.30 = {
     death = yes
   }
 }
@@ -2547,6 +2535,18 @@
     death = yes
   }
 }
+168608 = {
+  name = "エゼルノス"  # Aethelnoth
+  religion = "catholic"
+  culture = "saxon"
+  add_trait = "mastermind_theologian"
+  975.1.1 = {
+    birth = yes
+  }
+  1038.10.30 = {
+    death = yes
+  }
+}
 180690 = {
   name = "エアドジイェ"  # Eadsige
   religion = "catholic"
@@ -2557,572 +2557,6 @@
   }
   1050.10.29 = {
     death = yes
-  }
-}
-188915 = {
-  name = "エゼルベルト"  # Æthelbert
-  religion = "catholic"
-  culture = "saxon"
-  learning = 12
-  trait = erudite
-  trait = scholarly_theologian
-  715.1.1 = {
-    birth = yes
-  }
-  780.11.8 = {
-    death = yes
-  }
-}
-188916 = {
-  name = "ウルフヘレ"  # Wulfhere
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  820.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-188917 = {
-  name = "エアドレド"  # Ealdred
-  religion = "catholic"
-  culture = "saxon"
-  learning = 7
-  diplomacy = 8
-  martial = 5
-  trait = erudite
-  1000.1.1 = {
-    birth = yes
-  }
-  1069.9.11 = {
-    death = yes
-  }
-}
-188918 = {
-  name = "アルクィン"  # Alcuin
-  religion = "catholic"
-  culture = "saxon"
-  learning = 13
-  trait = erudite
-  trait = scholar
-  trait = mastermind_theologian
-  735.1.1 = {
-    birth = yes
-  }
-  767.1.1 = {
-    employer = 188915
-  }
-  804.5.19 = {
-    death = yes
-  }
-}
-188919 = {
-  name = "ヘレワルド"  # Herewald
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  700.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-190565 = {
-  name = "ルルス"  # Lullus
-  religion = "catholic"
-  culture = "saxon"
-  710.1.1 = {
-    birth = yes
-  }
-  769.1.1 = {
-    capital = c_mainz
-  }
-  786.10.16 = {
-    death = yes
-  }
-}
-194041 = {
-  name = "ウィスタン"  # Wigstan
-  dynasty = 1047004
-  religion = "catholic"
-  culture = "saxon"
-  father = 205085
-  813.1.1 = {
-    birth = "813.1.1"
-  }
-  840.6.1 = {
-    death = "840.6.1"
-  }
-}
-194094 = {
-  name = "オファ"  # Offa
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  460.1.1 = {
-    birth = "460.1.1"
-  }
-  527.1.1 = {
-    death = "527.1.1"
-  }
-}
-194095 = {
-  name = "エシュウィネ"  # Æscwine
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194094
-  490.1.1 = {
-    birth = "490.1.1"
-  }
-  587.1.1 = {
-    death = "587.1.1"
-  }
-}
-194096 = {
-  name = "スレッダ"  # Sledda
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194095
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  604.1.1 = {
-    death = "604.1.1"
-  }
-}
-194097 = {
-  name = "スャベルフト"  # Sæberht
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 194096
-  550.1.1 = {
-    birth = yes
-  }
-  616.1.1 = {
-    death = yes
-  }
-}
-194098 = {
-  name = "スャクスレド"  # Sæxred
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194097
-  570.1.1 = {
-    birth = yes
-  }
-  617.1.1 = {
-    death = yes
-  }
-}
-194099 = {
-  name = "スャワルド"  # Sæward
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194097
-  575.1.1 = {
-    birth = yes
-  }
-  617.1.1 = {
-    death = yes
-  }
-}
-194100 = {
-  name = "シイェベルフト"  # Sigeberht
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194099
-  592.1.1 = {
-    birth = yes
-  }
-  653.1.1 = {
-    death = yes
-  }
-}
-194101 = {
-  name = "シイェベルフト"  # Sigeberht
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 194100
-  608.1.1 = {
-    birth = yes
-  }
-  660.1.1 = {
-    death = yes
-    give_nickname = nick_the_good
-  }
-}
-194102 = {
-  name = "スウィスヘルム"  # Swithhelm
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 194101
-  624.1.1 = {
-    birth = yes
-  }
-  664.1.1 = {
-    death = yes
-  }
-}
-194103 = {
-  name = "シヘレ"  # Sighere
-  dynasty = 1047012
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 194102
-  640.1.1 = {
-    birth = yes
-  }
-  683.1.1 = {
-    death = yes
-  }
-}
-194104 = {
-  name = "エルヴワルド"  # Ælfwald
-  dynasty = 1047021
-  religion = "catholic"
-  culture = "saxon"
-  father = 205225
-  745.1.1 = {
-    birth = "745.1.1"
-  }
-  788.9.23 = {
-    death = "788.9.23"
-  }
-}
-205000 = {
-  name = "ウェッハ"  # Wehha
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  500.1.1 = {
-    birth = "500.1.1"
-  }
-  571.1.1 = {
-    death = "571.1.1"
-  }
-}
-205001 = {
-  name = "ウッファ"  # Wuffa
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205000
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  578.1.1 = {
-    death = "578.1.1"
-  }
-}
-205002 = {
-  name = "テュティラ"  # Tytila
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205001
-  550.1.1 = {
-    birth = "550.1.1"
-  }
-  616.1.1 = {
-    death = "616.1.1"
-  }
-}
-205003 = {
-  name = "リャドワルド"  # Rædwald
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205002
-  570.1.1 = {
-    birth = "570.1.1"
-  }
-  627.1.1 = {
-    death = "627.1.1"
-  }
-}
-205004 = {
-  name = "エオルプワルド"  # Eorpwald
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205002
-  590.1.1 = {
-    birth = "590.1.1"
-  }
-  630.1.1 = {
-    death = "630.1.1"
-    religion = "catholic"
-  }
-}
-205005 = {
-  name = "シイェベルフト"  # Sigeberht
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205002
-  591.1.1 = {
-    birth = "591.1.1"
-  }
-  634.1.1 = {
-    death = "634.1.1"
-  }
-}
-205006 = {
-  name = "エニ"  # Eni
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205002
-  571.1.1 = {
-    birth = "571.1.1"
-  }
-  627.1.1 = {
-    death = "627.1.1"
-  }
-}
-205007 = {
-  name = "アンナ"  # Anna
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205006
-  590.1.1 = {
-    birth = "590.1.1"
-  }
-  654.1.1 = {
-    death = "654.1.1"
-  }
-}
-205008 = {
-  name = "エゼルヘレ"  # Æthelhere
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205006
-  592.1.1 = {
-    birth = "592.1.1"
-  }
-  655.11.15 = {
-    death = "655.11.15"
-  }
-}
-205009 = {
-  name = "エゼルウォルド"  # Æthelwold
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205006
-  595.1.1 = {
-    birth = "595.1.1"
-  }
-  664.1.1 = {
-    death = "664.1.1"
-  }
-}
-205010 = {
-  name = "エゼルリチ"  # Æthelric
-  dynasty = 1047000
-  religion = "norse_pagan"
-  culture = "saxon"
-  father = 205006
-  600.1.1 = {
-    birth = "600.1.1"
-  }
-  636.1.1 = {
-    death = "636.1.1"
-  }
-}
-205011 = {
-  name = "エアルドウルフ"  # Ealdwulf
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205010
-  635.1.1 = {
-    birth = "635.1.1"
-  }
-  713.1.1 = {
-    death = "713.1.1"
-  }
-}
-205012 = {
-  name = "エアルドワルド"  # Ealdwald
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205011
-  675.1.1 = {
-    birth = "675.1.1"
-  }
-  749.1.1 = {
-    death = "749.1.1"
-  }
-}
-205013 = {
-  name = "ベオンナ"  # Beonna
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205012
-  700.1.1 = {
-    birth = "700.1.1"
-  }
-  760.1.1 = {
-    death = "760.1.1"
-  }
-}
-205014 = {
-  name = "エゼルベルフト"  # Æthelberht
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205012
-  702.1.1 = {
-    birth = "702.1.1"
-  }
-  761.1.1 = {
-    death = "761.1.1"
-  }
-}
-205015 = {
-  name = "エゼルレド"  # Æthelred
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205013
-  725.1.1 = {
-    birth = "725.1.1"
-  }
-  779.1.1 = {
-    death = "779.1.1"
-  }
-}
-205016 = {
-  name = "エゼルベルフト"  # Æthelberht
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205015
-  750.1.1 = {
-    birth = "750.1.1"
-  }
-  794.1.1 = {
-    death = "794.1.1"
-  }
-}
-205017 = {
-  name = "エゼルリチ"  # Æthelric
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205014
-  725.1.1 = {
-    birth = "725.1.1"
-  }
-  780.1.1 = {
-    death = "780.1.1"
-  }
-}
-205018 = {
-  name = "エアルドワルド"  # Ealdwald
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205017
-  751.1.1 = {
-    birth = "751.1.1"
-  }
-  800.1.1 = {
-    death = "800.1.1"
-  }
-}
-205019 = {
-  name = "エゼルレド"  # Æthelred
-  dynasty = 1047000
-  religion = "catholic"
-  culture = "saxon"
-  father = 205018
-  769.1.1 = {
-    birth = "769.1.1"
-  }
-  820.1.1 = {
-    death = "820.1.1"
-  }
-}
-205020 = {
-  name = "エゼルスタン"  # Æthelstan
-  dynasty = 626
-  religion = "catholic"
-  culture = "saxon"
-  father = 205019
-  790.1.1 = {
-    birth = "790.1.1"
-  }
-  845.1.1 = {
-    death = "845.1.1"
-  }
-}
-205021 = {
-  name = "エゼルウェアルド"  # Æthelweard
-  dynasty = 626
-  religion = "catholic"
-  culture = "saxon"
-  father = 205020
-  810.1.1 = {
-    birth = "810.1.1"
-  }
-  854.1.1 = {
-    death = "854.1.1"
-  }
-}
-205022 = {
-  name = "ベオルフトリチ"  # Beorhtric
-  dynasty = 626
-  religion = "catholic"
-  culture = "saxon"
-  father = 205020
-  811.1.1 = {
-    birth = "811.1.1"
-  }
-  870.1.1 = {
-    death = "870.1.1"
-  }
-}
-205023 = {
-  name = "オズワルド"  # Oswald
-  dynasty = 626
-  religion = "catholic"
-  culture = "saxon"
-  father = 205021
-  841.1.1 = {
-    birth = "841.1.1"
-  }
-  875.1.1 = {
-    death = "875.1.1"
-  }
-}
-205024 = {
-  name = "エゼルレド"  # Æthelred
-  dynasty = 626
-  religion = "catholic"
-  culture = "saxon"
-  father = 205023
-  860.1.1 = {
-    birth = "860.1.1"
-  }
-  879.1.1 = {
-    death = "879.1.1"
   }
 }
 205025 = {
@@ -3470,6 +2904,331 @@
   }
   798.1.1 = {
     death = "798.1.1"
+  }
+}
+205000 = {
+  name = "ウェッハ"  # Wehha
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  500.1.1 = {
+    birth = "500.1.1"
+  }
+  571.1.1 = {
+    death = "571.1.1"
+  }
+}
+205001 = {
+  name = "ウッファ"  # Wuffa
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205000
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  578.1.1 = {
+    death = "578.1.1"
+  }
+}
+205002 = {
+  name = "テュティラ"  # Tytila
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205001
+  550.1.1 = {
+    birth = "550.1.1"
+  }
+  616.1.1 = {
+    death = "616.1.1"
+  }
+}
+205003 = {
+  name = "リャドワルド"  # Rædwald
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  570.1.1 = {
+    birth = "570.1.1"
+  }
+  627.1.1 = {
+    death = "627.1.1"
+  }
+}
+205004 = {
+  name = "エオルプワルド"  # Eorpwald
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+    religion = "catholic"
+  }
+}
+205005 = {
+  name = "シイェベルフト"  # Sigeberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205002
+  591.1.1 = {
+    birth = "591.1.1"
+  }
+  634.1.1 = {
+    death = "634.1.1"
+  }
+}
+205006 = {
+  name = "エニ"  # Eni
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205002
+  571.1.1 = {
+    birth = "571.1.1"
+  }
+  627.1.1 = {
+    death = "627.1.1"
+  }
+}
+205007 = {
+  name = "アンナ"  # Anna
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  590.1.1 = {
+    birth = "590.1.1"
+  }
+  654.1.1 = {
+    death = "654.1.1"
+  }
+}
+205008 = {
+  name = "エゼルヘレ"  # Æthelhere
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  592.1.1 = {
+    birth = "592.1.1"
+  }
+  655.11.15 = {
+    death = "655.11.15"
+  }
+}
+205009 = {
+  name = "エゼルウォルド"  # Æthelwold
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205006
+  595.1.1 = {
+    birth = "595.1.1"
+  }
+  664.1.1 = {
+    death = "664.1.1"
+  }
+}
+205010 = {
+  name = "エゼルリチ"  # Æthelric
+  dynasty = 1047000
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 205006
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  636.1.1 = {
+    death = "636.1.1"
+  }
+}
+205011 = {
+  name = "エアルドウルフ"  # Ealdwulf
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205010
+  635.1.1 = {
+    birth = "635.1.1"
+  }
+  713.1.1 = {
+    death = "713.1.1"
+  }
+}
+205012 = {
+  name = "エアルドワルド"  # Ealdwald
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205011
+  675.1.1 = {
+    birth = "675.1.1"
+  }
+  749.1.1 = {
+    death = "749.1.1"
+  }
+}
+205013 = {
+  name = "ベオンナ"  # Beonna
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205012
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
+  }
+}
+205014 = {
+  name = "エゼルベルフト"  # Æthelberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205012
+  702.1.1 = {
+    birth = "702.1.1"
+  }
+  761.1.1 = {
+    death = "761.1.1"
+  }
+}
+205015 = {
+  name = "エゼルレド"  # Æthelred
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205013
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  779.1.1 = {
+    death = "779.1.1"
+  }
+}
+205016 = {
+  name = "エゼルベルフト"  # Æthelberht
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205015
+  750.1.1 = {
+    birth = "750.1.1"
+  }
+  794.1.1 = {
+    death = "794.1.1"
+  }
+}
+205017 = {
+  name = "エゼルリチ"  # Æthelric
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205014
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  780.1.1 = {
+    death = "780.1.1"
+  }
+}
+205018 = {
+  name = "エアルドワルド"  # Ealdwald
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205017
+  751.1.1 = {
+    birth = "751.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+205019 = {
+  name = "エゼルレド"  # Æthelred
+  dynasty = 1047000
+  religion = "catholic"
+  culture = "saxon"
+  father = 205018
+  769.1.1 = {
+    birth = "769.1.1"
+  }
+  820.1.1 = {
+    death = "820.1.1"
+  }
+}
+205020 = {
+  name = "エゼルスタン"  # Æthelstan
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205019
+  790.1.1 = {
+    birth = "790.1.1"
+  }
+  845.1.1 = {
+    death = "845.1.1"
+  }
+}
+205021 = {
+  name = "エゼルウェアルド"  # Æthelweard
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205020
+  810.1.1 = {
+    birth = "810.1.1"
+  }
+  854.1.1 = {
+    death = "854.1.1"
+  }
+}
+205022 = {
+  name = "ベオルフトリチ"  # Beorhtric
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205020
+  811.1.1 = {
+    birth = "811.1.1"
+  }
+  870.1.1 = {
+    death = "870.1.1"
+  }
+}
+205023 = {
+  name = "オズワルド"  # Oswald
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205021
+  841.1.1 = {
+    birth = "841.1.1"
+  }
+  875.1.1 = {
+    death = "875.1.1"
+  }
+}
+205024 = {
+  name = "エゼルレド"  # Æthelred
+  dynasty = 626
+  religion = "catholic"
+  culture = "saxon"
+  father = 205023
+  860.1.1 = {
+    birth = "860.1.1"
+  }
+  879.1.1 = {
+    death = "879.1.1"
   }
 }
 205051 = {
@@ -3876,19 +3635,6 @@
     death = "755.1.1"
   }
 }
-205080 = {
-  name = "ベオルンウィネ"  # Beornwine
-  dynasty = 1047005
-  religion = "catholic"
-  culture = "saxon"
-  father = 205063
-  701.1.1 = {
-    birth = "701.1.1"
-  }
-  760.1.1 = {
-    death = "760.1.1"
-  }
-}
 205081 = {
   name = "ウィヘアルド"  # Wigheard
   dynasty = 1047004
@@ -3967,6 +3713,19 @@
     death = "840.1.1"
   }
 }
+194041 = {
+  name = "ウィスタン"  # Wigstan
+  dynasty = 1047004
+  religion = "catholic"
+  culture = "saxon"
+  father = 205085
+  813.1.1 = {
+    birth = "813.1.1"
+  }
+  840.6.1 = {
+    death = "840.6.1"
+  }
+}
 205087 = {
   name = "レオヴリチ"  # Leofric
   dynasty = 1047004
@@ -3994,6 +3753,19 @@
   }
   911.1.1 = {
     death = yes
+  }
+}
+205080 = {
+  name = "ベオルンウィネ"  # Beornwine
+  dynasty = 1047005
+  religion = "catholic"
+  culture = "saxon"
+  father = 205063
+  701.1.1 = {
+    birth = "701.1.1"
+  }
+  760.1.1 = {
+    death = "760.1.1"
   }
 }
 205089 = {
@@ -4308,348 +4080,18 @@
     death = "879.1.1"
   }
 }
-205113 = {
-  name = "オスヘレ"  # Oshere
-  dynasty = 1047011
+190565 = {
+  name = "ルルス"  # Lullus
   religion = "catholic"
   culture = "saxon"
-  father = 205130
-  mother = 205137
-  600.1.1 = {
-    birth = "600.1.1"
-  }
-  650.1.1 = {
-    death = "650.1.1"
-  }
-}
-205114 = {
-  name = "エアンヘレ"  # Eanhere
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205113
-  mother = 205138
-  628.1.1 = {
-    birth = "628.1.1"
-  }
-  675.1.1 = {
-    death = "675.1.1"
-  }
-}
-205115 = {
-  name = "エアンヴリス"  # Eanfrith
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205113
-  mother = 205138
-  627.1.1 = {
-    birth = "627.1.1"
-  }
-  674.1.1 = {
-    death = "674.1.1"
-  }
-}
-205116 = {
-  name = "エアヴェ"  # Eafe
-  female = yes
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205115
-  650.1.1 = {
-    birth = "650.1.1"
-  }
-  700.1.1 = {
-    death = "700.1.1"
-  }
-}
-205117 = {
-  name = "オズリチ"  # Osric
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205114
-  645.1.1 = {
-    birth = "645.1.1"
-  }
-  679.1.1 = {
-    death = "679.1.1"
-  }
-}
-205118 = {
-  name = "オスヘレ"  # Oshere
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205114
-  651.1.1 = {
-    birth = "651.1.1"
-  }
-  704.1.1 = {
-    death = "704.1.1"
-  }
-}
-205119 = {
-  name = "オズワルド"  # Oswald
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205114
-  652.1.1 = {
-    birth = "652.1.1"
-  }
-  690.1.1 = {
-    death = "690.1.1"
-  }
-}
-205120 = {
-  name = "エゼルヘアルド"  # Æthelheard
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205118
-  mother = 205133
-  680.1.1 = {
-    birth = "680.1.1"
-  }
   710.1.1 = {
-    death = "710.1.1"
+    birth = yes
   }
-}
-205121 = {
-  name = "エゼルウェアルド"  # Æthelweard
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205118
-  mother = 205133
-  681.1.1 = {
-    birth = "681.1.1"
+  769.1.1 = {
+    capital = c_mainz
   }
-  710.1.1 = {
-    death = "710.1.1"
-  }
-}
-205122 = {
-  name = "エゼルリチ"  # Æthelric
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205118
-  mother = 205133
-  682.1.1 = {
-    birth = "682.1.1"
-  }
-  730.1.1 = {
-    death = "730.1.1"
-  }
-}
-205123 = {
-  name = "オズレド"  # Osred
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205118
-  mother = 205133
-  685.1.1 = {
-    birth = "685.1.1"
-  }
-  740.1.1 = {
-    death = "740.1.1"
-  }
-}
-205124 = {
-  name = "イングジェルド"  # Ingeld
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205122
-  mother = 205134
-  700.1.1 = {
-    birth = "700.1.1"
-  }
-  756.1.1 = {
-    death = "756.1.1"
-  }
-}
-205125 = {
-  name = "エゼルムンド"  # Æthelmund
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205124
-  mother = 205131
-  730.1.1 = {
-    birth = "730.1.1"
-  }
-  802.1.1 = {
-    death = "802.1.1"
-  }
-}
-205126 = {
-  name = "エゼルリチ"  # Æthelric
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205125
-  760.1.1 = {
-    birth = "760.1.1"
-  }
-  804.1.1 = {
-    death = "804.1.1"
-  }
-}
-205127 = {
-  name = "エアンベルフト"  # Eanberht
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205123
-  mother = 205132
-  715.1.1 = {
-    birth = "715.1.1"
-  }
-  759.1.1 = {
-    death = "759.1.1"
-  }
-}
-205128 = {
-  name = "ウフトレド"  # Uhtred
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205123
-  mother = 205132
-  716.1.1 = {
-    birth = "716.1.1"
-  }
-  777.1.1 = {
-    death = "777.1.1"
-  }
-}
-205129 = {
-  name = "エアドレド"  # Ealdred
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205123
-  mother = 205132
-  717.1.1 = {
-    birth = "717.1.1"
-  }
-  780.1.1 = {
-    death = "780.1.1"
-  }
-}
-205130 = {
-  name = "オズモド"  # Osmod
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205139
-  mother = 159751
-  560.1.1 = {
-    birth = "560.1.1"
-  }
-  630.1.1 = {
-    death = "630.1.1"
-  }
-}
-205131 = {
-  name = "キュネトリュス"  # Cynetryth
-  female = yes
-  dynasty = 1047003
-  religion = "catholic"
-  culture = "saxon"
-  father = 205103
-  700.1.1 = {
-    birth = "700.1.1"
-  }
-  767.1.1 = {
-    death = "767.1.1"
-  }
-}
-205132 = {
-  name = "ウルフスリュス"  # Wulfthryth
-  female = yes
-  dynasty = 1047003
-  religion = "catholic"
-  culture = "saxon"
-  father = 205102
-  689.1.1 = {
-    birth = "689.1.1"
-  }
-  754.1.1 = {
-    death = "754.1.1"
-  }
-}
-205133 = {
-  name = "セズリュス"  # Sæthryth
-  female = yes
-  dynasty = 1047003
-  religion = "catholic"
-  culture = "saxon"
-  father = 205101
-  659.1.1 = {
-    birth = "659.1.1"
-  }
-  715.1.1 = {
-    death = "715.1.1"
-  }
-}
-205134 = {
-  name = "スャブルフ"  # Sæburh
-  female = yes
-  dynasty = 1047003
-  religion = "catholic"
-  culture = "saxon"
-  father = 205102
-  684.1.1 = {
-    birth = "684.1.1"
-  }
-  745.1.1 = {
-    death = "745.1.1"
-  }
-}
-205135 = {
-  name = "エゼルモド"  # Æthelmod
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  father = 205117
-  mother = 205136
-  667.1.1 = {
-    birth = "667.1.1"
-  }
-  733.1.1 = {
-    death = "733.1.1"
-  }
-}
-205136 = {
-  name = "キュネブルフ"  # Cyneburh
-  female = yes
-  dynasty = 1047003
-  religion = "catholic"
-  culture = "saxon"
-  father = 205101
-  650.1.1 = {
-    birth = "650.1.1"
-  }
-  715.1.1 = {
-    death = "715.1.1"
-  }
-}
-205139 = {
-  name = "オズワルド"  # Oswald
-  dynasty = 1047011
-  religion = "catholic"
-  culture = "saxon"
-  530.1.1 = {
-    birth = "530.1.1"
-  }
-  570.1.1 = {
-    death = "570.1.1"
+  786.10.16 = {
+    death = yes
   }
 }
 205141 = {
@@ -5318,6 +4760,623 @@
     death = "762.1.1"
   }
 }
+205113 = {
+  name = "オスヘレ"  # Oshere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205130
+  mother = 205137
+  600.1.1 = {
+    birth = "600.1.1"
+  }
+  650.1.1 = {
+    death = "650.1.1"
+  }
+}
+205114 = {
+  name = "エアンヘレ"  # Eanhere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205113
+  mother = 205138
+  628.1.1 = {
+    birth = "628.1.1"
+  }
+  675.1.1 = {
+    death = "675.1.1"
+  }
+}
+205115 = {
+  name = "エアンヴリス"  # Eanfrith
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205113
+  mother = 205138
+  627.1.1 = {
+    birth = "627.1.1"
+  }
+  674.1.1 = {
+    death = "674.1.1"
+  }
+}
+205116 = {
+  name = "エアヴェ"  # Eafe
+  female = yes
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205115
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  700.1.1 = {
+    death = "700.1.1"
+  }
+}
+205117 = {
+  name = "オズリチ"  # Osric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  645.1.1 = {
+    birth = "645.1.1"
+  }
+  679.1.1 = {
+    death = "679.1.1"
+  }
+}
+205118 = {
+  name = "オスヘレ"  # Oshere
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  651.1.1 = {
+    birth = "651.1.1"
+  }
+  704.1.1 = {
+    death = "704.1.1"
+  }
+}
+205119 = {
+  name = "オズワルド"  # Oswald
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205114
+  652.1.1 = {
+    birth = "652.1.1"
+  }
+  690.1.1 = {
+    death = "690.1.1"
+  }
+}
+205120 = {
+  name = "エゼルヘアルド"  # Æthelheard
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  680.1.1 = {
+    birth = "680.1.1"
+  }
+  710.1.1 = {
+    death = "710.1.1"
+  }
+}
+205121 = {
+  name = "エゼルウェアルド"  # Æthelweard
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  681.1.1 = {
+    birth = "681.1.1"
+  }
+  710.1.1 = {
+    death = "710.1.1"
+  }
+}
+205122 = {
+  name = "エゼルリチ"  # Æthelric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  682.1.1 = {
+    birth = "682.1.1"
+  }
+  730.1.1 = {
+    death = "730.1.1"
+  }
+}
+205123 = {
+  name = "オズレド"  # Osred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205118
+  mother = 205133
+  685.1.1 = {
+    birth = "685.1.1"
+  }
+  740.1.1 = {
+    death = "740.1.1"
+  }
+}
+205124 = {
+  name = "イングジェルド"  # Ingeld
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205122
+  mother = 205134
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  756.1.1 = {
+    death = "756.1.1"
+  }
+}
+205125 = {
+  name = "エゼルムンド"  # Æthelmund
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205124
+  mother = 205131
+  730.1.1 = {
+    birth = "730.1.1"
+  }
+  802.1.1 = {
+    death = "802.1.1"
+  }
+}
+205126 = {
+  name = "エゼルリチ"  # Æthelric
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205125
+  760.1.1 = {
+    birth = "760.1.1"
+  }
+  804.1.1 = {
+    death = "804.1.1"
+  }
+}
+205127 = {
+  name = "エアンベルフト"  # Eanberht
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  715.1.1 = {
+    birth = "715.1.1"
+  }
+  759.1.1 = {
+    death = "759.1.1"
+  }
+}
+205128 = {
+  name = "ウフトレド"  # Uhtred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  716.1.1 = {
+    birth = "716.1.1"
+  }
+  777.1.1 = {
+    death = "777.1.1"
+  }
+}
+205129 = {
+  name = "エアドレド"  # Ealdred
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205123
+  mother = 205132
+  717.1.1 = {
+    birth = "717.1.1"
+  }
+  780.1.1 = {
+    death = "780.1.1"
+  }
+}
+205130 = {
+  name = "オズモド"  # Osmod
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205139
+  mother = 159751
+  560.1.1 = {
+    birth = "560.1.1"
+  }
+  630.1.1 = {
+    death = "630.1.1"
+  }
+}
+205131 = {
+  name = "キュネトリュス"  # Cynetryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205103
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  767.1.1 = {
+    death = "767.1.1"
+  }
+}
+205132 = {
+  name = "ウルフスリュス"  # Wulfthryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205102
+  689.1.1 = {
+    birth = "689.1.1"
+  }
+  754.1.1 = {
+    death = "754.1.1"
+  }
+}
+205133 = {
+  name = "セズリュス"  # Sæthryth
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205101
+  659.1.1 = {
+    birth = "659.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205134 = {
+  name = "スャブルフ"  # Sæburh
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205102
+  684.1.1 = {
+    birth = "684.1.1"
+  }
+  745.1.1 = {
+    death = "745.1.1"
+  }
+}
+205135 = {
+  name = "エゼルモド"  # Æthelmod
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  father = 205117
+  mother = 205136
+  667.1.1 = {
+    birth = "667.1.1"
+  }
+  733.1.1 = {
+    death = "733.1.1"
+  }
+}
+205136 = {
+  name = "キュネブルフ"  # Cyneburh
+  female = yes
+  dynasty = 1047003
+  religion = "catholic"
+  culture = "saxon"
+  father = 205101
+  650.1.1 = {
+    birth = "650.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+205139 = {
+  name = "オズワルド"  # Oswald
+  dynasty = 1047011
+  religion = "catholic"
+  culture = "saxon"
+  530.1.1 = {
+    birth = "530.1.1"
+  }
+  570.1.1 = {
+    death = "570.1.1"
+  }
+}
+194094 = {
+  name = "オファ"  # Offa
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  460.1.1 = {
+    birth = "460.1.1"
+  }
+  527.1.1 = {
+    death = "527.1.1"
+  }
+}
+194095 = {
+  name = "エシュウィネ"  # Æscwine
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194094
+  490.1.1 = {
+    birth = "490.1.1"
+  }
+  587.1.1 = {
+    death = "587.1.1"
+  }
+}
+194096 = {
+  name = "スレッダ"  # Sledda
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194095
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  604.1.1 = {
+    death = "604.1.1"
+  }
+}
+194097 = {
+  name = "スャベルフト"  # Sæberht
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194096
+  550.1.1 = {
+    birth = yes
+  }
+  616.1.1 = {
+    death = yes
+  }
+}
+194098 = {
+  name = "スャクスレド"  # Sæxred
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194097
+  570.1.1 = {
+    birth = yes
+  }
+  617.1.1 = {
+    death = yes
+  }
+}
+194099 = {
+  name = "スャワルド"  # Sæward
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194097
+  575.1.1 = {
+    birth = yes
+  }
+  617.1.1 = {
+    death = yes
+  }
+}
+194100 = {
+  name = "シイェベルフト"  # Sigeberht
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194099
+  592.1.1 = {
+    birth = yes
+  }
+  653.1.1 = {
+    death = yes
+  }
+}
+194101 = {
+  name = "シイェベルフト"  # Sigeberht
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194100
+  608.1.1 = {
+    birth = yes
+  }
+  660.1.1 = {
+    death = yes
+    give_nickname = nick_the_good
+  }
+}
+194102 = {
+  name = "スウィスヘルム"  # Swithhelm
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194101
+  624.1.1 = {
+    birth = yes
+  }
+  664.1.1 = {
+    death = yes
+  }
+}
+194103 = {
+  name = "シヘレ"  # Sighere
+  dynasty = 1047012
+  religion = "norse_pagan"
+  culture = "saxon"
+  father = 194102
+  640.1.1 = {
+    birth = yes
+  }
+  683.1.1 = {
+    death = yes
+  }
+}
+205256 = {
+  name = "セッビ"  # Sebbi
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 194102
+  642.1.1 = {
+    birth = yes
+  }
+  694.1.1 = {
+    death = yes
+  }
+}
+205257 = {
+  name = "シイェヘアルド"  # Sigeheard
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205256
+  660.1.1 = {
+    birth = "660.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205258 = {
+  name = "スウェフレド"  # Swæfred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205256
+  655.1.1 = {
+    birth = "655.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205259 = {
+  name = "オファ"  # Offa
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205257
+  676.1.1 = {
+    birth = "676.1.1"
+  }
+  709.1.1 = {
+    death = "709.1.1"
+  }
+}
+205260 = {
+  name = "セッビ"  # Sebbi
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205257
+  677.1.1 = {
+    birth = "677.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205261 = {
+  name = "シイェレド"  # Sigered
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205258
+  675.1.1 = {
+    birth = "675.1.1"
+  }
+  708.1.1 = {
+    death = "708.1.1"
+  }
+}
+205262 = {
+  name = "スャルレド"  # Sælred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205261
+  691.1.1 = {
+    birth = "691.1.1"
+  }
+  746.1.1 = {
+    death = "746.1.1"
+  }
+}
+205263 = {
+  name = "スウィズレド"  # Swithred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205260
+  700.1.1 = {
+    birth = "700.1.1"
+  }
+  758.1.1 = {
+    death = "758.1.1"
+  }
+}
+205264 = {
+  name = "スャルレド"  # Sælred
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205262
+  725.1.1 = {
+    birth = "725.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
+205265 = {
+  name = "シイェリチ"  # Sigeric
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205264
+  745.1.1 = {
+    birth = "745.1.1"
+  }
+  830.1.1 = {
+    death = "830.1.1"
+  }
+}
+205266 = {
+  name = "シイェレド"  # Sigered
+  dynasty = 1047012
+  religion = "catholic"
+  culture = "saxon"
+  father = 205265
+  765.1.1 = {
+    birth = "765.1.1"
+  }
+  835.1.1 = {
+    death = "835.1.1"
+  }
+}
 205192 = {
   name = "ユッフェ"  # Yffe
   dynasty = 1047009
@@ -5816,6 +5875,19 @@
     death = "790.1.1"
   }
 }
+194104 = {
+  name = "エルヴワルド"  # Ælfwald
+  dynasty = 1047021
+  religion = "catholic"
+  culture = "saxon"
+  father = 205225
+  745.1.1 = {
+    birth = "745.1.1"
+  }
+  788.9.23 = {
+    death = "788.9.23"
+  }
+}
 205228 = {
   name = "オズバルド"  # Osbald
   dynasty = 1047021
@@ -6184,149 +6256,6 @@
     death = "860.1.1"
   }
 }
-205256 = {
-  name = "セッビ"  # Sebbi
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 194102
-  642.1.1 = {
-    birth = yes
-  }
-  694.1.1 = {
-    death = yes
-  }
-}
-205257 = {
-  name = "シイェヘアルド"  # Sigeheard
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205256
-  660.1.1 = {
-    birth = "660.1.1"
-  }
-  708.1.1 = {
-    death = "708.1.1"
-  }
-}
-205258 = {
-  name = "スウェフレド"  # Swæfred
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205256
-  655.1.1 = {
-    birth = "655.1.1"
-  }
-  708.1.1 = {
-    death = "708.1.1"
-  }
-}
-205259 = {
-  name = "オファ"  # Offa
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205257
-  676.1.1 = {
-    birth = "676.1.1"
-  }
-  709.1.1 = {
-    death = "709.1.1"
-  }
-}
-205260 = {
-  name = "セッビ"  # Sebbi
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205257
-  677.1.1 = {
-    birth = "677.1.1"
-  }
-  708.1.1 = {
-    death = "708.1.1"
-  }
-}
-205261 = {
-  name = "シイェレド"  # Sigered
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205258
-  675.1.1 = {
-    birth = "675.1.1"
-  }
-  708.1.1 = {
-    death = "708.1.1"
-  }
-}
-205262 = {
-  name = "スャルレド"  # Sælred
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205261
-  691.1.1 = {
-    birth = "691.1.1"
-  }
-  746.1.1 = {
-    death = "746.1.1"
-  }
-}
-205263 = {
-  name = "スウィズレド"  # Swithred
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205260
-  700.1.1 = {
-    birth = "700.1.1"
-  }
-  758.1.1 = {
-    death = "758.1.1"
-  }
-}
-205264 = {
-  name = "スャルレド"  # Sælred
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205262
-  725.1.1 = {
-    birth = "725.1.1"
-  }
-  800.1.1 = {
-    death = "800.1.1"
-  }
-}
-205265 = {
-  name = "シイェリチ"  # Sigeric
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205264
-  745.1.1 = {
-    birth = "745.1.1"
-  }
-  830.1.1 = {
-    death = "830.1.1"
-  }
-}
-205266 = {
-  name = "シイェレド"  # Sigered
-  dynasty = 1047012
-  religion = "catholic"
-  culture = "saxon"
-  father = 205265
-  765.1.1 = {
-    birth = "765.1.1"
-  }
-  835.1.1 = {
-    death = "835.1.1"
-  }
-}
 205267 = {
   name = "ブロルダ"  # Brorda
   dynasty = 1047013
@@ -6349,90 +6278,6 @@
   }
   835.1.1 = {
     death = "835.1.1"
-  }
-}
-214030 = {
-  name = "ヘアフムンド"  # Heahmund
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  830.1.1 = {
-    birth = yes
-  }
-  871.3.22 = {
-    death = yes
-  }
-}
-214031 = {
-  name = "クズフリス"  # Cuthfrith
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  715.1.1 = {
-    birth = yes
-  }
-  769.6.1 = {
-    death = yes
-  }
-}
-214032 = {
-  name = "ウルフシイェ"  # Wulfsige
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  820.1.1 = {
-    birth = yes
-  }
-  868.1.1 = {
-    death = yes
-  }
-}
-214033 = {
-  name = "ウィヘアフ"  # Wigheah
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  709.1.1 = {
-    birth = yes
-  }
-  776.1.1 = {
-    death = yes
-  }
-}
-214034 = {
-  name = "スウィズウルフ"  # Swithwulf
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  825.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-214035 = {
-  name = "チェオルウルフ"  # Ceolwulf
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  725.1.1 = {
-    birth = yes
-  }
-  796.1.1 = {
-    death = yes
-  }
-}
-214036 = {
-  name = "エアドバルド"  # Eadbald
-  religion = "catholic"
-  culture = "saxon"
-  learning = 8
-  810.1.1 = {
-    birth = yes
-  }
-  869.1.1 = {
-    death = yes
   }
 }
 214037 = {
@@ -6512,6 +6357,161 @@
     religion = "catholic"
   }
   650.1.1 = {
+    death = yes
+  }
+}
+214035 = {
+  name = "チェオルウルフ"  # Ceolwulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  725.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+214036 = {
+  name = "エアドバルド"  # Eadbald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  810.1.1 = {
+    birth = yes
+  }
+  869.1.1 = {
+    death = yes
+  }
+}
+214033 = {
+  name = "ウィヘアフ"  # Wigheah
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  709.1.1 = {
+    birth = yes
+  }
+  776.1.1 = {
+    death = yes
+  }
+}
+214034 = {
+  name = "スウィズウルフ"  # Swithwulf
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  825.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+214031 = {
+  name = "クズフリス"  # Cuthfrith
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  715.1.1 = {
+    birth = yes
+  }
+  769.6.1 = {
+    death = yes
+  }
+}
+214032 = {
+  name = "ウルフシイェ"  # Wulfsige
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  820.1.1 = {
+    birth = yes
+  }
+  868.1.1 = {
+    death = yes
+  }
+}
+188915 = {
+  name = "エゼルベルト"  # Æthelbert
+  religion = "catholic"
+  culture = "saxon"
+  learning = 12
+  trait = erudite
+  trait = scholarly_theologian
+  715.1.1 = {
+    birth = yes
+  }
+  780.11.8 = {
+    death = yes
+  }
+}
+188916 = {
+  name = "ウルフヘレ"  # Wulfhere
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  820.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
+    death = yes
+  }
+}
+188917 = {
+  name = "エアドレド"  # Ealdred
+  religion = "catholic"
+  culture = "saxon"
+  learning = 7
+  diplomacy = 8
+  martial = 5
+  trait = erudite
+  1000.1.1 = {
+    birth = yes
+  }
+  1069.9.11 = {
+    death = yes
+  }
+}
+188918 = {
+  name = "アルクィン"  # Alcuin
+  religion = "catholic"
+  culture = "saxon"
+  learning = 13
+  trait = erudite
+  trait = scholar
+  trait = mastermind_theologian
+  735.1.1 = {
+    birth = yes
+  }
+  767.1.1 = {
+    employer = 188915
+  }
+  804.5.19 = {
+    death = yes
+  }
+}
+188919 = {
+  name = "ヘレワルド"  # Herewald
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  700.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+214030 = {
+  name = "ヘアフムンド"  # Heahmund
+  religion = "catholic"
+  culture = "saxon"
+  learning = 8
+  830.1.1 = {
+    birth = yes
+  }
+  871.3.22 = {
     death = yes
   }
 }

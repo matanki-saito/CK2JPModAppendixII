@@ -192,6 +192,20 @@
     death = yes
   }
 }
+194412 = {
+  name = "セチ"  # Sati
+  female = yes
+  dynasty = 854
+  religion = manichean
+  culture = kirghiz
+  father = 194204
+  1200.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
 194221 = {
   name = "カレジキ"  # Könçek
   dynasty = 854
@@ -215,20 +229,6 @@
     birth = yes
   }
   1350.1.1 = {
-    death = yes
-  }
-}
-194412 = {
-  name = "セチ"  # Sati
-  female = yes
-  dynasty = 854
-  religion = manichean
-  culture = kirghiz
-  father = 194204
-  1200.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
     death = yes
   }
 }

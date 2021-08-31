@@ -1,107 +1,13 @@
-﻿9953 = {
-  name = "ボレナ"  # Borena
+﻿122502 = {
+  name = "アナスタシア"  # Anastasia
   female = yes
-  dynasty = 100603
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
   religion = "orthodox"
   culture = "alan"
-  trait = "kind"
-  trait = "charitable"
-  trait = "indulgent_wastrel"
-  father = 41592
-  1025.1.1 = {
-    birth = "1025.1.1"
+  990.1.2 = {
+    birth = "990.1.2"
   }
-  1082.1.1 = {
-    death = "1082.1.1"
-  }
-}
-9956 = {
-  name = "アルダ"  # Alda
-  female = yes
-  dynasty = 100603
-  martial = 8
-  diplomacy = 2
-  intrigue = 4
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "temperate"
-  trait = "flamboyant_schemer"
-  father = 20662
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1072.1.1 = {
-    death = "1072.1.1"
-  }
-}
-9957 = {
-  name = "デメトレ"  # Demetre
-  dynasty = 507
-  martial = 7
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "proud"
-  trait = "wroth"
-  trait = "brilliant_strategist"
-  father = 9950
-  mother = 9956
-  1026.1.1 = {
-    birth = "1026.1.1"
-  }
-  1052.1.1 = {
-    death = "1052.1.1"
-  }
-}
-9958 = {
-  name = "イレーネ"  # Irene
-  female = yes
-  dynasty = 507
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "lustful"
-  trait = "wroth"
-  trait = "flamboyant_schemer"
-  father = 9957
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1066.1.1 = {
-    employer = 9959
-  }
-  1091.1.2 = {
-    death = "1091.1.2"
-  }
-}
-9959 = {
-  name = "ダビット"  # Davit
-  dynasty = 507
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "honest"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 9957
-  1044.1.1 = {
-    birth = "1044.1.1"
-  }
-  1102.1.1 = {
-    death = "1102.1.1"
+  1040.1.2 = {
+    death = "1040.1.2"
   }
 }
 20662 = {
@@ -178,24 +84,152 @@
     death = "1110.1.1"
   }
 }
-41550 = {
-  name = "アトム"  # Athom
-  dynasty = 507
+216540 = {
+  name = "ブルドゥカン"  # Burudukan
+  female = yes
+  dynasty = 100603
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 4
+  religion = "orthodox"
+  culture = "alan"
+  trait = "scholarly_theologian"
+  father = 93035
+  1126.1.1 = {
+    birth = "1126.1.1"
+  }
+  1184.1.1 = {
+    death = "1184.1.1"
+  }
+}
+222659 = {
+  name = "アンナ"  # Anna
+  female = yes
+  religion = "orthodox"
+  culture = "alan"
+  1165.1.2 = {
+    birth = "1165.1.2"
+  }
+  1200.1.2 = {
+    death = "1200.1.2"
+  }
+}
+222671 = {
+  name = "マリオ"  # Maria
+  female = yes
+  religion = "orthodox"
+  culture = "alan"
+  1158.1.2 = {
+    birth = "1158.1.2"
+  }
+  1206.3.19 = {
+    death = "1206.3.19"
+  }
+}
+228060 = {
+  name = "スアルム"  # Suarn
+  dynasty = 100603
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "orthodox"
+  culture = "alan"
+  trait = "humble"
+  trait = "skilled_tactician"
+  father = 93035
+  1128.1.1 = {
+    birth = "1128.1.1"
+  }
+  1178.1.1 = {
+    death = "1178.1.1"
+  }
+}
+228063 = {
+  name = "ウトゥルク"  # Uturku
+  dynasty = 100604
+  martial = 8
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 8
+  religion = "orthodox"
+  culture = "alan"
+  trait = "martial_cleric"
+  father = 93042
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+228064 = {
+  name = "ゴルガン"  # Gorgun
+  dynasty = 100605
   martial = 6
   diplomacy = 6
-  intrigue = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "orthodox"
+  culture = "alan"
+  trait = "tough_soldier"
+  father = 20665
+  1060.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+194425 = {
+  name = "ドルダン"  # Drudan
+  female = yes
+  dynasty = 100605
+  religion = "orthodox"
+  culture = "alan"
+  father = 20665
+  1055.1.1 = {
+    birth = yes
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+228065 = {
+  name = "イルタール"  # Iltar
+  dynasty = 100606
+  martial = 4
+  diplomacy = 8
+  intrigue = 5
   stewardship = 6
   religion = "orthodox"
   culture = "alan"
-  father = 9959
-  1065.1.1 = {
-    birth = "1065.1.1"
+  trait = "scholarly_theologian"
+  father = 20666
+  1090.1.1 = {
+    birth = "1090.1.1"
   }
-  1116.1.1 = {
-    add_spouse = 232751
+  1160.1.1 = {
+    death = "1160.1.1"
   }
-  1122.1.1 = {
-    death = "1122.1.1"
+}
+228073 = {
+  name = "ブリベルディ"  # Buriberdi
+  dynasty = 100674
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
+  religion = "tengri_pagan"
+  culture = "alan"
+  trait = "ill"
+  trait = "flamboyant_schemer"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
   }
 }
 41592 = {
@@ -252,29 +286,123 @@
     death = "1100.1.1"
   }
 }
-74027 = {
-  name = "クバル"  # Kubal
-  dynasty = 12271
+480160 = {
+  name = "シェラフサルタグ"  # Chelakhsartag
+  dynasty = 100604
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
   culture = "alan"
-  religion = "tengri_pagan"
-  820.1.1 = {
-    birth = "820.1.1"
+  trait = "craven"
+  trait = "martial_cleric"
+  father = 93046
+  1295.1.1 = {
+    birth = "1295.1.1"
   }
-  878.1.1 = {
-    death = "878.1.1"
+  1350.1.1 = {
+    death = "1350.1.1"
   }
 }
-74028 = {
-  name = "カンダク"  # Candak
-  dynasty = 12271
-  father = 74027
+480170 = {
+  name = "ソスラン"  # Soslan
+  dynasty = 100605
+  martial = 5
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 4
+  religion = "orthodox"
   culture = "alan"
-  religion = "tengri_pagan"
-  848.1.1 = {
-    birth = "848.1.1"
+  trait = "honest"
+  trait = "skilled_tactician"
+  father = 228064
+  1100.1.1 = {
+    birth = "1100.1.1"
   }
-  900.1.1 = {
-    death = "900.1.1"
+  1155.1.1 = {
+    death = "1155.1.1"
+  }
+}
+480180 = {
+  name = "タガイ"  # Taghai
+  dynasty = 100606
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
+  religion = "orthodox"
+  culture = "alan"
+  trait = "charitable"
+  trait = "tough_soldier"
+  father = 228065
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+480210 = {
+  name = "ターウース"  # Taus
+  dynasty = 100605
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 4
+  religion = "orthodox"
+  culture = "alan"
+  trait = "charitable"
+  trait = "zealous"
+  trait = "hunchback"
+  trait = "skilled_tactician"
+  father = 480170
+  1135.1.1 = {
+    birth = "1135.1.1"
+  }
+  1190.1.1 = {
+    death = "1190.1.1"
+  }
+}
+9953 = {
+  name = "ボレナ"  # Borena
+  female = yes
+  dynasty = 100603
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "orthodox"
+  culture = "alan"
+  trait = "kind"
+  trait = "charitable"
+  trait = "indulgent_wastrel"
+  father = 41592
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1082.1.1 = {
+    death = "1082.1.1"
+  }
+}
+9956 = {
+  name = "アルダ"  # Alda
+  female = yes
+  dynasty = 100603
+  martial = 8
+  diplomacy = 2
+  intrigue = 4
+  stewardship = 4
+  religion = "orthodox"
+  culture = "alan"
+  trait = "temperate"
+  trait = "flamboyant_schemer"
+  father = 20662
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1072.1.1 = {
+    death = "1072.1.1"
   }
 }
 93035 = {
@@ -310,6 +438,20 @@
   culture = "alan"
   father = 93036
   1200.1.1 = {
+    birth = yes
+  }
+  1265.1.1 = {
+    death = "1265.1.1"
+  }
+}
+194409 = {
+  name = "シャターナ"  # Shatana
+  female = yes
+  dynasty = 100603
+  religion = "orthodox"
+  culture = "alan"
+  father = 93036
+  1204.1.1 = {
     birth = yes
   }
   1265.1.1 = {
@@ -445,6 +587,33 @@
     death = "1345.1.1"
   }
 }
+194416 = {
+  name = "イタズ"  # Itaz
+  dynasty = 100606
+  religion = "sunni"
+  culture = "alan"
+  father = 93047
+  1317.1.1 = {
+    birth = yes
+  }
+  1345.1.1 = {
+    death = "1345.1.1"
+  }
+}
+194415 = {
+  name = "レラ"  # Lela
+  female = yes
+  dynasty = 100606
+  religion = "sunni"
+  culture = "alan"
+  father = 93047
+  1315.1.1 = {
+    birth = yes
+  }
+  1345.1.1 = {
+    death = "1345.1.1"
+  }
+}
 93048 = {
   name = "ダビット"  # Davit
   dynasty = 100606
@@ -458,130 +627,115 @@
     death = "1230.1.1"
   }
 }
-122502 = {
-  name = "アナスタシア"  # Anastasia
-  female = yes
+466516 = {
+  name = "ソスラン"  # Soslan
+  dynasty = 507
+  martial = 7
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 8
   religion = "orthodox"
   culture = "alan"
-  990.1.2 = {
-    birth = "990.1.2"
+  trait = "lustful"
+  trait = "brave"
+  trait = "humble"
+  trait = "diligent"
+  trait = "brilliant_strategist"
+  father = 216524
+  1160.1.1 = {
+    birth = "1160.1.1"
   }
-  1040.1.2 = {
-    death = "1040.1.2"
+  1189.1.1 = {
+    name = "ダヴィト"  # Davit
+    add_spouse = 466517
   }
-}
-146205 = {
-  name = "ブリベルディ"  # Buriberdi
-  dynasty = 1022383
-  culture = "alan"
-  religion = "tengri_pagan"
-  720.1.1 = {
-    birth = yes
-  }
-  777.1.1 = {
-    death = yes
+  1207.1.1 = {
+    death = "1207.1.1"
   }
 }
-146206 = {
-  name = "バルサグ"  # Balsag
-  dynasty = 1022383
+41550 = {
+  name = "アトム"  # Athom
+  dynasty = 507
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 6
+  religion = "orthodox"
   culture = "alan"
-  religion = "tengri_pagan"
-  father = 146205
-  746.1.1 = {
-    birth = yes
+  father = 9959
+  1065.1.1 = {
+    birth = "1065.1.1"
   }
-  805.1.1 = {
-    death = yes
+  1116.1.1 = {
+    add_spouse = 232751
+  }
+  1122.1.1 = {
+    death = "1122.1.1"
   }
 }
-146207 = {
-  name = "ロスマグ"  # Rosmag
-  dynasty = 1022383
+9959 = {
+  name = "ダビット"  # Davit
+  dynasty = 507
+  martial = 7
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "orthodox"
   culture = "alan"
-  religion = "tengri_pagan"
-  father = 146205
-  748.1.1 = {
-    birth = yes
+  trait = "honest"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 9957
+  1044.1.1 = {
+    birth = "1044.1.1"
   }
-  808.1.1 = {
-    death = yes
+  1102.1.1 = {
+    death = "1102.1.1"
   }
 }
-146208 = {
-  name = "アラティ"  # Alatey
-  dynasty = 1022383
+9957 = {
+  name = "デメトレ"  # Demetre
+  dynasty = 507
+  martial = 7
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 4
+  religion = "orthodox"
   culture = "alan"
-  religion = "zoroastrian"
-  father = 146205
-  750.1.1 = {
-    birth = yes
+  trait = "proud"
+  trait = "wroth"
+  trait = "brilliant_strategist"
+  father = 9950
+  mother = 9956
+  1026.1.1 = {
+    birth = "1026.1.1"
   }
-  813.1.1 = {
-    death = yes
+  1052.1.1 = {
+    death = "1052.1.1"
   }
 }
-146209 = {
-  name = "バズク"  # Bazuk
-  dynasty = 1022383
+9958 = {
+  name = "イレーネ"  # Irene
+  female = yes
+  dynasty = 507
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 4
+  religion = "orthodox"
   culture = "alan"
-  religion = "tengri_pagan"
-  father = 146206
-  763.1.1 = {
-    birth = yes
+  trait = "lustful"
+  trait = "wroth"
+  trait = "flamboyant_schemer"
+  father = 9957
+  1042.1.1 = {
+    birth = "1042.1.1"
   }
-  827.1.1 = {
-    death = yes
+  1066.1.1 = {
+    employer = 9959
   }
-}
-146210 = {
-  name = "カウル"  # Kaur
-  dynasty = 1022384
-  culture = "alan"
-  religion = "tengri_pagan"
-  740.1.1 = {
-    birth = yes
-  }
-  794.1.1 = {
-    death = yes
-  }
-}
-146211 = {
-  name = "クル"  # Kul
-  dynasty = 1022384
-  culture = "alan"
-  religion = "tengri_pagan"
-  father = 146210
-  757.1.1 = {
-    birth = yes
-  }
-  820.1.1 = {
-    death = yes
-  }
-}
-146212 = {
-  name = "カンフシー"  # Khankhusy
-  dynasty = 1022385
-  culture = "alan"
-  religion = "tengri_pagan"
-  736.1.1 = {
-    birth = yes
-  }
-  789.1.1 = {
-    death = yes
-  }
-}
-146213 = {
-  name = "ジャダロン"  # Djadaron
-  dynasty = 1022385
-  culture = "alan"
-  religion = "tengri_pagan"
-  father = 146212
-  753.1.1 = {
-    birth = yes
-  }
-  816.1.1 = {
-    death = yes
+  1091.1.2 = {
+    death = "1091.1.2"
   }
 }
 163118 = {
@@ -594,6 +748,31 @@
   trait = "sympathy_zoroastrianism"
   840.1.1 = {
     birth = "840.1.1"
+  }
+  900.1.1 = {
+    death = "900.1.1"
+  }
+}
+74027 = {
+  name = "クバル"  # Kubal
+  dynasty = 12271
+  culture = "alan"
+  religion = "tengri_pagan"
+  820.1.1 = {
+    birth = "820.1.1"
+  }
+  878.1.1 = {
+    death = "878.1.1"
+  }
+}
+74028 = {
+  name = "カンダク"  # Candak
+  dynasty = 12271
+  father = 74027
+  culture = "alan"
+  religion = "tengri_pagan"
+  848.1.1 = {
+    birth = "848.1.1"
   }
   900.1.1 = {
     death = "900.1.1"
@@ -968,193 +1147,118 @@
     death = "908.1.1"
   }
 }
-194409 = {
-  name = "シャターナ"  # Shatana
-  female = yes
-  dynasty = 100603
-  religion = "orthodox"
-  culture = "alan"
-  father = 93036
-  1204.1.1 = {
-    birth = yes
-  }
-  1265.1.1 = {
-    death = "1265.1.1"
-  }
-}
-194415 = {
-  name = "レラ"  # Lela
-  female = yes
-  dynasty = 100606
-  religion = "sunni"
-  culture = "alan"
-  father = 93047
-  1315.1.1 = {
-    birth = yes
-  }
-  1345.1.1 = {
-    death = "1345.1.1"
-  }
-}
-194416 = {
-  name = "イタズ"  # Itaz
-  dynasty = 100606
-  religion = "sunni"
-  culture = "alan"
-  father = 93047
-  1317.1.1 = {
-    birth = yes
-  }
-  1345.1.1 = {
-    death = "1345.1.1"
-  }
-}
-194425 = {
-  name = "ドルダン"  # Drudan
-  female = yes
-  dynasty = 100605
-  religion = "orthodox"
-  culture = "alan"
-  father = 20665
-  1055.1.1 = {
-    birth = yes
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-216540 = {
-  name = "ブルドゥカン"  # Burudukan
-  female = yes
-  dynasty = 100603
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "scholarly_theologian"
-  father = 93035
-  1126.1.1 = {
-    birth = "1126.1.1"
-  }
-  1184.1.1 = {
-    death = "1184.1.1"
-  }
-}
-222659 = {
-  name = "アンナ"  # Anna
-  female = yes
-  religion = "orthodox"
-  culture = "alan"
-  1165.1.2 = {
-    birth = "1165.1.2"
-  }
-  1200.1.2 = {
-    death = "1200.1.2"
-  }
-}
-222671 = {
-  name = "マリオ"  # Maria
-  female = yes
-  religion = "orthodox"
-  culture = "alan"
-  1158.1.2 = {
-    birth = "1158.1.2"
-  }
-  1206.3.19 = {
-    death = "1206.3.19"
-  }
-}
-228060 = {
-  name = "スアルム"  # Suarn
-  dynasty = 100603
-  martial = 6
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "orthodox"
-  culture = "alan"
-  trait = "humble"
-  trait = "skilled_tactician"
-  father = 93035
-  1128.1.1 = {
-    birth = "1128.1.1"
-  }
-  1178.1.1 = {
-    death = "1178.1.1"
-  }
-}
-228063 = {
-  name = "ウトゥルク"  # Uturku
-  dynasty = 100604
-  martial = 8
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 8
-  religion = "orthodox"
-  culture = "alan"
-  trait = "martial_cleric"
-  father = 93042
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-228064 = {
-  name = "ゴルガン"  # Gorgun
-  dynasty = 100605
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 5
-  religion = "orthodox"
-  culture = "alan"
-  trait = "tough_soldier"
-  father = 20665
-  1060.1.1 = {
-    birth = yes
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-228065 = {
-  name = "イルタール"  # Iltar
-  dynasty = 100606
-  martial = 4
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 6
-  religion = "orthodox"
-  culture = "alan"
-  trait = "scholarly_theologian"
-  father = 20666
-  1090.1.1 = {
-    birth = "1090.1.1"
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-228073 = {
+146205 = {
   name = "ブリベルディ"  # Buriberdi
-  dynasty = 100674
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "tengri_pagan"
+  dynasty = 1022383
   culture = "alan"
-  trait = "ill"
-  trait = "flamboyant_schemer"
-  1150.1.1 = {
-    birth = "1150.1.1"
+  religion = "tengri_pagan"
+  720.1.1 = {
+    birth = yes
   }
-  1200.1.1 = {
-    death = "1200.1.1"
+  777.1.1 = {
+    death = yes
+  }
+}
+146206 = {
+  name = "バルサグ"  # Balsag
+  dynasty = 1022383
+  culture = "alan"
+  religion = "tengri_pagan"
+  father = 146205
+  746.1.1 = {
+    birth = yes
+  }
+  805.1.1 = {
+    death = yes
+  }
+}
+146207 = {
+  name = "ロスマグ"  # Rosmag
+  dynasty = 1022383
+  culture = "alan"
+  religion = "tengri_pagan"
+  father = 146205
+  748.1.1 = {
+    birth = yes
+  }
+  808.1.1 = {
+    death = yes
+  }
+}
+146208 = {
+  name = "アラティ"  # Alatey
+  dynasty = 1022383
+  culture = "alan"
+  religion = "zoroastrian"
+  father = 146205
+  750.1.1 = {
+    birth = yes
+  }
+  813.1.1 = {
+    death = yes
+  }
+}
+146209 = {
+  name = "バズク"  # Bazuk
+  dynasty = 1022383
+  culture = "alan"
+  religion = "tengri_pagan"
+  father = 146206
+  763.1.1 = {
+    birth = yes
+  }
+  827.1.1 = {
+    death = yes
+  }
+}
+146210 = {
+  name = "カウル"  # Kaur
+  dynasty = 1022384
+  culture = "alan"
+  religion = "tengri_pagan"
+  740.1.1 = {
+    birth = yes
+  }
+  794.1.1 = {
+    death = yes
+  }
+}
+146211 = {
+  name = "クル"  # Kul
+  dynasty = 1022384
+  culture = "alan"
+  religion = "tengri_pagan"
+  father = 146210
+  757.1.1 = {
+    birth = yes
+  }
+  820.1.1 = {
+    death = yes
+  }
+}
+146212 = {
+  name = "カンフシー"  # Khankhusy
+  dynasty = 1022385
+  culture = "alan"
+  religion = "tengri_pagan"
+  736.1.1 = {
+    birth = yes
+  }
+  789.1.1 = {
+    death = yes
+  }
+}
+146213 = {
+  name = "ジャダロン"  # Djadaron
+  dynasty = 1022385
+  culture = "alan"
+  religion = "tengri_pagan"
+  father = 146212
+  753.1.1 = {
+    birth = yes
+  }
+  816.1.1 = {
+    death = yes
   }
 }
 248080 = {
@@ -1297,109 +1401,5 @@
   }
   962.1.1 = {
     death = yes
-  }
-}
-466516 = {
-  name = "ソスラン"  # Soslan
-  dynasty = 507
-  martial = 7
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 8
-  religion = "orthodox"
-  culture = "alan"
-  trait = "lustful"
-  trait = "brave"
-  trait = "humble"
-  trait = "diligent"
-  trait = "brilliant_strategist"
-  father = 216524
-  1160.1.1 = {
-    birth = "1160.1.1"
-  }
-  1189.1.1 = {
-    name = "ダヴィト"  # Davit
-    add_spouse = 466517
-  }
-  1207.1.1 = {
-    death = "1207.1.1"
-  }
-}
-480160 = {
-  name = "シェラフサルタグ"  # Chelakhsartag
-  dynasty = 100604
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "alan"
-  trait = "craven"
-  trait = "martial_cleric"
-  father = 93046
-  1295.1.1 = {
-    birth = "1295.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-480170 = {
-  name = "ソスラン"  # Soslan
-  dynasty = 100605
-  martial = 5
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "honest"
-  trait = "skilled_tactician"
-  father = 228064
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1155.1.1 = {
-    death = "1155.1.1"
-  }
-}
-480180 = {
-  name = "タガイ"  # Taghai
-  dynasty = 100606
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 5
-  religion = "orthodox"
-  culture = "alan"
-  trait = "charitable"
-  trait = "tough_soldier"
-  father = 228065
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-480210 = {
-  name = "ターウース"  # Taus
-  dynasty = 100605
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 4
-  religion = "orthodox"
-  culture = "alan"
-  trait = "charitable"
-  trait = "zealous"
-  trait = "hunchback"
-  trait = "skilled_tactician"
-  father = 480170
-  1135.1.1 = {
-    birth = "1135.1.1"
-  }
-  1190.1.1 = {
-    death = "1190.1.1"
   }
 }

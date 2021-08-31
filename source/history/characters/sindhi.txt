@@ -70,6 +70,49 @@
     death = "894.1.1"
   }
 }
+178212 = {
+  name = "ハ・ライ"  # Har Rai
+  dynasty = 1041117
+  father = 188559
+  religion = "sunni"
+  culture = "sindhi"
+  787.1.1 = {
+    birth = "833.1.1"
+  }
+  843.1.1 = {
+    death = "888.1.1"
+  }
+}
+178213 = {
+  name = "ハ・ライ"  # Har Rai
+  dynasty = 1041116
+  father = 188556
+  religion = "shiite"
+  culture = "sindhi"
+  trait = sympathy_indian
+  trait = mahayana_buddhist
+  777.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+178214 = {
+  name = "ハ・ライ"  # Har Rai
+  dynasty = 1041116
+  father = 178213
+  religion = "shiite"
+  culture = "sindhi"
+  trait = sympathy_indian
+  trait = mahayana_buddhist
+  812.1.1 = {
+    birth = yes
+  }
+  880.1.1 = {
+    death = yes
+  }
+}
 178016 = {
   name = "シャハブディン"  # Shahabuddin
   dynasty = 1041116
@@ -378,49 +421,6 @@
     death = {
       death_reason = death_suicide
     }
-  }
-}
-178212 = {
-  name = "ハ・ライ"  # Har Rai
-  dynasty = 1041117
-  father = 188559
-  religion = "sunni"
-  culture = "sindhi"
-  787.1.1 = {
-    birth = "833.1.1"
-  }
-  843.1.1 = {
-    death = "888.1.1"
-  }
-}
-178213 = {
-  name = "ハ・ライ"  # Har Rai
-  dynasty = 1041116
-  father = 188556
-  religion = "shiite"
-  culture = "sindhi"
-  trait = sympathy_indian
-  trait = mahayana_buddhist
-  777.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-178214 = {
-  name = "ハ・ライ"  # Har Rai
-  dynasty = 1041116
-  father = 178213
-  religion = "shiite"
-  culture = "sindhi"
-  trait = sympathy_indian
-  trait = mahayana_buddhist
-  812.1.1 = {
-    birth = yes
-  }
-  880.1.1 = {
-    death = yes
   }
 }
 178215 = {

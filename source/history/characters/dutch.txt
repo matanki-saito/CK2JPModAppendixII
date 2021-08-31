@@ -1,423 +1,4 @@
-﻿358 = {
-  name = "アルヌルフ"  # Arnulf
-  dynasty = 724
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  father = 90108
-  mother = 7629
-  890.1.1 = {
-    birth = "890.1.1"
-  }
-  934.1.2 = {
-    add_spouse = 359
-  }
-  964.3.28 = {
-    death = "964.3.28"
-  }
-}
-360 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 8
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "diligent"
-  trait = "wroth"
-  trait = "skilled_tactician"
-  father = 358
-  mother = 359
-  940.1.1 = {
-    birth = "940.1.1"
-  }
-  960.1.1 = {
-    add_spouse = 1411
-  }
-  962.11.1 = {
-    death = "962.11.1"
-  }
-}
-361 = {
-  name = "アルヌルフ"  # Arnulf
-  dynasty = 724
-  martial = 8
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "zealous"
-  trait = "wroth"
-  trait = "skilled_tactician"
-  father = 360
-  mother = 1411
-  961.1.1 = {
-    birth = "961.1.1"
-  }
-  980.1.1 = {
-    add_spouse = 1111
-  }
-  987.3.10 = {
-    death = "987.3.10"
-  }
-}
-362 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "craven"
-  trait = "scholarly_theologian"
-  father = 361
-  mother = 1111
-  980.1.1 = {
-    birth = "980.1.1"
-  }
-  1008.1.1 = {
-    add_spouse = 40710
-  }
-  1031.1.1 = {
-    add_spouse = 253
-  }
-  1035.5.30 = {
-    death = "1035.5.30"
-  }
-}
-363 = {
-  name = "ユーディト"  # Judith
-  female = yes
-  dynasty = 724
-  martial = 7
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "flamboyant_schemer"
-  father = 362
-  mother = 253
-  1035.1.1 = {
-    birth = "1035.1.1"
-  }
-  1094.3.5 = {
-    death = "1094.3.5"
-  }
-}
-364 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 7
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 362
-  mother = 40710
-  1012.1.1 = {
-    birth = "1012.1.1"
-  }
-  1028.1.2 = {
-    add_spouse = 213
-  }
-  1067.9.1 = {
-    death = "1067.9.1"
-  }
-}
-366 = {
-  name = "アルヌルフ"  # Arnulf
-  dynasty = 724
-  martial = 4
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "honest"
-  trait = "gluttonous"
-  trait = "tough_soldier"
-  father = 106643
-  mother = 106640
-  1055.1.1 = {
-    birth = "1055.1.1"
-  }
-  1071.2.22 = {
-    death = "1071.2.22"
-  }
-}
-367 = {
-  name = "マティルデ"  # Mathilde
-  female = yes
-  dynasty = 724
-  martial = 4
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "dwarf"
-  trait = "chaste"
-  trait = "zealous"
-  trait = "ambitious"
-  trait = "fortune_builder"
-  father = 364
-  mother = 213
-  1032.1.1 = {
-    birth = "1032.1.1"
-  }
-  1083.11.2 = {
-    death = "1083.11.2"
-  }
-}
-368 = {
-  name = "ロブレフト"  # Robrecht
-  dynasty = 724
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 364
-  mother = 213
-  1031.1.1 = {
-    birth = "1031.1.1"
-  }
-  1063.1.1 = {
-    add_spouse = 106521
-  }
-  1093.10.13 = {
-    death = "1093.10.13"
-  }
-}
-369 = {
-  name = "アデール"  # Adele
-  female = yes
-  dynasty = 724
-  martial = 7
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "temperate"
-  father = 368
-  mother = 106521
-  1064.7.12 = {
-    birth = "1064.7.12"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-479 = {
-  name = "ソフィー"  # Sophie
-  female = yes
-  dynasty = 424
-  martial = 5
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  father = 106570
-  mother = 31090
-  1046.1.1 = {
-    birth = "1046.1.1"
-  }
-  1075.1.1 = {
-    death = "1075.1.1"
-  }
-}
-1200 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 671
-  martial = 8
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "cynical"
-  trait = "tough_soldier"
-  1028.1.2 = {
-    birth = "1028.1.2"
-  }
-  1078.1.2 = {
-    death = "1078.1.2"
-  }
-}
-1202 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 671
-  martial = 5
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "cynical"
-  trait = "skilled_tactician"
-  father = 1200
-  1049.1.2 = {
-    birth = "1049.1.2"
-  }
-  1099.1.2 = {
-    death = "1099.1.2"
-  }
-}
-7473 = {
-  name = "アーデルハイト"  # Adelheid
-  female = yes
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 206852
-  mother = 205854
-  1191.1.1 = {
-    birth = "1191.1.1"
-  }
-  1261.1.1 = {
-    death = "1261.1.1"
-  }
-}
-7810 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7811
-  910.1.1 = {
-    birth = "910.1.1"
-  }
-  946.1.1 = {
-    add_spouse = 161488
-  }
-  973.1.1 = {
-    death = "973.1.1"
-  }
-}
-7811 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7812
-  880.1.1 = {
-    birth = "880.1.1"
-  }
-  932.1.1 = {
-    death = "932.1.1"
-  }
-}
-7812 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7815
-  mother = 7814
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  915.1.1 = {
-    death = "915.1.1"
-  }
-}
-7813 = {
-  name = "ヒーセルベルト"  # Giselbert
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7812
-  879.1.1 = {
-    birth = "879.1.1"
-    effect = {
-      set_character_flag = is_giselbert
-    }
-  }
-  929.1.1 = {
-    add_spouse = 1289
-  }
-  939.10.2 = {
-    death = "939.10.2"
-  }
-}
-7815 = {
-  name = "ヒーセルベルト"  # Giselbert
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  821.1.1 = {
-    birth = "821.1.1"
-  }
-  846.1.1 = {
-    add_spouse = 7814
-  }
-  892.1.1 = {
-    death = "892.1.1"
-  }
-}
-7998 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7810
-  mother = 161488
-  947.1.1 = {
-    birth = "947.1.1"
-  }
-  996.1.1 = {
-    add_spouse = 203
-  }
-  1013.1.1 = {
-    death = "1013.1.1"
-  }
-}
-10066 = {
+﻿10066 = {
   name = "マティルダ"  # Mathilda
   female = yes
   dynasty = 7198
@@ -516,6 +97,1526 @@
   }
   1111.10.5 = {
     death = "1111.10.5"
+  }
+}
+106520 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 6
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "cynical"
+  trait = "tough_soldier"
+  father = 106522
+  mother = 106521
+  1054.1.1 = {
+    birth = "1054.1.1"
+  }
+  1083.1.1 = {
+    add_spouse = 31091
+  }
+  1091.6.17 = {
+    death = "1091.6.17"
+  }
+}
+106522 = {
+  name = "フロリス"  # Floris
+  dynasty = 432
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "slothful"
+  trait = "temperate"
+  trait = "clubfooted"
+  trait = "flamboyant_schemer"
+  father = 40713
+  mother = 30008
+  1017.1.1 = {
+    birth = "1017.1.1"
+  }
+  1046.1.1 = {
+    add_spouse = 106521
+  }
+  1061.6.28 = {
+    death = "1061.6.28"
+  }
+}
+106523 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "slothful"
+  trait = "temperate"
+  trait = "clubfooted"
+  trait = "flamboyant_schemer"
+  father = 40713
+  mother = 30008
+  1016.1.1 = {
+    birth = "1016.1.1"
+  }
+  1049.1.13 = {
+    death = "1049.1.13"
+  }
+}
+106524 = {
+  name = "ベルタ"  # Bertha
+  female = yes
+  dynasty = 432
+  martial = 8
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "hunchback"
+  trait = "stutter"
+  trait = "thrifty_clerk"
+  father = 106522
+  mother = 106521
+  1055.1.1 = {
+    birth = "1055.1.1"
+  }
+  1094.1.1 = {
+    death = "1094.1.1"
+  }
+}
+106529 = {
+  name = "メフティルト"  # Mechthild
+  female = yes
+  dynasty = 432
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 106522
+  mother = 106521
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+106530 = {
+  name = "ウィレム"  # Willem
+  dynasty = 427
+  martial = 6
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  father = 30053
+  1030.1.2 = {
+    birth = "1030.1.2"
+  }
+  1076.4.27 = {
+    death = "1076.4.27"
+  }
+}
+106531 = {
+  name = "アデラ"  # Adela
+  female = yes
+  dynasty = 432
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 106522
+  mother = 106521
+  1055.1.1 = {
+    birth = "1055.1.1"
+  }
+  1085.1.1 = {
+    death = "1085.1.1"
+  }
+}
+106540 = {
+  name = "ディーデリク"  # Diederik
+  dynasty = 427
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "honest"
+  trait = "arbitrary"
+  trait = "craven"
+  trait = "flamboyant_schemer"
+  father = 106542
+  mother = 106541
+  1035.1.2 = {
+    birth = "1035.1.2"
+  }
+  1054.1.2 = {
+    add_spouse = 106543
+  }
+  1082.10.19 = {
+    death = "1082.10.19"
+  }
+}
+106542 = {
+  name = "ヘラルト"  # Gerard
+  dynasty = 427
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "skilled_tactician"
+  father = 30053
+  mother = 30054
+  1012.1.2 = {
+    birth = "1012.1.2"
+  }
+  1029.1.2 = {
+    add_spouse = 106541
+  }
+  1053.1.7 = {
+    death = "1053.1.7"
+  }
+}
+106544 = {
+  name = "ホーゼヴェイン"  # Gozewijn
+  dynasty = 427
+  martial = 7
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 106540
+  mother = 106543
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1104.1.1 = {
+    death = "1104.1.1"
+  }
+}
+106550 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 106551
+  920.1.1 = {
+    birth = "920.1.1"
+  }
+  952.1.1 = {
+    add_spouse = 94000
+  }
+  988.5.6 = {
+    death = "988.5.6"
+  }
+}
+106551 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 31060
+  867.1.1 = {
+    birth = "867.1.1"
+  }
+  939.1.1 = {
+    death = "939.1.1"
+  }
+}
+106555 = {
+  name = "フロリス"  # Floris
+  dynasty = 432
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "slothful"
+  trait = "temperate"
+  trait = "clubfooted"
+  trait = "flamboyant_schemer"
+  father = 106520
+  mother = 31091
+  1085.1.1 = {
+    birth = "1085.1.1"
+  }
+  1113.1.1 = {
+    add_spouse = 106554
+  }
+  1121.3.2 = {
+    death = "1121.3.2"
+  }
+}
+106558 = {
+  name = "フロリス"  # Floris
+  dynasty = 432
+  martial = 7
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "deceitful"
+  trait = "diligent"
+  trait = "elusive_shadow"
+  father = 206843
+  mother = 30026
+  1210.6.24 = {
+    birth = "1210.6.24"
+  }
+  1224.12.6 = {
+    add_spouse = 106557
+  }
+  1234.7.19 = {
+    death = "1234.7.19"
+  }
+}
+106570 = {
+  name = "エンモ"  # Emmo
+  dynasty = 424
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "honest"
+  trait = "arbitrary"
+  trait = "craven"
+  trait = "tough_soldier"
+  father = 106572
+  mother = 106571
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1046.1.1 = {
+    add_spouse = 31090
+  }
+  1078.1.17 = {
+    death = "1078.1.17"
+  }
+}
+106572 = {
+  name = "ヒーセルベルト"  # Giselbert
+  dynasty = 424
+  martial = 6
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 161296
+  985.1.1 = {
+    birth = "985.1.1"
+  }
+  1017.1.1 = {
+    add_spouse = 106571
+  }
+  1044.1.1 = {
+    death = "1044.1.1"
+  }
+}
+106574 = {
+  name = "オットー"  # Otto
+  dynasty = 424
+  martial = 6
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "skilled_tactician"
+  father = 106572
+  mother = 106571
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1101.1.1 = {
+    death = "1101.1.1"
+  }
+}
+106590 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 421
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "wroth"
+  trait = "charitable"
+  trait = "gluttonous"
+  trait = "tough_soldier"
+  father = 106592
+  mother = 106591
+  1025.1.2 = {
+    birth = "1025.1.2"
+  }
+  1053.1.2 = {
+    add_spouse = 106593
+  }
+  1075.1.2 = {
+    death = "1075.1.2"
+  }
+}
+106592 = {
+  name = "ルドルフ"  # Rudolf
+  dynasty = 421
+  martial = 4
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "fortune_builder"
+  father = 32202
+  1000.1.2 = {
+    birth = "1000.1.2"
+  }
+  1024.1.2 = {
+    add_spouse = 106591
+  }
+  1058.1.10 = {
+    death = "1058.1.10"
+  }
+}
+106593 = {
+  name = "オーダ"  # Oda
+  female = yes
+  martial = 8
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "temperate"
+  trait = "hunchback"
+  trait = "martial_cleric"
+  1035.1.2 = {
+    birth = "1035.1.2"
+  }
+  1085.1.2 = {
+    death = "1085.1.2"
+  }
+}
+106594 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 421
+  martial = 4
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "harelip"
+  trait = "thrifty_clerk"
+  father = 106590
+  mother = 106593
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1105.1.2 = {
+    death = "1105.1.2"
+  }
+}
+106595 = {
+  name = "ヒーセルベルト"  # Giselbert
+  dynasty = 421
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "hunchback"
+  trait = "martial_cleric"
+  father = 106590
+  mother = 106593
+  1057.1.2 = {
+    birth = "1057.1.2"
+  }
+  1107.1.2 = {
+    death = "1107.1.2"
+  }
+}
+106596 = {
+  name = "エンヘルベルト"  # Engelbert
+  dynasty = 421
+  martial = 8
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "cynical"
+  trait = "tough_soldier"
+  father = 106590
+  mother = 106593
+  1059.1.2 = {
+    birth = "1059.1.2"
+  }
+  1109.1.2 = {
+    death = "1109.1.2"
+  }
+}
+106597 = {
+  name = "リウトハルト"  # Liutgard
+  female = yes
+  dynasty = 421
+  martial = 7
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "humble"
+  trait = "martial_cleric"
+  father = 106590
+  mother = 106593
+  1060.1.2 = {
+    birth = "1060.1.2"
+  }
+  1110.1.2 = {
+    death = "1110.1.2"
+  }
+}
+106600 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "cynical"
+  trait = "amateurish_plotter"
+  father = 106602
+  mother = 106601
+  1020.1.2 = {
+    birth = "1020.1.2"
+  }
+  1040.1.2 = {
+    add_spouse = 106603
+  }
+  1078.1.1 = {
+    death = "1078.1.1"
+  }
+}
+106602 = {
+  name = "ランブレフト"  # Lambrecht
+  dynasty = 7198
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "flamboyant_schemer"
+  father = 41025
+  mother = 7999
+  995.1.1 = {
+    birth = "995.1.1"
+  }
+  1016.1.1 = {
+    add_spouse = 106601
+  }
+  1054.6.19 = {
+    death = "1054.6.19"
+  }
+}
+106603 = {
+  name = "アーデルハイト"  # Adelheid
+  female = yes
+  dynasty = 101554
+  martial = 8
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "charitable"
+  trait = "scholarly_theologian"
+  father = 161530
+  1027.1.1 = {
+    birth = "1027.1.1"
+  }
+  1086.1.1 = {
+    death = "1086.1.1"
+  }
+}
+106604 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7198
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "arbitrary"
+  trait = "hunchback"
+  trait = "thrifty_clerk"
+  father = 106600
+  mother = 106603
+  1063.1.1 = {
+    birth = "1063.1.1"
+  }
+  1108.1.1 = {
+    add_spouse = 33209
+  }
+  1139.1.25 = {
+    death = "1139.1.25"
+  }
+}
+106605 = {
+  name = "アデラ"  # Adela
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "scholarly_theologian"
+  father = 106602
+  mother = 106601
+  1040.1.2 = {
+    birth = "1040.1.2"
+  }
+  1090.1.2 = {
+    death = "1090.1.2"
+  }
+}
+106642 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7998
+  mother = 203
+  998.1.2 = {
+    birth = "998.1.2"
+  }
+  1016.1.2 = {
+    add_spouse = 106641
+  }
+  1039.1.3 = {
+    death = "1039.1.3"
+  }
+}
+106643 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 7
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "slothful"
+  trait = "skilled_tactician"
+  father = 364
+  mother = 213
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1051.1.1 = {
+    add_spouse = 106640
+  }
+  1070.7.17 = {
+    death = "1070.7.17"
+  }
+}
+1200 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 671
+  martial = 8
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "cynical"
+  trait = "tough_soldier"
+  1028.1.2 = {
+    birth = "1028.1.2"
+  }
+  1078.1.2 = {
+    death = "1078.1.2"
+  }
+}
+1202 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 671
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "cynical"
+  trait = "skilled_tactician"
+  father = 1200
+  1049.1.2 = {
+    birth = "1049.1.2"
+  }
+  1099.1.2 = {
+    death = "1099.1.2"
+  }
+}
+202960 = {
+  name = "フレスキン"  # Freskin
+  dynasty = 100040
+  martial = 5
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  1130.1.1 = {
+    birth = "1130.1.1"
+  }
+  1171.1.1 = {
+    death = "1171.1.1"
+  }
+}
+205520 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 7
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 205521
+  mother = 205945
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1169.1.1 = {
+    add_spouse = 212589
+  }
+  1195.12.17 = {
+    death = "1195.12.17"
+  }
+}
+205521 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 94015
+  mother = 30012
+  1108.1.1 = {
+    birth = "1108.1.1"
+  }
+  1130.1.1 = {
+    add_spouse = 205945
+  }
+  1171.11.8 = {
+    death = "1171.11.8"
+  }
+}
+205523 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dna = izdlkpmiyat
+  properties = ej0000000000000000
+  dynasty = 724
+  martial = 5
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  father = 205520
+  mother = 212589
+  1171.7.1 = {
+    birth = "1171.7.1"
+  }
+  1186.1.1 = {
+    add_spouse = 205965
+  }
+  1204.5.16 = {
+    name = "ボードゥアン"  # Baudouin
+    add_claim = c_mesembria
+    add_claim = c_karvuna
+    add_claim = c_tyrnovo
+    add_claim = c_strymon
+    add_claim = d_thessalonika
+    add_claim = d_athens
+    add_claim = d_epirus
+    add_claim = d_achaia
+    add_claim = d_nikaea
+    add_claim = d_samos
+    create_bloodline = {
+      type = baldouin
+      has_dlc = "Holy Fury"
+    }
+    effect = {
+      create_character = {
+        random_traits = yes
+        dynasty = random
+        religion = ROOT
+        culture = ROOT
+        female = no
+        age = 23
+        attributes = {
+          martial = 6
+        }
+        trait = tough_soldier
+      }
+      new_character = {
+        spawn_unit = {
+          province = 496
+          owner = PREV
+          troops = {
+            light_infantry = {
+              1200
+              1200
+            }
+            heavy_infantry = {
+              737
+              737
+            }
+            pikemen = {
+              237
+              237
+            }
+            archers = {
+              795
+              795
+            }
+            light_cavalry = {
+              331
+              331
+            }
+            knights = {
+              132
+              132
+            }
+          }
+        }
+      }
+      create_character = {
+        random_traits = yes
+        dynasty = random
+        religion = ROOT
+        culture = ROOT
+        female = no
+        age = 30
+        attributes = {
+          martial = 5
+        }
+        trait = tough_soldier
+      }
+      new_character = {
+        spawn_unit = {
+          province = 496
+          owner = PREV
+          troops = {
+            light_infantry = {
+              1200
+              1200
+            }
+            heavy_infantry = {
+              737
+              737
+            }
+            pikemen = {
+              237
+              237
+            }
+            archers = {
+              795
+              795
+            }
+            light_cavalry = {
+              331
+              331
+            }
+            knights = {
+              132
+              132
+            }
+          }
+        }
+      }
+      create_character = {
+        random_traits = yes
+        dynasty = random
+        religion = ROOT
+        culture = ROOT
+        female = no
+        age = 27
+        attributes = {
+          martial = 5
+        }
+        trait = tough_soldier
+      }
+      new_character = {
+        spawn_unit = {
+          province = 496
+          owner = PREV
+          troops = {
+            light_infantry = {
+              1200
+              1200
+            }
+            heavy_infantry = {
+              737
+              737
+            }
+            pikemen = {
+              237
+              237
+            }
+            archers = {
+              795
+              795
+            }
+            light_cavalry = {
+              331
+              331
+            }
+            knights = {
+              132
+              132
+            }
+          }
+        }
+      }
+    }
+  }
+  1204.5.16 = {
+    culture = "frankish"
+  }
+  1205.6.1 = {
+    death = "1205.6.1"
+  }
+}
+205529 = {
+  name = "アフネス"  # Agnes
+  female = yes
+  dynasty = 724
+  martial = 3
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "midas_touched"
+  father = 205521
+  mother = 205945
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1173.1.18 = {
+    death = "1173.1.18"
+  }
+}
+206800 = {
+  name = "ヘラルト"  # Gerard
+  dynasty = 424
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 206801
+  mother = 31548
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1179.1.1 = {
+    add_spouse = 30021
+  }
+  1191.9.2 = {
+    death = "1191.9.2"
+  }
+}
+206801 = {
+  name = "ローデヴェイク"  # Lodewijk
+  dynasty = 424
+  martial = 4
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "amateurish_plotter"
+  father = 33063
+  mother = 33064
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1143.1.1 = {
+    add_spouse = 31548
+  }
+  1171.8.11 = {
+    death = "1171.8.11"
+  }
+}
+206802 = {
+  name = "ローデヴェイク"  # Lodewijk
+  dynasty = 424
+  martial = 4
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "charitable"
+  trait = "kind"
+  trait = "tough_soldier"
+  father = 206800
+  mother = 30021
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1203.1.1 = {
+    add_spouse = 31068
+  }
+  1203.1.1 = {
+    add_claim = d_holland
+  }
+  1218.7.30 = {
+    death = "1218.7.30"
+  }
+}
+206803 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 424
+  martial = 7
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 206800
+  mother = 30021
+  1181.1.1 = {
+    birth = "1181.1.1"
+  }
+  1218.8.2 = {
+    death = "1218.8.2"
+  }
+}
+206804 = {
+  name = "ヘラルト"  # Gerard
+  dynasty = 424
+  martial = 4
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  father = 206800
+  mother = 30021
+  1183.1.1 = {
+    birth = "1183.1.1"
+  }
+  1216.10.24 = {
+    death = "1216.10.24"
+  }
+}
+206805 = {
+  name = "アルノルト"  # Arnold
+  dynasty = 424
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "kind"
+  father = 206800
+  mother = 30021
+  1185.1.1 = {
+    birth = "1185.1.1"
+  }
+  1207.1.1 = {
+    add_spouse = 7473
+  }
+  1221.9.20 = {
+    death = "1221.9.20"
+  }
+}
+206806 = {
+  name = "イマヒナ"  # Imagina
+  female = yes
+  dynasty = 424
+  martial = 5
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "scholarly_theologian"
+  father = 206801
+  mother = 31548
+  1158.1.1 = {
+    birth = "1158.1.1"
+  }
+  1214.6.5 = {
+    death = "1214.6.5"
+  }
+}
+206840 = {
+  name = "フロリス"  # Floris
+  dynasty = 432
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "proud"
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 206841
+  mother = 206845
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1162.9.28 = {
+    add_spouse = 203512
+  }
+  1187.1.1 = {
+    trait = "crusader"
+  }
+  1190.8.1 = {
+    death = "1190.8.1"
+  }
+}
+206841 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "charitable"
+  trait = "martial_cleric"
+  father = 106555
+  mother = 106554
+  1114.1.1 = {
+    birth = "1114.1.1"
+  }
+  1137.1.1 = {
+    add_spouse = 206845
+  }
+  1157.8.5 = {
+    death = "1157.8.5"
+  }
+}
+206842 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 6
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "proud"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 206840
+  mother = 203512
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1186.1.1 = {
+    add_spouse = 212924
+  }
+  1203.11.4 = {
+    death = "1203.11.4"
+  }
+}
+206843 = {
+  name = "ウィレム"  # Willem
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  father = 206840
+  mother = 203512
+  1167.1.1 = {
+    birth = yes
+  }
+  1198.1.1 = {
+    add_spouse = 30026
+  }
+  1220.7.1 = {
+    add_spouse = 106556
+  }
+  1222.2.4 = {
+    death = yes
+  }
+}
+206844 = {
+  name = "アダ"  # Ada
+  female = yes
+  dynasty = 432
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "patient"
+  trait = "charismatic_negotiator"
+  father = 206840
+  mother = 203512
+  1163.1.1 = {
+    birth = "1163.1.1"
+  }
+  1205.1.1 = {
+    death = "1205.1.1"
+  }
+}
+206847 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 432
+  martial = 4
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "humble"
+  trait = "scholarly_theologian"
+  father = 206841
+  mother = 206845
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1178.5.27 = {
+    capital = c_sticht
+  }
+  1196.4.30 = {
+    death = "1196.4.30"
+  }
+}
+206848 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 8
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "kind"
+  trait = "detached_priest"
+  father = 206841
+  mother = 206845
+  1147.1.1 = {
+    birth = "1147.1.1"
+  }
+  1197.1.1 = {
+    capital = c_sticht
+  }
+  1197.8.26 = {
+    death = "1197.8.26"
+  }
+}
+206850 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "ill"
+  trait = "thrifty_clerk"
+  father = 206851
+  mother = 206860
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1155.1.1 = {
+    add_spouse = 206870
+  }
+  1173.1.1 = {
+    add_spouse = 206806
+  }
+  1190.8.21 = {
+    death = "1190.8.21"
+  }
+}
+206851 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "kind"
+  trait = "flamboyant_schemer"
+  father = 106604
+  mother = 33209
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1140.1.1 = {
+    add_spouse = 206860
+  }
+  1142.6.13 = {
+    death = "1142.6.13"
+  }
+}
+206852 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "slothful"
+  trait = "wroth"
+  trait = "brave"
+  trait = "fortune_builder"
+  father = 206850
+  mother = 206870
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1179.1.1 = {
+    add_spouse = 205854
+  }
+  1213.4.24 = {
+    add_spouse = 91028
+  }
+  1235.9.5 = {
+    death = "1235.9.5"
+  }
+}
+206853 = {
+  name = "アダルベルト"  # Adalbert
+  dynasty = 7198
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "kind"
+  trait = "greedy"
+  trait = "martial_cleric"
+  father = 206850
+  mother = 206870
+  1166.1.1 = {
+    birth = "1166.1.1"
+  }
+  1192.11.24 = {
+    death = "1192.11.24"
+  }
+}
+206854 = {
+  name = "ウィレム"  # Willem
+  dynasty = 7198
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "hunchback"
+  trait = "thrifty_clerk"
+  father = 206850
+  mother = 206806
+  1172.1.1 = {
+    birth = "1172.1.1"
+  }
+  1224.8.1 = {
+    death = "1224.8.1"
+  }
+}
+206855 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7198
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "slothful"
+  trait = "gluttonous"
+  trait = "tough_soldier"
+  father = 206850
+  mother = 206806
+  1174.1.1 = {
+    birth = "1174.1.1"
+  }
+  1226.4.16 = {
+    death = "1226.4.16"
+  }
+}
+206857 = {
+  name = "アーデルハイト"  # Adelheid
+  female = yes
+  dynasty = 7198
+  martial = 4
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "arbitrary"
+  trait = "flamboyant_schemer"
+  father = 106604
+  mother = 33209
+  1106.1.1 = {
+    birth = "1106.1.1"
+  }
+  1151.1.22 = {
+    death = "1151.1.22"
+  }
+}
+212921 = {
+  name = "マルハレーテ"  # Margarete
+  female = yes
+  dynasty = 432
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "scholarly_theologian"
+  father = 206840
+  mother = 203512
+  1164.1.1 = {
+    birth = "1164.1.1"
+  }
+  1203.1.1 = {
+    death = "1203.1.1"
+  }
+}
+231002 = {
+  name = "クノー"  # Kuno
+  dynasty = 100081
+  martial = 8
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "gluttonous"
+  trait = "proud"
+  trait = "tough_soldier"
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+231003 = {
+  name = "メンフリート"  # Menfrid
+  dynasty = 100081
+  martial = 7
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "proud"
+  trait = "tough_soldier"
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+231004 = {
+  name = "ヴィハルト"  # Wihard
+  dynasty = 100085
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "brave"
+  trait = "just"
+  trait = "gluttonous"
+  trait = "martial_cleric"
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
   }
 }
 30010 = {
@@ -2953,6 +4054,1031 @@
     death = "1192.1.1"
   }
 }
+358 = {
+  name = "アルヌルフ"  # Arnulf
+  dynasty = 724
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  father = 90108
+  mother = 7629
+  890.1.1 = {
+    birth = "890.1.1"
+  }
+  934.1.2 = {
+    add_spouse = 359
+  }
+  964.3.28 = {
+    death = "964.3.28"
+  }
+}
+360 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 8
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "diligent"
+  trait = "wroth"
+  trait = "skilled_tactician"
+  father = 358
+  mother = 359
+  940.1.1 = {
+    birth = "940.1.1"
+  }
+  960.1.1 = {
+    add_spouse = 1411
+  }
+  962.11.1 = {
+    death = "962.11.1"
+  }
+}
+361 = {
+  name = "アルヌルフ"  # Arnulf
+  dynasty = 724
+  martial = 8
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "zealous"
+  trait = "wroth"
+  trait = "skilled_tactician"
+  father = 360
+  mother = 1411
+  961.1.1 = {
+    birth = "961.1.1"
+  }
+  980.1.1 = {
+    add_spouse = 1111
+  }
+  987.3.10 = {
+    death = "987.3.10"
+  }
+}
+362 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "craven"
+  trait = "scholarly_theologian"
+  father = 361
+  mother = 1111
+  980.1.1 = {
+    birth = "980.1.1"
+  }
+  1008.1.1 = {
+    add_spouse = 40710
+  }
+  1031.1.1 = {
+    add_spouse = 253
+  }
+  1035.5.30 = {
+    death = "1035.5.30"
+  }
+}
+363 = {
+  name = "ユーディト"  # Judith
+  female = yes
+  dynasty = 724
+  martial = 7
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "flamboyant_schemer"
+  father = 362
+  mother = 253
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1094.3.5 = {
+    death = "1094.3.5"
+  }
+}
+364 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 362
+  mother = 40710
+  1012.1.1 = {
+    birth = "1012.1.1"
+  }
+  1028.1.2 = {
+    add_spouse = 213
+  }
+  1067.9.1 = {
+    death = "1067.9.1"
+  }
+}
+366 = {
+  name = "アルヌルフ"  # Arnulf
+  dynasty = 724
+  martial = 4
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "honest"
+  trait = "gluttonous"
+  trait = "tough_soldier"
+  father = 106643
+  mother = 106640
+  1055.1.1 = {
+    birth = "1055.1.1"
+  }
+  1071.2.22 = {
+    death = "1071.2.22"
+  }
+}
+367 = {
+  name = "マティルデ"  # Mathilde
+  female = yes
+  dynasty = 724
+  martial = 4
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "dwarf"
+  trait = "chaste"
+  trait = "zealous"
+  trait = "ambitious"
+  trait = "fortune_builder"
+  father = 364
+  mother = 213
+  1032.1.1 = {
+    birth = "1032.1.1"
+  }
+  1083.11.2 = {
+    death = "1083.11.2"
+  }
+}
+368 = {
+  name = "ロブレフト"  # Robrecht
+  dynasty = 724
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 364
+  mother = 213
+  1031.1.1 = {
+    birth = "1031.1.1"
+  }
+  1063.1.1 = {
+    add_spouse = 106521
+  }
+  1093.10.13 = {
+    death = "1093.10.13"
+  }
+}
+369 = {
+  name = "アデール"  # Adele
+  female = yes
+  dynasty = 724
+  martial = 7
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "temperate"
+  father = 368
+  mother = 106521
+  1064.7.12 = {
+    birth = "1064.7.12"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+40712 = {
+  name = "アルヌルフ"  # Arnulf
+  dynasty = 432
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 106550
+  mother = 94000
+  953.1.1 = {
+    birth = "953.1.1"
+  }
+  980.5.1 = {
+    add_spouse = 40709
+  }
+  993.9.18 = {
+    death = "993.9.18"
+  }
+}
+40713 = {
+  name = "ディルク"  # Dirk
+  dynasty = 432
+  martial = 7
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 40712
+  mother = 40709
+  982.1.1 = {
+    birth = "982.1.1"
+  }
+  1014.1.1 = {
+    add_spouse = 30008
+  }
+  1039.5.27 = {
+    death = "1039.5.27"
+  }
+}
+41010 = {
+  name = "ヘールボート"  # Gherbod
+  dynasty = 747
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 9
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  1022.1.2 = {
+    birth = "1022.1.2"
+  }
+  1072.1.2 = {
+    death = "1072.1.2"
+  }
+}
+41025 = {
+  name = "ランブレフト"  # Lambrecht
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 7810
+  mother = 161488
+  950.1.2 = {
+    birth = "950.1.2"
+  }
+  994.1.1 = {
+    add_spouse = 7999
+  }
+  1015.1.1 = {
+    death = "1015.1.1"
+  }
+}
+41718 = {
+  name = "ヘラルト"  # Gerard
+  dynasty = 427
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "arbitrary"
+  trait = "tough_soldier"
+  father = 106542
+  mother = 106541
+  1030.1.2 = {
+    birth = "1030.1.2"
+  }
+  1054.1.2 = {
+    add_spouse = 30010
+  }
+  1057.1.11 = {
+    death = "1057.1.11"
+  }
+}
+41719 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 427
+  martial = 8
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  father = 41718
+  mother = 30010
+  1056.1.2 = {
+    birth = "1056.1.2"
+  }
+  1138.1.2 = {
+    death = "1138.1.2"
+  }
+}
+41720 = {
+  name = "ヘラルト"  # Gerard
+  dynasty = 427
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  father = 41718
+  mother = 30010
+  1055.1.2 = {
+    birth = "1055.1.2"
+  }
+  1087.1.2 = {
+    add_spouse = 30050
+  }
+  1129.10.16 = {
+    death = "1129.10.16"
+  }
+}
+41722 = {
+  name = "オットー"  # Otto
+  dynasty = 101918
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  trait = "honest"
+  trait = "midas_touched"
+  father = 161367
+  mother = 41721
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1090.1.1 = {
+    add_spouse = 30220
+  }
+  1113.1.2 = {
+    death = "1113.1.2"
+  }
+}
+41723 = {
+  name = "ヘーブハルト"  # Gebhard
+  dynasty = 101918
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 161367
+  mother = 41721
+  1057.1.2 = {
+    birth = "1057.1.2"
+  }
+  1107.1.2 = {
+    death = "1107.1.2"
+  }
+}
+41725 = {
+  name = "アルノルト"  # Arnold
+  dynasty = 424
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 106570
+  mother = 31090
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1081.1.1 = {
+    add_spouse = 33062
+  }
+  1126.1.1 = {
+    death = "1126.1.1"
+  }
+}
+41726 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  martial = 6
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "brave"
+  trait = "tough_soldier"
+  father = 106600
+  mother = 106603
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1094.1.1 = {
+    add_spouse = 31129
+  }
+  1095.3.1 = {
+    death = "1095.3.1"
+  }
+}
+41727 = {
+  name = "アドヴェルツ"  # Adelbert
+  dynasty = 7198
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 106600
+  mother = 106603
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+41728 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 6
+  diplomacy = 4
+  intrigue = 3
+  stewardship = 3
+  religion = "catholic"
+  culture = "dutch"
+  trait = "tough_soldier"
+  father = 106602
+  mother = 106601
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1077.1.1 = {
+    death = "1077.1.1"
+  }
+}
+456558 = {
+  name = "ソフィア"  # Sophia
+  female = yes
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 9
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  1300.1.2 = {
+    birth = "1300.1.2"
+  }
+  1329.1.2 = {
+    death = "1329.1.2"
+  }
+}
+462006 = {
+  name = "ヤン"  # Jan
+  dynasty = 101898
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "patient"
+  trait = "charitable"
+  trait = "gluttonous"
+  trait = "martial_cleric"
+  1286.1.1 = {
+    birth = "1286.1.1"
+  }
+  1340.6.1 = {
+    death = "1340.6.1"
+  }
+}
+462161 = {
+  name = "マティルデ"  # Mathilde
+  female = yes
+  dynasty = 424
+  martial = 6
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "diligent"
+  trait = "charismatic_negotiator"
+  father = 33089
+  1274.1.1 = {
+    birth = "1274.1.1"
+  }
+  1313.1.1 = {
+    death = "1313.1.1"
+  }
+}
+462166 = {
+  name = "カタリーナ"  # Katharina
+  female = yes
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "charitable"
+  trait = "scholarly_theologian"
+  1301.1.1 = {
+    birth = "1301.1.1"
+  }
+  1351.1.1 = {
+    death = "1351.1.1"
+  }
+}
+462171 = {
+  name = "エノ"  # Enno
+  dynasty = 7128
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "tough_soldier"
+  father = 30364
+  1298.1.1 = {
+    birth = "1298.1.1"
+  }
+  1348.1.1 = {
+    death = "1348.1.1"
+  }
+}
+462172 = {
+  name = "アダ"  # Adda
+  female = yes
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "wroth"
+  trait = "amateurish_plotter"
+  1302.1.1 = {
+    birth = "1302.1.1"
+  }
+  1352.1.1 = {
+    death = "1352.1.1"
+  }
+}
+462173 = {
+  name = "エタ"  # Etta
+  female = yes
+  dynasty = 7128
+  martial = 5
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 462171
+  1330.1.1 = {
+    birth = "1330.1.1"
+  }
+  1401.1.1 = {
+    death = "1401.1.1"
+  }
+}
+462742 = {
+  name = "ウィレム"  # Willem
+  dynasty = 5060
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  add_trait = "cynical"
+  add_trait = "skilled_tactician"
+  father = 94008
+  mother = 31118
+  1287.1.1 = {
+    birth = "1287.1.1"
+  }
+  1305.5.19 = {
+    add_spouse = 455501
+  }
+  1337.6.7 = {
+    death = "1337.6.7"
+  }
+}
+462931 = {
+  name = "ヨハナ"  # Johanna
+  female = yes
+  dynasty = 5060
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  trait = "flamboyant_schemer"
+  father = 462742
+  mother = 455501
+  1315.1.1 = {
+    birth = "1315.1.1"
+  }
+  1374.1.1 = {
+    death = "1374.1.1"
+  }
+}
+462941 = {
+  name = "エリサベト"  # Elisabeth
+  female = yes
+  dynasty = 7198
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "patient"
+  trait = "proud"
+  trait = "flamboyant_schemer"
+  father = 487058
+  1273.1.1 = {
+    birth = "1273.1.1"
+  }
+  1332.1.1 = {
+    death = "1332.1.1"
+  }
+}
+479 = {
+  name = "ソフィー"  # Sophie
+  female = yes
+  dynasty = 424
+  martial = 5
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "dutch"
+  father = 106570
+  mother = 31090
+  1046.1.1 = {
+    birth = "1046.1.1"
+  }
+  1075.1.1 = {
+    death = "1075.1.1"
+  }
+}
+487011 = {
+  name = "ウィレム"  # Willem
+  dynasty = 5060
+  martial = 6
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "chaste"
+  trait = "charismatic_negotiator"
+  father = 462742
+  mother = 455501
+  1307.1.1 = {
+    birth = "1307.1.1"
+  }
+  1324.1.2 = {
+    add_spouse = 487012
+  }
+  1345.9.26 = {
+    death = "1345.9.26"
+  }
+}
+487013 = {
+  name = "イサベラ"  # Isabella
+  female = yes
+  dynasty = 5060
+  martial = 4
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 462742
+  mother = 455501
+  1323.1.1 = {
+    birth = "1323.1.1"
+  }
+  1361.1.1 = {
+    death = "1361.1.1"
+  }
+}
+90108 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  martial = 5
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "dutch"
+  father = 90109
+  mother = 90110
+  865.1.1 = {
+    birth = "865.1.1"
+  }
+  889.1.1 = {
+    add_spouse = 7629
+  }
+  918.9.10 = {
+    death = "918.9.10"
+  }
+}
+90109 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  trait = "fortune_builder"
+  trait = "deceitful"
+  religion = "catholic"
+  culture = "dutch"
+  father = 168234
+  837.1.1 = {
+    birth = "837.1.1"
+  }
+  862.12.13 = {
+    add_spouse = 90110
+  }
+  879.1.1 = {
+    death = "879.1.1"
+  }
+}
+94000 = {
+  name = "ヒルデハルト"  # Hildegard
+  female = yes
+  dynasty = 724
+  religion = "catholic"
+  culture = "dutch"
+  father = 358
+  mother = 359
+  936.1.1 = {
+    birth = "936.1.1"
+  }
+  990.4.10 = {
+    death = "990.4.10"
+  }
+}
+94003 = {
+  name = "ウィレム"  # Willem
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  trait = "proud"
+  trait = "ambitious"
+  father = 106558
+  mother = 106557
+  1227.1.1 = {
+    birth = "1227.1.1"
+  }
+  1252.1.1 = {
+    add_spouse = 31093
+  }
+  1256.1.28 = {
+    death = "1256.1.28"
+  }
+}
+94005 = {
+  name = "フロリス"  # Floris
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  trait = "just"
+  trait = "kind"
+  trait = "charitable"
+  father = 94003
+  mother = 31093
+  1254.6.24 = {
+    birth = "1254.6.24"
+  }
+  1271.1.1 = {
+    add_spouse = 94006
+  }
+  1286.3.19 = {
+    add_claim = k_scotland
+  }
+  1296.6.27 = {
+    death = "1296.6.27"
+  }
+}
+94007 = {
+  name = "ヤン"  # Jan
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  trait = "ill"
+  trait = "thrifty_clerk"
+  father = 94005
+  mother = 94006
+  1284.1.1 = {
+    birth = "1284.1.1"
+  }
+  1297.1.7 = {
+    add_spouse = 454516
+  }
+  1299.11.10 = {
+    death = "1299.11.10"
+  }
+}
+94008 = {
+  name = "ヤン"  # Jan
+  dynasty = 5060
+  religion = "catholic"
+  culture = "dutch"
+  father = 94009
+  mother = 94010
+  1248.1.1 = {
+    birth = "1248.1.1"
+  }
+  1270.1.1 = {
+    add_spouse = 31118
+  }
+  1304.8.22 = {
+    death = "1304.8.22"
+  }
+}
+94010 = {
+  name = "アレイディス"  # Aleidis
+  female = yes
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  father = 106558
+  mother = 106557
+  1230.1.1 = {
+    birth = "1230.1.1"
+  }
+  1284.1.1 = {
+    death = "1284.1.1"
+  }
+}
+94014 = {
+  name = "マルハレータ"  # Margareta
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  father = 206852
+  mother = 205854
+  1192.1.1 = {
+    birth = "1192.1.1"
+  }
+  1231.1.1 = {
+    death = "1231.1.1"
+  }
+}
+94015 = {
+  name = "バウデヴェイン"  # Boudewijn
+  dynasty = 724
+  religion = "catholic"
+  culture = "dutch"
+  father = 10074
+  mother = 94017
+  1088.1.1 = {
+    birth = "1088.1.1"
+  }
+  1107.1.1 = {
+    add_spouse = 30012
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+94017 = {
+  name = "イーダ"  # Ida
+  female = yes
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 106600
+  mother = 106603
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1139.1.1 = {
+    death = "1139.1.1"
+  }
+}
+94018 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 41025
+  mother = 7999
+  998.1.1 = {
+    birth = "998.1.1"
+  }
+  1030.1.1 = {
+    death = "1030.1.1"
+  }
+}
+94019 = {
+  name = "ヘルマン"  # Herman
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 106642
+  mother = 106641
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1040.1.1 = {
+    add_spouse = 106640
+  }
+  1051.1.1 = {
+    death = "1051.1.1"
+  }
+}
+94021 = {
+  name = "ヨハナ"  # Johanna
+  female = yes
+  dynasty = 724
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  father = 205523
+  mother = 205965
+  1194.1.1 = {
+    birth = "1194.1.1"
+  }
+  1244.12.5 = {
+    death = "1244.12.5"
+  }
+}
+94022 = {
+  name = "オットー"  # Otto
+  dynasty = 432
+  religion = "catholic"
+  culture = "dutch"
+  father = 206843
+  mother = 30026
+  1211.7.1 = {
+    birth = "1211.7.1"
+  }
+  1227.8.1 = {
+    capital = c_sticht
+  }
+  1249.3.27 = {
+    death = "1249.3.27"
+  }
+}
+94023 = {
+  name = "フヴェイデ"  # Gwijde
+  dynasty = 5060
+  religion = "catholic"
+  culture = "dutch"
+  father = 94009
+  mother = 94010
+  1253.1.1 = {
+    birth = "1253.1.1"
+  }
+  1317.5.23 = {
+    death = "1317.5.23"
+  }
+}
 31350 = {
   name = "アーヒニトゥルーデ"  # Aginitrude
   female = yes
@@ -3094,6 +5220,257 @@
   }
   1153.1.1 = {
     death = "1153.1.1"
+  }
+}
+33188 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  trait = "imbecile"
+  father = 487056
+  mother = 33189
+  1253.1.1 = {
+    birth = "1253.1.1"
+  }
+  1272.1.21 = {
+    death = "1272.1.21"
+  }
+}
+33190 = {
+  name = "ホゼリン"  # Gozelin
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  trait = "bastard"
+  father = 106604
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+33191 = {
+  name = "ヤン"  # Jan
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  trait = "bastard"
+  father = 487040
+  1290.1.1 = {
+    birth = "1290.1.1"
+  }
+  1361.1.27 = {
+    death = "1361.1.27"
+  }
+}
+33192 = {
+  name = "アルナウト"  # Arnoud
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1060.1.1 = {
+    death = "1060.1.1"
+  }
+}
+33193 = {
+  name = "アルナウト"  # Arnoud
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33192
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+33194 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33193
+  1088.1.1 = {
+    birth = "1088.1.1"
+  }
+  1139.1.1 = {
+    death = "1139.1.1"
+  }
+}
+33195 = {
+  name = "アルナウト"  # Arnoud
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33193
+  1082.1.1 = {
+    birth = "1082.1.1"
+  }
+  1136.1.1 = {
+    death = "1136.1.1"
+  }
+}
+33196 = {
+  name = "アルナウト"  # Arnoud
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33195
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1152.1.1 = {
+    death = "1152.1.1"
+  }
+}
+33197 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33196
+  1135.1.1 = {
+    birth = "1135.1.1"
+  }
+  1174.1.1 = {
+    death = "1174.1.1"
+  }
+}
+33198 = {
+  name = "カレル"  # Karel
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33197
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+33199 = {
+  name = "カレル"  # Karel
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33198
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1245.1.1 = {
+    death = "1245.1.1"
+  }
+}
+33200 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33199
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1267.1.1 = {
+    death = "1267.1.1"
+  }
+}
+33201 = {
+  name = "カレル"  # Karel
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33200
+  1230.1.1 = {
+    birth = "1230.1.1"
+  }
+  1272.1.1 = {
+    death = "1272.1.1"
+  }
+}
+33202 = {
+  name = "カレル"  # Karel
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33201
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1339.12.3 = {
+    death = "1339.12.3"
+  }
+}
+33203 = {
+  name = "カレル"  # Karel
+  dynasty = 7280
+  religion = "catholic"
+  culture = "dutch"
+  father = 33202
+  1295.1.1 = {
+    birth = "1295.1.1"
+  }
+  1354.1.1 = {
+    death = "1354.1.1"
+  }
+}
+33210 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 106604
+  mother = 33209
+  1109.1.1 = {
+    birth = "1109.1.1"
+  }
+  1141.9.27 = {
+    death = "1141.9.27"
+  }
+}
+33215 = {
+  name = "オットー"  # Otto
+  dynasty = 427
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 33100
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1196.1.1 = {
+    death = "1196.1.1"
+  }
+}
+33216 = {
+  name = "アルブレフト"  # Albrecht
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.2.1 = {
+    death = "1200.2.1"
+  }
+}
+33221 = {
+  name = "ウィレム"  # Willem
+  dynasty = 7175
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1295.1.1 = {
+    death = "1295.1.1"
   }
 }
 33060 = {
@@ -3671,255 +6048,589 @@
     death = "1200.1.1"
   }
 }
-33188 = {
+106556 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 206852
+  mother = 205854
+  1180.1.1 = {
+    birth = yes
+  }
+  1260.6.1 = {
+    death = yes
+  }
+}
+7473 = {
+  name = "アーデルハイト"  # Adelheid
+  female = yes
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 206852
+  mother = 205854
+  1191.1.1 = {
+    birth = "1191.1.1"
+  }
+  1261.1.1 = {
+    death = "1261.1.1"
+  }
+}
+106557 = {
+  name = "マティルデ"  # Mathilde
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 3
+  religion = "catholic"
+  culture = "dutch"
+  trait = "misguided_warrior"
+  father = 206852
+  mother = 205854
+  1200.1.1 = {
+    birth = "1200.1.1"
+  }
+  1267.12.22 = {
+    death = "1267.12.22"
+  }
+}
+455408 = {
+  name = "マティルデ"  # Mathilde
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 487057
+  mother = 7651
+  1224.1.1 = {
+    birth = "1224.1.1"
+  }
+  1288.1.1 = {
+    death = "1288.1.1"
+  }
+}
+487046 = {
   name = "ヘンドリク"  # Hendrik
   dynasty = 7198
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 5
   religion = "catholic"
   culture = "dutch"
-  trait = "imbecile"
-  father = 487056
-  mother = 33189
-  1253.1.1 = {
-    birth = "1253.1.1"
+  trait = "thrifty_clerk"
+  father = 487044
+  mother = 487045
+  1328.1.1 = {
+    birth = "1328.1.1"
   }
-  1272.1.21 = {
-    death = "1272.1.21"
+  1349.1.1 = {
+    death = "1349.1.1"
   }
 }
-33190 = {
-  name = "ホゼリン"  # Gozelin
+487048 = {
+  name = "ホードフリート"  # Godfried
   dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 487044
+  mother = 487045
+  1329.1.1 = {
+    birth = "1329.1.1"
+  }
+  1352.1.1 = {
+    death = "1352.1.1"
+  }
+}
+487050 = {
+  name = "マルハレータ"  # Margareta
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "envious"
+  trait = "thrifty_clerk"
+  father = 487044
+  mother = 487045
+  1323.1.1 = {
+    birth = "1323.1.1"
+  }
+  1368.1.1 = {
+    death = "1368.1.1"
+  }
+}
+487051 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 7198
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 487044
+  mother = 487045
+  1325.1.1 = {
+    birth = "1325.1.1"
+  }
+  1399.1.1 = {
+    death = "1399.1.1"
+  }
+}
+487052 = {
+  name = "ウィレム"  # Willem
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
   religion = "catholic"
   culture = "dutch"
   trait = "bastard"
-  father = 106604
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-33191 = {
-  name = "ヤン"  # Jan
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  trait = "bastard"
-  father = 487040
-  1290.1.1 = {
-    birth = "1290.1.1"
-  }
-  1361.1.27 = {
-    death = "1361.1.27"
-  }
-}
-33192 = {
-  name = "アルナウト"  # Arnoud
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1060.1.1 = {
-    death = "1060.1.1"
-  }
-}
-33193 = {
-  name = "アルナウト"  # Arnoud
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33192
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
-33194 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33193
-  1088.1.1 = {
-    birth = "1088.1.1"
-  }
-  1139.1.1 = {
-    death = "1139.1.1"
-  }
-}
-33195 = {
-  name = "アルナウト"  # Arnoud
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33193
-  1082.1.1 = {
-    birth = "1082.1.1"
-  }
-  1136.1.1 = {
-    death = "1136.1.1"
-  }
-}
-33196 = {
-  name = "アルナウト"  # Arnoud
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33195
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1152.1.1 = {
-    death = "1152.1.1"
-  }
-}
-33197 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33196
-  1135.1.1 = {
-    birth = "1135.1.1"
-  }
-  1174.1.1 = {
-    death = "1174.1.1"
-  }
-}
-33198 = {
-  name = "カレル"  # Karel
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33197
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-33199 = {
-  name = "カレル"  # Karel
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33198
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1245.1.1 = {
-    death = "1245.1.1"
-  }
-}
-33200 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33199
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1267.1.1 = {
-    death = "1267.1.1"
-  }
-}
-33201 = {
-  name = "カレル"  # Karel
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33200
-  1230.1.1 = {
-    birth = "1230.1.1"
-  }
-  1272.1.1 = {
-    death = "1272.1.1"
-  }
-}
-33202 = {
-  name = "カレル"  # Karel
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33201
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1339.12.3 = {
-    death = "1339.12.3"
-  }
-}
-33203 = {
-  name = "カレル"  # Karel
-  dynasty = 7280
-  religion = "catholic"
-  culture = "dutch"
-  father = 33202
-  1295.1.1 = {
-    birth = "1295.1.1"
+  trait = "martial_cleric"
+  father = 487044
+  mother = 487045
+  1329.1.1 = {
+    birth = "1329.1.1"
   }
   1354.1.1 = {
     death = "1354.1.1"
   }
 }
-33210 = {
+487053 = {
+  name = "ヤン"  # Jan
+  dynasty = 7198
+  martial = 8
+  diplomacy = 2
+  intrigue = 9
+  stewardship = 3
+  religion = "catholic"
+  culture = "dutch"
+  trait = "bastard"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 487044
+  mother = 487045
+  1329.1.1 = {
+    birth = "1329.1.1"
+  }
+  1354.1.1 = {
+    death = "1354.1.1"
+  }
+}
+487054 = {
+  name = "ヨハナ"  # Johanna
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "bastard"
+  trait = "thrifty_clerk"
+  father = 487044
+  1332.1.1 = {
+    birth = "1332.1.1"
+  }
+  1411.1.1 = {
+    death = "1411.1.1"
+  }
+}
+487055 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 7198
+  martial = 6
+  diplomacy = 3
+  intrigue = 5
+  stewardship = 3
+  religion = "catholic"
+  culture = "dutch"
+  trait = "martial_cleric"
+  father = 487040
+  mother = 487041
+  1279.1.1 = {
+    birth = "1279.1.1"
+  }
+  1338.11.2 = {
+    death = "1338.11.2"
+  }
+}
+487056 = {
   name = "ヘンドリク"  # Hendrik
   dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 3
   religion = "catholic"
   culture = "dutch"
-  father = 106604
-  mother = 33209
-  1109.1.1 = {
-    birth = "1109.1.1"
+  trait = "misguided_warrior"
+  father = 487057
+  mother = 7651
+  1231.1.1 = {
+    birth = "1231.1.1"
   }
-  1141.9.27 = {
-    death = "1141.9.27"
+  1251.1.1 = {
+    add_spouse = 33189
+  }
+  1261.2.28 = {
+    death = "1261.2.28"
   }
 }
-33215 = {
-  name = "オットー"  # Otto
-  dynasty = 427
+487057 = {
+  name = "ヘンドリク"  # Hendrik
+  dynasty = 7198
+  martial = 7
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
   religion = "catholic"
   culture = "dutch"
-  trait = "martial_cleric"
-  father = 33100
-  1150.1.1 = {
-    birth = "1150.1.1"
+  trait = "skilled_tactician"
+  father = 206852
+  mother = 205854
+  1207.1.1 = {
+    birth = "1207.1.1"
   }
-  1196.1.1 = {
-    death = "1196.1.1"
+  1223.1.1 = {
+    add_spouse = 7651
+  }
+  1241.1.1 = {
+    add_spouse = 33389
+  }
+  1248.2.1 = {
+    death = "1248.2.1"
   }
 }
-33216 = {
-  name = "アルブレフト"  # Albrecht
+487058 = {
+  name = "ホードフリート"  # Godfried
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 3
   religion = "catholic"
   culture = "dutch"
-  trait = "martial_cleric"
-  1150.1.1 = {
-    birth = "1150.1.1"
+  trait = "misguided_warrior"
+  father = 487056
+  mother = 33189
+  1256.1.1 = {
+    birth = "1256.1.1"
   }
-  1200.2.1 = {
-    death = "1200.2.1"
+  1302.7.11 = {
+    death = "1302.7.11"
   }
 }
-33221 = {
-  name = "ウィレム"  # Willem
-  dynasty = 7175
+106640 = {
+  name = "リヒルデ"  # Richilde
+  female = yes
+  dynasty = 7198
+  martial = 4
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 5
   religion = "catholic"
   culture = "dutch"
-  trait = "martial_cleric"
-  1240.1.1 = {
-    birth = "1240.1.1"
+  father = 94018
+  1021.1.1 = {
+    birth = "1021.1.1"
   }
-  1295.1.1 = {
-    death = "1295.1.1"
+  1086.3.15 = {
+    death = "1086.3.15"
+  }
+}
+455530 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 487056
+  mother = 33189
+  1256.1.1 = {
+    birth = "1256.1.1"
+  }
+  1322.1.12 = {
+    death = "1322.1.12"
+  }
+}
+487012 = {
+  name = "ヨハナ"  # Johanna
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "thrifty_clerk"
+  father = 487044
+  mother = 487045
+  1322.6.24 = {
+    birth = "1322.6.24"
+  }
+  1406.12.1 = {
+    death = "1406.12.1"
+  }
+}
+487040 = {
+  name = "ヤン"  # Jan
+  dynasty = 7198
+  martial = 9
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 3
+  religion = "catholic"
+  culture = "dutch"
+  trait = "skilled_tactician"
+  father = 487056
+  mother = 33189
+  1254.1.1 = {
+    birth = "1254.1.1"
+  }
+  1273.1.2 = {
+    add_spouse = 487041
+  }
+  1294.5.3 = {
+    death = "1294.5.3"
+  }
+}
+487042 = {
+  name = "ヤン"  # Jan
+  dynasty = 7198
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "underhanded_rogue"
+  father = 487040
+  mother = 487041
+  1275.9.27 = {
+    birth = "1275.9.27"
+  }
+  1290.7.8 = {
+    add_spouse = 487043
+  }
+  1312.10.27 = {
+    death = "1312.10.27"
+  }
+}
+487044 = {
+  name = "ヤン"  # Jan
+  dynasty = 7198
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "dutch"
+  trait = "lustful"
+  trait = "underhanded_rogue"
+  father = 487042
+  mother = 487043
+  1300.10.20 = {
+    birth = "1300.10.20"
+  }
+  1316.12.1 = {
+    add_spouse = 487045
+  }
+  1355.12.5 = {
+    death = "1355.12.5"
+  }
+}
+7810 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7811
+  910.1.1 = {
+    birth = "910.1.1"
+  }
+  946.1.1 = {
+    add_spouse = 161488
+  }
+  973.1.1 = {
+    death = "973.1.1"
+  }
+}
+7811 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7812
+  880.1.1 = {
+    birth = "880.1.1"
+  }
+  932.1.1 = {
+    death = "932.1.1"
+  }
+}
+7812 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7815
+  mother = 7814
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  915.1.1 = {
+    death = "915.1.1"
+  }
+}
+7813 = {
+  name = "ヒーセルベルト"  # Giselbert
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7812
+  879.1.1 = {
+    birth = "879.1.1"
+    effect = {
+      set_character_flag = is_giselbert
+    }
+  }
+  929.1.1 = {
+    add_spouse = 1289
+  }
+  939.10.2 = {
+    death = "939.10.2"
+  }
+}
+7815 = {
+  name = "ヒーセルベルト"  # Giselbert
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  821.1.1 = {
+    birth = "821.1.1"
+  }
+  846.1.1 = {
+    add_spouse = 7814
+  }
+  892.1.1 = {
+    death = "892.1.1"
+  }
+}
+7998 = {
+  name = "レヒナル"  # Reginar
+  dynasty = 7198
+  martial = 7
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 7810
+  mother = 161488
+  947.1.1 = {
+    birth = "947.1.1"
+  }
+  996.1.1 = {
+    add_spouse = 203
+  }
+  1013.1.1 = {
+    death = "1013.1.1"
+  }
+}
+455932 = {
+  name = "ブランヘ"  # Blanche
+  female = yes
+  dynasty = 7198
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  learning = 5
+  religion = "catholic"
+  culture = "dutch"
+  trait = "amateurish_plotter"
+  father = 487058
+  1290.1.1 = {
+    birth = "1290.1.1"
+  }
+  1337.1.29 = {
+    death = "1337.1.29"
+  }
+}
+129001 = {
+  name = "アーデルハイト"  # Adelheid
+  dynasty = 7198
+  female = yes
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "dutch"
+  father = 41726
+  mother = 31129
+  1095.1.1 = {
+    birth = "1095.1.1"
+  }
+  1158.1.1 = {
+    death = "1158.1.1"
   }
 }
 33388 = {
@@ -4136,1292 +6847,6 @@
     death = "1374.1.1"
   }
 }
-40712 = {
-  name = "アルヌルフ"  # Arnulf
-  dynasty = 432
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 106550
-  mother = 94000
-  953.1.1 = {
-    birth = "953.1.1"
-  }
-  980.5.1 = {
-    add_spouse = 40709
-  }
-  993.9.18 = {
-    death = "993.9.18"
-  }
-}
-40713 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 7
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 40712
-  mother = 40709
-  982.1.1 = {
-    birth = "982.1.1"
-  }
-  1014.1.1 = {
-    add_spouse = 30008
-  }
-  1039.5.27 = {
-    death = "1039.5.27"
-  }
-}
-41010 = {
-  name = "ヘールボート"  # Gherbod
-  dynasty = 747
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 9
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  1022.1.2 = {
-    birth = "1022.1.2"
-  }
-  1072.1.2 = {
-    death = "1072.1.2"
-  }
-}
-41025 = {
-  name = "ランブレフト"  # Lambrecht
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 7810
-  mother = 161488
-  950.1.2 = {
-    birth = "950.1.2"
-  }
-  994.1.1 = {
-    add_spouse = 7999
-  }
-  1015.1.1 = {
-    death = "1015.1.1"
-  }
-}
-41718 = {
-  name = "ヘラルト"  # Gerard
-  dynasty = 427
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "arbitrary"
-  trait = "tough_soldier"
-  father = 106542
-  mother = 106541
-  1030.1.2 = {
-    birth = "1030.1.2"
-  }
-  1054.1.2 = {
-    add_spouse = 30010
-  }
-  1057.1.11 = {
-    death = "1057.1.11"
-  }
-}
-41719 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 427
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 41718
-  mother = 30010
-  1056.1.2 = {
-    birth = "1056.1.2"
-  }
-  1138.1.2 = {
-    death = "1138.1.2"
-  }
-}
-41720 = {
-  name = "ヘラルト"  # Gerard
-  dynasty = 427
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 41718
-  mother = 30010
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1087.1.2 = {
-    add_spouse = 30050
-  }
-  1129.10.16 = {
-    death = "1129.10.16"
-  }
-}
-41722 = {
-  name = "オットー"  # Otto
-  dynasty = 101918
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "honest"
-  trait = "midas_touched"
-  father = 161367
-  mother = 41721
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1090.1.1 = {
-    add_spouse = 30220
-  }
-  1113.1.2 = {
-    death = "1113.1.2"
-  }
-}
-41723 = {
-  name = "ヘーブハルト"  # Gebhard
-  dynasty = 101918
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 161367
-  mother = 41721
-  1057.1.2 = {
-    birth = "1057.1.2"
-  }
-  1107.1.2 = {
-    death = "1107.1.2"
-  }
-}
-41725 = {
-  name = "アルノルト"  # Arnold
-  dynasty = 424
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 106570
-  mother = 31090
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1081.1.1 = {
-    add_spouse = 33062
-  }
-  1126.1.1 = {
-    death = "1126.1.1"
-  }
-}
-41726 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 6
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 106600
-  mother = 106603
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1094.1.1 = {
-    add_spouse = 31129
-  }
-  1095.3.1 = {
-    death = "1095.3.1"
-  }
-}
-41727 = {
-  name = "アドヴェルツ"  # Adelbert
-  dynasty = 7198
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 106600
-  mother = 106603
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1128.1.1 = {
-    death = "1128.1.1"
-  }
-}
-41728 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 6
-  diplomacy = 4
-  intrigue = 3
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 106602
-  mother = 106601
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1077.1.1 = {
-    death = "1077.1.1"
-  }
-}
-90108 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 5
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  father = 90109
-  mother = 90110
-  865.1.1 = {
-    birth = "865.1.1"
-  }
-  889.1.1 = {
-    add_spouse = 7629
-  }
-  918.9.10 = {
-    death = "918.9.10"
-  }
-}
-90109 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  trait = "fortune_builder"
-  trait = "deceitful"
-  religion = "catholic"
-  culture = "dutch"
-  father = 168234
-  837.1.1 = {
-    birth = "837.1.1"
-  }
-  862.12.13 = {
-    add_spouse = 90110
-  }
-  879.1.1 = {
-    death = "879.1.1"
-  }
-}
-94000 = {
-  name = "ヒルデハルト"  # Hildegard
-  female = yes
-  dynasty = 724
-  religion = "catholic"
-  culture = "dutch"
-  father = 358
-  mother = 359
-  936.1.1 = {
-    birth = "936.1.1"
-  }
-  990.4.10 = {
-    death = "990.4.10"
-  }
-}
-94003 = {
-  name = "ウィレム"  # Willem
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  trait = "proud"
-  trait = "ambitious"
-  father = 106558
-  mother = 106557
-  1227.1.1 = {
-    birth = "1227.1.1"
-  }
-  1252.1.1 = {
-    add_spouse = 31093
-  }
-  1256.1.28 = {
-    death = "1256.1.28"
-  }
-}
-94005 = {
-  name = "フロリス"  # Floris
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "kind"
-  trait = "charitable"
-  father = 94003
-  mother = 31093
-  1254.6.24 = {
-    birth = "1254.6.24"
-  }
-  1271.1.1 = {
-    add_spouse = 94006
-  }
-  1286.3.19 = {
-    add_claim = k_scotland
-  }
-  1296.6.27 = {
-    death = "1296.6.27"
-  }
-}
-94007 = {
-  name = "ヤン"  # Jan
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  trait = "ill"
-  trait = "thrifty_clerk"
-  father = 94005
-  mother = 94006
-  1284.1.1 = {
-    birth = "1284.1.1"
-  }
-  1297.1.7 = {
-    add_spouse = 454516
-  }
-  1299.11.10 = {
-    death = "1299.11.10"
-  }
-}
-94008 = {
-  name = "ヤン"  # Jan
-  dynasty = 5060
-  religion = "catholic"
-  culture = "dutch"
-  father = 94009
-  mother = 94010
-  1248.1.1 = {
-    birth = "1248.1.1"
-  }
-  1270.1.1 = {
-    add_spouse = 31118
-  }
-  1304.8.22 = {
-    death = "1304.8.22"
-  }
-}
-94010 = {
-  name = "アレイディス"  # Aleidis
-  female = yes
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  father = 106558
-  mother = 106557
-  1230.1.1 = {
-    birth = "1230.1.1"
-  }
-  1284.1.1 = {
-    death = "1284.1.1"
-  }
-}
-94014 = {
-  name = "マルハレータ"  # Margareta
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 206852
-  mother = 205854
-  1192.1.1 = {
-    birth = "1192.1.1"
-  }
-  1231.1.1 = {
-    death = "1231.1.1"
-  }
-}
-94015 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  religion = "catholic"
-  culture = "dutch"
-  father = 10074
-  mother = 94017
-  1088.1.1 = {
-    birth = "1088.1.1"
-  }
-  1107.1.1 = {
-    add_spouse = 30012
-  }
-  1120.1.1 = {
-    death = "1120.1.1"
-  }
-}
-94017 = {
-  name = "イーダ"  # Ida
-  female = yes
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 106600
-  mother = 106603
-  1064.1.1 = {
-    birth = "1064.1.1"
-  }
-  1139.1.1 = {
-    death = "1139.1.1"
-  }
-}
-94018 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 41025
-  mother = 7999
-  998.1.1 = {
-    birth = "998.1.1"
-  }
-  1030.1.1 = {
-    death = "1030.1.1"
-  }
-}
-94019 = {
-  name = "ヘルマン"  # Herman
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 106642
-  mother = 106641
-  1020.1.1 = {
-    birth = "1020.1.1"
-  }
-  1040.1.1 = {
-    add_spouse = 106640
-  }
-  1051.1.1 = {
-    death = "1051.1.1"
-  }
-}
-94021 = {
-  name = "ヨハナ"  # Johanna
-  female = yes
-  dynasty = 724
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  father = 205523
-  mother = 205965
-  1194.1.1 = {
-    birth = "1194.1.1"
-  }
-  1244.12.5 = {
-    death = "1244.12.5"
-  }
-}
-94022 = {
-  name = "オットー"  # Otto
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  father = 206843
-  mother = 30026
-  1211.7.1 = {
-    birth = "1211.7.1"
-  }
-  1227.8.1 = {
-    capital = c_sticht
-  }
-  1249.3.27 = {
-    death = "1249.3.27"
-  }
-}
-94023 = {
-  name = "フヴェイデ"  # Gwijde
-  dynasty = 5060
-  religion = "catholic"
-  culture = "dutch"
-  father = 94009
-  mother = 94010
-  1253.1.1 = {
-    birth = "1253.1.1"
-  }
-  1317.5.23 = {
-    death = "1317.5.23"
-  }
-}
-106520 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 6
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "cynical"
-  trait = "tough_soldier"
-  father = 106522
-  mother = 106521
-  1054.1.1 = {
-    birth = "1054.1.1"
-  }
-  1083.1.1 = {
-    add_spouse = 31091
-  }
-  1091.6.17 = {
-    death = "1091.6.17"
-  }
-}
-106522 = {
-  name = "フロリス"  # Floris
-  dynasty = 432
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "slothful"
-  trait = "temperate"
-  trait = "clubfooted"
-  trait = "flamboyant_schemer"
-  father = 40713
-  mother = 30008
-  1017.1.1 = {
-    birth = "1017.1.1"
-  }
-  1046.1.1 = {
-    add_spouse = 106521
-  }
-  1061.6.28 = {
-    death = "1061.6.28"
-  }
-}
-106523 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "slothful"
-  trait = "temperate"
-  trait = "clubfooted"
-  trait = "flamboyant_schemer"
-  father = 40713
-  mother = 30008
-  1016.1.1 = {
-    birth = "1016.1.1"
-  }
-  1049.1.13 = {
-    death = "1049.1.13"
-  }
-}
-106524 = {
-  name = "ベルタ"  # Bertha
-  female = yes
-  dynasty = 432
-  martial = 8
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "hunchback"
-  trait = "stutter"
-  trait = "thrifty_clerk"
-  father = 106522
-  mother = 106521
-  1055.1.1 = {
-    birth = "1055.1.1"
-  }
-  1094.1.1 = {
-    death = "1094.1.1"
-  }
-}
-106529 = {
-  name = "メフティルト"  # Mechthild
-  female = yes
-  dynasty = 432
-  martial = 6
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 106522
-  mother = 106521
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1095.1.1 = {
-    death = "1095.1.1"
-  }
-}
-106530 = {
-  name = "ウィレム"  # Willem
-  dynasty = 427
-  martial = 6
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  father = 30053
-  1030.1.2 = {
-    birth = "1030.1.2"
-  }
-  1076.4.27 = {
-    death = "1076.4.27"
-  }
-}
-106531 = {
-  name = "アデラ"  # Adela
-  female = yes
-  dynasty = 432
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 106522
-  mother = 106521
-  1055.1.1 = {
-    birth = "1055.1.1"
-  }
-  1085.1.1 = {
-    death = "1085.1.1"
-  }
-}
-106540 = {
-  name = "ディーデリク"  # Diederik
-  dynasty = 427
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "honest"
-  trait = "arbitrary"
-  trait = "craven"
-  trait = "flamboyant_schemer"
-  father = 106542
-  mother = 106541
-  1035.1.2 = {
-    birth = "1035.1.2"
-  }
-  1054.1.2 = {
-    add_spouse = 106543
-  }
-  1082.10.19 = {
-    death = "1082.10.19"
-  }
-}
-106542 = {
-  name = "ヘラルト"  # Gerard
-  dynasty = 427
-  martial = 7
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "skilled_tactician"
-  father = 30053
-  mother = 30054
-  1012.1.2 = {
-    birth = "1012.1.2"
-  }
-  1029.1.2 = {
-    add_spouse = 106541
-  }
-  1053.1.7 = {
-    death = "1053.1.7"
-  }
-}
-106544 = {
-  name = "ホーゼヴェイン"  # Gozewijn
-  dynasty = 427
-  martial = 7
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 106540
-  mother = 106543
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1104.1.1 = {
-    death = "1104.1.1"
-  }
-}
-106550 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 106551
-  920.1.1 = {
-    birth = "920.1.1"
-  }
-  952.1.1 = {
-    add_spouse = 94000
-  }
-  988.5.6 = {
-    death = "988.5.6"
-  }
-}
-106551 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 31060
-  867.1.1 = {
-    birth = "867.1.1"
-  }
-  939.1.1 = {
-    death = "939.1.1"
-  }
-}
-106555 = {
-  name = "フロリス"  # Floris
-  dynasty = 432
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "slothful"
-  trait = "temperate"
-  trait = "clubfooted"
-  trait = "flamboyant_schemer"
-  father = 106520
-  mother = 31091
-  1085.1.1 = {
-    birth = "1085.1.1"
-  }
-  1113.1.1 = {
-    add_spouse = 106554
-  }
-  1121.3.2 = {
-    death = "1121.3.2"
-  }
-}
-106556 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 206852
-  mother = 205854
-  1180.1.1 = {
-    birth = yes
-  }
-  1260.6.1 = {
-    death = yes
-  }
-}
-106557 = {
-  name = "マティルデ"  # Mathilde
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "misguided_warrior"
-  father = 206852
-  mother = 205854
-  1200.1.1 = {
-    birth = "1200.1.1"
-  }
-  1267.12.22 = {
-    death = "1267.12.22"
-  }
-}
-106558 = {
-  name = "フロリス"  # Floris
-  dynasty = 432
-  martial = 7
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "deceitful"
-  trait = "diligent"
-  trait = "elusive_shadow"
-  father = 206843
-  mother = 30026
-  1210.6.24 = {
-    birth = "1210.6.24"
-  }
-  1224.12.6 = {
-    add_spouse = 106557
-  }
-  1234.7.19 = {
-    death = "1234.7.19"
-  }
-}
-106570 = {
-  name = "エンモ"  # Emmo
-  dynasty = 424
-  martial = 5
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "honest"
-  trait = "arbitrary"
-  trait = "craven"
-  trait = "tough_soldier"
-  father = 106572
-  mother = 106571
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1046.1.1 = {
-    add_spouse = 31090
-  }
-  1078.1.17 = {
-    death = "1078.1.17"
-  }
-}
-106572 = {
-  name = "ヒーセルベルト"  # Giselbert
-  dynasty = 424
-  martial = 6
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 161296
-  985.1.1 = {
-    birth = "985.1.1"
-  }
-  1017.1.1 = {
-    add_spouse = 106571
-  }
-  1044.1.1 = {
-    death = "1044.1.1"
-  }
-}
-106574 = {
-  name = "オットー"  # Otto
-  dynasty = 424
-  martial = 6
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "skilled_tactician"
-  father = 106572
-  mother = 106571
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1101.1.1 = {
-    death = "1101.1.1"
-  }
-}
-106590 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 421
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "wroth"
-  trait = "charitable"
-  trait = "gluttonous"
-  trait = "tough_soldier"
-  father = 106592
-  mother = 106591
-  1025.1.2 = {
-    birth = "1025.1.2"
-  }
-  1053.1.2 = {
-    add_spouse = 106593
-  }
-  1075.1.2 = {
-    death = "1075.1.2"
-  }
-}
-106592 = {
-  name = "ルドルフ"  # Rudolf
-  dynasty = 421
-  martial = 4
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "fortune_builder"
-  father = 32202
-  1000.1.2 = {
-    birth = "1000.1.2"
-  }
-  1024.1.2 = {
-    add_spouse = 106591
-  }
-  1058.1.10 = {
-    death = "1058.1.10"
-  }
-}
-106593 = {
-  name = "オーダ"  # Oda
-  female = yes
-  martial = 8
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "temperate"
-  trait = "hunchback"
-  trait = "martial_cleric"
-  1035.1.2 = {
-    birth = "1035.1.2"
-  }
-  1085.1.2 = {
-    death = "1085.1.2"
-  }
-}
-106594 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 421
-  martial = 4
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "harelip"
-  trait = "thrifty_clerk"
-  father = 106590
-  mother = 106593
-  1055.1.2 = {
-    birth = "1055.1.2"
-  }
-  1105.1.2 = {
-    death = "1105.1.2"
-  }
-}
-106595 = {
-  name = "ヒーセルベルト"  # Giselbert
-  dynasty = 421
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "hunchback"
-  trait = "martial_cleric"
-  father = 106590
-  mother = 106593
-  1057.1.2 = {
-    birth = "1057.1.2"
-  }
-  1107.1.2 = {
-    death = "1107.1.2"
-  }
-}
-106596 = {
-  name = "エンヘルベルト"  # Engelbert
-  dynasty = 421
-  martial = 8
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "cynical"
-  trait = "tough_soldier"
-  father = 106590
-  mother = 106593
-  1059.1.2 = {
-    birth = "1059.1.2"
-  }
-  1109.1.2 = {
-    death = "1109.1.2"
-  }
-}
-106597 = {
-  name = "リウトハルト"  # Liutgard
-  female = yes
-  dynasty = 421
-  martial = 7
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "humble"
-  trait = "martial_cleric"
-  father = 106590
-  mother = 106593
-  1060.1.2 = {
-    birth = "1060.1.2"
-  }
-  1110.1.2 = {
-    death = "1110.1.2"
-  }
-}
-106600 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "cynical"
-  trait = "amateurish_plotter"
-  father = 106602
-  mother = 106601
-  1020.1.2 = {
-    birth = "1020.1.2"
-  }
-  1040.1.2 = {
-    add_spouse = 106603
-  }
-  1078.1.1 = {
-    death = "1078.1.1"
-  }
-}
-106602 = {
-  name = "ランブレフト"  # Lambrecht
-  dynasty = 7198
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "flamboyant_schemer"
-  father = 41025
-  mother = 7999
-  995.1.1 = {
-    birth = "995.1.1"
-  }
-  1016.1.1 = {
-    add_spouse = 106601
-  }
-  1054.6.19 = {
-    death = "1054.6.19"
-  }
-}
-106603 = {
-  name = "アーデルハイト"  # Adelheid
-  female = yes
-  dynasty = 101554
-  martial = 8
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "charitable"
-  trait = "scholarly_theologian"
-  father = 161530
-  1027.1.1 = {
-    birth = "1027.1.1"
-  }
-  1086.1.1 = {
-    death = "1086.1.1"
-  }
-}
-106604 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "arbitrary"
-  trait = "hunchback"
-  trait = "thrifty_clerk"
-  father = 106600
-  mother = 106603
-  1063.1.1 = {
-    birth = "1063.1.1"
-  }
-  1108.1.1 = {
-    add_spouse = 33209
-  }
-  1139.1.25 = {
-    death = "1139.1.25"
-  }
-}
-106605 = {
-  name = "アデラ"  # Adela
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "scholarly_theologian"
-  father = 106602
-  mother = 106601
-  1040.1.2 = {
-    birth = "1040.1.2"
-  }
-  1090.1.2 = {
-    death = "1090.1.2"
-  }
-}
-106640 = {
-  name = "リヒルデ"  # Richilde
-  female = yes
-  dynasty = 7198
-  martial = 4
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 94018
-  1021.1.1 = {
-    birth = "1021.1.1"
-  }
-  1086.3.15 = {
-    death = "1086.3.15"
-  }
-}
-106642 = {
-  name = "レヒナル"  # Reginar
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 7998
-  mother = 203
-  998.1.2 = {
-    birth = "998.1.2"
-  }
-  1016.1.2 = {
-    add_spouse = 106641
-  }
-  1039.1.3 = {
-    death = "1039.1.3"
-  }
-}
-106643 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 7
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "slothful"
-  trait = "skilled_tactician"
-  father = 364
-  mother = 213
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1051.1.1 = {
-    add_spouse = 106640
-  }
-  1070.7.17 = {
-    death = "1070.7.17"
-  }
-}
-129001 = {
-  name = "アーデルハイト"  # Adelheid
-  dynasty = 7198
-  female = yes
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 41726
-  mother = 31129
-  1095.1.1 = {
-    birth = "1095.1.1"
-  }
-  1158.1.1 = {
-    death = "1158.1.1"
-  }
-}
 144993 = {
   name = "オットー"  # Otto
   dynasty = 7198
@@ -5476,18 +6901,17 @@
     death = "1038.8.5"
   }
 }
-161295 = {
-  name = "ロヒエル"  # Rogier
+163046 = {
+  name = "フレデリク"  # Frederik
   dynasty = 7198
   religion = "catholic"
   culture = "dutch"
-  father = 94019
-  mother = 106640
-  1041.1.1 = {
-    birth = "1041.1.1"
+  father = 7812
+  881.1.1 = {
+    birth = "881.1.1"
   }
-  1093.1.1 = {
-    death = "1093.1.1"
+  954.10.1 = {
+    death = "954.10.1 "
   }
 }
 161296 = {
@@ -5501,6 +6925,20 @@
   }
   990.1.1 = {
     death = "990.1.1"
+  }
+}
+161295 = {
+  name = "ロヒエル"  # Rogier
+  dynasty = 7198
+  religion = "catholic"
+  culture = "dutch"
+  father = 94019
+  mother = 106640
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1093.1.1 = {
+    death = "1093.1.1"
   }
 }
 161344 = {
@@ -5544,20 +6982,6 @@
   }
   1033.1.1 = {
     death = "1033.1.1"
-  }
-}
-161535 = {
-  name = "アルベラーダ"  # Alberada
-  female = yes
-  dynasty = 7198
-  religion = "catholic"
-  culture = "dutch"
-  father = 7812
-  900.1.1 = {
-    birth = "900.1.1"
-  }
-  940.1.1 = {
-    death = "940.1.1 "
   }
 }
 161558 = {
@@ -5614,28 +7038,18 @@
     death = "1340.1.1"
   }
 }
-163046 = {
-  name = "フレデリク"  # Frederik
+161535 = {
+  name = "アルベラーダ"  # Alberada
+  female = yes
   dynasty = 7198
   religion = "catholic"
   culture = "dutch"
   father = 7812
-  881.1.1 = {
-    birth = "881.1.1"
+  900.1.1 = {
+    birth = "900.1.1"
   }
-  954.10.1 = {
-    death = "954.10.1 "
-  }
-}
-163117 = {
-  name = "リンベルト"  # Rimbert
-  religion = "catholic"
-  culture = "dutch"
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  888.6.11 = {
-    death = "888.6.11"
+  940.1.1 = {
+    death = "940.1.1 "
   }
 }
 167006 = {
@@ -5735,6 +7149,17 @@
   }
   1120.1.1 = {
     death = "1120.1.1"
+  }
+}
+163117 = {
+  name = "リンベルト"  # Rimbert
+  religion = "catholic"
+  culture = "dutch"
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  888.6.11 = {
+    death = "888.6.11"
   }
 }
 167701 = {
@@ -6083,819 +7508,6 @@
     death = yes
   }
 }
-202960 = {
-  name = "フレスキン"  # Freskin
-  dynasty = 100040
-  martial = 5
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  1130.1.1 = {
-    birth = "1130.1.1"
-  }
-  1171.1.1 = {
-    death = "1171.1.1"
-  }
-}
-205520 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 7
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 205521
-  mother = 205945
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1169.1.1 = {
-    add_spouse = 212589
-  }
-  1195.12.17 = {
-    death = "1195.12.17"
-  }
-}
-205521 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 724
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "tough_soldier"
-  father = 94015
-  mother = 30012
-  1108.1.1 = {
-    birth = "1108.1.1"
-  }
-  1130.1.1 = {
-    add_spouse = 205945
-  }
-  1171.11.8 = {
-    death = "1171.11.8"
-  }
-}
-205523 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dna = izdlkpmiyat
-  properties = ej0000000000000000
-  dynasty = 724
-  martial = 5
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  father = 205520
-  mother = 212589
-  1171.7.1 = {
-    birth = "1171.7.1"
-  }
-  1186.1.1 = {
-    add_spouse = 205965
-  }
-  1204.5.16 = {
-    name = "ボードゥアン"  # Baudouin
-    add_claim = c_mesembria
-    add_claim = c_karvuna
-    add_claim = c_tyrnovo
-    add_claim = c_strymon
-    add_claim = d_thessalonika
-    add_claim = d_athens
-    add_claim = d_epirus
-    add_claim = d_achaia
-    add_claim = d_nikaea
-    add_claim = d_samos
-    create_bloodline = {
-      type = baldouin
-      has_dlc = "Holy Fury"
-    }
-    effect = {
-      create_character = {
-        random_traits = yes
-        dynasty = random
-        religion = ROOT
-        culture = ROOT
-        female = no
-        age = 23
-        attributes = {
-          martial = 6
-        }
-        trait = tough_soldier
-      }
-      new_character = {
-        spawn_unit = {
-          province = 496
-          owner = PREV
-          troops = {
-            light_infantry = {
-              1200
-              1200
-            }
-            heavy_infantry = {
-              737
-              737
-            }
-            pikemen = {
-              237
-              237
-            }
-            archers = {
-              795
-              795
-            }
-            light_cavalry = {
-              331
-              331
-            }
-            knights = {
-              132
-              132
-            }
-          }
-        }
-      }
-      create_character = {
-        random_traits = yes
-        dynasty = random
-        religion = ROOT
-        culture = ROOT
-        female = no
-        age = 30
-        attributes = {
-          martial = 5
-        }
-        trait = tough_soldier
-      }
-      new_character = {
-        spawn_unit = {
-          province = 496
-          owner = PREV
-          troops = {
-            light_infantry = {
-              1200
-              1200
-            }
-            heavy_infantry = {
-              737
-              737
-            }
-            pikemen = {
-              237
-              237
-            }
-            archers = {
-              795
-              795
-            }
-            light_cavalry = {
-              331
-              331
-            }
-            knights = {
-              132
-              132
-            }
-          }
-        }
-      }
-      create_character = {
-        random_traits = yes
-        dynasty = random
-        religion = ROOT
-        culture = ROOT
-        female = no
-        age = 27
-        attributes = {
-          martial = 5
-        }
-        trait = tough_soldier
-      }
-      new_character = {
-        spawn_unit = {
-          province = 496
-          owner = PREV
-          troops = {
-            light_infantry = {
-              1200
-              1200
-            }
-            heavy_infantry = {
-              737
-              737
-            }
-            pikemen = {
-              237
-              237
-            }
-            archers = {
-              795
-              795
-            }
-            light_cavalry = {
-              331
-              331
-            }
-            knights = {
-              132
-              132
-            }
-          }
-        }
-      }
-    }
-  }
-  1204.5.16 = {
-    culture = "frankish"
-  }
-  1205.6.1 = {
-    death = "1205.6.1"
-  }
-}
-205529 = {
-  name = "アフネス"  # Agnes
-  female = yes
-  dynasty = 724
-  martial = 3
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "midas_touched"
-  father = 205521
-  mother = 205945
-  1142.1.1 = {
-    birth = "1142.1.1"
-  }
-  1173.1.18 = {
-    death = "1173.1.18"
-  }
-}
-206800 = {
-  name = "ヘラルト"  # Gerard
-  dynasty = 424
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 206801
-  mother = 31548
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1179.1.1 = {
-    add_spouse = 30021
-  }
-  1191.9.2 = {
-    death = "1191.9.2"
-  }
-}
-206801 = {
-  name = "ローデヴェイク"  # Lodewijk
-  dynasty = 424
-  martial = 4
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "amateurish_plotter"
-  father = 33063
-  mother = 33064
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1143.1.1 = {
-    add_spouse = 31548
-  }
-  1171.8.11 = {
-    death = "1171.8.11"
-  }
-}
-206802 = {
-  name = "ローデヴェイク"  # Lodewijk
-  dynasty = 424
-  martial = 4
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "charitable"
-  trait = "kind"
-  trait = "tough_soldier"
-  father = 206800
-  mother = 30021
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1203.1.1 = {
-    add_spouse = 31068
-  }
-  1203.1.1 = {
-    add_claim = d_holland
-  }
-  1218.7.30 = {
-    death = "1218.7.30"
-  }
-}
-206803 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 424
-  martial = 7
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 206800
-  mother = 30021
-  1181.1.1 = {
-    birth = "1181.1.1"
-  }
-  1218.8.2 = {
-    death = "1218.8.2"
-  }
-}
-206804 = {
-  name = "ヘラルト"  # Gerard
-  dynasty = 424
-  martial = 4
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  father = 206800
-  mother = 30021
-  1183.1.1 = {
-    birth = "1183.1.1"
-  }
-  1216.10.24 = {
-    death = "1216.10.24"
-  }
-}
-206805 = {
-  name = "アルノルト"  # Arnold
-  dynasty = 424
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "kind"
-  father = 206800
-  mother = 30021
-  1185.1.1 = {
-    birth = "1185.1.1"
-  }
-  1207.1.1 = {
-    add_spouse = 7473
-  }
-  1221.9.20 = {
-    death = "1221.9.20"
-  }
-}
-206806 = {
-  name = "イマヒナ"  # Imagina
-  female = yes
-  dynasty = 424
-  martial = 5
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "scholarly_theologian"
-  father = 206801
-  mother = 31548
-  1158.1.1 = {
-    birth = "1158.1.1"
-  }
-  1214.6.5 = {
-    death = "1214.6.5"
-  }
-}
-206840 = {
-  name = "フロリス"  # Floris
-  dynasty = 432
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "proud"
-  trait = "brave"
-  trait = "tough_soldier"
-  father = 206841
-  mother = 206845
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1162.9.28 = {
-    add_spouse = 203512
-  }
-  1187.1.1 = {
-    trait = "crusader"
-  }
-  1190.8.1 = {
-    death = "1190.8.1"
-  }
-}
-206841 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "charitable"
-  trait = "martial_cleric"
-  father = 106555
-  mother = 106554
-  1114.1.1 = {
-    birth = "1114.1.1"
-  }
-  1137.1.1 = {
-    add_spouse = 206845
-  }
-  1157.8.5 = {
-    death = "1157.8.5"
-  }
-}
-206842 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 6
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "proud"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 206840
-  mother = 203512
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1186.1.1 = {
-    add_spouse = 212924
-  }
-  1203.11.4 = {
-    death = "1203.11.4"
-  }
-}
-206843 = {
-  name = "ウィレム"  # Willem
-  dynasty = 432
-  religion = "catholic"
-  culture = "dutch"
-  father = 206840
-  mother = 203512
-  1167.1.1 = {
-    birth = yes
-  }
-  1198.1.1 = {
-    add_spouse = 30026
-  }
-  1220.7.1 = {
-    add_spouse = 106556
-  }
-  1222.2.4 = {
-    death = yes
-  }
-}
-206844 = {
-  name = "アダ"  # Ada
-  female = yes
-  dynasty = 432
-  martial = 5
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "patient"
-  trait = "charismatic_negotiator"
-  father = 206840
-  mother = 203512
-  1163.1.1 = {
-    birth = "1163.1.1"
-  }
-  1205.1.1 = {
-    death = "1205.1.1"
-  }
-}
-206847 = {
-  name = "バウデヴェイン"  # Boudewijn
-  dynasty = 432
-  martial = 4
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "humble"
-  trait = "scholarly_theologian"
-  father = 206841
-  mother = 206845
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1178.5.27 = {
-    capital = c_sticht
-  }
-  1196.4.30 = {
-    death = "1196.4.30"
-  }
-}
-206848 = {
-  name = "ディルク"  # Dirk
-  dynasty = 432
-  martial = 8
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "kind"
-  trait = "detached_priest"
-  father = 206841
-  mother = 206845
-  1147.1.1 = {
-    birth = "1147.1.1"
-  }
-  1197.1.1 = {
-    capital = c_sticht
-  }
-  1197.8.26 = {
-    death = "1197.8.26"
-  }
-}
-206850 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "ill"
-  trait = "thrifty_clerk"
-  father = 206851
-  mother = 206860
-  1142.1.1 = {
-    birth = "1142.1.1"
-  }
-  1155.1.1 = {
-    add_spouse = 206870
-  }
-  1173.1.1 = {
-    add_spouse = 206806
-  }
-  1190.8.21 = {
-    death = "1190.8.21"
-  }
-}
-206851 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "kind"
-  trait = "flamboyant_schemer"
-  father = 106604
-  mother = 33209
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1140.1.1 = {
-    add_spouse = 206860
-  }
-  1142.6.13 = {
-    death = "1142.6.13"
-  }
-}
-206852 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "slothful"
-  trait = "wroth"
-  trait = "brave"
-  trait = "fortune_builder"
-  father = 206850
-  mother = 206870
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1179.1.1 = {
-    add_spouse = 205854
-  }
-  1213.4.24 = {
-    add_spouse = 91028
-  }
-  1235.9.5 = {
-    death = "1235.9.5"
-  }
-}
-206853 = {
-  name = "アダルベルト"  # Adalbert
-  dynasty = 7198
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "dutch"
-  trait = "kind"
-  trait = "greedy"
-  trait = "martial_cleric"
-  father = 206850
-  mother = 206870
-  1166.1.1 = {
-    birth = "1166.1.1"
-  }
-  1192.11.24 = {
-    death = "1192.11.24"
-  }
-}
-206854 = {
-  name = "ウィレム"  # Willem
-  dynasty = 7198
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "hunchback"
-  trait = "thrifty_clerk"
-  father = 206850
-  mother = 206806
-  1172.1.1 = {
-    birth = "1172.1.1"
-  }
-  1224.8.1 = {
-    death = "1224.8.1"
-  }
-}
-206855 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "slothful"
-  trait = "gluttonous"
-  trait = "tough_soldier"
-  father = 206850
-  mother = 206806
-  1174.1.1 = {
-    birth = "1174.1.1"
-  }
-  1226.4.16 = {
-    death = "1226.4.16"
-  }
-}
-206857 = {
-  name = "アーデルハイト"  # Adelheid
-  female = yes
-  dynasty = 7198
-  martial = 4
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "arbitrary"
-  trait = "flamboyant_schemer"
-  father = 106604
-  mother = 33209
-  1106.1.1 = {
-    birth = "1106.1.1"
-  }
-  1151.1.22 = {
-    death = "1151.1.22"
-  }
-}
-212921 = {
-  name = "マルハレーテ"  # Margarete
-  female = yes
-  dynasty = 432
-  martial = 7
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "scholarly_theologian"
-  father = 206840
-  mother = 203512
-  1164.1.1 = {
-    birth = "1164.1.1"
-  }
-  1203.1.1 = {
-    death = "1203.1.1"
-  }
-}
-231002 = {
-  name = "クノー"  # Kuno
-  dynasty = 100081
-  martial = 8
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "gluttonous"
-  trait = "proud"
-  trait = "tough_soldier"
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-231003 = {
-  name = "メンフリート"  # Menfrid
-  dynasty = 100081
-  martial = 7
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "just"
-  trait = "proud"
-  trait = "tough_soldier"
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-231004 = {
-  name = "ヴィハルト"  # Wihard
-  dynasty = 100085
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "brave"
-  trait = "just"
-  trait = "gluttonous"
-  trait = "martial_cleric"
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
 263003 = {
   name = "Aleid"
   female = yes
@@ -7075,617 +7687,5 @@
   }
   939.1.2 = {
     death = yes
-  }
-}
-455408 = {
-  name = "マティルデ"  # Mathilde
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 487057
-  mother = 7651
-  1224.1.1 = {
-    birth = "1224.1.1"
-  }
-  1288.1.1 = {
-    death = "1288.1.1"
-  }
-}
-455530 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 487056
-  mother = 33189
-  1256.1.1 = {
-    birth = "1256.1.1"
-  }
-  1322.1.12 = {
-    death = "1322.1.12"
-  }
-}
-455932 = {
-  name = "ブランヘ"  # Blanche
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  learning = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  father = 487058
-  1290.1.1 = {
-    birth = "1290.1.1"
-  }
-  1337.1.29 = {
-    death = "1337.1.29"
-  }
-}
-456558 = {
-  name = "ソフィア"  # Sophia
-  female = yes
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 9
-  religion = "catholic"
-  culture = "dutch"
-  trait = "amateurish_plotter"
-  1300.1.2 = {
-    birth = "1300.1.2"
-  }
-  1329.1.2 = {
-    death = "1329.1.2"
-  }
-}
-462006 = {
-  name = "ヤン"  # Jan
-  dynasty = 101898
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "patient"
-  trait = "charitable"
-  trait = "gluttonous"
-  trait = "martial_cleric"
-  1286.1.1 = {
-    birth = "1286.1.1"
-  }
-  1340.6.1 = {
-    death = "1340.6.1"
-  }
-}
-462161 = {
-  name = "マティルデ"  # Mathilde
-  female = yes
-  dynasty = 424
-  martial = 6
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "diligent"
-  trait = "charismatic_negotiator"
-  father = 33089
-  1274.1.1 = {
-    birth = "1274.1.1"
-  }
-  1313.1.1 = {
-    death = "1313.1.1"
-  }
-}
-462166 = {
-  name = "カタリーナ"  # Katharina
-  female = yes
-  martial = 6
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "charitable"
-  trait = "scholarly_theologian"
-  1301.1.1 = {
-    birth = "1301.1.1"
-  }
-  1351.1.1 = {
-    death = "1351.1.1"
-  }
-}
-462171 = {
-  name = "エノ"  # Enno
-  dynasty = 7128
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "tough_soldier"
-  father = 30364
-  1298.1.1 = {
-    birth = "1298.1.1"
-  }
-  1348.1.1 = {
-    death = "1348.1.1"
-  }
-}
-462172 = {
-  name = "アダ"  # Adda
-  female = yes
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "wroth"
-  trait = "amateurish_plotter"
-  1302.1.1 = {
-    birth = "1302.1.1"
-  }
-  1352.1.1 = {
-    death = "1352.1.1"
-  }
-}
-462173 = {
-  name = "エタ"  # Etta
-  female = yes
-  dynasty = 7128
-  martial = 5
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 462171
-  1330.1.1 = {
-    birth = "1330.1.1"
-  }
-  1401.1.1 = {
-    death = "1401.1.1"
-  }
-}
-462742 = {
-  name = "ウィレム"  # Willem
-  dynasty = 5060
-  martial = 6
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  add_trait = "cynical"
-  add_trait = "skilled_tactician"
-  father = 94008
-  mother = 31118
-  1287.1.1 = {
-    birth = "1287.1.1"
-  }
-  1305.5.19 = {
-    add_spouse = 455501
-  }
-  1337.6.7 = {
-    death = "1337.6.7"
-  }
-}
-462931 = {
-  name = "ヨハナ"  # Johanna
-  female = yes
-  dynasty = 5060
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "flamboyant_schemer"
-  father = 462742
-  mother = 455501
-  1315.1.1 = {
-    birth = "1315.1.1"
-  }
-  1374.1.1 = {
-    death = "1374.1.1"
-  }
-}
-462941 = {
-  name = "エリサベト"  # Elisabeth
-  female = yes
-  dynasty = 7198
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "patient"
-  trait = "proud"
-  trait = "flamboyant_schemer"
-  father = 487058
-  1273.1.1 = {
-    birth = "1273.1.1"
-  }
-  1332.1.1 = {
-    death = "1332.1.1"
-  }
-}
-487011 = {
-  name = "ウィレム"  # Willem
-  dynasty = 5060
-  martial = 6
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "chaste"
-  trait = "charismatic_negotiator"
-  father = 462742
-  mother = 455501
-  1307.1.1 = {
-    birth = "1307.1.1"
-  }
-  1324.1.2 = {
-    add_spouse = 487012
-  }
-  1345.9.26 = {
-    death = "1345.9.26"
-  }
-}
-487012 = {
-  name = "ヨハナ"  # Johanna
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 487044
-  mother = 487045
-  1322.6.24 = {
-    birth = "1322.6.24"
-  }
-  1406.12.1 = {
-    death = "1406.12.1"
-  }
-}
-487013 = {
-  name = "イサベラ"  # Isabella
-  female = yes
-  dynasty = 5060
-  martial = 4
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 462742
-  mother = 455501
-  1323.1.1 = {
-    birth = "1323.1.1"
-  }
-  1361.1.1 = {
-    death = "1361.1.1"
-  }
-}
-487040 = {
-  name = "ヤン"  # Jan
-  dynasty = 7198
-  martial = 9
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "skilled_tactician"
-  father = 487056
-  mother = 33189
-  1254.1.1 = {
-    birth = "1254.1.1"
-  }
-  1273.1.2 = {
-    add_spouse = 487041
-  }
-  1294.5.3 = {
-    death = "1294.5.3"
-  }
-}
-487042 = {
-  name = "ヤン"  # Jan
-  dynasty = 7198
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "underhanded_rogue"
-  father = 487040
-  mother = 487041
-  1275.9.27 = {
-    birth = "1275.9.27"
-  }
-  1290.7.8 = {
-    add_spouse = 487043
-  }
-  1312.10.27 = {
-    death = "1312.10.27"
-  }
-}
-487044 = {
-  name = "ヤン"  # Jan
-  dynasty = 7198
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "dutch"
-  trait = "lustful"
-  trait = "underhanded_rogue"
-  father = 487042
-  mother = 487043
-  1300.10.20 = {
-    birth = "1300.10.20"
-  }
-  1316.12.1 = {
-    add_spouse = 487045
-  }
-  1355.12.5 = {
-    death = "1355.12.5"
-  }
-}
-487046 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 487044
-  mother = 487045
-  1328.1.1 = {
-    birth = "1328.1.1"
-  }
-  1349.1.1 = {
-    death = "1349.1.1"
-  }
-}
-487048 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 487044
-  mother = 487045
-  1329.1.1 = {
-    birth = "1329.1.1"
-  }
-  1352.1.1 = {
-    death = "1352.1.1"
-  }
-}
-487050 = {
-  name = "マルハレータ"  # Margareta
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "envious"
-  trait = "thrifty_clerk"
-  father = 487044
-  mother = 487045
-  1323.1.1 = {
-    birth = "1323.1.1"
-  }
-  1368.1.1 = {
-    death = "1368.1.1"
-  }
-}
-487051 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 7198
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "thrifty_clerk"
-  father = 487044
-  mother = 487045
-  1325.1.1 = {
-    birth = "1325.1.1"
-  }
-  1399.1.1 = {
-    death = "1399.1.1"
-  }
-}
-487052 = {
-  name = "ウィレム"  # Willem
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "bastard"
-  trait = "martial_cleric"
-  father = 487044
-  mother = 487045
-  1329.1.1 = {
-    birth = "1329.1.1"
-  }
-  1354.1.1 = {
-    death = "1354.1.1"
-  }
-}
-487053 = {
-  name = "ヤン"  # Jan
-  dynasty = 7198
-  martial = 8
-  diplomacy = 2
-  intrigue = 9
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "bastard"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 487044
-  mother = 487045
-  1329.1.1 = {
-    birth = "1329.1.1"
-  }
-  1354.1.1 = {
-    death = "1354.1.1"
-  }
-}
-487054 = {
-  name = "ヨハナ"  # Johanna
-  female = yes
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "dutch"
-  trait = "bastard"
-  trait = "thrifty_clerk"
-  father = 487044
-  1332.1.1 = {
-    birth = "1332.1.1"
-  }
-  1411.1.1 = {
-    death = "1411.1.1"
-  }
-}
-487055 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 7198
-  martial = 6
-  diplomacy = 3
-  intrigue = 5
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "martial_cleric"
-  father = 487040
-  mother = 487041
-  1279.1.1 = {
-    birth = "1279.1.1"
-  }
-  1338.11.2 = {
-    death = "1338.11.2"
-  }
-}
-487056 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "misguided_warrior"
-  father = 487057
-  mother = 7651
-  1231.1.1 = {
-    birth = "1231.1.1"
-  }
-  1251.1.1 = {
-    add_spouse = 33189
-  }
-  1261.2.28 = {
-    death = "1261.2.28"
-  }
-}
-487057 = {
-  name = "ヘンドリク"  # Hendrik
-  dynasty = 7198
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "dutch"
-  trait = "skilled_tactician"
-  father = 206852
-  mother = 205854
-  1207.1.1 = {
-    birth = "1207.1.1"
-  }
-  1223.1.1 = {
-    add_spouse = 7651
-  }
-  1241.1.1 = {
-    add_spouse = 33389
-  }
-  1248.2.1 = {
-    death = "1248.2.1"
-  }
-}
-487058 = {
-  name = "ホードフリート"  # Godfried
-  dynasty = 7198
-  martial = 5
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 3
-  religion = "catholic"
-  culture = "dutch"
-  trait = "misguided_warrior"
-  father = 487056
-  mother = 33189
-  1256.1.1 = {
-    birth = "1256.1.1"
-  }
-  1302.7.11 = {
-    death = "1302.7.11"
   }
 }

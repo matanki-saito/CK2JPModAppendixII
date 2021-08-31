@@ -14,606 +14,6 @@
     give_nickname = nick_the_holy
   }
 }
-166757 = {
-  name = "バガー"  # Bagha
-  dynasty = 1040062
-  religion = "manichean"
-  culture = "uyghur"
-  806.1.1 = {
-    birth = yes
-  }
-  846.1.1 = {
-    death = yes
-  }
-}
-166758 = {
-  name = "パオイ"  # Paoi
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 194191
-  778.1.1 = {
-    birth = yes
-  }
-  821.1.1 = {
-    death = yes
-  }
-}
-166759 = {
-  name = "キュチリグ"  # Küchlüg
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166758
-  795.1.1 = {
-    birth = yes
-  }
-  824.1.1 = {
-    death = yes
-  }
-}
-166760 = {
-  name = "カサール"  # Qasar
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166758
-  798.1.1 = {
-    birth = yes
-  }
-  832.1.1 = {
-    death = yes
-  }
-}
-166761 = {
-  name = "フー"  # Hu
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166759
-  811.1.1 = {
-    birth = yes
-  }
-  839.1.1 = {
-    death = yes
-  }
-}
-166762 = {
-  name = "クル"  # Köl
-  dynasty = 1040063
-  religion = "manichean"
-  culture = "uyghur"
-  762.1.1 = {
-    birth = yes
-  }
-  819.1.1 = {
-    death = yes
-  }
-}
-166763 = {
-  name = "キュレビル"  # Kürebir
-  dynasty = 1040063
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166762
-  789.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    death = yes
-  }
-}
-166764 = {
-  name = "オルミズト"  # Ormïzt
-  dynasty = 1040063
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166762
-  794.1.1 = {
-    birth = yes
-  }
-  846.1.1 = {
-    death = yes
-  }
-}
-166765 = {
-  name = "ウゲ"  # Öge
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166758
-  802.1.1 = {
-    birth = yes
-  }
-  847.1.1 = {
-    death = yes
-  }
-}
-166766 = {
-  name = "ブギュ"  # Bögü
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166765
-  add_trait = "sympathy_indian"
-  828.1.1 = {
-    birth = yes
-  }
-  848.1.1 = {
-    dynasty = 1040064
-  }
-  879.1.1 = {
-    death = yes
-  }
-}
-166767 = {
-  name = "クトゥルグ"  # Qutlugh
-  dynasty = 1040064
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166766
-  855.1.1 = {
-    birth = yes
-  }
-  865.1.1 = {
-    religion = "buddhist"
-  }
-  924.1.1 = {
-    death = yes
-  }
-}
-166768 = {
-  name = "ジンキオン"  # Jingqiong
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  trait = tough_soldier
-  father = 1059729
-  905.1.1 = {
-    birth = yes
-  }
-  936.8.7 = {
-    wealth = 200
-    prestige = 200
-    effect = {
-      spawn_unit = {
-        province = 1513
-        owner = ROOT
-        troops = {
-          light_infantry = {
-            325
-            325
-          }
-          heavy_infantry = {
-            175
-            175
-          }
-          pikemen = {
-            45
-            45
-          }
-          archers = {
-            155
-            155
-          }
-          light_cavalry = {
-            158
-            158
-          }
-          horse_archers = {
-            42
-            42
-          }
-        }
-        attrition = 0.5
-      }
-    }
-  }
-  975.1.1 = {
-    death = yes
-  }
-}
-166769 = {
-  name = "イェルオヘ"  # Yeluohe
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 166768
-  mother = 1059715
-  927.1.1 = {
-    birth = yes
-  }
-  968.1.1 = {
-    death = yes
-  }
-}
-166770 = {
-  name = "ジョンスン"  # Zhongsun
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 1059731
-  960.1.1 = {
-    birth = yes
-  }
-  1016.1.1 = {
-    death = yes
-  }
-}
-166771 = {
-  name = "フアイニン"  # Huaining
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 166770
-  980.1.1 = {
-    birth = yes
-  }
-  1023.1.1 = {
-    death = yes
-  }
-}
-166772 = {
-  name = "グイジョン"  # Guizhong
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 166771
-  1000.1.1 = {
-    birth = yes
-  }
-  1023.1.1 = {
-    death = yes
-  }
-}
-166773 = {
-  name = "バグオ"  # Baguo
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 166771
-  1002.1.1 = {
-    birth = yes
-  }
-  1067.1.1 = {
-    death = yes
-  }
-}
-166774 = {
-  name = "アルプ"  # Alp
-  dynasty = 1040064
-  religion = "manichean"
-  culture = "uyghur"
-  father = 1059729
-  908.1.1 = {
-    birth = yes
-  }
-  945.1.1 = {
-    death = yes
-  }
-}
-166775 = {
-  name = "ボルチ"  # Borç
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166761
-  829.1.1 = {
-    birth = yes
-  }
-  848.1.1 = {
-    dynasty = 1040065
-  }
-  860.1.1 = {
-    religion = "nestorian"
-    add_trait = "sympathy_zoroastrianism"
-    add_trait = "sympathy_indian"
-  }
-  878.1.1 = {
-    death = yes
-  }
-}
-166776 = {
-  name = "アルスラーン"  # Arslan
-  dynasty = 1045083
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166775
-  845.1.1 = {
-    birth = yes
-  }
-  848.1.1 = {
-    dynasty = 1040065
-  }
-  865.1.1 = {
-    religion = "buddhist"
-    add_trait = "sympathy_zoroastrianism"
-    add_trait = "sympathy_christendom"
-  }
-  896.1.1 = {
-    death = yes
-  }
-}
-166777 = {
-  name = "トゥーゴル"  # Tugor
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166776
-  872.1.1 = {
-    birth = yes
-  }
-  916.1.1 = {
-    death = yes
-  }
-}
-166778 = {
-  name = "クンチェク"  # Könçek
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166777
-  894.1.1 = {
-    birth = yes
-  }
-  957.1.1 = {
-    death = yes
-  }
-}
-166779 = {
-  name = "エトレク"  # Etrek
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166778
-  920.1.1 = {
-    birth = yes
-  }
-  988.1.1 = {
-    death = yes
-  }
-}
-166780 = {
-  name = "コザ"  # Koza
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166779
-  953.1.1 = {
-    birth = yes
-  }
-  1010.1.1 = {
-    death = yes
-  }
-}
-166781 = {
-  name = "ウズルク"  # Uzluk
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166780
-  983.1.1 = {
-    birth = yes
-  }
-  1054.1.1 = {
-    death = yes
-  }
-}
-166782 = {
-  name = "ウズルク"  # Uzluk
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166781
-  1014.1.1 = {
-    birth = yes
-  }
-  1064.1.1 = {
-    death = yes
-  }
-}
-166783 = {
-  name = "アサルプ"  # Asalup
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166782
-  1039.1.1 = {
-    birth = yes
-  }
-  1080.1.1 = {
-    death = yes
-  }
-}
-166784 = {
-  name = "トルトグル"  # Törtogul
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166783
-  1060.1.1 = {
-    birth = yes
-  }
-  1105.1.1 = {
-    death = yes
-  }
-}
-166785 = {
-  name = "イタル"  # Itlar
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166784
-  1087.1.1 = {
-    birth = yes
-  }
-  1132.1.1 = {
-    death = yes
-  }
-}
-166786 = {
-  name = "チルブ"  # Çilbu
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166785
-  1113.1.1 = {
-    birth = yes
-  }
-  1165.1.1 = {
-    death = yes
-  }
-}
-166787 = {
-  name = "ウゲ"  # Üge
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166786
-  1144.1.1 = {
-    birth = yes
-  }
-  1189.1.1 = {
-    death = yes
-  }
-}
-166788 = {
-  name = "アトラク"  # Atrak
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166787
-  1167.1.1 = {
-    birth = yes
-  }
-  1206.1.1 = {
-    death = yes
-  }
-}
-166789 = {
-  name = "バルチュク"  # Barchuq
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166788
-  1190.1.1 = {
-    birth = yes
-  }
-  1211.1.1 = {
-    add_spouse = 166875
-  }
-  1249.1.1 = {
-    death = yes
-  }
-}
-166790 = {
-  name = "ウズトゥク"  # Öztuq
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166789
-  mother = 166875
-  1214.1.1 = {
-    birth = yes
-  }
-  1264.1.1 = {
-    death = yes
-  }
-}
-166791 = {
-  name = "クントゥヴディ"  # Kuntuvdi
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166790
-  1240.1.1 = {
-    birth = yes
-  }
-  1297.1.1 = {
-    death = yes
-  }
-}
-166792 = {
-  name = "メンリク"  # Mänglik
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166791
-  1266.1.1 = {
-    birth = yes
-  }
-  1318.1.1 = {
-    death = yes
-  }
-}
-166793 = {
-  name = "ビルゲ"  # Bilge
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166792
-  1292.1.1 = {
-    birth = yes
-  }
-  1327.1.1 = {
-    death = yes
-  }
-}
-166794 = {
-  name = "クバサル"  # Kubasar
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166793
-  1310.1.1 = {
-    birth = yes
-  }
-  1345.1.1 = {
-    death = yes
-  }
-}
 188783 = {
   name = "クトゥルグ"  # Qutlugh
   dynasty = 1042190
@@ -650,6 +50,19 @@
   }
   762.1.1 = {
     religion = manichean
+  }
+  779.1.1 = {
+    death = yes
+  }
+}
+194352 = {
+  name = "ボネク"  # Bönek
+  dynasty = 1042190
+  religion = manichean
+  culture = "uyghur"
+  father = 188785
+  765.1.1 = {
+    birth = yes
   }
   779.1.1 = {
     death = yes
@@ -712,78 +125,6 @@
     death = yes
   }
 }
-194352 = {
-  name = "ボネク"  # Bönek
-  dynasty = 1042190
-  religion = manichean
-  culture = "uyghur"
-  father = 188785
-  765.1.1 = {
-    birth = yes
-  }
-  779.1.1 = {
-    death = yes
-  }
-}
-194353 = {
-  name = "ソタン"  # Sotan
-  dynasty = 1051100
-  religion = "manichean"
-  culture = "uyghur"
-  father = 217101
-  756.6.12 = {
-    birth = yes
-  }
-  782.1.30 = {
-    death = yes
-  }
-}
-194354 = {
-  name = "イトゥク"  # Ituk
-  dynasty = 1051102
-  religion = "manichean"
-  culture = "uyghur"
-  father = 217110
-  758.8.1 = {
-    birth = yes
-  }
-  786.1.21 = {
-    death = yes
-  }
-}
-194384 = {
-  name = "アクグル"  # Akgul
-  female = yes
-  dynasty = 1040064
-  religion = "manichean"
-  culture = "uyghur"
-  father = 166766
-  848.1.1 = {
-    birth = yes
-  }
-  865.1.1 = {
-    religion = "buddhist"
-  }
-  908.1.1 = {
-    death = yes
-  }
-}
-194400 = {
-  name = "ペクセン"  # Peksen
-  female = yes
-  dynasty = 1040065
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  add_trait = "sympathy_christendom"
-  father = 166783
-  1056.1.1 = {
-    birth = yes
-  }
-  1105.1.1 = {
-    death = yes
-  }
-}
 217100 = {
   name = "ティヨール"  # Çor
   dynasty = 1051100
@@ -807,6 +148,19 @@
   father = 217100
   mother = 217118
   739.6.12 = {
+    birth = yes
+  }
+  782.1.30 = {
+    death = yes
+  }
+}
+194353 = {
+  name = "ソタン"  # Sotan
+  dynasty = 1051100
+  religion = "manichean"
+  culture = "uyghur"
+  father = 217101
+  756.6.12 = {
     birth = yes
   }
   782.1.30 = {
@@ -939,6 +293,19 @@
   father = 217109
   mother = 217112
   741.8.1 = {
+    birth = yes
+  }
+  786.1.21 = {
+    death = yes
+  }
+}
+194354 = {
+  name = "イトゥク"  # Ituk
+  dynasty = 1051102
+  religion = "manichean"
+  culture = "uyghur"
+  father = 217110
+  758.8.1 = {
     birth = yes
   }
   786.1.21 = {
@@ -1358,24 +725,6 @@
     death = yes
   }
 }
-217239 = {
-  name = "オザル"  # Ozar
-  dynasty = 1051122
-  religion = sunni
-  culture = karluk
-  father = 217238
-  1181.2.4 = {
-    birth = yes
-  }
-  1218.1.1 = {
-    culture = uyghur
-    add_claim = c_ili
-    add_trait = sympathy_pagans
-  }
-  1224.7.25 = {
-    death = yes
-  }
-}
 217244 = {
   name = "トゥムール"  # Tömür
   dynasty = 1051121
@@ -1528,6 +877,680 @@
     birth = yes
   }
   1339.2.12 = {
+    death = yes
+  }
+}
+166757 = {
+  name = "バガー"  # Bagha
+  dynasty = 1040062
+  religion = "manichean"
+  culture = "uyghur"
+  806.1.1 = {
+    birth = yes
+  }
+  846.1.1 = {
+    death = yes
+  }
+}
+166758 = {
+  name = "パオイ"  # Paoi
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 194191
+  778.1.1 = {
+    birth = yes
+  }
+  821.1.1 = {
+    death = yes
+  }
+}
+166759 = {
+  name = "キュチリグ"  # Küchlüg
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166758
+  795.1.1 = {
+    birth = yes
+  }
+  824.1.1 = {
+    death = yes
+  }
+}
+166760 = {
+  name = "カサール"  # Qasar
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166758
+  798.1.1 = {
+    birth = yes
+  }
+  832.1.1 = {
+    death = yes
+  }
+}
+166761 = {
+  name = "フー"  # Hu
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166759
+  811.1.1 = {
+    birth = yes
+  }
+  839.1.1 = {
+    death = yes
+  }
+}
+166762 = {
+  name = "クル"  # Köl
+  dynasty = 1040063
+  religion = "manichean"
+  culture = "uyghur"
+  762.1.1 = {
+    birth = yes
+  }
+  819.1.1 = {
+    death = yes
+  }
+}
+166763 = {
+  name = "キュレビル"  # Kürebir
+  dynasty = 1040063
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166762
+  789.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    death = yes
+  }
+}
+166764 = {
+  name = "オルミズト"  # Ormïzt
+  dynasty = 1040063
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166762
+  794.1.1 = {
+    birth = yes
+  }
+  846.1.1 = {
+    death = yes
+  }
+}
+166765 = {
+  name = "ウゲ"  # Öge
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166758
+  802.1.1 = {
+    birth = yes
+  }
+  847.1.1 = {
+    death = yes
+  }
+}
+166766 = {
+  name = "ブギュ"  # Bögü
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166765
+  add_trait = "sympathy_indian"
+  828.1.1 = {
+    birth = yes
+  }
+  848.1.1 = {
+    dynasty = 1040064
+  }
+  879.1.1 = {
+    death = yes
+  }
+}
+166767 = {
+  name = "クトゥルグ"  # Qutlugh
+  dynasty = 1040064
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166766
+  855.1.1 = {
+    birth = yes
+  }
+  865.1.1 = {
+    religion = "buddhist"
+  }
+  924.1.1 = {
+    death = yes
+  }
+}
+194384 = {
+  name = "アクグル"  # Akgul
+  female = yes
+  dynasty = 1040064
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166766
+  848.1.1 = {
+    birth = yes
+  }
+  865.1.1 = {
+    religion = "buddhist"
+  }
+  908.1.1 = {
+    death = yes
+  }
+}
+1059729 = {
+  name = "ディユイン"  # Diyin
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  father = 166767
+  870.1.1 = {
+    birth = yes
+  }
+  926.1.1 = {
+    death = yes
+  }
+}
+1059730 = {
+  name = "アドゥオユ"  # Aduoyu
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  father = 1059729
+  885.1.1 = {
+    birth = yes
+  }
+  933.1.1 = {
+    death = yes
+  }
+}
+166768 = {
+  name = "ジンキオン"  # Jingqiong
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  trait = tough_soldier
+  father = 1059729
+  905.1.1 = {
+    birth = yes
+  }
+  936.8.7 = {
+    wealth = 200
+    prestige = 200
+    effect = {
+      spawn_unit = {
+        province = 1513
+        owner = ROOT
+        troops = {
+          light_infantry = {
+            325
+            325
+          }
+          heavy_infantry = {
+            175
+            175
+          }
+          pikemen = {
+            45
+            45
+          }
+          archers = {
+            155
+            155
+          }
+          light_cavalry = {
+            158
+            158
+          }
+          horse_archers = {
+            42
+            42
+          }
+        }
+        attrition = 0.5
+      }
+    }
+  }
+  975.1.1 = {
+    death = yes
+  }
+}
+166769 = {
+  name = "イェルオヘ"  # Yeluohe
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 166768
+  mother = 1059715
+  927.1.1 = {
+    birth = yes
+  }
+  968.1.1 = {
+    death = yes
+  }
+}
+1059731 = {
+  name = "ルシェン"  # Lusheng
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 166768
+  mother = 1059715
+  936.1.1 = {
+    birth = yes
+  }
+  1008.1.1 = {
+    death = yes
+  }
+}
+166770 = {
+  name = "ジョンスン"  # Zhongsun
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 1059731
+  960.1.1 = {
+    birth = yes
+  }
+  1016.1.1 = {
+    death = yes
+  }
+}
+166771 = {
+  name = "フアイニン"  # Huaining
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 166770
+  980.1.1 = {
+    birth = yes
+  }
+  1023.1.1 = {
+    death = yes
+  }
+}
+166772 = {
+  name = "グイジョン"  # Guizhong
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 166771
+  1000.1.1 = {
+    birth = yes
+  }
+  1023.1.1 = {
+    death = yes
+  }
+}
+166773 = {
+  name = "バグオ"  # Baguo
+  dynasty = 1040064
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  father = 166771
+  1002.1.1 = {
+    birth = yes
+  }
+  1067.1.1 = {
+    death = yes
+  }
+}
+166774 = {
+  name = "アルプ"  # Alp
+  dynasty = 1040064
+  religion = "manichean"
+  culture = "uyghur"
+  father = 1059729
+  908.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+166775 = {
+  name = "ボルチ"  # Borç
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166761
+  829.1.1 = {
+    birth = yes
+  }
+  848.1.1 = {
+    dynasty = 1040065
+  }
+  860.1.1 = {
+    religion = "nestorian"
+    add_trait = "sympathy_zoroastrianism"
+    add_trait = "sympathy_indian"
+  }
+  878.1.1 = {
+    death = yes
+  }
+}
+166776 = {
+  name = "アルスラーン"  # Arslan
+  dynasty = 1045083
+  religion = "manichean"
+  culture = "uyghur"
+  father = 166775
+  845.1.1 = {
+    birth = yes
+  }
+  848.1.1 = {
+    dynasty = 1040065
+  }
+  865.1.1 = {
+    religion = "buddhist"
+    add_trait = "sympathy_zoroastrianism"
+    add_trait = "sympathy_christendom"
+  }
+  896.1.1 = {
+    death = yes
+  }
+}
+166777 = {
+  name = "トゥーゴル"  # Tugor
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166776
+  872.1.1 = {
+    birth = yes
+  }
+  916.1.1 = {
+    death = yes
+  }
+}
+166778 = {
+  name = "クンチェク"  # Könçek
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166777
+  894.1.1 = {
+    birth = yes
+  }
+  957.1.1 = {
+    death = yes
+  }
+}
+166779 = {
+  name = "エトレク"  # Etrek
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166778
+  920.1.1 = {
+    birth = yes
+  }
+  988.1.1 = {
+    death = yes
+  }
+}
+166780 = {
+  name = "コザ"  # Koza
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166779
+  953.1.1 = {
+    birth = yes
+  }
+  1010.1.1 = {
+    death = yes
+  }
+}
+166781 = {
+  name = "ウズルク"  # Uzluk
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166780
+  983.1.1 = {
+    birth = yes
+  }
+  1054.1.1 = {
+    death = yes
+  }
+}
+166782 = {
+  name = "ウズルク"  # Uzluk
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166781
+  1014.1.1 = {
+    birth = yes
+  }
+  1064.1.1 = {
+    death = yes
+  }
+}
+166783 = {
+  name = "アサルプ"  # Asalup
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166782
+  1039.1.1 = {
+    birth = yes
+  }
+  1080.1.1 = {
+    death = yes
+  }
+}
+166784 = {
+  name = "トルトグル"  # Törtogul
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166783
+  1060.1.1 = {
+    birth = yes
+  }
+  1105.1.1 = {
+    death = yes
+  }
+}
+194400 = {
+  name = "ペクセン"  # Peksen
+  female = yes
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166783
+  1056.1.1 = {
+    birth = yes
+  }
+  1105.1.1 = {
+    death = yes
+  }
+}
+166785 = {
+  name = "イタル"  # Itlar
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166784
+  1087.1.1 = {
+    birth = yes
+  }
+  1132.1.1 = {
+    death = yes
+  }
+}
+166786 = {
+  name = "チルブ"  # Çilbu
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166785
+  1113.1.1 = {
+    birth = yes
+  }
+  1165.1.1 = {
+    death = yes
+  }
+}
+166787 = {
+  name = "ウゲ"  # Üge
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166786
+  1144.1.1 = {
+    birth = yes
+  }
+  1189.1.1 = {
+    death = yes
+  }
+}
+166788 = {
+  name = "アトラク"  # Atrak
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166787
+  1167.1.1 = {
+    birth = yes
+  }
+  1206.1.1 = {
+    death = yes
+  }
+}
+166789 = {
+  name = "バルチュク"  # Barchuq
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166788
+  1190.1.1 = {
+    birth = yes
+  }
+  1211.1.1 = {
+    add_spouse = 166875
+  }
+  1249.1.1 = {
+    death = yes
+  }
+}
+166790 = {
+  name = "ウズトゥク"  # Öztuq
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166789
+  mother = 166875
+  1214.1.1 = {
+    birth = yes
+  }
+  1264.1.1 = {
+    death = yes
+  }
+}
+166791 = {
+  name = "クントゥヴディ"  # Kuntuvdi
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166790
+  1240.1.1 = {
+    birth = yes
+  }
+  1297.1.1 = {
+    death = yes
+  }
+}
+166792 = {
+  name = "メンリク"  # Mänglik
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166791
+  1266.1.1 = {
+    birth = yes
+  }
+  1318.1.1 = {
+    death = yes
+  }
+}
+166793 = {
+  name = "ビルゲ"  # Bilge
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166792
+  1292.1.1 = {
+    birth = yes
+  }
+  1327.1.1 = {
+    death = yes
+  }
+}
+166794 = {
+  name = "クバサル"  # Kubasar
+  dynasty = 1040065
+  religion = "buddhist"
+  culture = "uyghur"
+  add_trait = "sympathy_zoroastrianism"
+  add_trait = "sympathy_christendom"
+  father = 166793
+  1310.1.1 = {
+    birth = yes
+  }
+  1345.1.1 = {
     death = yes
   }
 }
@@ -2047,6 +2070,24 @@
     death = yes
   }
 }
+217239 = {
+  name = "オザル"  # Ozar
+  dynasty = 1051122
+  religion = sunni
+  culture = karluk
+  father = 217238
+  1181.2.4 = {
+    birth = yes
+  }
+  1218.1.1 = {
+    culture = uyghur
+    add_claim = c_ili
+    add_trait = sympathy_pagans
+  }
+  1224.7.25 = {
+    death = yes
+  }
+}
 248217 = {
   name = "シクナク"  # Siknak
   dynasty = 1051122
@@ -2178,6 +2219,119 @@
     death = yes
   }
 }
+1059986 = {
+  name = "ビルゲ"  # Bilge
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  trait = "sympathy_pagans"
+  trait = strong
+  1020.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+1059985 = {
+  name = "ベグルク"  # Begluk
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059986
+  1065.1.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+1059984 = {
+  name = "ソカル"  # Sokal
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059985
+  1100.1.1 = {
+    birth = yes
+  }
+  1180.1.1 = {
+    death = yes
+  }
+}
+1059983 = {
+  name = "ブルシュ"  # Blush
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059984
+  1140.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+1059982 = {
+  name = "ブルシュ"  # Blush
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059983
+  1180.1.1 = {
+    birth = yes
+  }
+  1250.1.1 = {
+    death = yes
+  }
+}
+1059981 = {
+  name = "アエパク"  # Aepak
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059982
+  1210.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
+1059980 = {
+  name = "アエパク"  # Aepak
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059981
+  1250.1.1 = {
+    birth = yes
+  }
+  1310.1.1 = {
+    death = yes
+  }
+}
+1059979 = {
+  name = "ブガ"  # Buga
+  dynasty = 1029329
+  religion = buddhist
+  culture = uyghur
+  trait = theravada_buddhist
+  father = 1059980
+  1290.1.1 = {
+    birth = yes
+  }
+  1338.1.1 = {
+    death = yes
+  }
+}
 258113 = {
   name = "シュミュル"  # Shümül
   dynasty = 1100035
@@ -2211,160 +2365,6 @@
     birth = yes
   }
   956.1.1 = {
-    death = yes
-  }
-}
-1059729 = {
-  name = "ディユイン"  # Diyin
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  father = 166767
-  870.1.1 = {
-    birth = yes
-  }
-  926.1.1 = {
-    death = yes
-  }
-}
-1059730 = {
-  name = "アドゥオユ"  # Aduoyu
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  father = 1059729
-  885.1.1 = {
-    birth = yes
-  }
-  933.1.1 = {
-    death = yes
-  }
-}
-1059731 = {
-  name = "ルシェン"  # Lusheng
-  dynasty = 1040064
-  religion = "buddhist"
-  culture = "uyghur"
-  add_trait = "sympathy_zoroastrianism"
-  father = 166768
-  mother = 1059715
-  936.1.1 = {
-    birth = yes
-  }
-  1008.1.1 = {
-    death = yes
-  }
-}
-1059979 = {
-  name = "ブガ"  # Buga
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059980
-  1290.1.1 = {
-    birth = yes
-  }
-  1338.1.1 = {
-    death = yes
-  }
-}
-1059980 = {
-  name = "アエパク"  # Aepak
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059981
-  1250.1.1 = {
-    birth = yes
-  }
-  1310.1.1 = {
-    death = yes
-  }
-}
-1059981 = {
-  name = "アエパク"  # Aepak
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059982
-  1210.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
-    death = yes
-  }
-}
-1059982 = {
-  name = "ブルシュ"  # Blush
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059983
-  1180.1.1 = {
-    birth = yes
-  }
-  1250.1.1 = {
-    death = yes
-  }
-}
-1059983 = {
-  name = "ブルシュ"  # Blush
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059984
-  1140.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-1059984 = {
-  name = "ソカル"  # Sokal
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059985
-  1100.1.1 = {
-    birth = yes
-  }
-  1180.1.1 = {
-    death = yes
-  }
-}
-1059985 = {
-  name = "ベグルク"  # Begluk
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  father = 1059986
-  1065.1.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
-    death = yes
-  }
-}
-1059986 = {
-  name = "ビルゲ"  # Bilge
-  dynasty = 1029329
-  religion = buddhist
-  culture = uyghur
-  trait = theravada_buddhist
-  trait = "sympathy_pagans"
-  trait = strong
-  1020.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
     death = yes
   }
 }

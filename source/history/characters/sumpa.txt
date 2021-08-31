@@ -1,4 +1,46 @@
-﻿12068 = {
+﻿247341 = {
+  name = "ドロッセン"  # Drotsen
+  dynasty = 105835
+  religion = "bon"
+  culture = "sumpa"
+  718.1.1 = {
+    birth = yes
+  }
+  755.1.1 = {
+    death = yes
+  }
+}
+247342 = {
+  name = "シェンロ"  # Shenlo
+  dynasty = 105835
+  religion = "bon"
+  culture = "sumpa"
+  father = 247341
+  736.1.1 = {
+    birth = yes
+  }
+  754.1.1 = {
+    add_spouse = 252027
+  }
+  755.1.1 = {
+    add_claim = c_samtho
+    add_claim = c_nagchu
+    add_claim = c_amdo
+    add_claim = c_lhunzhub
+    add_claim = c_kunggar
+    add_claim = c_xainza
+    add_claim = c_qangtang
+    add_claim = c_arjin
+    add_claim = c_tanggula
+    add_claim = d_sumparu
+    add_claim = d_nagchu
+    employer = 244001
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+12068 = {
   name = "ダッドラッドセン"  # Dudlutsen
   dynasty = 19128
   culture = sumpa
@@ -49,48 +91,6 @@
     birth = yes
   }
   913.1.1 = {
-    death = yes
-  }
-}
-247341 = {
-  name = "ドロッセン"  # Drotsen
-  dynasty = 105835
-  religion = "bon"
-  culture = "sumpa"
-  718.1.1 = {
-    birth = yes
-  }
-  755.1.1 = {
-    death = yes
-  }
-}
-247342 = {
-  name = "シェンロ"  # Shenlo
-  dynasty = 105835
-  religion = "bon"
-  culture = "sumpa"
-  father = 247341
-  736.1.1 = {
-    birth = yes
-  }
-  754.1.1 = {
-    add_spouse = 252027
-  }
-  755.1.1 = {
-    add_claim = c_samtho
-    add_claim = c_nagchu
-    add_claim = c_amdo
-    add_claim = c_lhunzhub
-    add_claim = c_kunggar
-    add_claim = c_xainza
-    add_claim = c_qangtang
-    add_claim = c_arjin
-    add_claim = c_tanggula
-    add_claim = d_sumparu
-    add_claim = d_nagchu
-    employer = 244001
-  }
-  800.1.1 = {
     death = yes
   }
 }

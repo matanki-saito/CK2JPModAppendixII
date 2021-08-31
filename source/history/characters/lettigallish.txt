@@ -1,15 +1,27 @@
-﻿6892 = {
-  name = "ダラテ"  # Darate
-  female = yes
-  dynasty = 9530
-  religion = baltic_pagan
-  culture = lettigallish
-  father = 167730
-  849.1.1 = {
-    birth = yes
+﻿144628 = {
+  name = "リット"  # Litto
+  dynasty = 9534
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  father = 28020
+  1100.1.1 = {
+    birth = "1100.1.1"
   }
-  899.1.1 = {
-    death = yes
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+144629 = {
+  name = "ダルデスラヴェ"  # Darbeslave
+  dynasty = 100374
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  father = 20603
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
   }
 }
 20603 = {
@@ -27,6 +39,79 @@
   }
   1120.1.1 = {
     death = "1120.1.1"
+  }
+}
+220603 = {
+  name = "クレムセ"  # Kurlemuse
+  dynasty = 100374
+  martial = 6
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 7
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  trait = "skilled_tactician"
+  father = 144629
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+228020 = {
+  name = "エラヅツ"  # Erasts
+  dynasty = 9534
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  father = 144628
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1202.1.1 = {
+    death = "1202.1.1"
+  }
+}
+228022 = {
+  name = "ドーヴャト"  # Dovyat
+  dynasty = 100372
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+228024 = {
+  name = "シュートル"  # Shutr
+  dynasty = 100378
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 5
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+228075 = {
+  name = "サーベ"  # Sabe
+  dynasty = 100373
+  religion = "baltic_pagan"
+  culture = "lettigallish"
+  father = 143133
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1202.1.1 = {
+    death = "1202.1.1"
   }
 }
 28020 = {
@@ -98,32 +183,6 @@
     death = "1253.6.30"
   }
 }
-144628 = {
-  name = "リット"  # Litto
-  dynasty = 9534
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  father = 28020
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-144629 = {
-  name = "ダルデスラヴェ"  # Darbeslave
-  dynasty = 100374
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  father = 20603
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
 167730 = {
   name = "コデレ"  # Kodere
   dynasty = 9530
@@ -134,6 +193,20 @@
     birth = yes
   }
   890.1.1 = {
+    death = yes
+  }
+}
+6892 = {
+  name = "ダラテ"  # Darate
+  female = yes
+  dynasty = 9530
+  religion = baltic_pagan
+  culture = lettigallish
+  father = 167730
+  849.1.1 = {
+    birth = yes
+  }
+  899.1.1 = {
     death = yes
   }
 }
@@ -266,24 +339,6 @@
     death = yes
   }
 }
-220603 = {
-  name = "クレムセ"  # Kurlemuse
-  dynasty = 100374
-  martial = 6
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 7
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  trait = "skilled_tactician"
-  father = 144629
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
 220998 = {
   name = "プライスコフ"  # Pliksov
   dynasty = 9530
@@ -294,61 +349,6 @@
   }
   750.8.15 = {
     death = yes
-  }
-}
-228020 = {
-  name = "エラヅツ"  # Erasts
-  dynasty = 9534
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  father = 144628
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1202.1.1 = {
-    death = "1202.1.1"
-  }
-}
-228022 = {
-  name = "ドーヴャト"  # Dovyat
-  dynasty = 100372
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-228024 = {
-  name = "シュートル"  # Shutr
-  dynasty = 100378
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 5
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-228075 = {
-  name = "サーベ"  # Sabe
-  dynasty = 100373
-  religion = "baltic_pagan"
-  culture = "lettigallish"
-  father = 143133
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1202.1.1 = {
-    death = "1202.1.1"
   }
 }
 256000 = {

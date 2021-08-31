@@ -1,135 +1,4 @@
-﻿3210 = {
-  name = "アリー"  # Ali
-  dynasty = 595
-  martial = 5
-  diplomacy = 3
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "honest"
-  trait = "cynical"
-  trait = "tough_soldier"
-  father = 3906
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1121.1.1 = {
-    death = "1121.1.1"
-  }
-}
-3211 = {
-  name = "アブドゥル＝ハサン"  # Abdul-Hasan
-  dynasty = 595
-  martial = 5
-  diplomacy = 3
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  father = 3210
-  1100.1.1 = {
-    birth = "1100.1.1"
-  }
-  1163.1.1 = {
-    death = "1163.1.1"
-  }
-}
-3853 = {
-  name = "アブー＝バクル"  # Abu-Bakr
-  dynasty = 7274
-  martial = 10
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "skilled_tactician"
-  trait = "patient"
-  trait = "just"
-  trait = "diligent"
-  trait = "zealous"
-  father = 32957
-  1036.1.1 = {
-    birth = "1036.1.1"
-  }
-  1060.1.1 = {
-    add_claim = d_tangiers
-    add_claim = d_fes
-    add_claim = d_tlemcen
-    add_claim = d_sevilla
-    add_claim = d_granada
-    add_claim = d_murcia
-  }
-  1052.1.1 = {
-    add_spouse = 273120
-  }
-  1068.1.1 = {
-    add_spouse = 3856
-  }
-  1071.1.1 = {
-    remove_spouse = 3856
-  }
-  1087.1.1 = {
-    death = "1087.1.1"
-  }
-}
-3855 = {
-  name = "イスマーイール"  # Ismail
-  dynasty = 7274
-  martial = 7
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  father = 3853
-  1057.1.1 = {
-    birth = "1057.1.1"
-  }
-  1107.1.1 = {
-    death = "1107.1.1"
-  }
-}
-3856 = {
-  name = "ザイナブ"  # Zainab
-  dynasty = 7275
-  female = yes
-  martial = 5
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1040.1.2 = {
-    birth = "1040.1.2"
-  }
-  1090.1.2 = {
-    death = "1090.1.2"
-  }
-}
-3906 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 595
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "skilled_tactician"
-  father = 20825
-  1062.1.1 = {
-    birth = "1062.1.1"
-  }
-  1116.1.1 = {
-    death = "1116.1.1"
-  }
-}
-6882 = {
+﻿6882 = {
   name = "ベルカン"  # Berkan
   dynasty = 841
   religion = sunni
@@ -211,6 +80,44 @@
   }
   894.1.1 = {
     death = yes
+  }
+}
+144232 = {
+  name = "アミン"  # Amin
+  dynasty = 793
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  1030.1.1 = {
+    birth = "1030.1.1"
+  }
+  1072.1.1 = {
+    death = "1072.1.1"
+  }
+}
+144233 = {
+  name = "ジャラ"  # Jala
+  dynasty = 793
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 144232
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1099.1.1 = {
+    death = "1099.1.1"
+  }
+}
+144234 = {
+  name = "ファクフル"  # Fakhr
+  dynasty = 793
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 144232
+  1052.1.1 = {
+    birth = "1052.1.1"
+  }
+  1109.7.12 = {
+    death = "1109.7.12"
   }
 }
 20769 = {
@@ -394,52 +301,6 @@
     death = "1108.1.1"
   }
 }
-20828 = {
-  name = "ラマダーン"  # Ramadan
-  dynasty = 12241
-  martial = 7
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1092.1.1 = {
-    death = "1092.1.1"
-  }
-}
-20829 = {
-  name = "アッバード"  # Abbad
-  dynasty = 12237
-  martial = 8
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1025.1.1 = {
-    birth = "1025.1.1"
-  }
-  1086.1.1 = {
-    death = "1086.1.1"
-  }
-}
-20831 = {
-  name = "ユスフ"  # Yusuf
-  dynasty = 12236
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 73310
-  1035.1.1 = {
-    birth = "1035.1.1"
-  }
-  1071.1.1 = {
-    death = "1071.1.1"
-  }
-}
 20832 = {
   name = "アイユーブ"  # Ayyub
   dynasty = 595
@@ -511,24 +372,6 @@
   }
   1089.1.1 = {
     death = "1089.1.1"
-  }
-}
-20871 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 12206
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 6
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "temperate"
-  1179.1.1 = {
-    birth = "1179.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
   }
 }
 20930 = {
@@ -670,6 +513,1533 @@
   }
   1062.1.1 = {
     death = "1062.1.1"
+  }
+}
+220842 = {
+  name = "フサマッディン"  # Hussamaddin
+  dynasty = 100848
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224018 = {
+  name = "アブドゥル＝アズィーズ"  # Abdul-Aziz
+  dynasty = 100839
+  martial = 4
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "deceitful"
+  trait = "just"
+  trait = "envious"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224019 = {
+  name = "イブラヒム"  # Ibrahim
+  dynasty = 100841
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "patient"
+  trait = "charismatic_negotiator"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224026 = {
+  name = "アブドゥル・ラフマーン"  # Abdul-Rahman
+  dynasty = 100817
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "wroth"
+  trait = "cynical"
+  trait = "stutter"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224027 = {
+  name = "アブドゥル・ハリーム"  # Abdul-Haleem
+  dynasty = 100815
+  martial = 4
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224028 = {
+  name = "ムスリヒッディン"  # Muslihiddin
+  dynasty = 100816
+  martial = 7
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "lustful"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224029 = {
+  name = "ダウード"  # Da'ud
+  dynasty = 100819
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "arbitrary"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224030 = {
+  name = "フセイン"  # Husseyn
+  dynasty = 100820
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224031 = {
+  name = "ダウード"  # Da'ud
+  dynasty = 100818
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "fortune_builder"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224032 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 100821
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "slothful"
+  trait = "scholarly_theologian"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224033 = {
+  name = "サリム"  # Salim
+  dynasty = 100822
+  martial = 8
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224034 = {
+  name = "ザカリアーフ"  # Zakariah
+  dynasty = 100823
+  martial = 8
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "greedy"
+  trait = "temperate"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224035 = {
+  name = "アブドゥル＝ファッターフ"  # Abdul-Fattah
+  dynasty = 100825
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "proud"
+  trait = "martial_cleric"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224036 = {
+  name = "アブドゥル・ハミード"  # Abdul-Hamid
+  dynasty = 100824
+  martial = 4
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "thrifty_clerk"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224037 = {
+  name = "サッダッディン"  # Sa'daddin
+  dynasty = 100828
+  martial = 8
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "scholarly_theologian"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224038 = {
+  name = "ハシュマッディン"  # Hashmaddin
+  dynasty = 100829
+  martial = 5
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "kind"
+  trait = "gluttonous"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224039 = {
+  name = "ジャファール"  # Jawhar
+  dynasty = 100830
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224040 = {
+  name = "アブドゥル＝ガフール"  # Abdul-Gafur
+  dynasty = 100831
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "martial_cleric"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224041 = {
+  name = "ラウーフ"  # Ra'uf
+  dynasty = 100832
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "honest"
+  trait = "envious"
+  trait = "stutter"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224042 = {
+  name = "ジャファール"  # Jawhar
+  dynasty = 100833
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "lustful"
+  trait = "diligent"
+  trait = "envious"
+  trait = "proud"
+  trait = "tough_soldier"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224043 = {
+  name = "アブドゥル・カリーム"  # Abdul-Kareem
+  dynasty = 100834
+  martial = 4
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "thrifty_clerk"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224044 = {
+  name = "ジャウダート"  # Jawdat
+  dynasty = 100835
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "diligent"
+  trait = "just"
+  trait = "cynical"
+  trait = "stutter"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224045 = {
+  name = "ハロウン"  # Haroun
+  dynasty = 100836
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "arbitrary"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224046 = {
+  name = "アカブ"  # Akab
+  dynasty = 100837
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "zealous"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+224047 = {
+  name = "ザイド"  # Zeyd
+  dynasty = 100838
+  martial = 8
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "deceitful"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226042 = {
+  name = "サイード"  # Sa'id
+  dynasty = 100805
+  martial = 8
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "underhanded_rogue"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226043 = {
+  name = "ムーサ"  # Musa
+  dynasty = 100806
+  martial = 7
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "honest"
+  trait = "martial_cleric"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226044 = {
+  name = "ハロウン"  # Haroun
+  dynasty = 100807
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226045 = {
+  name = "アブドゥル＝サラーム"  # Abdul-Salaam
+  dynasty = 100814
+  martial = 4
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "proud"
+  trait = "scholarly_theologian"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226046 = {
+  name = "イドリース"  # Idris
+  dynasty = 100809
+  martial = 6
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "skilled_tactician"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226047 = {
+  name = "ヤシャル"  # Yasar
+  dynasty = 100810
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "slothful"
+  trait = "patient"
+  trait = "amateurish_plotter"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226048 = {
+  name = "サイフッラー"  # Seyfullah
+  dynasty = 100811
+  martial = 8
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226049 = {
+  name = "アブドゥル・ラティーフ"  # Abdul-Lateef
+  dynasty = 100813
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+226050 = {
+  name = "アル＝アズィーズ・ウスマーン"  # Al-Aziz Uthman
+  dynasty = 24000
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "misguided_warrior"
+  father = 226000
+  1171.1.1 = {
+    birth = "1171.1.1"
+  }
+  1221.1.1 = {
+    death = "1221.1.1"
+  }
+}
+3210 = {
+  name = "アリー"  # Ali
+  dynasty = 595
+  martial = 5
+  diplomacy = 3
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "honest"
+  trait = "cynical"
+  trait = "tough_soldier"
+  father = 3906
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1121.1.1 = {
+    death = "1121.1.1"
+  }
+}
+3211 = {
+  name = "アブドゥル＝ハサン"  # Abdul-Hasan
+  dynasty = 595
+  martial = 5
+  diplomacy = 3
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  father = 3210
+  1100.1.1 = {
+    birth = "1100.1.1"
+  }
+  1163.1.1 = {
+    death = "1163.1.1"
+  }
+}
+3906 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 595
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "skilled_tactician"
+  father = 20825
+  1062.1.1 = {
+    birth = "1062.1.1"
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+420842 = {
+  name = "フサマッディン"  # Hussamaddin
+  dynasty = 100848
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+45014 = {
+  name = "ザウィ"  # Zawi
+  dynasty = 595
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "skilled_tactician"
+  trait = "just"
+  trait = "wroth"
+  father = 20931
+  950.1.1 = {
+    birth = "950.1.1"
+  }
+  1020.1.1 = {
+    death = "1020.1.1"
+  }
+}
+45015 = {
+  name = "ハブス"  # Habus
+  dynasty = 595
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "charismatic_negotiator"
+  father = 45017
+  978.1.1 = {
+    birth = "978.1.1"
+  }
+  1038.1.1 = {
+    death = "1038.1.1"
+  }
+}
+45016 = {
+  name = "バディス"  # Badis
+  dynasty = 595
+  martial = 4
+  diplomacy = 5
+  intrigue = 9
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "charismatic_negotiator"
+  trait = "greedy"
+  trait = "arbitrary"
+  father = 45015
+  1006.1.1 = {
+    birth = "1006.1.1"
+  }
+  1073.1.1 = {
+    death = "1073.1.1"
+  }
+}
+45017 = {
+  name = "マクサン"  # Maksan
+  dynasty = 595
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 20931
+  952.1.1 = {
+    birth = "952.1.1"
+  }
+  1018.1.1 = {
+    death = "1018.1.1"
+  }
+}
+45018 = {
+  name = "アル＝カイード"  # al-Qaid
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "underhanded_rogue"
+  father = 20936
+  985.1.1 = {
+    birth = "985.1.1"
+  }
+  1054.1.1 = {
+    death = "1054.1.1"
+  }
+}
+45019 = {
+  name = "ユスフ"  # Yusuf
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "underhanded_rogue"
+  father = 20936
+  990.1.1 = {
+    birth = "990.1.1"
+  }
+  1062.1.1 = {
+    death = "1062.1.1"
+  }
+}
+45020 = {
+  name = "クイフラン"  # Ouighlan
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "underhanded_rogue"
+  father = 20936
+  995.1.1 = {
+    birth = "995.1.1"
+  }
+  1088.1.1 = {
+    death = "1088.1.1"
+  }
+}
+45021 = {
+  name = "ムフスィン"  # Muhsin
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 2
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  father = 45018
+  1005.1.1 = {
+    birth = "1005.1.1"
+  }
+  1055.1.1 = {
+    death = "1055.1.1"
+  }
+}
+45022 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 20936
+  991.1.1 = {
+    birth = "991.1.1"
+  }
+  1040.1.1 = {
+    death = "1040.1.1"
+  }
+}
+45023 = {
+  name = "ブルッギン"  # Buluggin
+  dynasty = 575
+  martial = 4
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "elusive_shadow"
+  trait = "paranoid"
+  trait = "ambitious"
+  father = 45022
+  1025.1.1 = {
+    birth = "1025.1.1"
+  }
+  1062.1.1 = {
+    death = "1062.1.1"
+  }
+}
+45024 = {
+  name = "アル＝マンスール"  # al-Mansur
+  dynasty = 575
+  martial = 5
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "diligent"
+  trait = "thrifty_clerk"
+  father = 20834
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+482000 = {
+  name = "ムアーウィヤ"  # Muawiyah
+  dynasty = 100843
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "arbitrary"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+482010 = {
+  name = "アシュラフ"  # Ashraf
+  dynasty = 100836
+  martial = 5
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "scholarly_theologian"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+482020 = {
+  name = "アカブ"  # Akab
+  dynasty = 100837
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "chaste"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+482030 = {
+  name = "ウバイド"  # Ubayd
+  dynasty = 100838
+  martial = 8
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "brave"
+  trait = "skilled_tactician"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+482040 = {
+  name = "サラーフッディーン"  # Salahaddin
+  dynasty = 100839
+  martial = 8
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "brave"
+  trait = "lisp"
+  trait = "fortune_builder"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+482050 = {
+  name = "カラメッディン"  # Kerameddin
+  dynasty = 100841
+  martial = 6
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "arbitrary"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483000 = {
+  name = "ジャマル"  # Jamal
+  dynasty = 100817
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "proud"
+  trait = "cynical"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483010 = {
+  name = "アドナン"  # Adnan
+  dynasty = 100809
+  martial = 5
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483020 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 100810
+  martial = 8
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "scholarly_theologian"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483030 = {
+  name = "アブドゥル＝ガフール"  # Abdul-Gafur
+  dynasty = 100811
+  martial = 4
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "hunchback"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483040 = {
+  name = "アブドゥル・アズィーム"  # Abdul-Azeem
+  dynasty = 100813
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483050 = {
+  name = "アブドゥル＝ワッハーブ"  # Abdul-Wahab
+  dynasty = 100814
+  martial = 4
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483060 = {
+  name = "サッダッディン"  # Sa'daddin
+  dynasty = 100815
+  martial = 7
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "greedy"
+  trait = "patient"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483070 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 100816
+  martial = 8
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483080 = {
+  name = "イママッディン"  # Imamaddin
+  dynasty = 100818
+  martial = 6
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "charitable"
+  trait = "envious"
+  trait = "underhanded_rogue"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483090 = {
+  name = "ギヤースッディーン"  # Giyasaddin
+  dynasty = 100819
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483100 = {
+  name = "サッダッディン"  # Sa'daddin
+  dynasty = 100820
+  martial = 8
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "charitable"
+  trait = "cynical"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483110 = {
+  name = "アブドゥル＝ジャッバール"  # Abdul-Jabbar
+  dynasty = 100821
+  martial = 4
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "scholarly_theologian"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+483120 = {
+  name = "タイイーブ"  # Tayyib
+  dynasty = 100822
+  martial = 8
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "slothful"
+  trait = "patient"
+  trait = "clubfooted"
+  trait = "thrifty_clerk"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484000 = {
+  name = "ザカリアーフ"  # Zakariah
+  dynasty = 100834
+  martial = 8
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "wroth"
+  trait = "cynical"
+  trait = "martial_cleric"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484010 = {
+  name = "シャムサディーン"  # Shamsaddin
+  dynasty = 100835
+  martial = 8
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "arbitrary"
+  trait = "underhanded_rogue"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484020 = {
+  name = "イブラヒム"  # Ibrahim
+  dynasty = 100823
+  martial = 6
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484030 = {
+  name = "バドラッディン"  # Badraddin
+  dynasty = 100825
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "humble"
+  trait = "wroth"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484040 = {
+  name = "ムスタファ"  # Mustafa
+  dynasty = 100824
+  martial = 7
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "gluttonous"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484050 = {
+  name = "アブドゥル＝ワッハーブ"  # Abdul-Wahab
+  dynasty = 100828
+  martial = 4
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "honest"
+  trait = "hunchback"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484060 = {
+  name = "ムアーウィヤ"  # Muawiyah
+  dynasty = 100829
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "humble"
+  trait = "flamboyant_schemer"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484070 = {
+  name = "アブドゥル＝マリク"  # Abdul-Malik
+  dynasty = 100830
+  martial = 4
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "charitable"
+  trait = "amateurish_plotter"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484080 = {
+  name = "アブドゥル・ラティーフ"  # Abdul-Lateef
+  dynasty = 100831
+  martial = 4
+  diplomacy = 7
+  intrigue = 7
+  stewardship = 7
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "zealous"
+  trait = "scholarly_theologian"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484090 = {
+  name = "ハシュマッディン"  # Hashmaddin
+  dynasty = 100832
+  martial = 5
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "wroth"
+  trait = "harelip"
+  trait = "martial_cleric"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+484100 = {
+  name = "アダム"  # Adam
+  dynasty = 100833
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "gluttonous"
+  trait = "martial_cleric"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+485130 = {
+  name = "ムーサ"  # Musa
+  dynasty = 100722
+  martial = 7
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "zealous"
+  trait = "tough_soldier"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+485140 = {
+  name = "ギヤースッディーン"  # Giyasaddin
+  dynasty = 100723
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "humble"
+  trait = "cynical"
+  trait = "martial_cleric"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+485150 = {
+  name = "ヤアクーブ"  # Ya'qub
+  dynasty = 100725
+  martial = 8
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "ill"
+  trait = "fortune_builder"
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+85007 = {
+  name = "イフニ"  # Ifni
+  dynasty = 595
+  martial = 3
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "thrifty_clerk"
+  father = 20934
+  1002.1.1 = {
+    birth = "1002.1.1"
+  }
+  1060.1.1 = {
+    death = "1060.1.1"
+  }
+}
+32991 = {
+  name = "ブルッギン"  # Buluggin
+  dynasty = 595
+  father = 45016
+  religion = sunni
+  culture = maghreb_arabic
+  1038.1.1 = {
+    birth = yes
+  }
+  1054.1.1 = {
+    add_spouse = 200235
+  }
+  1065.1.1 = {
+    death = yes
   }
 }
 32951 = {
@@ -1282,22 +2652,6 @@
   }
   1269.1.1 = {
     death = "1269.1.1"
-  }
-}
-32991 = {
-  name = "ブルッギン"  # Buluggin
-  dynasty = 595
-  father = 45016
-  religion = sunni
-  culture = maghreb_arabic
-  1038.1.1 = {
-    birth = yes
-  }
-  1054.1.1 = {
-    add_spouse = 200235
-  }
-  1065.1.1 = {
-    death = yes
   }
 }
 32992 = {
@@ -2147,262 +3501,117 @@
     death = "1389.1.1"
   }
 }
-33056 = {
-  name = "サアド"  # Sa'd
-  dynasty = 7279
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  1176.1.1 = {
-    birth = "1176.1.1"
-  }
-  1230.1.1 = {
-    add_claim = d_valencia
-    add_claim = d_murcia
-    add_claim = d_cordoba
-    add_claim = d_badajoz
-    add_claim = d_sevilla
-    add_claim = d_granada
-  }
-  1230.3.19 = {
-    remove_claim = d_badajoz
-  }
-  1236.1.1 = {
-    remove_claim = d_valencia
-    remove_claim = d_cordoba
-  }
-  1242.1.1 = {
-    death = "1242.1.1"
-  }
-}
-33057 = {
-  name = "ウマル"  # Umar
-  dynasty = 7279
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73234
-  1228.1.1 = {
-    birth = "1228.1.1"
-  }
-  1263.1.1 = {
-    add_claim = d_granada
-  }
-  1287.1.1 = {
-    death = "1287.1.1"
-  }
-}
-45014 = {
-  name = "ザウィ"  # Zawi
-  dynasty = 595
-  martial = 4
-  diplomacy = 4
+3853 = {
+  name = "アブー＝バクル"  # Abu-Bakr
+  dynasty = 7274
+  martial = 10
+  diplomacy = 7
   intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "skilled_tactician"
-  trait = "just"
-  trait = "wroth"
-  father = 20931
-  950.1.1 = {
-    birth = "950.1.1"
-  }
-  1020.1.1 = {
-    death = "1020.1.1"
-  }
-}
-45015 = {
-  name = "ハブス"  # Habus
-  dynasty = 595
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "charismatic_negotiator"
-  father = 45017
-  978.1.1 = {
-    birth = "978.1.1"
-  }
-  1038.1.1 = {
-    death = "1038.1.1"
-  }
-}
-45016 = {
-  name = "バディス"  # Badis
-  dynasty = 595
-  martial = 4
-  diplomacy = 5
-  intrigue = 9
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "charismatic_negotiator"
-  trait = "greedy"
-  trait = "arbitrary"
-  father = 45015
-  1006.1.1 = {
-    birth = "1006.1.1"
-  }
-  1073.1.1 = {
-    death = "1073.1.1"
-  }
-}
-45017 = {
-  name = "マクサン"  # Maksan
-  dynasty = 595
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 20931
-  952.1.1 = {
-    birth = "952.1.1"
-  }
-  1018.1.1 = {
-    death = "1018.1.1"
-  }
-}
-45018 = {
-  name = "アル＝カイード"  # al-Qaid
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "underhanded_rogue"
-  father = 20936
-  985.1.1 = {
-    birth = "985.1.1"
-  }
-  1054.1.1 = {
-    death = "1054.1.1"
-  }
-}
-45019 = {
-  name = "ユスフ"  # Yusuf
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "underhanded_rogue"
-  father = 20936
-  990.1.1 = {
-    birth = "990.1.1"
-  }
-  1062.1.1 = {
-    death = "1062.1.1"
-  }
-}
-45020 = {
-  name = "クイフラン"  # Ouighlan
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "underhanded_rogue"
-  father = 20936
-  995.1.1 = {
-    birth = "995.1.1"
-  }
-  1088.1.1 = {
-    death = "1088.1.1"
-  }
-}
-45021 = {
-  name = "ムフスィン"  # Muhsin
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 2
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  father = 45018
-  1005.1.1 = {
-    birth = "1005.1.1"
-  }
-  1055.1.1 = {
-    death = "1055.1.1"
-  }
-}
-45022 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 20936
-  991.1.1 = {
-    birth = "991.1.1"
-  }
-  1040.1.1 = {
-    death = "1040.1.1"
-  }
-}
-45023 = {
-  name = "ブルッギン"  # Buluggin
-  dynasty = 575
-  martial = 4
-  diplomacy = 4
-  intrigue = 6
   stewardship = 4
   religion = "sunni"
   culture = "maghreb_arabic"
-  trait = "elusive_shadow"
-  trait = "paranoid"
-  trait = "ambitious"
-  father = 45022
-  1025.1.1 = {
-    birth = "1025.1.1"
+  trait = "skilled_tactician"
+  trait = "patient"
+  trait = "just"
+  trait = "diligent"
+  trait = "zealous"
+  father = 32957
+  1036.1.1 = {
+    birth = "1036.1.1"
   }
-  1062.1.1 = {
-    death = "1062.1.1"
+  1060.1.1 = {
+    add_claim = d_tangiers
+    add_claim = d_fes
+    add_claim = d_tlemcen
+    add_claim = d_sevilla
+    add_claim = d_granada
+    add_claim = d_murcia
+  }
+  1052.1.1 = {
+    add_spouse = 273120
+  }
+  1068.1.1 = {
+    add_spouse = 3856
+  }
+  1071.1.1 = {
+    remove_spouse = 3856
+  }
+  1087.1.1 = {
+    death = "1087.1.1"
   }
 }
-45024 = {
-  name = "アル＝マンスール"  # al-Mansur
-  dynasty = 575
-  martial = 5
-  diplomacy = 5
+3855 = {
+  name = "イスマーイール"  # Ismail
+  dynasty = 7274
+  martial = 7
+  diplomacy = 6
   intrigue = 5
   stewardship = 6
   religion = "sunni"
   culture = "maghreb_arabic"
-  trait = "diligent"
-  trait = "thrifty_clerk"
-  father = 20834
-  1065.1.1 = {
-    birth = "1065.1.1"
+  trait = "tough_soldier"
+  father = 3853
+  1057.1.1 = {
+    birth = "1057.1.1"
   }
-  1110.1.1 = {
-    death = "1110.1.1"
+  1107.1.1 = {
+    death = "1107.1.1"
   }
 }
-73183 = {
-  name = "ティフィルウィト"  # Tifilwit
-  dynasty = 12193
-  religion = sunni
-  culture = maghreb_arabic
-  1066.1.1 = {
-    birth = yes
+3856 = {
+  name = "ザイナブ"  # Zainab
+  dynasty = 7275
+  female = yes
+  martial = 5
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 6
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "amateurish_plotter"
+  1040.1.2 = {
+    birth = "1040.1.2"
   }
-  1118.12.18 = {
-    death = yes
+  1090.1.2 = {
+    death = "1090.1.2"
+  }
+}
+224000 = {
+  name = "ユスフ"  # Yusuf
+  dynasty = 101875
+  martial = 7
+  diplomacy = 5
+  intrigue = 5
+  stewardship = 8
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "tough_soldier"
+  father = 32978
+  1135.1.1 = {
+    birth = "1135.1.1"
+  }
+  1184.7.29 = {
+    death = "1184.7.29"
+  }
+}
+224005 = {
+  name = "アン＝ナッスィール"  # an-Nassir
+  dynasty = 101875
+  martial = 4
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 5
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "stutter"
+  trait = "tough_soldier"
+  father = 32980
+  1176.1.1 = {
+    birth = "1176.1.1"
+  }
+  1213.1.1 = {
+    death = "1213.1.1"
   }
 }
 73219 = {
@@ -2568,6 +3777,208 @@
     death = "1263.1.1"
   }
 }
+33056 = {
+  name = "サアド"  # Sa'd
+  dynasty = 7279
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  1176.1.1 = {
+    birth = "1176.1.1"
+  }
+  1230.1.1 = {
+    add_claim = d_valencia
+    add_claim = d_murcia
+    add_claim = d_cordoba
+    add_claim = d_badajoz
+    add_claim = d_sevilla
+    add_claim = d_granada
+  }
+  1230.3.19 = {
+    remove_claim = d_badajoz
+  }
+  1236.1.1 = {
+    remove_claim = d_valencia
+    remove_claim = d_cordoba
+  }
+  1242.1.1 = {
+    death = "1242.1.1"
+  }
+}
+33057 = {
+  name = "ウマル"  # Umar
+  dynasty = 7279
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73234
+  1228.1.1 = {
+    birth = "1228.1.1"
+  }
+  1263.1.1 = {
+    add_claim = d_granada
+  }
+  1287.1.1 = {
+    death = "1287.1.1"
+  }
+}
+224001 = {
+  name = "アブド＝アル＝ラッザーク"  # Abd-al-Razzaq
+  dynasty = 12225
+  religion = shiite
+  culture = maghreb_arabic
+  1126.1.1 = {
+    birth = yes
+  }
+  1189.1.1 = {
+    death = yes
+  }
+}
+224010 = {
+  name = "アブドゥルアズィーズ"  # Abd-al-Aziz
+  dynasty = 12218
+  religion = shiite
+  culture = maghreb_arabic
+  1133.1.1 = {
+    birth = yes
+  }
+  1188.1.1 = {
+    death = yes
+  }
+}
+224013 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 7274
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "flamboyant_schemer"
+  father = 32965
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+224015 = {
+  name = "ヤアクーブ"  # Ya'qub
+  dynasty = 12233
+  martial = 5
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 7
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "tough_soldier"
+  1121.1.1 = {
+    birth = "1121.1.1"
+  }
+  1178.1.1 = {
+    death = "1178.1.1"
+  }
+}
+224020 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 12220
+  martial = 7
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 8
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "just"
+  trait = "proud"
+  trait = "honest"
+  trait = "amateurish_plotter"
+  1128.1.1 = {
+    birth = "1128.1.1"
+  }
+  1190.1.1 = {
+    death = "1190.1.1"
+  }
+}
+224022 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 12222
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 8
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "skilled_tactician"
+  1112.1.1 = {
+    birth = "1112.1.1"
+  }
+  1169.1.1 = {
+    death = "1169.1.1"
+  }
+}
+224009 = {
+  name = "アブドゥルアズィーズ"  # Abd-al-Aziz
+  dynasty = 12217
+  religion = shiite
+  culture = maghreb_arabic
+  1119.1.1 = {
+    birth = yes
+  }
+  1172.1.1 = {
+    death = yes
+  }
+}
+224011 = {
+  name = "ヤズィード"  # Yazid
+  dynasty = 12219
+  martial = 8
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 8
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "tough_soldier"
+  1127.1.1 = {
+    birth = "1127.1.1"
+  }
+  1188.1.1 = {
+    death = "1188.1.1"
+  }
+}
+224021 = {
+  name = "ビラル"  # Bilal
+  dynasty = 12221
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "envious"
+  trait = "flamboyant_schemer"
+  1146.1.1 = {
+    birth = "1146.1.1"
+  }
+  1199.1.1 = {
+    death = "1199.1.1"
+  }
+}
+20871 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 12206
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 6
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "patient"
+  trait = "temperate"
+  1179.1.1 = {
+    birth = "1179.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
 73309 = {
   name = "ムハンマド"  # Muhammad
   dynasty = 12240
@@ -2656,452 +4067,50 @@
     death = "1127.1.1"
   }
 }
-73609 = {
-  name = "ウスマーン"  # Utman
-  dynasty = 12257
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  1163.1.1 = {
-    birth = "1163.1.1"
-  }
-  1213.1.1 = {
-    death = "1213.1.1"
-  }
-}
-73610 = {
-  name = "アブダッラーフ"  # Abdallah
-  dynasty = 12256
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73611
-  1188.1.1 = {
-    birth = "1188.1.1"
-  }
-  1228.1.1 = {
-    death = "1228.1.1"
-  }
-}
-73611 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 12256
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  1156.1.1 = {
-    birth = "1156.1.1"
-  }
-  1212.1.1 = {
-    death = "1212.1.1"
-  }
-}
-73612 = {
-  name = "ウマル"  # Umar
-  dynasty = 12256
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73611
-  1181.1.1 = {
-    birth = "1181.1.1"
-  }
-  1234.1.1 = {
-    death = "1234.1.1"
-  }
-}
-73613 = {
-  name = "アブド＝アッラフマーン"  # Abd-al-Rahman
-  dynasty = 12258
-  religion = shiite
-  culture = maghreb_arabic
-  1145.1.1 = {
-    birth = yes
-  }
-  1205.1.1 = {
-    death = yes
-  }
-}
-73614 = {
-  name = "ラシード"  # Rashid
-  dynasty = 12258
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73613
-  1173.1.1 = {
-    birth = "1173.1.1"
-  }
-  1231.1.1 = {
-    death = "1231.1.1"
-  }
-}
-73615 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 12259
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1208.1.1 = {
-    death = "1208.1.1"
-  }
-}
-73616 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 12259
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73615
-  1178.1.1 = {
-    birth = "1178.1.1"
-  }
-  1228.1.1 = {
-    death = "1228.1.1"
-  }
-}
-73617 = {
-  name = "ターリク"  # Tariq
-  dynasty = 12258
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73613
-  1177.1.1 = {
-    birth = "1177.1.1"
-  }
-  1232.1.1 = {
-    death = "1232.1.1"
-  }
-}
-73618 = {
-  name = "ウマル"  # Umar
-  dynasty = 12258
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 73613
-  1175.1.1 = {
-    birth = "1175.1.1"
-  }
-  1228.1.1 = {
-    death = "1228.1.1"
-  }
-}
-73619 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 7276
+20828 = {
+  name = "ラマダーン"  # Ramadan
+  dynasty = 12241
+  martial = 7
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 7
   religion = "sunni"
   culture = "maghreb_arabic"
-  father = 33012
-  1160.1.1 = {
-    birth = "1160.1.1"
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  1214.1.1 = {
-    death = "1214.1.1"
-  }
-}
-73620 = {
-  name = "アブド＝アッラフマーン"  # Abd-al-Rahman
-  dynasty = 7276
-  father = 73619
-  religion = sunni
-  culture = maghreb_arabic
-  1198.1.1 = {
-    birth = yes
-  }
-  1227.1.1 = {
-    death = yes
+  1092.1.1 = {
+    death = "1092.1.1"
   }
 }
-73655 = {
-  name = "ベツェヌリガ"  # Betzenuriga
-  dynasty = 100848
-  religion = "west_african_pagan"
+20831 = {
+  name = "ユスフ"  # Yusuf
+  dynasty = 12236
+  religion = "sunni"
   culture = "maghreb_arabic"
-  father = 73656
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1358.1.1 = {
-    death = "1358.1.1"
-  }
-}
-73656 = {
-  name = "ヴィンケ"  # Vinque
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73657
-  1272.1.1 = {
-    birth = "1272.1.1"
-  }
-  1330.1.1 = {
-    death = "1330.1.1"
-  }
-}
-73657 = {
-  name = "シンディア"  # Chindia
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73658
-  1257.1.1 = {
-    birth = "1257.1.1"
-  }
-  1305.1.1 = {
-    death = "1305.1.1"
-  }
-}
-73658 = {
-  name = "ビンシェルケ"  # Binicherque
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73659
-  1220.1.1 = {
-    birth = "1220.1.1"
-  }
-  1273.1.1 = {
-    death = "1273.1.1"
-  }
-}
-73659 = {
-  name = "アルシニーフェ"  # Archinife
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  mother = 73660
-  1196.1.1 = {
-    birth = "1196.1.1"
-  }
-  1234.1.1 = {
-    death = "1234.1.1"
-  }
-}
-73660 = {
-  name = "ヤイザ"  # Yaiza
-  dynasty = 100848
-  female = yes
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73661
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
-  }
-}
-73661 = {
-  name = "タマンカ"  # Tamanca
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73662
-  1138.1.1 = {
-    birth = "1138.1.1"
-  }
-  1180.1.1 = {
-    death = "1180.1.1"
-  }
-}
-73662 = {
-  name = "ベンコモ"  # Bencomo
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73663
-  1115.1.1 = {
-    birth = "1115.1.1"
-  }
-  1169.1.1 = {
-    death = "1169.1.1"
-  }
-}
-73663 = {
-  name = "グアナレム"  # Guanareme
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 73664
-  1088.1.1 = {
-    birth = "1088.1.1"
-  }
-  1144.1.1 = {
-    death = "1144.1.1"
-  }
-}
-73664 = {
-  name = "ベタンカイス"  # Betancaice
-  dynasty = 100848
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 20842
-  1064.1.1 = {
-    birth = "1064.1.1"
-  }
-  1106.1.1 = {
-    death = "1106.1.1"
-  }
-}
-73687 = {
-  name = "アリー"  # Ali
-  dynasty = 7501
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "sayyid"
-  father = 73688
-  958.1.1 = {
-    birth = "958.1.1"
-  }
-  1018.3.22 = {
-    death = "1018.3.22"
-  }
-}
-73688 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 7501
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "sayyid"
-  father = 159493
-  930.1.1 = {
-    birth = "930.1.1"
-  }
-  980.1.1 = {
-    death = "980.1.1"
-  }
-}
-73689 = {
-  name = "アル＝カースィム"  # al-Qasim
-  dynasty = 7501
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "sayyid"
-  father = 73688
-  961.1.1 = {
-    birth = "961.1.1"
-  }
-  1023.2.2 = {
-    death = "1023.2.2"
-  }
-}
-73690 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 7501
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "sayyid"
-  father = 73687
-  980.1.1 = {
-    birth = "980.1.1"
-  }
+  father = 73310
   1035.1.1 = {
-    death = "1035.1.1"
+    birth = "1035.1.1"
+  }
+  1071.1.1 = {
+    death = "1071.1.1"
   }
 }
-73838 = {
-  name = "イズラク"  # Izraq
-  dynasty = 12294
-  religion = sunni
-  culture = maghreb_arabic
-  830.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    add_spouse = 73837
-  }
-  888.1.1 = {
-    death = yes
-  }
-}
-73949 = {
-  name = "ムサッラ"  # Musarra
-  dynasty = 12303
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  816.1.1 = {
-    birth = "816.1.1"
-  }
-  867.1.1 = {
-    death = "867.1.1"
-  }
-}
-73950 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 12303
-  father = 73949
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  839.1.1 = {
-    birth = "839.1.1"
-  }
-  893.1.1 = {
-    death = "893.1.1"
-  }
-}
-73951 = {
-  name = "アブダッラーフ"  # Abdallah
-  dynasty = 12303
-  father = 73949
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  842.1.1 = {
-    birth = "842.1.1"
-  }
-  899.1.1 = {
-    death = "899.1.1"
-  }
-}
-85007 = {
-  name = "イフニ"  # Ifni
-  dynasty = 595
-  martial = 3
+20829 = {
+  name = "アッバード"  # Abbad
+  dynasty = 12237
+  martial = 8
   diplomacy = 6
-  intrigue = 5
-  stewardship = 5
+  intrigue = 4
+  stewardship = 6
   religion = "sunni"
   culture = "maghreb_arabic"
-  trait = "thrifty_clerk"
-  father = 20934
-  1002.1.1 = {
-    birth = "1002.1.1"
+  trait = "amateurish_plotter"
+  1025.1.1 = {
+    birth = "1025.1.1"
   }
-  1060.1.1 = {
-    death = "1060.1.1"
-  }
-}
-144232 = {
-  name = "アミン"  # Amin
-  dynasty = 793
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  1030.1.1 = {
-    birth = "1030.1.1"
-  }
-  1072.1.1 = {
-    death = "1072.1.1"
-  }
-}
-144233 = {
-  name = "ジャラ"  # Jala
-  dynasty = 793
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 144232
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1099.1.1 = {
-    death = "1099.1.1"
-  }
-}
-144234 = {
-  name = "ファクフル"  # Fakhr
-  dynasty = 793
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  father = 144232
-  1052.1.1 = {
-    birth = "1052.1.1"
-  }
-  1109.7.12 = {
-    death = "1109.7.12"
+  1086.1.1 = {
+    death = "1086.1.1"
   }
 }
 155000 = {
@@ -4063,6 +5072,289 @@
     death = "1030.1.1"
   }
 }
+73609 = {
+  name = "ウスマーン"  # Utman
+  dynasty = 12257
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  1163.1.1 = {
+    birth = "1163.1.1"
+  }
+  1213.1.1 = {
+    death = "1213.1.1"
+  }
+}
+73610 = {
+  name = "アブダッラーフ"  # Abdallah
+  dynasty = 12256
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73611
+  1188.1.1 = {
+    birth = "1188.1.1"
+  }
+  1228.1.1 = {
+    death = "1228.1.1"
+  }
+}
+73611 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 12256
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  1156.1.1 = {
+    birth = "1156.1.1"
+  }
+  1212.1.1 = {
+    death = "1212.1.1"
+  }
+}
+73612 = {
+  name = "ウマル"  # Umar
+  dynasty = 12256
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73611
+  1181.1.1 = {
+    birth = "1181.1.1"
+  }
+  1234.1.1 = {
+    death = "1234.1.1"
+  }
+}
+73613 = {
+  name = "アブド＝アッラフマーン"  # Abd-al-Rahman
+  dynasty = 12258
+  religion = shiite
+  culture = maghreb_arabic
+  1145.1.1 = {
+    birth = yes
+  }
+  1205.1.1 = {
+    death = yes
+  }
+}
+73614 = {
+  name = "ラシード"  # Rashid
+  dynasty = 12258
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73613
+  1173.1.1 = {
+    birth = "1173.1.1"
+  }
+  1231.1.1 = {
+    death = "1231.1.1"
+  }
+}
+73615 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 12259
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1208.1.1 = {
+    death = "1208.1.1"
+  }
+}
+73616 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 12259
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73615
+  1178.1.1 = {
+    birth = "1178.1.1"
+  }
+  1228.1.1 = {
+    death = "1228.1.1"
+  }
+}
+73617 = {
+  name = "ターリク"  # Tariq
+  dynasty = 12258
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73613
+  1177.1.1 = {
+    birth = "1177.1.1"
+  }
+  1232.1.1 = {
+    death = "1232.1.1"
+  }
+}
+73618 = {
+  name = "ウマル"  # Umar
+  dynasty = 12258
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  father = 73613
+  1175.1.1 = {
+    birth = "1175.1.1"
+  }
+  1228.1.1 = {
+    death = "1228.1.1"
+  }
+}
+73619 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 7276
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 33012
+  1160.1.1 = {
+    birth = "1160.1.1"
+  }
+  1214.1.1 = {
+    death = "1214.1.1"
+  }
+}
+73620 = {
+  name = "アブド＝アッラフマーン"  # Abd-al-Rahman
+  dynasty = 7276
+  father = 73619
+  religion = sunni
+  culture = maghreb_arabic
+  1198.1.1 = {
+    birth = yes
+  }
+  1227.1.1 = {
+    death = yes
+  }
+}
+73655 = {
+  name = "ベツェヌリガ"  # Betzenuriga
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73656
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1358.1.1 = {
+    death = "1358.1.1"
+  }
+}
+73656 = {
+  name = "ヴィンケ"  # Vinque
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73657
+  1272.1.1 = {
+    birth = "1272.1.1"
+  }
+  1330.1.1 = {
+    death = "1330.1.1"
+  }
+}
+73657 = {
+  name = "シンディア"  # Chindia
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73658
+  1257.1.1 = {
+    birth = "1257.1.1"
+  }
+  1305.1.1 = {
+    death = "1305.1.1"
+  }
+}
+73658 = {
+  name = "ビンシェルケ"  # Binicherque
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73659
+  1220.1.1 = {
+    birth = "1220.1.1"
+  }
+  1273.1.1 = {
+    death = "1273.1.1"
+  }
+}
+73659 = {
+  name = "アルシニーフェ"  # Archinife
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  mother = 73660
+  1196.1.1 = {
+    birth = "1196.1.1"
+  }
+  1234.1.1 = {
+    death = "1234.1.1"
+  }
+}
+73660 = {
+  name = "ヤイザ"  # Yaiza
+  dynasty = 100848
+  female = yes
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73661
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
+73661 = {
+  name = "タマンカ"  # Tamanca
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73662
+  1138.1.1 = {
+    birth = "1138.1.1"
+  }
+  1180.1.1 = {
+    death = "1180.1.1"
+  }
+}
+73662 = {
+  name = "ベンコモ"  # Bencomo
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73663
+  1115.1.1 = {
+    birth = "1115.1.1"
+  }
+  1169.1.1 = {
+    death = "1169.1.1"
+  }
+}
+73663 = {
+  name = "グアナレム"  # Guanareme
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 73664
+  1088.1.1 = {
+    birth = "1088.1.1"
+  }
+  1144.1.1 = {
+    death = "1144.1.1"
+  }
+}
+73664 = {
+  name = "ベタンカイス"  # Betancaice
+  dynasty = 100848
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  father = 20842
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1106.1.1 = {
+    death = "1106.1.1"
+  }
+}
 155085 = {
   name = "ウマル"  # Umar
   dynasty = 101875
@@ -4891,6 +6183,62 @@
     death = "1355.1.1"
   }
 }
+73687 = {
+  name = "アリー"  # Ali
+  dynasty = 7501
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "sayyid"
+  father = 73688
+  958.1.1 = {
+    birth = "958.1.1"
+  }
+  1018.3.22 = {
+    death = "1018.3.22"
+  }
+}
+73688 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 7501
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "sayyid"
+  father = 159493
+  930.1.1 = {
+    birth = "930.1.1"
+  }
+  980.1.1 = {
+    death = "980.1.1"
+  }
+}
+73689 = {
+  name = "アル＝カースィム"  # al-Qasim
+  dynasty = 7501
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "sayyid"
+  father = 73688
+  961.1.1 = {
+    birth = "961.1.1"
+  }
+  1023.2.2 = {
+    death = "1023.2.2"
+  }
+}
+73690 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 7501
+  religion = "shiite"
+  culture = "maghreb_arabic"
+  trait = "sayyid"
+  father = 73687
+  980.1.1 = {
+    birth = "980.1.1"
+  }
+  1035.1.1 = {
+    death = "1035.1.1"
+  }
+}
 159183 = {
   name = "ハッサン"  # Hassan
   dynasty = 12240
@@ -5452,354 +6800,6 @@
     death = "985.12.16"
   }
 }
-161076 = {
-  name = "カバヨ"  # Kabayo
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-161077 = {
-  name = "シセ"  # Cisse
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161076
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-161078 = {
-  name = "デムバ"  # Demba
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161077
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-161079 = {
-  name = "ダウド"  # Daoud
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161078
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-161080 = {
-  name = "イスハーク"  # Ishaq
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161079
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1240.1.1 = {
-    death = "1240.1.1"
-  }
-}
-161081 = {
-  name = "レイジャ"  # Reidja
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161080
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-161082 = {
-  name = "サンダキ"  # Sandaki
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161081
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1300.1.1 = {
-    death = "1300.1.1"
-  }
-}
-161083 = {
-  name = "バダ"  # Bada
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161082
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1320.1.1 = {
-    death = "1320.1.1"
-  }
-}
-161084 = {
-  name = "ビラマ"  # Birama
-  dynasty = 1030009
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161083
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-161085 = {
-  name = "カイナ"  # Kayna
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-161086 = {
-  name = "ボンガ"  # Bonga
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161085
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-161087 = {
-  name = "マジャン"  # Majan
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161086
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-161088 = {
-  name = "ママディ"  # Mamadi
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161087
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-161089 = {
-  name = "ムーサ"  # Musa
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161088
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1240.1.1 = {
-    death = "1240.1.1"
-  }
-}
-161090 = {
-  name = "ディアラ"  # Diara
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161089
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-161091 = {
-  name = "スライマーン"  # Sulayman
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161090
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1300.1.1 = {
-    death = "1300.1.1"
-  }
-}
-161092 = {
-  name = "アヤラマン"  # Alayaman
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161091
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1320.1.1 = {
-    death = "1320.1.1"
-  }
-}
-161093 = {
-  name = "ビユ"  # Biyu
-  dynasty = 1030010
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161092
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-161103 = {
-  name = "カッサ"  # Kassa
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-161104 = {
-  name = "タコイ"  # Takoi
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161103
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-161105 = {
-  name = "カナファ"  # Kanafa
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161104
-  1110.1.1 = {
-    birth = "1110.1.1"
-  }
-  1170.1.1 = {
-    death = "1170.1.1"
-  }
-}
-161106 = {
-  name = "ファッタ"  # Fatta
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161105
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-161107 = {
-  name = "クアリ"  # Ouali
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161106
-  1180.1.1 = {
-    birth = "1180.1.1"
-  }
-  1240.1.1 = {
-    death = "1240.1.1"
-  }
-}
-161108 = {
-  name = "フェダズ"  # Fädazu
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161107
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-161109 = {
-  name = "カヤ"  # Kaya
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161108
-  1240.1.1 = {
-    birth = "1240.1.1"
-  }
-  1300.1.1 = {
-    death = "1300.1.1"
-  }
-}
-161110 = {
-  name = "ラヒルトゥール"  # Lahiltoul
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161109
-  1270.1.1 = {
-    birth = "1270.1.1"
-  }
-  1320.1.1 = {
-    death = "1320.1.1"
-  }
-}
-161111 = {
-  name = "アコイ"  # Akoi
-  dynasty = 1030012
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  father = 161110
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
 163094 = {
   name = "サウダン"  # Sawdan
   dynasty = 806
@@ -5823,45 +6823,6 @@
   }
   872.1.1 = {
     death = "872.1.1"
-  }
-}
-163148 = {
-  name = "アブー・バクル"  # Abu Bakr
-  dynasty = 808
-  religion = "ibadi"
-  culture = "maghreb_arabic"
-  father = 163097
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  873.1.1 = {
-    death = "873.1.1"
-  }
-}
-163149 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 808
-  religion = "ibadi"
-  culture = "maghreb_arabic"
-  father = 163097
-  832.1.1 = {
-    birth = "832.1.1"
-  }
-  894.1.1 = {
-    death = "894.1.1"
-  }
-}
-163150 = {
-  name = "ヤアクーブ"  # Yaqub
-  dynasty = 808
-  religion = "ibadi"
-  culture = "maghreb_arabic"
-  father = 163097
-  834.1.1 = {
-    birth = "834.1.1"
-  }
-  901.1.1 = {
-    death = "901.1.1"
   }
 }
 166423 = {
@@ -5991,6 +6952,83 @@
   }
   1066.1.1 = {
     death = "1066.1.1"
+  }
+}
+73949 = {
+  name = "ムサッラ"  # Musarra
+  dynasty = 12303
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  816.1.1 = {
+    birth = "816.1.1"
+  }
+  867.1.1 = {
+    death = "867.1.1"
+  }
+}
+73950 = {
+  name = "イブラヒム"  # Ibrahim
+  dynasty = 12303
+  father = 73949
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  839.1.1 = {
+    birth = "839.1.1"
+  }
+  893.1.1 = {
+    death = "893.1.1"
+  }
+}
+73951 = {
+  name = "アブダッラーフ"  # Abdallah
+  dynasty = 12303
+  father = 73949
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  842.1.1 = {
+    birth = "842.1.1"
+  }
+  899.1.1 = {
+    death = "899.1.1"
+  }
+}
+163148 = {
+  name = "アブー・バクル"  # Abu Bakr
+  dynasty = 808
+  religion = "ibadi"
+  culture = "maghreb_arabic"
+  father = 163097
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  873.1.1 = {
+    death = "873.1.1"
+  }
+}
+163149 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 808
+  religion = "ibadi"
+  culture = "maghreb_arabic"
+  father = 163097
+  832.1.1 = {
+    birth = "832.1.1"
+  }
+  894.1.1 = {
+    death = "894.1.1"
+  }
+}
+163150 = {
+  name = "ヤアクーブ"  # Yaqub
+  dynasty = 808
+  religion = "ibadi"
+  culture = "maghreb_arabic"
+  father = 163097
+  834.1.1 = {
+    birth = "834.1.1"
+  }
+  901.1.1 = {
+    death = "901.1.1"
   }
 }
 168253 = {
@@ -6381,106 +7419,30 @@
     death = "945.1.1"
   }
 }
-188756 = {
-  name = "ウッダータ"  # Ugdada
-  dynasty = 1042177
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  742.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
-    death = yes
-  }
-}
-188757 = {
-  name = "アウザール"  # Awzal
-  dynasty = 1042178
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  733.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
-    death = yes
-  }
-}
-188758 = {
-  name = "アカテイヤージ"  # Akateiaji
-  dynasty = 1042179
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  718.1.1 = {
-    birth = yes
-  }
-  775.1.1 = {
-    death = yes
-  }
-}
-188759 = {
-  name = "グルーサ"  # Gulusa
-  dynasty = 1042180
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  750.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
-    death = yes
-  }
-}
-188760 = {
-  name = "ラクマケス"  # Lacumaces
-  dynasty = 1042179
-  religion = "west_african_pagan"
-  culture = "maghreb_arabic"
-  father = 188758
-  748.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
-    death = yes
-  }
-}
-200214 = {
-  name = "アブド＝アル＝カリーム"  # Abd-al-Karim
-  dynasty = 1046020
+73183 = {
+  name = "ティフィルウィト"  # Tifilwit
+  dynasty = 12193
   religion = sunni
   culture = maghreb_arabic
-  730.1.1 = {
+  1066.1.1 = {
     birth = yes
   }
-  763.1.1 = {
-    add_spouse = 200215
-  }
-  784.1.1 = {
+  1118.12.18 = {
     death = yes
   }
 }
-200216 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 1046021
+73838 = {
+  name = "イズラク"  # Izraq
+  dynasty = 12294
   religion = sunni
   culture = maghreb_arabic
-  748.1.1 = {
+  830.1.1 = {
     birth = yes
   }
-  800.1.1 = {
-    death = yes
+  860.1.1 = {
+    add_spouse = 73837
   }
-}
-200217 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 1046022
-  religion = sunni
-  culture = maghreb_arabic
-  730.1.1 = {
-    birth = yes
-  }
-  760.1.1 = {
-    add_spouse = 200218
-  }
-  783.1.1 = {
+  888.1.1 = {
     death = yes
   }
 }
@@ -6550,6 +7512,48 @@
     birth = yes
   }
   1095.1.1 = {
+    death = yes
+  }
+}
+200214 = {
+  name = "アブド＝アル＝カリーム"  # Abd-al-Karim
+  dynasty = 1046020
+  religion = sunni
+  culture = maghreb_arabic
+  730.1.1 = {
+    birth = yes
+  }
+  763.1.1 = {
+    add_spouse = 200215
+  }
+  784.1.1 = {
+    death = yes
+  }
+}
+200216 = {
+  name = "ヤフヤー"  # Yahya
+  dynasty = 1046021
+  religion = sunni
+  culture = maghreb_arabic
+  748.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+200217 = {
+  name = "ムハンマド"  # Muhammad
+  dynasty = 1046022
+  religion = sunni
+  culture = maghreb_arabic
+  730.1.1 = {
+    birth = yes
+  }
+  760.1.1 = {
+    add_spouse = 200218
+  }
+  783.1.1 = {
     death = yes
   }
 }
@@ -6711,800 +7715,65 @@
     death = "802.1.1"
   }
 }
-220842 = {
-  name = "フサマッディン"  # Hussamaddin
-  dynasty = 100848
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
+188756 = {
+  name = "ウッダータ"  # Ugdada
+  dynasty = 1042177
+  religion = "west_african_pagan"
   culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224000 = {
-  name = "ユスフ"  # Yusuf
-  dynasty = 101875
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "tough_soldier"
-  father = 32978
-  1135.1.1 = {
-    birth = "1135.1.1"
-  }
-  1184.7.29 = {
-    death = "1184.7.29"
-  }
-}
-224001 = {
-  name = "アブド＝アル＝ラッザーク"  # Abd-al-Razzaq
-  dynasty = 12225
-  religion = shiite
-  culture = maghreb_arabic
-  1126.1.1 = {
+  742.1.1 = {
     birth = yes
   }
-  1189.1.1 = {
+  795.1.1 = {
     death = yes
   }
 }
-224005 = {
-  name = "アン＝ナッスィール"  # an-Nassir
-  dynasty = 101875
-  martial = 4
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 5
-  religion = "sunni"
+188757 = {
+  name = "アウザール"  # Awzal
+  dynasty = 1042178
+  religion = "west_african_pagan"
   culture = "maghreb_arabic"
-  trait = "stutter"
-  trait = "tough_soldier"
-  father = 32980
-  1176.1.1 = {
-    birth = "1176.1.1"
-  }
-  1213.1.1 = {
-    death = "1213.1.1"
-  }
-}
-224009 = {
-  name = "アブドゥルアズィーズ"  # Abd-al-Aziz
-  dynasty = 12217
-  religion = shiite
-  culture = maghreb_arabic
-  1119.1.1 = {
+  733.1.1 = {
     birth = yes
   }
-  1172.1.1 = {
+  795.1.1 = {
     death = yes
   }
 }
-224010 = {
-  name = "アブドゥルアズィーズ"  # Abd-al-Aziz
-  dynasty = 12218
-  religion = shiite
-  culture = maghreb_arabic
-  1133.1.1 = {
+188758 = {
+  name = "アカテイヤージ"  # Akateiaji
+  dynasty = 1042179
+  religion = "west_african_pagan"
+  culture = "maghreb_arabic"
+  718.1.1 = {
     birth = yes
   }
-  1188.1.1 = {
+  775.1.1 = {
     death = yes
   }
 }
-224011 = {
-  name = "ヤズィード"  # Yazid
-  dynasty = 12219
-  martial = 8
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 8
-  religion = "shiite"
+188759 = {
+  name = "グルーサ"  # Gulusa
+  dynasty = 1042180
+  religion = "west_african_pagan"
   culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1127.1.1 = {
-    birth = "1127.1.1"
+  750.1.1 = {
+    birth = yes
   }
-  1188.1.1 = {
-    death = "1188.1.1"
+  795.1.1 = {
+    death = yes
   }
 }
-224013 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 7274
-  religion = "sunni"
+188760 = {
+  name = "ラクマケス"  # Lacumaces
+  dynasty = 1042179
+  religion = "west_african_pagan"
   culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "flamboyant_schemer"
-  father = 32965
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1140.1.1 = {
-    death = "1140.1.1"
-  }
-}
-224015 = {
-  name = "ヤアクーブ"  # Ya'qub
-  dynasty = 12233
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "tough_soldier"
-  1121.1.1 = {
-    birth = "1121.1.1"
-  }
-  1178.1.1 = {
-    death = "1178.1.1"
-  }
-}
-224018 = {
-  name = "アブドゥル＝アズィーズ"  # Abdul-Aziz
-  dynasty = 100839
-  martial = 4
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "deceitful"
-  trait = "just"
-  trait = "envious"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224019 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 100841
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "patient"
-  trait = "charismatic_negotiator"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224020 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 12220
-  martial = 7
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 8
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "proud"
-  trait = "honest"
-  trait = "amateurish_plotter"
-  1128.1.1 = {
-    birth = "1128.1.1"
-  }
-  1190.1.1 = {
-    death = "1190.1.1"
-  }
-}
-224021 = {
-  name = "ビラル"  # Bilal
-  dynasty = 12221
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 6
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "envious"
-  trait = "flamboyant_schemer"
-  1146.1.1 = {
-    birth = "1146.1.1"
-  }
-  1199.1.1 = {
-    death = "1199.1.1"
-  }
-}
-224022 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 12222
-  martial = 6
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 8
-  religion = "shiite"
-  culture = "maghreb_arabic"
-  trait = "skilled_tactician"
-  1112.1.1 = {
-    birth = "1112.1.1"
-  }
-  1169.1.1 = {
-    death = "1169.1.1"
-  }
-}
-224026 = {
-  name = "アブドゥル・ラフマーン"  # Abdul-Rahman
-  dynasty = 100817
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "wroth"
-  trait = "cynical"
-  trait = "stutter"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224027 = {
-  name = "アブドゥル・ハリーム"  # Abdul-Haleem
-  dynasty = 100815
-  martial = 4
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224028 = {
-  name = "ムスリヒッディン"  # Muslihiddin
-  dynasty = 100816
-  martial = 7
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "lustful"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224029 = {
-  name = "ダウード"  # Da'ud
-  dynasty = 100819
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "arbitrary"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224030 = {
-  name = "フセイン"  # Husseyn
-  dynasty = 100820
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224031 = {
-  name = "ダウード"  # Da'ud
-  dynasty = 100818
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "fortune_builder"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224032 = {
-  name = "ムハンマド"  # Muhammad
-  dynasty = 100821
-  martial = 7
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "slothful"
-  trait = "scholarly_theologian"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224033 = {
-  name = "サリム"  # Salim
-  dynasty = 100822
-  martial = 8
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224034 = {
-  name = "ザカリアーフ"  # Zakariah
-  dynasty = 100823
-  martial = 8
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "greedy"
-  trait = "temperate"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224035 = {
-  name = "アブドゥル＝ファッターフ"  # Abdul-Fattah
-  dynasty = 100825
-  martial = 4
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "proud"
-  trait = "martial_cleric"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224036 = {
-  name = "アブドゥル・ハミード"  # Abdul-Hamid
-  dynasty = 100824
-  martial = 4
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "thrifty_clerk"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224037 = {
-  name = "サッダッディン"  # Sa'daddin
-  dynasty = 100828
-  martial = 8
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "scholarly_theologian"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224038 = {
-  name = "ハシュマッディン"  # Hashmaddin
-  dynasty = 100829
-  martial = 5
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "kind"
-  trait = "gluttonous"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224039 = {
-  name = "ジャファール"  # Jawhar
-  dynasty = 100830
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224040 = {
-  name = "アブドゥル＝ガフール"  # Abdul-Gafur
-  dynasty = 100831
-  martial = 4
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "martial_cleric"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224041 = {
-  name = "ラウーフ"  # Ra'uf
-  dynasty = 100832
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "honest"
-  trait = "envious"
-  trait = "stutter"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224042 = {
-  name = "ジャファール"  # Jawhar
-  dynasty = 100833
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "lustful"
-  trait = "diligent"
-  trait = "envious"
-  trait = "proud"
-  trait = "tough_soldier"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224043 = {
-  name = "アブドゥル・カリーム"  # Abdul-Kareem
-  dynasty = 100834
-  martial = 4
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "thrifty_clerk"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224044 = {
-  name = "ジャウダート"  # Jawdat
-  dynasty = 100835
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "diligent"
-  trait = "just"
-  trait = "cynical"
-  trait = "stutter"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224045 = {
-  name = "ハロウン"  # Haroun
-  dynasty = 100836
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "arbitrary"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224046 = {
-  name = "アカブ"  # Akab
-  dynasty = 100837
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "zealous"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-224047 = {
-  name = "ザイド"  # Zeyd
-  dynasty = 100838
-  martial = 8
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "deceitful"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226042 = {
-  name = "サイード"  # Sa'id
-  dynasty = 100805
-  martial = 8
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "underhanded_rogue"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226043 = {
-  name = "ムーサ"  # Musa
-  dynasty = 100806
-  martial = 7
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "honest"
-  trait = "martial_cleric"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226044 = {
-  name = "ハロウン"  # Haroun
-  dynasty = 100807
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226045 = {
-  name = "アブドゥル＝サラーム"  # Abdul-Salaam
-  dynasty = 100814
-  martial = 4
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "proud"
-  trait = "scholarly_theologian"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226046 = {
-  name = "イドリース"  # Idris
-  dynasty = 100809
-  martial = 6
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "skilled_tactician"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226047 = {
-  name = "ヤシャル"  # Yasar
-  dynasty = 100810
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "slothful"
-  trait = "patient"
-  trait = "amateurish_plotter"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226048 = {
-  name = "サイフッラー"  # Seyfullah
-  dynasty = 100811
-  martial = 8
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226049 = {
-  name = "アブドゥル・ラティーフ"  # Abdul-Lateef
-  dynasty = 100813
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1150.1.1 = {
-    birth = "1150.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-226050 = {
-  name = "アル＝アズィーズ・ウスマーン"  # Al-Aziz Uthman
-  dynasty = 24000
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "misguided_warrior"
-  father = 226000
-  1171.1.1 = {
-    birth = "1171.1.1"
-  }
-  1221.1.1 = {
-    death = "1221.1.1"
+  father = 188758
+  748.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
   }
 }
 248699 = {
@@ -7622,6 +7891,354 @@
   }
   1060.1.1 = {
     death = yes
+  }
+}
+161076 = {
+  name = "カバヨ"  # Kabayo
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+161077 = {
+  name = "シセ"  # Cisse
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161076
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+161078 = {
+  name = "デムバ"  # Demba
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161077
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+161079 = {
+  name = "ダウド"  # Daoud
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161078
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+161080 = {
+  name = "イスハーク"  # Ishaq
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161079
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1240.1.1 = {
+    death = "1240.1.1"
+  }
+}
+161081 = {
+  name = "レイジャ"  # Reidja
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161080
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+161082 = {
+  name = "サンダキ"  # Sandaki
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161081
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+161083 = {
+  name = "バダ"  # Bada
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161082
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1320.1.1 = {
+    death = "1320.1.1"
+  }
+}
+161084 = {
+  name = "ビラマ"  # Birama
+  dynasty = 1030009
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161083
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+161085 = {
+  name = "カイナ"  # Kayna
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+161086 = {
+  name = "ボンガ"  # Bonga
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161085
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+161087 = {
+  name = "マジャン"  # Majan
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161086
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+161088 = {
+  name = "ママディ"  # Mamadi
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161087
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+161089 = {
+  name = "ムーサ"  # Musa
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161088
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1240.1.1 = {
+    death = "1240.1.1"
+  }
+}
+161090 = {
+  name = "ディアラ"  # Diara
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161089
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+161091 = {
+  name = "スライマーン"  # Sulayman
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161090
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+161092 = {
+  name = "アヤラマン"  # Alayaman
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161091
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1320.1.1 = {
+    death = "1320.1.1"
+  }
+}
+161093 = {
+  name = "ビユ"  # Biyu
+  dynasty = 1030010
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161092
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+161103 = {
+  name = "カッサ"  # Kassa
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+161104 = {
+  name = "タコイ"  # Takoi
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161103
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1140.1.1 = {
+    death = "1140.1.1"
+  }
+}
+161105 = {
+  name = "カナファ"  # Kanafa
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161104
+  1110.1.1 = {
+    birth = "1110.1.1"
+  }
+  1170.1.1 = {
+    death = "1170.1.1"
+  }
+}
+161106 = {
+  name = "ファッタ"  # Fatta
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161105
+  1150.1.1 = {
+    birth = "1150.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+161107 = {
+  name = "クアリ"  # Ouali
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161106
+  1180.1.1 = {
+    birth = "1180.1.1"
+  }
+  1240.1.1 = {
+    death = "1240.1.1"
+  }
+}
+161108 = {
+  name = "フェダズ"  # Fädazu
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161107
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+161109 = {
+  name = "カヤ"  # Kaya
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161108
+  1240.1.1 = {
+    birth = "1240.1.1"
+  }
+  1300.1.1 = {
+    death = "1300.1.1"
+  }
+}
+161110 = {
+  name = "ラヒルトゥール"  # Lahiltoul
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161109
+  1270.1.1 = {
+    birth = "1270.1.1"
+  }
+  1320.1.1 = {
+    death = "1320.1.1"
+  }
+}
+161111 = {
+  name = "アコイ"  # Akoi
+  dynasty = 1030012
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  father = 161110
+  1300.1.1 = {
+    birth = "1300.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
   }
 }
 248788 = {
@@ -7833,6 +8450,19 @@
     death = yes
   }
 }
+248816 = {
+  name = "ジブリール"  # Jibril
+  dynasty = 1059962
+  religion = "sunni"
+  culture = "maghreb_arabic"
+  trait = sympathy_pagans
+  1040.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
 248804 = {
   name = "ムハンマド"  # Muhammad
   dynasty = 1059962
@@ -7998,19 +8628,6 @@
     birth = yes
   }
   1338.1.1 = {
-    death = yes
-  }
-}
-248816 = {
-  name = "ジブリール"  # Jibril
-  dynasty = 1059962
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = sympathy_pagans
-  1040.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
     death = yes
   }
 }
@@ -8320,1457 +8937,5 @@
   }
   1038.1.1 = {
     death = yes
-  }
-}
-273079 = {
-  name = "AbdAllâh" #ibn Muhammad"
-  dynasty = 1069080
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273078
-  1018.1.1 = {
-    birth = yes
-  }
-  1042.1.1 = {
-    death = yes
-  }
-}
-273080 = {
-  name = "ケラジャ"  # Keraja
-  dynasty = 1069082
-  religion = "ibadi"
-  culture = maghreb_arabic
-  father = 273097
-  850.1.1 = {
-    birth = yes
-  }
-  901.1.1 = {
-    death = yes
-  }
-}
-273081 = {
-  name = "タラカキン"  # Talakakin
-  dynasty = 1069080
-  religion = "sunni"
-  culture = maghreb_arabic
-  718.1.1 = {
-    birth = yes
-  }
-  764.1.1 = {
-    death = yes
-  }
-}
-273083 = {
-  name = "アブド・アッラーフ・イブン・ヤスィーン"  # Abd Allah ibn Yasin
-  dynasty = 1069087
-  martial = 7
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  learning = 6
-  religion = sunni
-  culture = maghreb_arabic
-  add_trait = "zealous"
-  add_trait = "diligent"
-  add_trait = "just"
-  add_trait = "scholarly_theologian"
-  1003.1.1 = {
-    birth = yes
-  }
-  1057.1.1 = {
-    employer = 3853
-  }
-  1059.1.1 = {
-    death = yes
-  }
-}
-273084 = {
-  name = "タラリット"  # Talalit
-  female = yes
-  dynasty = 1069080
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273077
-  993.1.1 = {
-    birth = yes
-  }
-  1020.1.1 = {
-    add_spouse = 273122
-  }
-  1050.1.1 = {
-    death = yes
-  }
-}
-273085 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 1069084
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273105
-  980.1.1 = {
-    birth = yes
-  }
-  1025.1.1 = {
-    death = yes
-  }
-}
-273086 = {
-  name = "タミム"  # Tamim
-  dynasty = 1069084
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273122
-  mother = 273084
-  1021.1.1 = {
-    birth = yes
-  }
-  1087.1.1 = {
-    death = yes
-  }
-}
-273087 = {
-  name = "アリー"  # Ali
-  dynasty = 1069080
-  religion = sunni
-  culture = maghreb_arabic
-  father = 32958
-  1048.1.1 = {
-    birth = yes
-  }
-  1053.1.1 = {
-    dynasty = 7274
-  }
-  1099.1.1 = {
-    death = yes
-  }
-}
-273088 = {
-  name = "アブー＝ウマル"  # 'Abu-Umar
-  dynasty = 1069081
-  religion = shiite
-  culture = maghreb_arabic
-  father = 1144550
-  1060.1.1 = {
-    birth = yes
-  }
-  1101.1.1 = {
-    death = yes
-  }
-}
-273089 = {
-  name = "アティッシ"  # Atissi
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273080
-  873.1.1 = {
-    birth = yes
-  }
-  926.1.1 = {
-    death = yes
-  }
-}
-273090 = {
-  name = "カディドゥ"  # Kadidu
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273089
-  900.1.1 = {
-    birth = yes
-  }
-  964.1.1 = {
-    death = yes
-  }
-}
-273091 = {
-  name = "ティルジャド"  # Tiljad
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273090
-  923.1.1 = {
-    birth = yes
-  }
-  981.1.1 = {
-    death = yes
-  }
-}
-273092 = {
-  name = "ワッタース"  # Watt'as
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273091
-  949.1.1 = {
-    birth = yes
-  }
-  1002.1.1 = {
-    death = yes
-  }
-}
-273093 = {
-  name = "クッシル"  # Kussil
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273092
-  975.1.1 = {
-    birth = yes
-  }
-  1036.1.1 = {
-    death = yes
-  }
-}
-273094 = {
-  name = "イビサ"  # Ibiza
-  dynasty = 1069082
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273093
-  1006.1.1 = {
-    birth = yes
-  }
-  1075.1.1 = {
-    death = yes
-  }
-}
-273095 = {
-  name = "ティクラーン・アル＝ラムトゥニー"  # Tîklân al-Lamtunî
-  dynasty = 1069080
-  religion = sunni
-  culture = soninke
-  father = 273081
-  738.1.1 = {
-    birth = yes
-  }
-  763.1.1 = {
-    culture = maghreb_arabic
-  }
-  768.1.1 = {
-    death = yes
-  }
-}
-273096 = {
-  name = "ギーダ"  # Ghida
-  female = yes
-  dynasty = 1069082
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273097
-  849.1.1 = {
-    birth = yes
-  }
-  865.1.1 = {
-    add_spouse = 273098
-  }
-  903.1.1 = {
-    death = yes
-  }
-}
-273097 = {
-  name = "ティルジャド"  # Tiljad
-  dynasty = 1069082
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273106
-  822.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-273098 = {
-  name = "ベッズィー"  # Bezz'i
-  dynasty = 1069083
-  religion = "sunni"
-  culture = maghreb_arabic
-  834.1.1 = {
-    birth = yes
-  }
-  865.1.1 = {
-    add_spouse = 273096
-  }
-  880.1.1 = {
-    death = yes
-  }
-}
-273099 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 1069083
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273098
-  853.1.1 = {
-    birth = yes
-  }
-  901.1.1 = {
-    death = yes
-  }
-}
-273100 = {
-  name = "タムルスト"  # Tamrust
-  female = yes
-  dynasty = 1069083
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273098
-  850.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    add_spouse = 273101
-  }
-  903.1.1 = {
-    death = yes
-  }
-}
-273101 = {
-  name = "ワッタース"  # Watt'as
-  dynasty = 1069084
-  religion = "sunni"
-  culture = maghreb_arabic
-  848.1.1 = {
-    birth = yes
-  }
-  866.1.1 = {
-    add_spouse = 273100
-  }
-  899.1.1 = {
-    death = yes
-  }
-}
-273102 = {
-  name = "タムルスト"  # Tamrust
-  female = yes
-  dynasty = 1069084
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273101
-  866.10.10 = {
-    birth = yes
-  }
-  918.1.1 = {
-    death = yes
-  }
-}
-273103 = {
-  name = "タミム"  # Tamim
-  dynasty = 1069084
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273101
-  878.1.1 = {
-    birth = yes
-  }
-  932.1.1 = {
-    death = yes
-  }
-}
-273104 = {
-  name = "ワッタース"  # Watt'as
-  dynasty = 1069084
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273103
-  910.1.1 = {
-    birth = yes
-  }
-  973.1.1 = {
-    death = yes
-  }
-}
-273105 = {
-  name = "タミム"  # Tamim
-  dynasty = 1069084
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273104
-  943.1.1 = {
-    birth = yes
-  }
-  1009.1.1 = {
-    death = yes
-  }
-}
-273106 = {
-  name = "アシュラフ"  # Ashraf
-  dynasty = 1069082
-  religion = "sunni"
-  culture = maghreb_arabic
-  father = 273107
-  782.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    death = yes
-  }
-}
-273107 = {
-  name = "アブー・ラムタ"  # Abu Lamta
-  dynasty = 1069082
-  religion = "sunni"
-  culture = maghreb_arabic
-  753.1.1 = {
-    birth = yes
-  }
-  812.1.1 = {
-    death = yes
-  }
-}
-273108 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 7274
-  religion = sunni
-  culture = maghreb_arabic
-  father = 3853
-  mother = 273120
-  1055.1.1 = {
-    birth = yes
-  }
-  1112.1.1 = {
-    death = yes
-  }
-}
-273109 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 7274
-  religion = sunni
-  culture = maghreb_arabic
-  father = 3853
-  mother = 273120
-  1053.1.1 = {
-    birth = yes
-  }
-  1105.1.1 = {
-    death = yes
-  }
-}
-273110 = {
-  name = "アウザール"  # Awzal
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273112
-  846.4.4 = {
-    birth = yes
-  }
-  900.6.6 = {
-    death = yes
-  }
-}
-273111 = {
-  name = "ヤブダス"  # Yabdas
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273110
-  866.4.4 = {
-    birth = yes
-  }
-  922.6.6 = {
-    death = yes
-  }
-}
-273112 = {
-  name = "マズィーフ"  # Mazigh
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  826.4.4 = {
-    birth = yes
-  }
-  866.6.6 = {
-    death = yes
-  }
-}
-273113 = {
-  name = "タイユールト"  # Tayyurt
-  female = yes
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273112
-  847.4.4 = {
-    birth = yes
-  }
-  908.6.6 = {
-    death = yes
-  }
-}
-273114 = {
-  name = "マヤッサ"  # Myassa
-  female = yes
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273112
-  849.10.4 = {
-    birth = yes
-  }
-  902.6.6 = {
-    death = yes
-  }
-}
-273115 = {
-  name = "アウザール"  # Awzal
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273111
-  894.4.4 = {
-    birth = yes
-  }
-  950.6.6 = {
-    death = yes
-  }
-}
-273116 = {
-  name = "ワッタス"  # Wattas
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273115
-  923.4.4 = {
-    birth = yes
-  }
-  975.6.6 = {
-    death = yes
-  }
-}
-273117 = {
-  name = "サックム"  # Sakkum
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273116
-  959.4.4 = {
-    birth = yes
-  }
-  1012.6.6 = {
-    death = yes
-  }
-}
-273118 = {
-  name = "ワッタス"  # Wattas
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273117
-  993.4.4 = {
-    birth = yes
-  }
-  1051.6.6 = {
-    death = yes
-  }
-}
-273119 = {
-  name = "ティランカン"  # Tilankan
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273118
-  1029.4.4 = {
-    birth = yes
-  }
-  1087.6.6 = {
-    death = yes
-  }
-}
-273120 = {
-  name = "タリファ"  # Tarifa
-  female = yes
-  dynasty = 1069088
-  religion = "kharijite"
-  culture = maghreb_arabic
-  father = 273118
-  1032.4.4 = {
-    birth = yes
-  }
-  1052.1.1 = {
-    add_spouse = 3853
-    religion = "sunni"
-  }
-  1087.1.1 = {
-    death = yes
-  }
-}
-273121 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 1069084
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273076
-  960.1.1 = {
-    birth = yes
-  }
-  1029.1.1 = {
-    death = yes
-  }
-}
-273122 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 1069084
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273121
-  995.1.1 = {
-    birth = yes
-  }
-  1020.1.1 = {
-    add_spouse = 273084
-  }
-  1043.1.1 = {
-    death = yes
-  }
-}
-273123 = {
-  name = "アッドゥ"  # Addu
-  dynasty = 1069080
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273073
-  895.1.1 = {
-    birth = yes
-  }
-  953.1.1 = {
-    death = yes
-  }
-}
-273124 = {
-  name = "タラカキン"  # Talakakin
-  dynasty = 1069080
-  religion = sunni
-  culture = maghreb_arabic
-  father = 273123
-  932.1.1 = {
-    birth = yes
-  }
-  999.1.1 = {
-    death = yes
-  }
-}
-273125 = {
-  name = "アブド＝アル＝アーラー"  # Abd-al-A'lâ
-  dynasty = 1069090
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273126
-  723.1.1 = {
-    birth = yes
-  }
-  761.1.1 = {
-    death = yes
-  }
-}
-273126 = {
-  name = "アル＝サムフ"  # al-Samh
-  dynasty = 1069090
-  religion = ibadi
-  culture = maghreb_arabic
-  700.1.1 = {
-    birth = yes
-  }
-  757.1.1 = {
-    death = yes
-  }
-}
-273127 = {
-  name = "アル＝ハッターブ"  # al-Khattab
-  dynasty = 1069090
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273125
-  746.1.1 = {
-    birth = yes
-  }
-  809.1.1 = {
-    death = yes
-  }
-}
-273128 = {
-  name = "ドゥナス"  # Dunas
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273129
-  1080.1.1 = {
-    birth = yes
-  }
-  1145.1.1 = {
-    death = yes
-  }
-}
-273129 = {
-  name = "アル＝カーイル"  # al-Khayr
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273130
-  1050.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-273130 = {
-  name = "アルジャーン"  # Arjân
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273131
-  1016.1.1 = {
-    birth = yes
-  }
-  1064.1.1 = {
-    death = yes
-  }
-}
-273131 = {
-  name = "アル＝サムフ"  # al-Samh
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273132
-  983.1.1 = {
-    birth = yes
-  }
-  1030.1.1 = {
-    death = yes
-  }
-}
-273132 = {
-  name = "アル＝カーイル"  # al-Khayr
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273133
-  948.1.1 = {
-    birth = yes
-  }
-  1009.1.1 = {
-    death = yes
-  }
-}
-273133 = {
-  name = "ドゥナス"  # Dunas
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273134
-  915.1.1 = {
-    birth = yes
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-273134 = {
-  name = "アルジャーン"  # Arjân
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  father = 273135
-  880.1.1 = {
-    birth = yes
-  }
-  933.1.1 = {
-    death = yes
-  }
-}
-273135 = {
-  name = "アル＝カーイル"  # al-Khayr
-  dynasty = 1069091
-  religion = ibadi
-  culture = maghreb_arabic
-  847.1.1 = {
-    birth = yes
-  }
-  903.1.1 = {
-    death = yes
-  }
-}
-273136 = {
-  name = "アブダッラーフ"  # AbdAllâh
-  dynasty = 1069092
-  religion = "ibadi"
-  culture = maghreb_arabic
-  832.1.1 = {
-    birth = yes
-  }
-  866.10.10 = {
-    death = yes
-  }
-}
-273137 = {
-  name = "ザルギーン"  # Zalghîn
-  dynasty = 1069092
-  religion = "ibadi"
-  culture = maghreb_arabic
-  father = 273136
-  850.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-273138 = {
-  name = "ケンワ"  # Kenwa
-  female = yes
-  dynasty = 1069092
-  religion = "ibadi"
-  culture = maghreb_arabic
-  father = 273136
-  849.1.1 = {
-    birth = yes
-  }
-  903.1.1 = {
-    death = yes
-  }
-}
-273139 = {
-  name = "アズィーム"  # Azim
-  dynasty = 1069092
-  religion = "ibadi"
-  culture = maghreb_arabic
-  father = 273137
-  888.1.1 = {
-    birth = yes
-  }
-  940.1.1 = {
-    death = yes
-  }
-}
-273140 = {
-  name = "ザルギーン"  # Zalghîn
-  dynasty = 1069092
-  religion = "ibadi"
-  culture = maghreb_arabic
-  father = 273139
-  920.1.1 = {
-    birth = yes
-  }
-  976.1.1 = {
-    death = yes
-  }
-}
-420842 = {
-  name = "フサマッディン"  # Hussamaddin
-  dynasty = 100848
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482000 = {
-  name = "ムアーウィヤ"  # Muawiyah
-  dynasty = 100843
-  martial = 7
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "arbitrary"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482010 = {
-  name = "アシュラフ"  # Ashraf
-  dynasty = 100836
-  martial = 5
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "scholarly_theologian"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482020 = {
-  name = "アカブ"  # Akab
-  dynasty = 100837
-  martial = 5
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "chaste"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482030 = {
-  name = "ウバイド"  # Ubayd
-  dynasty = 100838
-  martial = 8
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "brave"
-  trait = "skilled_tactician"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482040 = {
-  name = "サラーフッディーン"  # Salahaddin
-  dynasty = 100839
-  martial = 8
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "brave"
-  trait = "lisp"
-  trait = "fortune_builder"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-482050 = {
-  name = "カラメッディン"  # Kerameddin
-  dynasty = 100841
-  martial = 6
-  diplomacy = 4
-  intrigue = 7
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "arbitrary"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483000 = {
-  name = "ジャマル"  # Jamal
-  dynasty = 100817
-  martial = 6
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "proud"
-  trait = "cynical"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483010 = {
-  name = "アドナン"  # Adnan
-  dynasty = 100809
-  martial = 5
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483020 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 100810
-  martial = 8
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "scholarly_theologian"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483030 = {
-  name = "アブドゥル＝ガフール"  # Abdul-Gafur
-  dynasty = 100811
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "hunchback"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483040 = {
-  name = "アブドゥル・アズィーム"  # Abdul-Azeem
-  dynasty = 100813
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483050 = {
-  name = "アブドゥル＝ワッハーブ"  # Abdul-Wahab
-  dynasty = 100814
-  martial = 4
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483060 = {
-  name = "サッダッディン"  # Sa'daddin
-  dynasty = 100815
-  martial = 7
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "greedy"
-  trait = "patient"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483070 = {
-  name = "ヤフヤー"  # Yahya
-  dynasty = 100816
-  martial = 8
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483080 = {
-  name = "イママッディン"  # Imamaddin
-  dynasty = 100818
-  martial = 6
-  diplomacy = 6
-  intrigue = 5
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "charitable"
-  trait = "envious"
-  trait = "underhanded_rogue"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483090 = {
-  name = "ギヤースッディーン"  # Giyasaddin
-  dynasty = 100819
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483100 = {
-  name = "サッダッディン"  # Sa'daddin
-  dynasty = 100820
-  martial = 8
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "charitable"
-  trait = "cynical"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483110 = {
-  name = "アブドゥル＝ジャッバール"  # Abdul-Jabbar
-  dynasty = 100821
-  martial = 4
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "scholarly_theologian"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-483120 = {
-  name = "タイイーブ"  # Tayyib
-  dynasty = 100822
-  martial = 8
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "slothful"
-  trait = "patient"
-  trait = "clubfooted"
-  trait = "thrifty_clerk"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484000 = {
-  name = "ザカリアーフ"  # Zakariah
-  dynasty = 100834
-  martial = 8
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "wroth"
-  trait = "cynical"
-  trait = "martial_cleric"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484010 = {
-  name = "シャムサディーン"  # Shamsaddin
-  dynasty = 100835
-  martial = 8
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "arbitrary"
-  trait = "underhanded_rogue"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484020 = {
-  name = "イブラヒム"  # Ibrahim
-  dynasty = 100823
-  martial = 6
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484030 = {
-  name = "バドラッディン"  # Badraddin
-  dynasty = 100825
-  martial = 5
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "humble"
-  trait = "wroth"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484040 = {
-  name = "ムスタファ"  # Mustafa
-  dynasty = 100824
-  martial = 7
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "patient"
-  trait = "gluttonous"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484050 = {
-  name = "アブドゥル＝ワッハーブ"  # Abdul-Wahab
-  dynasty = 100828
-  martial = 4
-  diplomacy = 5
-  intrigue = 5
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "honest"
-  trait = "hunchback"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484060 = {
-  name = "ムアーウィヤ"  # Muawiyah
-  dynasty = 100829
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "humble"
-  trait = "flamboyant_schemer"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484070 = {
-  name = "アブドゥル＝マリク"  # Abdul-Malik
-  dynasty = 100830
-  martial = 4
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "charitable"
-  trait = "amateurish_plotter"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484080 = {
-  name = "アブドゥル・ラティーフ"  # Abdul-Lateef
-  dynasty = 100831
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 7
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "zealous"
-  trait = "scholarly_theologian"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484090 = {
-  name = "ハシュマッディン"  # Hashmaddin
-  dynasty = 100832
-  martial = 5
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 6
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "wroth"
-  trait = "harelip"
-  trait = "martial_cleric"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-484100 = {
-  name = "アダム"  # Adam
-  dynasty = 100833
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "gluttonous"
-  trait = "martial_cleric"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-485130 = {
-  name = "ムーサ"  # Musa
-  dynasty = 100722
-  martial = 7
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "just"
-  trait = "zealous"
-  trait = "tough_soldier"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-485140 = {
-  name = "ギヤースッディーン"  # Giyasaddin
-  dynasty = 100723
-  martial = 5
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 5
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "humble"
-  trait = "cynical"
-  trait = "martial_cleric"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-485150 = {
-  name = "ヤアクーブ"  # Ya'qub
-  dynasty = 100725
-  martial = 8
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 8
-  religion = "sunni"
-  culture = "maghreb_arabic"
-  trait = "ill"
-  trait = "fortune_builder"
-  1300.1.1 = {
-    birth = "1300.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
   }
 }

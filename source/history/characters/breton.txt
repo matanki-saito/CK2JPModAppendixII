@@ -1,305 +1,4 @@
-﻿178 = {
-  name = "オエル"  # Hoël
-  dynasty = 311
-  martial = 8
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "breton"
-  trait = "charismatic_negotiator"
-  father = 10042
-  mother = 10043
-  1016.1.1 = {
-    birth = yes
-  }
-  1058.1.1 = {
-    add_spouse = 347
-  }
-  1084.4.13 = {
-    death = yes
-  }
-}
-180 = {
-  name = "アラン"  # Alan
-  dynasty = 311
-  martial = 4
-  diplomacy = 7
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "breton"
-  father = 178
-  mother = 347
-  1060.1.2 = {
-    birth = yes
-  }
-  1087.1.1 = {
-    add_spouse = 127016
-  }
-  1112.1.8 = {
-    death = yes
-  }
-}
-340 = {
-  name = "コナン"  # Conan
-  dynasty = 22006
-  religion = "catholic"
-  culture = "breton"
-  father = 91248
-  935.1.1 = {
-    birth = yes
-  }
-  973.1.1 = {
-    add_spouse = 379
-  }
-  992.6.27 = {
-    death = {
-      death_reason = death_battle
-      killer = 374
-    }
-  }
-}
-342 = {
-  name = "ジョフロワ"  # Jafrez
-  dynasty = 22006
-  religion = "catholic"
-  culture = "breton"
-  father = 340
-  mother = 379
-  977.1.1 = {
-    birth = yes
-  }
-  996.1.1 = {
-    add_spouse = 257
-  }
-  1020.1.1 = {
-    death = yes
-  }
-}
-343 = {
-  name = "Judhael"
-  female = yes
-  dynasty = 22006
-  martial = 4
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "breton"
-  trait = "amateurish_plotter"
-  father = 340
-  mother = 379
-  982.1.1 = {
-    birth = yes
-  }
-  1017.1.2 = {
-    death = yes
-  }
-}
-344 = {
-  name = "アラン"  # Alan
-  dynasty = 22006
-  martial = 5
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 8
-  religion = "catholic"
-  culture = "breton"
-  trait = "hunchback"
-  trait = "martial_cleric"
-  father = 342
-  mother = 257
-  997.1.1 = {
-    birth = "997.1.1"
-  }
-  1032.1.1 = {
-    add_spouse = 393
-  }
-  1040.1.15 = {
-    death = "1040.1.15"
-  }
-}
-345 = {
-  name = "アデラ"  # Adela
-  female = yes
-  dynasty = 22006
-  martial = 7
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "breton"
-  trait = "amateurish_plotter"
-  father = 342
-  mother = 257
-  998.1.2 = {
-    birth = "998.1.2"
-  }
-  1048.1.2 = {
-    death = "1048.1.2"
-  }
-}
-346 = {
-  name = "Edouarzh"
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 342
-  mother = 257
-  999.1.1 = {
-    birth = yes
-  }
-  1037.1.1 = {
-    add_spouse = 10041
-  }
-  1079.1.7 = {
-    death = yes
-  }
-}
-347 = {
-  name = "Hawiz"
-  female = yes
-  dynasty = 22006
-  martial = 5
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "breton"
-  trait = "wroth"
-  trait = "flamboyant_schemer"
-  father = 344
-  mother = 393
-  1033.1.2 = {
-    birth = "1033.1.2"
-  }
-  1072.1.2 = {
-    death = "1072.1.2"
-  }
-}
-348 = {
-  name = "コナン"  # Konan
-  dynasty = 22006
-  religion = "catholic"
-  culture = "breton"
-  trait = "flamboyant_schemer"
-  trait = "strong"
-  trait = "cynical"
-  trait = "paranoid"
-  trait = "ambitious"
-  disallow_random_traits = yes
-  father = 344
-  mother = 393
-  1033.1.1 = {
-    birth = yes
-  }
-  1066.1.5 = {
-    add_claim = d_normandy
-  }
-  1066.12.11 = {
-    death = yes
-  }
-}
-350 = {
-  name = "ジョフロワ"  # Jafrez
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 346
-  mother = 10041
-  1038.1.1 = {
-    birth = yes
-  }
-  1093.4.24 = {
-    death = yes
-  }
-}
-354 = {
-  name = "ブリアック"  # Briac
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  trait = "bastard"
-  father = 346
-  1024.1.2 = {
-    birth = "1024.1.2"
-  }
-  1084.1.2 = {
-    death = "1084.1.2"
-  }
-}
-356 = {
-  name = "アラン"  # Alan
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 346
-  mother = 10041
-  1039.1.2 = {
-    birth = "1039.1.2"
-  }
-  1089.1.1 = {
-    death = "1089.1.1"
-  }
-}
-1355 = {
-  name = "ギーゼラ"  # Gisela
-  female = yes
-  dynasty = 22006
-  religion = catholic
-  culture = breton
-  father = 340
-  mother = 379
-  980.1.1 = {
-    birth = yes
-  }
-  1038.1.1 = {
-    death = yes
-  }
-}
-5650 = {
-  name = "ラルフ"  # Ralf
-  dynasty = 559
-  martial = 4
-  diplomacy = 8
-  intrigue = 8
-  stewardship = 6
-  religion = "catholic"
-  culture = "breton"
-  trait = "craven"
-  trait = "tough_soldier"
-  1011.1.1 = {
-    birth = "1011.1.1"
-  }
-  1068.1.1 = {
-    death = "1068.1.1"
-  }
-}
-5652 = {
-  name = "ラルフ"  # Ralf
-  dynasty = 559
-  martial = 5
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 6
-  religion = "catholic"
-  culture = "breton"
-  trait = "deceitful"
-  trait = "just"
-  trait = "skilled_tactician"
-  father = 5650
-  1040.1.2 = {
-    birth = "1040.1.2"
-  }
-  1066.1.1 = {
-    employer = 140
-  }
-  1096.1.2 = {
-    death = "1096.1.2"
-  }
-}
-10041 = {
+﻿10041 = {
   name = "Oanez"
   female = yes
   dynasty = 311
@@ -576,82 +275,333 @@
     death = "1103.1.1"
   }
 }
-40907 = {
-  name = "Guéthenoc"
-  dynasty = 312
-  martial = 7
-  diplomacy = 5
+178 = {
+  name = "オエル"  # Hoël
+  dynasty = 311
+  martial = 8
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "breton"
+  trait = "charismatic_negotiator"
+  father = 10042
+  mother = 10043
+  1016.1.1 = {
+    birth = yes
+  }
+  1058.1.1 = {
+    add_spouse = 347
+  }
+  1084.4.13 = {
+    death = yes
+  }
+}
+180 = {
+  name = "アラン"  # Alan
+  dynasty = 311
+  martial = 4
+  diplomacy = 7
   intrigue = 7
   stewardship = 4
   religion = "catholic"
   culture = "breton"
-  trait = "brilliant_strategist"
-  father = 91255
-  970.1.2 = {
-    birth = "970.1.2"
+  father = 178
+  mother = 347
+  1060.1.2 = {
+    birth = yes
   }
-  1022.1.2 = {
-    death = "1022.1.2"
+  1087.1.1 = {
+    add_spouse = 127016
+  }
+  1112.1.8 = {
+    death = yes
   }
 }
-40908 = {
-  name = "Iocilin"
+144155 = {
+  name = "ジョフロワ"  # Jafrez
+  dynasty = 312
+  religion = "catholic"
+  culture = "breton"
+  father = 40909
+  1067.1.1 = {
+    birth = "1067.1.1"
+  }
+  1142.1.1 = {
+    death = "1142.1.1"
+  }
+}
+144156 = {
+  name = "アラン"  # Alan
+  dynasty = 312
+  religion = "catholic"
+  culture = "breton"
+  father = 40909
+  1085.1.1 = {
+    birth = "1085.1.1"
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+205800 = {
+  name = "Magalie"
+  female = yes
+  dynasty = 312
+  martial = 4
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "breton"
+  trait = "flamboyant_schemer"
+  father = 205802
+  mother = 205750
+  1165.1.10 = {
+    birth = "1165.1.10"
+  }
+  1215.1.10 = {
+    death = "1215.1.10"
+  }
+}
+205801 = {
+  name = "Marc'harit"
+  female = yes
   dynasty = 312
   martial = 5
   diplomacy = 7
   intrigue = 6
-  stewardship = 5
+  stewardship = 7
   religion = "catholic"
   culture = "breton"
-  trait = "envious"
-  trait = "just"
-  trait = "charismatic_negotiator"
-  father = 40907
-  1010.1.2 = {
-    birth = "1010.1.2"
+  trait = "martial_cleric"
+  father = 205802
+  mother = 205750
+  1165.1.10 = {
+    birth = "1165.1.10"
   }
-  1074.1.2 = {
-    death = "1074.1.2"
+  1215.1.10 = {
+    death = "1215.1.10"
   }
 }
-40909 = {
-  name = "Eozen"
+205802 = {
+  name = "アラン"  # Alan
   dynasty = 312
   martial = 6
-  diplomacy = 8
-  intrigue = 7
+  diplomacy = 4
+  intrigue = 4
   stewardship = 6
   religion = "catholic"
   culture = "breton"
-  trait = "gluttonous"
-  trait = "proud"
-  trait = "flamboyant_schemer"
-  father = 40908
-  1045.1.2 = {
-    birth = "1045.1.2"
+  trait = "chaste"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 205803
+  mother = 205804
+  1135.1.2 = {
+    birth = "1135.1.2"
   }
-  1095.1.2 = {
-    death = "1095.1.2"
+  1164.1.2 = {
+    add_spouse = 205750
+  }
+  1185.1.2 = {
+    death = "1185.1.2"
   }
 }
-40910 = {
-  name = "Menguy"
+205803 = {
+  name = "アラン"  # Alan
   dynasty = 312
-  martial = 5
+  martial = 7
   diplomacy = 5
-  intrigue = 6
-  stewardship = 5
+  intrigue = 4
+  stewardship = 4
   religion = "catholic"
   culture = "breton"
-  trait = "gluttonous"
-  trait = "slothful"
-  trait = "detached_priest"
-  father = 40908
-  1047.1.2 = {
-    birth = "1047.1.2"
+  trait = "patient"
+  trait = "proud"
+  trait = "skilled_tactician"
+  father = 144156
+  1110.1.2 = {
+    birth = "1110.1.2"
   }
-  1097.1.2 = {
-    death = "1097.1.2"
+  1168.1.25 = {
+    death = "1168.1.25"
+  }
+}
+205804 = {
+  name = "Villana"
+  female = yes
+  dynasty = 313
+  martial = 4
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 7
+  religion = "catholic"
+  culture = "breton"
+  trait = "scholarly_theologian"
+  1105.1.2 = {
+    birth = "1105.1.2"
+  }
+  1169.1.2 = {
+    death = "1169.1.2"
+  }
+}
+1355 = {
+  name = "ギーゼラ"  # Gisela
+  female = yes
+  dynasty = 22006
+  religion = catholic
+  culture = breton
+  father = 340
+  mother = 379
+  980.1.1 = {
+    birth = yes
+  }
+  1038.1.1 = {
+    death = yes
+  }
+}
+343 = {
+  name = "Judhael"
+  female = yes
+  dynasty = 22006
+  martial = 4
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "breton"
+  trait = "amateurish_plotter"
+  father = 340
+  mother = 379
+  982.1.1 = {
+    birth = yes
+  }
+  1017.1.2 = {
+    death = yes
+  }
+}
+344 = {
+  name = "アラン"  # Alan
+  dynasty = 22006
+  martial = 5
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 8
+  religion = "catholic"
+  culture = "breton"
+  trait = "hunchback"
+  trait = "martial_cleric"
+  father = 342
+  mother = 257
+  997.1.1 = {
+    birth = "997.1.1"
+  }
+  1032.1.1 = {
+    add_spouse = 393
+  }
+  1040.1.15 = {
+    death = "1040.1.15"
+  }
+}
+345 = {
+  name = "アデラ"  # Adela
+  female = yes
+  dynasty = 22006
+  martial = 7
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "breton"
+  trait = "amateurish_plotter"
+  father = 342
+  mother = 257
+  998.1.2 = {
+    birth = "998.1.2"
+  }
+  1048.1.2 = {
+    death = "1048.1.2"
+  }
+}
+346 = {
+  name = "Edouarzh"
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 342
+  mother = 257
+  999.1.1 = {
+    birth = yes
+  }
+  1037.1.1 = {
+    add_spouse = 10041
+  }
+  1079.1.7 = {
+    death = yes
+  }
+}
+347 = {
+  name = "Hawiz"
+  female = yes
+  dynasty = 22006
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "breton"
+  trait = "wroth"
+  trait = "flamboyant_schemer"
+  father = 344
+  mother = 393
+  1033.1.2 = {
+    birth = "1033.1.2"
+  }
+  1072.1.2 = {
+    death = "1072.1.2"
+  }
+}
+350 = {
+  name = "ジョフロワ"  # Jafrez
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 346
+  mother = 10041
+  1038.1.1 = {
+    birth = yes
+  }
+  1093.4.24 = {
+    death = yes
+  }
+}
+354 = {
+  name = "ブリアック"  # Briac
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  trait = "bastard"
+  father = 346
+  1024.1.2 = {
+    birth = "1024.1.2"
+  }
+  1084.1.2 = {
+    death = "1084.1.2"
+  }
+}
+356 = {
+  name = "アラン"  # Alan
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 346
+  mother = 10041
+  1039.1.2 = {
+    birth = "1039.1.2"
+  }
+  1089.1.1 = {
+    death = "1089.1.1"
   }
 }
 50001 = {
@@ -744,91 +694,6 @@
   }
   990.1.1 = {
     death = "990.1.1"
-  }
-}
-50006 = {
-  name = "Hodierne"
-  female = yes
-  dynasty = 20137
-  religion = "catholic"
-  culture = "breton"
-  father = 50008
-  879.1.1 = {
-    birth = "879.1.1"
-  }
-  940.1.1 = {
-    death = "940.1.1"
-  }
-}
-50007 = {
-  name = "Malhuedoc"
-  dynasty = 20016
-  religion = "catholic"
-  culture = "breton"
-  father = 50009
-  870.1.1 = {
-    birth = "870.1.1"
-  }
-  895.1.1 = {
-    add_spouse = 50006
-  }
-  931.1.1 = {
-    death = "931.1.1"
-  }
-}
-50008 = {
-  name = "アラン"  # Alan
-  dynasty = 20137
-  religion = "catholic"
-  culture = "breton"
-  father = 50010
-  855.1.1 = {
-    birth = "855.1.1"
-  }
-  877.1.1 = {
-    give_nickname = nick_the_great
-  }
-  907.1.1 = {
-    death = "907.1.1"
-  }
-}
-50009 = {
-  name = "パスクーテン"  # Pascueten
-  dynasty = 20137
-  religion = "catholic"
-  culture = "breton"
-  father = 50010
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  877.1.1 = {
-    death = "877.1.1"
-  }
-}
-50010 = {
-  name = "Ridoredh"
-  dynasty = 20137
-  religion = "catholic"
-  culture = "breton"
-  father = 159695
-  832.1.1 = {
-    birth = "832.1.1"
-  }
-  877.1.1 = {
-    death = "877.1.1"
-  }
-}
-50011 = {
-  name = "Pasquitan"
-  dynasty = 20137
-  religion = "catholic"
-  culture = "breton"
-  father = 50008
-  881.1.1 = {
-    birth = "881.1.1"
-  }
-  903.1.1 = {
-    death = "903.1.1"
   }
 }
 91159 = {
@@ -969,6 +834,263 @@
     death = "1270.1.1"
   }
 }
+205740 = {
+  name = "Konstanza"
+  female = yes
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  trait = "elusive_shadow"
+  trait = "proud"
+  trait = "just"
+  trait = "stubborn"
+  trait = "gregarious"
+  disallow_random_traits = yes
+  father = 205741
+  mother = 203510
+  1161.6.12 = {
+    birth = "1161.6.12"
+  }
+  1201.9.5 = {
+    death = "1201.9.5"
+  }
+}
+205741 = {
+  name = "コナン"  # Konan
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  trait = "dwarf"
+  father = 205751
+  mother = 205825
+  1138.1.1 = {
+    birth = yes
+  }
+  1160.1.1 = {
+    add_spouse = 203510
+  }
+  1171.2.21 = {
+    death = yes
+  }
+}
+205744 = {
+  name = "ステフェン"  # Stefen
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 346
+  mother = 10041
+  1050.1.1 = {
+    birth = "1050.1.1"
+  }
+  1080.1.1 = {
+    add_spouse = 205745
+  }
+  1136.4.13 = {
+    death = "1136.4.13"
+  }
+}
+205750 = {
+  name = "Konstanza"
+  female = yes
+  dynasty = 317
+  father = 205751
+  mother = 205825
+  religion = "catholic"
+  culture = "breton"
+  1140.1.1 = {
+    birth = "1140.1.1"
+  }
+  1184.1.19 = {
+    death = "1184.1.19"
+  }
+}
+205751 = {
+  name = "アラン"  # Alan
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 205744
+  mother = 205745
+  1095.1.1 = {
+    birth = "1095.1.1"
+  }
+  1138.1.1 = {
+    add_spouse = 205825
+  }
+  1146.1.1 = {
+    death = "1146.1.1"
+  }
+}
+40907 = {
+  name = "Guéthenoc"
+  dynasty = 312
+  martial = 7
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "breton"
+  trait = "brilliant_strategist"
+  father = 91255
+  970.1.2 = {
+    birth = "970.1.2"
+  }
+  1022.1.2 = {
+    death = "1022.1.2"
+  }
+}
+40908 = {
+  name = "Iocilin"
+  dynasty = 312
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "breton"
+  trait = "envious"
+  trait = "just"
+  trait = "charismatic_negotiator"
+  father = 40907
+  1010.1.2 = {
+    birth = "1010.1.2"
+  }
+  1074.1.2 = {
+    death = "1074.1.2"
+  }
+}
+40909 = {
+  name = "Eozen"
+  dynasty = 312
+  martial = 6
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 6
+  religion = "catholic"
+  culture = "breton"
+  trait = "gluttonous"
+  trait = "proud"
+  trait = "flamboyant_schemer"
+  father = 40908
+  1045.1.2 = {
+    birth = "1045.1.2"
+  }
+  1095.1.2 = {
+    death = "1095.1.2"
+  }
+}
+40910 = {
+  name = "Menguy"
+  dynasty = 312
+  martial = 5
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "breton"
+  trait = "gluttonous"
+  trait = "slothful"
+  trait = "detached_priest"
+  father = 40908
+  1047.1.2 = {
+    birth = "1047.1.2"
+  }
+  1097.1.2 = {
+    death = "1097.1.2"
+  }
+}
+455580 = {
+  name = "Janed"
+  female = yes
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 91258
+  1290.1.1 = {
+    birth = "1290.1.1"
+  }
+  1327.8.30 = {
+    death = "1327.8.30"
+  }
+}
+455581 = {
+  name = "ヘリ"  # Herri
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 91169
+  1247.1.1 = {
+    birth = "1247.1.1"
+  }
+  1301.1.1 = {
+    death = "1301.1.1"
+  }
+}
+205825 = {
+  name = "Berthildis"
+  female = yes
+  dynasty = 311
+  martial = 5
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 8
+  learning = 5
+  religion = "catholic"
+  culture = "breton"
+  trait = "patient"
+  trait = "brave"
+  trait = "thrifty_clerk"
+  father = 91159
+  mother = 31399
+  1114.1.1 = {
+    birth = "1114.1.1"
+  }
+  1157.1.17 = {
+    death = "1157.1.17"
+  }
+}
+5650 = {
+  name = "ラルフ"  # Ralf
+  dynasty = 559
+  martial = 4
+  diplomacy = 8
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "breton"
+  trait = "craven"
+  trait = "tough_soldier"
+  1011.1.1 = {
+    birth = "1011.1.1"
+  }
+  1068.1.1 = {
+    death = "1068.1.1"
+  }
+}
+5652 = {
+  name = "ラルフ"  # Ralf
+  dynasty = 559
+  martial = 5
+  diplomacy = 7
+  intrigue = 5
+  stewardship = 6
+  religion = "catholic"
+  culture = "breton"
+  trait = "deceitful"
+  trait = "just"
+  trait = "skilled_tactician"
+  father = 5650
+  1040.1.2 = {
+    birth = "1040.1.2"
+  }
+  1066.1.1 = {
+    employer = 140
+  }
+  1096.1.2 = {
+    death = "1096.1.2"
+  }
+}
 91213 = {
   name = "Hamon"
   dynasty = 20017
@@ -979,19 +1101,6 @@
     birth = yes
   }
   1041.1.1 = {
-    death = yes
-  }
-}
-91214 = {
-  name = "Edouarzh"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 10059
-  1050.1.1 = {
-    birth = yes
-  }
-  1085.1.1 = {
     death = yes
   }
 }
@@ -1126,6 +1235,19 @@
   }
   1365.1.1 = {
     death = "1365.1.1"
+  }
+}
+91214 = {
+  name = "Edouarzh"
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 10059
+  1050.1.1 = {
+    birth = yes
+  }
+  1085.1.1 = {
+    death = yes
   }
 }
 91245 = {
@@ -1303,19 +1425,6 @@
   }
   1070.1.1 = {
     death = "1070.1.1"
-  }
-}
-91258 = {
-  name = "ヘリ"  # Herri
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 455581
-  1274.1.1 = {
-    birth = "1274.1.1"
-  }
-  1331.1.1 = {
-    death = "1331.1.1"
   }
 }
 91260 = {
@@ -1831,6 +1940,19 @@
     death = "1340.1.1"
   }
 }
+91258 = {
+  name = "ヘリ"  # Herri
+  dynasty = 317
+  religion = "catholic"
+  culture = "breton"
+  father = 455581
+  1274.1.1 = {
+    birth = "1274.1.1"
+  }
+  1331.1.1 = {
+    death = "1331.1.1"
+  }
+}
 91297 = {
   name = "イザベル"  # Isabelle
   female = yes
@@ -2137,30 +2259,563 @@
     death = "1310.1.1"
   }
 }
-144155 = {
-  name = "ジョフロワ"  # Jafrez
-  dynasty = 312
+205780 = {
+  name = "Guimarc'h"
+  dynasty = 20017
   religion = "catholic"
   culture = "breton"
-  father = 40909
-  1067.1.1 = {
-    birth = "1067.1.1"
+  father = 91215
+  1130.1.1 = {
+    birth = "1130.1.1"
   }
-  1142.1.1 = {
-    death = "1142.1.1"
+  1167.1.1 = {
+    add_spouse = 205746
+  }
+  1179.1.9 = {
+    death = "1179.1.9"
   }
 }
-144156 = {
-  name = "アラン"  # Alan
-  dynasty = 312
+205781 = {
+  name = "Guimarc'h"
+  dynasty = 20017
   religion = "catholic"
   culture = "breton"
-  father = 40909
-  1085.1.1 = {
-    birth = "1085.1.1"
+  father = 205780
+  1167.1.1 = {
+    birth = "1167.1.1"
   }
-  1128.1.1 = {
-    death = "1128.1.1"
+  1183.1.10 = {
+    add_spouse = 205800
+  }
+  1218.3.14 = {
+    death = "1218.3.14"
+  }
+}
+205782 = {
+  name = "Huiarnviu"
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205780
+  1168.1.1 = {
+    birth = "1168.1.1"
+  }
+  1180.1.1 = {
+    add_spouse = 205801
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+205783 = {
+  name = "Azenor"
+  female = yes
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205780
+  1145.1.1 = {
+    birth = "1145.1.1"
+  }
+  1216.1.1 = {
+    death = "1216.1.1"
+  }
+}
+205784 = {
+  name = "アダム"  # Adam
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205780
+  mother = 205746
+  1170.1.1 = {
+    birth = "1170.1.1"
+  }
+  1217.1.1 = {
+    death = "1217.1.1"
+  }
+}
+205785 = {
+  name = "Ennougen"
+  female = yes
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205780
+  1168.1.1 = {
+    birth = "1168.1.1"
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+205787 = {
+  name = "Huiarnviu"
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205781
+  mother = 205800
+  1184.1.1 = {
+    birth = "1184.1.1"
+  }
+  1218.1.1 = {
+    death = "1218.1.1"
+  }
+}
+205788 = {
+  name = "Azenor"
+  female = yes
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205782
+  mother = 205801
+  1187.1.1 = {
+    birth = yes
+  }
+  1230.1.1 = {
+    death = yes
+  }
+}
+205789 = {
+  name = "Huiarnviu"
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205782
+  mother = 205801
+  1183.1.1 = {
+    birth = "1183.1.1"
+  }
+  1233.1.1 = {
+    death = "1233.1.1"
+  }
+}
+205790 = {
+  name = "Konstanza"
+  female = yes
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205782
+  mother = 205801
+  1185.1.1 = {
+    birth = "1185.1.1"
+  }
+  1235.1.1 = {
+    death = "1235.1.1"
+  }
+}
+205791 = {
+  name = "Emma"
+  female = yes
+  dynasty = 20017
+  religion = "catholic"
+  culture = "breton"
+  father = 205830
+  mother = 205785
+  1184.1.1 = {
+    birth = "1184.1.1"
+  }
+  1234.1.1 = {
+    death = "1234.1.1"
+  }
+}
+340 = {
+  name = "コナン"  # Conan
+  dynasty = 22006
+  religion = "catholic"
+  culture = "breton"
+  father = 91248
+  935.1.1 = {
+    birth = yes
+  }
+  973.1.1 = {
+    add_spouse = 379
+  }
+  992.6.27 = {
+    death = {
+      death_reason = death_battle
+      killer = 374
+    }
+  }
+}
+342 = {
+  name = "ジョフロワ"  # Jafrez
+  dynasty = 22006
+  religion = "catholic"
+  culture = "breton"
+  father = 340
+  mother = 379
+  977.1.1 = {
+    birth = yes
+  }
+  996.1.1 = {
+    add_spouse = 257
+  }
+  1020.1.1 = {
+    death = yes
+  }
+}
+348 = {
+  name = "コナン"  # Konan
+  dynasty = 22006
+  religion = "catholic"
+  culture = "breton"
+  trait = "flamboyant_schemer"
+  trait = "strong"
+  trait = "cynical"
+  trait = "paranoid"
+  trait = "ambitious"
+  disallow_random_traits = yes
+  father = 344
+  mother = 393
+  1033.1.1 = {
+    birth = yes
+  }
+  1066.1.5 = {
+    add_claim = d_normandy
+  }
+  1066.12.11 = {
+    death = yes
+  }
+}
+50006 = {
+  name = "Hodierne"
+  female = yes
+  dynasty = 20137
+  religion = "catholic"
+  culture = "breton"
+  father = 50008
+  879.1.1 = {
+    birth = "879.1.1"
+  }
+  940.1.1 = {
+    death = "940.1.1"
+  }
+}
+50007 = {
+  name = "Malhuedoc"
+  dynasty = 20016
+  religion = "catholic"
+  culture = "breton"
+  father = 50009
+  870.1.1 = {
+    birth = "870.1.1"
+  }
+  895.1.1 = {
+    add_spouse = 50006
+  }
+  931.1.1 = {
+    death = "931.1.1"
+  }
+}
+50008 = {
+  name = "アラン"  # Alan
+  dynasty = 20137
+  religion = "catholic"
+  culture = "breton"
+  father = 50010
+  855.1.1 = {
+    birth = "855.1.1"
+  }
+  877.1.1 = {
+    give_nickname = nick_the_great
+  }
+  907.1.1 = {
+    death = "907.1.1"
+  }
+}
+50009 = {
+  name = "パスクーテン"  # Pascueten
+  dynasty = 20137
+  religion = "catholic"
+  culture = "breton"
+  father = 50010
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  877.1.1 = {
+    death = "877.1.1"
+  }
+}
+50010 = {
+  name = "Ridoredh"
+  dynasty = 20137
+  religion = "catholic"
+  culture = "breton"
+  father = 159695
+  832.1.1 = {
+    birth = "832.1.1"
+  }
+  877.1.1 = {
+    death = "877.1.1"
+  }
+}
+50011 = {
+  name = "Pasquitan"
+  dynasty = 20137
+  religion = "catholic"
+  culture = "breton"
+  father = 50008
+  881.1.1 = {
+    birth = "881.1.1"
+  }
+  903.1.1 = {
+    death = "903.1.1"
+  }
+}
+203041 = {
+  name = "アラン"  # Alan
+  dynasty = 3134
+  religion = "catholic"
+  culture = "breton"
+  father = 180049
+  martial = 5
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 7
+  trait = "tough_soldier"
+  1070.1.1 = {
+    birth = yes
+  }
+  1102.1.1 = {
+    add_spouse = 180782
+  }
+  1114.1.1 = {
+    death = yes
+  }
+}
+161281 = {
+  name = "Cadoc"
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161282
+  1031.1.1 = {
+    birth = "1031.1.1"
+  }
+  1057.1.1 = {
+    add_spouse = 161283
+  }
+  1081.1.1 = {
+    death = "1081.1.1"
+  }
+}
+161282 = {
+  name = "Cador"
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 159741
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1055.1.1 = {
+    death = "1055.1.1"
+  }
+}
+161283 = {
+  name = "Marguarite"
+  female = yes
+  dynasty = 0
+  religion = "catholic"
+  culture = "breton"
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1091.1.1 = {
+    death = "1091.1.1"
+  }
+}
+161284 = {
+  name = "Rioantdrec"
+  female = yes
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161281
+  mother = 161283
+  1058.1.1 = {
+    birth = "1058.1.1"
+  }
+  1108.1.1 = {
+    death = "1108.1.1"
+  }
+}
+161285 = {
+  name = "Enoguen"
+  female = yes
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161281
+  mother = 161283
+  1059.1.1 = {
+    birth = "1059.1.1"
+  }
+  1109.1.1 = {
+    death = "1109.1.1"
+  }
+}
+161286 = {
+  name = "Dumnarth"
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161282
+  1034.1.1 = {
+    birth = "1034.1.1"
+  }
+  1056.1.1 = {
+    add_spouse = 161287
+  }
+  1084.1.1 = {
+    death = "1084.1.1"
+  }
+}
+161287 = {
+  name = "Tanetbiu"
+  dynasty = 0
+  female = yes
+  religion = "catholic"
+  culture = "breton"
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+161288 = {
+  name = "コナン"  # Conan
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161286
+  mother = 161287
+  1062.1.1 = {
+    birth = "1062.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+161289 = {
+  name = "アラン"  # Alan
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161286
+  mother = 161287
+  1063.1.1 = {
+    birth = "1063.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+161290 = {
+  name = "オエル"  # Hoël
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161286
+  mother = 161287
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+161291 = {
+  name = "Janed"
+  female = yes
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161286
+  mother = 161287
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+161427 = {
+  name = "Harduin"
+  dynasty = 559
+  religion = "catholic"
+  culture = "breton"
+  father = 5650
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1066.1.1 = {
+    employer = 140
+  }
+  1069.1.1 = {
+    death = "1069.1.1"
+  }
+}
+161428 = {
+  name = "Gwilherm"
+  dynasty = 559
+  religion = "catholic"
+  culture = "breton"
+  father = 5652
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1090.1.1 = {
+    death = "1090.1.1"
+  }
+}
+161429 = {
+  name = "Riwal"
+  dynasty = 559
+  religion = "catholic"
+  culture = "breton"
+  father = 5652
+  1072.1.1 = {
+    birth = "1072.1.1"
+  }
+  1125.1.1 = {
+    death = "1125.1.1"
+  }
+}
+161430 = {
+  name = "アラン"  # Alan
+  dynasty = 559
+  religion = "catholic"
+  culture = "breton"
+  father = 5652
+  1074.1.1 = {
+    birth = "1074.1.1"
+  }
+  1100.1.1 = {
+    death = "1100.1.1"
+  }
+}
+163105 = {
+  name = "サロモン"  # Salomon
+  dynasty = 1029102
+  religion = catholic
+  diplomacy = 7
+  martial = 6
+  intrigue = 8
+  culture = breton
+  trait = ambitious
+  trait = intricate_webweaver
+  father = 159649
+  810.1.1 = {
+    birth = yes
+  }
+  874.1.1 = {
+    death = yes
   }
 }
 159433 = {
@@ -2489,17 +3144,164 @@
     death = "958.1.1"
   }
 }
-159633 = {
+159739 = {
   name = "サロモン"  # Salomon
+  dynasty = 1029042
   religion = "catholic"
   culture = "breton"
-  dynasty = 20124
-  father = 159434
-  380.1.1 = {
-    birth = "380.1.1"
+  father = 159466
+  919.1.1 = {
+    birth = "919.1.1"
   }
-  446.1.1 = {
-    death = "446.1.1"
+  975.1.1 = {
+    death = "975.1.1"
+  }
+}
+159740 = {
+  name = "Magalatutus"
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 159739
+  936.1.1 = {
+    birth = "936.1.1"
+  }
+  1015.1.1 = {
+    death = "1015.1.1"
+  }
+}
+159741 = {
+  name = "Riwal"
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 159740
+  986.1.1 = {
+    birth = "986.1.1"
+  }
+  1036.1.1 = {
+    death = "1036.1.1"
+  }
+}
+159742 = {
+  name = "Avice"
+  female = yes
+  dynasty = 1029042
+  religion = "catholic"
+  culture = "breton"
+  father = 161281
+  mother = 161283
+  1081.6.1 = {
+    birth = yes
+  }
+  1130.1.1 = {
+    death = yes
+  }
+}
+159743 = {
+  name = "アデラ"  # Adela
+  female = yes
+  dynasty = 101754
+  religion = "catholic"
+  culture = "norman"
+  father = 158
+  mother = 159742
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1160.1.1 = {
+    death = "1160.1.1"
+  }
+}
+159744 = {
+  name = "オエル"  # Hoël
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029041
+  father = 159448
+  668.1.1 = {
+    birth = "668.1.1"
+  }
+  697.1.1 = {
+    death = "697.1.1"
+  }
+}
+159745 = {
+  name = "Progamel"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029041
+  father = 159446
+  616.1.1 = {
+    birth = "616.1.1"
+  }
+  657.1.1 = {
+    death = "657.1.1"
+  }
+}
+159746 = {
+  name = "Aedaf"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029042
+  father = 159460
+  892.1.1 = {
+    birth = "892.1.1"
+  }
+  942.1.1 = {
+    death = "942.1.1"
+  }
+}
+159747 = {
+  name = "ユドハエル"  # Iudhael
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029042
+  father = 159456
+  835.1.1 = {
+    birth = "835.1.1"
+  }
+  865.1.1 = {
+    death = "865.1.1"
+  }
+}
+159748 = {
+  name = "オエル"  # Hoël
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029042
+  father = 159450
+  692.1.1 = {
+    birth = "692.1.1"
+  }
+  715.1.1 = {
+    death = "715.1.1"
+  }
+}
+159749 = {
+  name = "Rodric"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029042
+  father = 159450
+  698.1.1 = {
+    birth = "698.1.1"
+  }
+  747.1.1 = {
+    death = "747.1.1"
+  }
+}
+159750 = {
+  name = "Blethin"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029041
+  father = 159444
+  583.1.1 = {
+    birth = "583.1.1"
+  }
+  628.1.1 = {
+    death = "628.1.1"
   }
 }
 159634 = {
@@ -2672,6 +3474,19 @@
     death = "780.1.1"
   }
 }
+159648 = {
+  name = "Melliau"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029102
+  father = 159646
+  740.1.1 = {
+    birth = "740.1.1"
+  }
+  800.1.1 = {
+    death = "800.1.1"
+  }
+}
 159647 = {
   name = "Erispoë"
   religion = "catholic"
@@ -2685,17 +3500,137 @@
     death = "812.1.1"
   }
 }
-159648 = {
-  name = "Melliau"
+159698 = {
+  name = "アラン"  # Alan
   religion = "catholic"
   culture = "breton"
   dynasty = 1029102
-  father = 159646
-  740.1.1 = {
-    birth = "740.1.1"
+  father = 159651
+  850.1.1 = {
+    birth = "850.1.1"
   }
-  800.1.1 = {
-    death = "800.1.1"
+  880.1.1 = {
+    dynasty = 1029103
+  }
+  907.1.1 = {
+    death = "907.1.1"
+  }
+}
+159699 = {
+  name = "Rudalt"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159698
+  880.1.1 = {
+    birth = "880.1.1"
+  }
+  917.1.1 = {
+    death = "917.1.1"
+  }
+}
+159700 = {
+  name = "アラン"  # Alan
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159699
+  910.1.1 = {
+    birth = "910.1.1"
+  }
+  987.1.1 = {
+    death = "987.1.1"
+  }
+}
+159701 = {
+  name = "Rudalt"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159700
+  950.1.1 = {
+    birth = "950.1.1"
+  }
+  1021.1.1 = {
+    death = "1021.1.1"
+  }
+}
+159702 = {
+  name = "アラン"  # Alan
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159701
+  980.1.1 = {
+    birth = "980.1.1"
+  }
+  1051.1.1 = {
+    death = "1051.1.1"
+  }
+}
+159703 = {
+  name = "Rudalt"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159702
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1066.1.1 = {
+    death = "1066.1.1"
+  }
+}
+159704 = {
+  name = "Iocilin"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159703
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1107.1.1 = {
+    death = "1107.1.1"
+  }
+}
+159705 = {
+  name = "Raoul"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159703
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1064.1.1 = {
+    death = "1064.1.1"
+  }
+}
+159706 = {
+  name = "アラン"  # Alan
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159705
+  1064.1.1 = {
+    birth = "1064.1.1"
+  }
+  1124.1.1 = {
+    death = "1124.1.1"
+  }
+}
+159707 = {
+  name = "Guéthenoc"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 1029103
+  father = 159704
+  1061.1.1 = {
+    birth = "1061.1.1"
+  }
+  1127.1.1 = {
+    death = "1127.1.1"
   }
 }
 159649 = {
@@ -2724,6 +3659,19 @@
     death = "877.1.1"
   }
 }
+159633 = {
+  name = "サロモン"  # Salomon
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159434
+  380.1.1 = {
+    birth = "380.1.1"
+  }
+  446.1.1 = {
+    death = "446.1.1"
+  }
+}
 159652 = {
   name = "Aldrien"
   religion = "catholic"
@@ -2735,58 +3683,6 @@
   }
   464.1.1 = {
     death = "464.1.1"
-  }
-}
-159653 = {
-  name = "ゲレック"  # Guérech
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159652
-  425.1.1 = {
-    birth = "425.1.1"
-  }
-  478.1.1 = {
-    death = "478.1.1"
-  }
-}
-159654 = {
-  name = "ブリアック"  # Budic
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159653
-  460.1.1 = {
-    birth = "460.1.1"
-  }
-  501.1.1 = {
-    death = "501.1.1"
-  }
-}
-159655 = {
-  name = "ブリアック"  # Budic
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159654
-  490.1.1 = {
-    birth = "490.1.1"
-  }
-  541.1.1 = {
-    death = "541.1.1"
-  }
-}
-159656 = {
-  name = "Teudric"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159655
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  584.1.1 = {
-    death = "584.1.1"
   }
 }
 159657 = {
@@ -2813,6 +3709,19 @@
   }
   464.1.1 = {
     death = "464.1.1"
+  }
+}
+159756 = {
+  name = "ゲレック"  # Guérech
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159652
+  425.1.1 = {
+    birth = "425.1.1"
+  }
+  494.1.1 = {
+    death = "494.1.1"
   }
 }
 159659 = {
@@ -2868,6 +3777,21 @@
   }
   545.1.1 = {
     death = "545.1.1"
+  }
+}
+159757 = {
+  name = "Teudur"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159662
+  mother = 160048
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  546.1.1 = {
+    death = "546.1.1"
+    give_nickname = nick_the_great
   }
 }
 159663 = {
@@ -3077,6 +4001,58 @@
   }
   1041.1.1 = {
     death = "1041.1.1"
+  }
+}
+159653 = {
+  name = "ゲレック"  # Guérech
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159652
+  425.1.1 = {
+    birth = "425.1.1"
+  }
+  478.1.1 = {
+    death = "478.1.1"
+  }
+}
+159654 = {
+  name = "ブリアック"  # Budic
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159653
+  460.1.1 = {
+    birth = "460.1.1"
+  }
+  501.1.1 = {
+    death = "501.1.1"
+  }
+}
+159655 = {
+  name = "ブリアック"  # Budic
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159654
+  490.1.1 = {
+    birth = "490.1.1"
+  }
+  541.1.1 = {
+    death = "541.1.1"
+  }
+}
+159656 = {
+  name = "Teudric"
+  religion = "catholic"
+  culture = "breton"
+  dynasty = 20124
+  father = 159655
+  520.1.1 = {
+    birth = "520.1.1"
+  }
+  584.1.1 = {
+    death = "584.1.1"
   }
 }
 159679 = {
@@ -3314,327 +4290,6 @@
     death = "877.1.1"
   }
 }
-159698 = {
-  name = "アラン"  # Alan
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029102
-  father = 159651
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  880.1.1 = {
-    dynasty = 1029103
-  }
-  907.1.1 = {
-    death = "907.1.1"
-  }
-}
-159699 = {
-  name = "Rudalt"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159698
-  880.1.1 = {
-    birth = "880.1.1"
-  }
-  917.1.1 = {
-    death = "917.1.1"
-  }
-}
-159700 = {
-  name = "アラン"  # Alan
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159699
-  910.1.1 = {
-    birth = "910.1.1"
-  }
-  987.1.1 = {
-    death = "987.1.1"
-  }
-}
-159701 = {
-  name = "Rudalt"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159700
-  950.1.1 = {
-    birth = "950.1.1"
-  }
-  1021.1.1 = {
-    death = "1021.1.1"
-  }
-}
-159702 = {
-  name = "アラン"  # Alan
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159701
-  980.1.1 = {
-    birth = "980.1.1"
-  }
-  1051.1.1 = {
-    death = "1051.1.1"
-  }
-}
-159703 = {
-  name = "Rudalt"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159702
-  1020.1.1 = {
-    birth = "1020.1.1"
-  }
-  1066.1.1 = {
-    death = "1066.1.1"
-  }
-}
-159704 = {
-  name = "Iocilin"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159703
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1107.1.1 = {
-    death = "1107.1.1"
-  }
-}
-159705 = {
-  name = "Raoul"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159703
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1064.1.1 = {
-    death = "1064.1.1"
-  }
-}
-159706 = {
-  name = "アラン"  # Alan
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159705
-  1064.1.1 = {
-    birth = "1064.1.1"
-  }
-  1124.1.1 = {
-    death = "1124.1.1"
-  }
-}
-159707 = {
-  name = "Guéthenoc"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029103
-  father = 159704
-  1061.1.1 = {
-    birth = "1061.1.1"
-  }
-  1127.1.1 = {
-    death = "1127.1.1"
-  }
-}
-159739 = {
-  name = "サロモン"  # Salomon
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 159466
-  919.1.1 = {
-    birth = "919.1.1"
-  }
-  975.1.1 = {
-    death = "975.1.1"
-  }
-}
-159740 = {
-  name = "Magalatutus"
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 159739
-  936.1.1 = {
-    birth = "936.1.1"
-  }
-  1015.1.1 = {
-    death = "1015.1.1"
-  }
-}
-159741 = {
-  name = "Riwal"
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 159740
-  986.1.1 = {
-    birth = "986.1.1"
-  }
-  1036.1.1 = {
-    death = "1036.1.1"
-  }
-}
-159742 = {
-  name = "Avice"
-  female = yes
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161281
-  mother = 161283
-  1081.6.1 = {
-    birth = yes
-  }
-  1130.1.1 = {
-    death = yes
-  }
-}
-159743 = {
-  name = "アデラ"  # Adela
-  female = yes
-  dynasty = 101754
-  religion = "catholic"
-  culture = "norman"
-  father = 158
-  mother = 159742
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1160.1.1 = {
-    death = "1160.1.1"
-  }
-}
-159744 = {
-  name = "オエル"  # Hoël
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029041
-  father = 159448
-  668.1.1 = {
-    birth = "668.1.1"
-  }
-  697.1.1 = {
-    death = "697.1.1"
-  }
-}
-159745 = {
-  name = "Progamel"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029041
-  father = 159446
-  616.1.1 = {
-    birth = "616.1.1"
-  }
-  657.1.1 = {
-    death = "657.1.1"
-  }
-}
-159746 = {
-  name = "Aedaf"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029042
-  father = 159460
-  892.1.1 = {
-    birth = "892.1.1"
-  }
-  942.1.1 = {
-    death = "942.1.1"
-  }
-}
-159747 = {
-  name = "ユドハエル"  # Iudhael
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029042
-  father = 159456
-  835.1.1 = {
-    birth = "835.1.1"
-  }
-  865.1.1 = {
-    death = "865.1.1"
-  }
-}
-159748 = {
-  name = "オエル"  # Hoël
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029042
-  father = 159450
-  692.1.1 = {
-    birth = "692.1.1"
-  }
-  715.1.1 = {
-    death = "715.1.1"
-  }
-}
-159749 = {
-  name = "Rodric"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029042
-  father = 159450
-  698.1.1 = {
-    birth = "698.1.1"
-  }
-  747.1.1 = {
-    death = "747.1.1"
-  }
-}
-159750 = {
-  name = "Blethin"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 1029041
-  father = 159444
-  583.1.1 = {
-    birth = "583.1.1"
-  }
-  628.1.1 = {
-    death = "628.1.1"
-  }
-}
-159756 = {
-  name = "ゲレック"  # Guérech
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159652
-  425.1.1 = {
-    birth = "425.1.1"
-  }
-  494.1.1 = {
-    death = "494.1.1"
-  }
-}
-159757 = {
-  name = "Teudur"
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159662
-  mother = 160048
-  520.1.1 = {
-    birth = "520.1.1"
-  }
-  546.1.1 = {
-    death = "546.1.1"
-    give_nickname = nick_the_great
-  }
-}
 159965 = {
   name = "ErispoÎ"
   religion = "catholic"
@@ -3649,23 +4304,6 @@
   }
   857.1.1 = {
     death = yes
-  }
-}
-160047 = {
-  name = "Agatha"
-  female = yes
-  religion = "catholic"
-  culture = "breton"
-  dynasty = 20124
-  father = 159680
-  680.1.1 = {
-    birth = "680.1.1"
-  }
-  700.1.1 = {
-    add_spouse = 159020
-  }
-  750.1.1 = {
-    death = "750.1.1"
   }
 }
 160071 = {
@@ -3802,235 +4440,21 @@
     death = yes
   }
 }
-161281 = {
-  name = "Cadoc"
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161282
-  1031.1.1 = {
-    birth = "1031.1.1"
-  }
-  1057.1.1 = {
-    add_spouse = 161283
-  }
-  1081.1.1 = {
-    death = "1081.1.1"
-  }
-}
-161282 = {
-  name = "Cador"
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 159741
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1055.1.1 = {
-    death = "1055.1.1"
-  }
-}
-161283 = {
-  name = "Marguarite"
-  female = yes
-  dynasty = 0
-  religion = "catholic"
-  culture = "breton"
-  1041.1.1 = {
-    birth = "1041.1.1"
-  }
-  1091.1.1 = {
-    death = "1091.1.1"
-  }
-}
-161284 = {
-  name = "Rioantdrec"
-  female = yes
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161281
-  mother = 161283
-  1058.1.1 = {
-    birth = "1058.1.1"
-  }
-  1108.1.1 = {
-    death = "1108.1.1"
-  }
-}
-161285 = {
-  name = "Enoguen"
-  female = yes
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161281
-  mother = 161283
-  1059.1.1 = {
-    birth = "1059.1.1"
-  }
-  1109.1.1 = {
-    death = "1109.1.1"
-  }
-}
-161286 = {
-  name = "Dumnarth"
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161282
-  1034.1.1 = {
-    birth = "1034.1.1"
-  }
-  1056.1.1 = {
-    add_spouse = 161287
-  }
-  1084.1.1 = {
-    death = "1084.1.1"
-  }
-}
-161287 = {
-  name = "Tanetbiu"
-  dynasty = 0
+160047 = {
+  name = "Agatha"
   female = yes
   religion = "catholic"
   culture = "breton"
-  1040.1.1 = {
-    birth = "1040.1.1"
+  dynasty = 20124
+  father = 159680
+  680.1.1 = {
+    birth = "680.1.1"
   }
-  1095.1.1 = {
-    death = "1095.1.1"
+  700.1.1 = {
+    add_spouse = 159020
   }
-}
-161288 = {
-  name = "コナン"  # Conan
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161286
-  mother = 161287
-  1062.1.1 = {
-    birth = "1062.1.1"
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-161289 = {
-  name = "アラン"  # Alan
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161286
-  mother = 161287
-  1063.1.1 = {
-    birth = "1063.1.1"
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-161290 = {
-  name = "オエル"  # Hoël
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161286
-  mother = 161287
-  1064.1.1 = {
-    birth = "1064.1.1"
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-161291 = {
-  name = "Janed"
-  female = yes
-  dynasty = 1029042
-  religion = "catholic"
-  culture = "breton"
-  father = 161286
-  mother = 161287
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-161427 = {
-  name = "Harduin"
-  dynasty = 559
-  religion = "catholic"
-  culture = "breton"
-  father = 5650
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1066.1.1 = {
-    employer = 140
-  }
-  1069.1.1 = {
-    death = "1069.1.1"
-  }
-}
-161428 = {
-  name = "Gwilherm"
-  dynasty = 559
-  religion = "catholic"
-  culture = "breton"
-  father = 5652
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1090.1.1 = {
-    death = "1090.1.1"
-  }
-}
-161429 = {
-  name = "Riwal"
-  dynasty = 559
-  religion = "catholic"
-  culture = "breton"
-  father = 5652
-  1072.1.1 = {
-    birth = "1072.1.1"
-  }
-  1125.1.1 = {
-    death = "1125.1.1"
-  }
-}
-161430 = {
-  name = "アラン"  # Alan
-  dynasty = 559
-  religion = "catholic"
-  culture = "breton"
-  father = 5652
-  1074.1.1 = {
-    birth = "1074.1.1"
-  }
-  1100.1.1 = {
-    death = "1100.1.1"
-  }
-}
-163105 = {
-  name = "サロモン"  # Salomon
-  dynasty = 1029102
-  religion = catholic
-  diplomacy = 7
-  martial = 6
-  intrigue = 8
-  culture = breton
-  trait = ambitious
-  trait = intricate_webweaver
-  father = 159649
-  810.1.1 = {
-    birth = yes
-  }
-  874.1.1 = {
-    death = yes
+  750.1.1 = {
+    death = "750.1.1"
   }
 }
 180048 = {
@@ -4095,403 +4519,6 @@
   }
   820.1.1 = {
     death = "820.1.1"
-  }
-}
-203041 = {
-  name = "アラン"  # Alan
-  dynasty = 3134
-  religion = "catholic"
-  culture = "breton"
-  father = 180049
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  trait = "tough_soldier"
-  1070.1.1 = {
-    birth = yes
-  }
-  1102.1.1 = {
-    add_spouse = 180782
-  }
-  1114.1.1 = {
-    death = yes
-  }
-}
-205740 = {
-  name = "Konstanza"
-  female = yes
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  trait = "elusive_shadow"
-  trait = "proud"
-  trait = "just"
-  trait = "stubborn"
-  trait = "gregarious"
-  disallow_random_traits = yes
-  father = 205741
-  mother = 203510
-  1161.6.12 = {
-    birth = "1161.6.12"
-  }
-  1201.9.5 = {
-    death = "1201.9.5"
-  }
-}
-205741 = {
-  name = "コナン"  # Konan
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  trait = "dwarf"
-  father = 205751
-  mother = 205825
-  1138.1.1 = {
-    birth = yes
-  }
-  1160.1.1 = {
-    add_spouse = 203510
-  }
-  1171.2.21 = {
-    death = yes
-  }
-}
-205744 = {
-  name = "ステフェン"  # Stefen
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 346
-  mother = 10041
-  1050.1.1 = {
-    birth = "1050.1.1"
-  }
-  1080.1.1 = {
-    add_spouse = 205745
-  }
-  1136.4.13 = {
-    death = "1136.4.13"
-  }
-}
-205750 = {
-  name = "Konstanza"
-  female = yes
-  dynasty = 317
-  father = 205751
-  mother = 205825
-  religion = "catholic"
-  culture = "breton"
-  1140.1.1 = {
-    birth = "1140.1.1"
-  }
-  1184.1.19 = {
-    death = "1184.1.19"
-  }
-}
-205751 = {
-  name = "アラン"  # Alan
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 205744
-  mother = 205745
-  1095.1.1 = {
-    birth = "1095.1.1"
-  }
-  1138.1.1 = {
-    add_spouse = 205825
-  }
-  1146.1.1 = {
-    death = "1146.1.1"
-  }
-}
-205780 = {
-  name = "Guimarc'h"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 91215
-  1130.1.1 = {
-    birth = "1130.1.1"
-  }
-  1167.1.1 = {
-    add_spouse = 205746
-  }
-  1179.1.9 = {
-    death = "1179.1.9"
-  }
-}
-205781 = {
-  name = "Guimarc'h"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205780
-  1167.1.1 = {
-    birth = "1167.1.1"
-  }
-  1183.1.10 = {
-    add_spouse = 205800
-  }
-  1218.3.14 = {
-    death = "1218.3.14"
-  }
-}
-205782 = {
-  name = "Huiarnviu"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205780
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1180.1.1 = {
-    add_spouse = 205801
-  }
-  1218.1.1 = {
-    death = "1218.1.1"
-  }
-}
-205783 = {
-  name = "Azenor"
-  female = yes
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205780
-  1145.1.1 = {
-    birth = "1145.1.1"
-  }
-  1216.1.1 = {
-    death = "1216.1.1"
-  }
-}
-205784 = {
-  name = "アダム"  # Adam
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205780
-  mother = 205746
-  1170.1.1 = {
-    birth = "1170.1.1"
-  }
-  1217.1.1 = {
-    death = "1217.1.1"
-  }
-}
-205785 = {
-  name = "Ennougen"
-  female = yes
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205780
-  1168.1.1 = {
-    birth = "1168.1.1"
-  }
-  1218.1.1 = {
-    death = "1218.1.1"
-  }
-}
-205787 = {
-  name = "Huiarnviu"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205781
-  mother = 205800
-  1184.1.1 = {
-    birth = "1184.1.1"
-  }
-  1218.1.1 = {
-    death = "1218.1.1"
-  }
-}
-205788 = {
-  name = "Azenor"
-  female = yes
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205782
-  mother = 205801
-  1187.1.1 = {
-    birth = yes
-  }
-  1230.1.1 = {
-    death = yes
-  }
-}
-205789 = {
-  name = "Huiarnviu"
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205782
-  mother = 205801
-  1183.1.1 = {
-    birth = "1183.1.1"
-  }
-  1233.1.1 = {
-    death = "1233.1.1"
-  }
-}
-205790 = {
-  name = "Konstanza"
-  female = yes
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205782
-  mother = 205801
-  1185.1.1 = {
-    birth = "1185.1.1"
-  }
-  1235.1.1 = {
-    death = "1235.1.1"
-  }
-}
-205791 = {
-  name = "Emma"
-  female = yes
-  dynasty = 20017
-  religion = "catholic"
-  culture = "breton"
-  father = 205830
-  mother = 205785
-  1184.1.1 = {
-    birth = "1184.1.1"
-  }
-  1234.1.1 = {
-    death = "1234.1.1"
-  }
-}
-205800 = {
-  name = "Magalie"
-  female = yes
-  dynasty = 312
-  martial = 4
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "breton"
-  trait = "flamboyant_schemer"
-  father = 205802
-  mother = 205750
-  1165.1.10 = {
-    birth = "1165.1.10"
-  }
-  1215.1.10 = {
-    death = "1215.1.10"
-  }
-}
-205801 = {
-  name = "Marc'harit"
-  female = yes
-  dynasty = 312
-  martial = 5
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "breton"
-  trait = "martial_cleric"
-  father = 205802
-  mother = 205750
-  1165.1.10 = {
-    birth = "1165.1.10"
-  }
-  1215.1.10 = {
-    death = "1215.1.10"
-  }
-}
-205802 = {
-  name = "アラン"  # Alan
-  dynasty = 312
-  martial = 6
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "breton"
-  trait = "chaste"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 205803
-  mother = 205804
-  1135.1.2 = {
-    birth = "1135.1.2"
-  }
-  1164.1.2 = {
-    add_spouse = 205750
-  }
-  1185.1.2 = {
-    death = "1185.1.2"
-  }
-}
-205803 = {
-  name = "アラン"  # Alan
-  dynasty = 312
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "breton"
-  trait = "patient"
-  trait = "proud"
-  trait = "skilled_tactician"
-  father = 144156
-  1110.1.2 = {
-    birth = "1110.1.2"
-  }
-  1168.1.25 = {
-    death = "1168.1.25"
-  }
-}
-205804 = {
-  name = "Villana"
-  female = yes
-  dynasty = 313
-  martial = 4
-  diplomacy = 7
-  intrigue = 5
-  stewardship = 7
-  religion = "catholic"
-  culture = "breton"
-  trait = "scholarly_theologian"
-  1105.1.2 = {
-    birth = "1105.1.2"
-  }
-  1169.1.2 = {
-    death = "1169.1.2"
-  }
-}
-205825 = {
-  name = "Berthildis"
-  female = yes
-  dynasty = 311
-  martial = 5
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 8
-  learning = 5
-  religion = "catholic"
-  culture = "breton"
-  trait = "patient"
-  trait = "brave"
-  trait = "thrifty_clerk"
-  father = 91159
-  mother = 31399
-  1114.1.1 = {
-    birth = "1114.1.1"
-  }
-  1157.1.17 = {
-    death = "1157.1.17"
   }
 }
 252325 = {
@@ -4682,6 +4709,26 @@
     death = yes
   }
 }
+260481 = {
+  name = "Cynfawr"
+  religion = "catholic"
+  culture = "welsh"
+  dynasty = 1029040
+  father = 159441
+  502.1.1 = {
+    birth = yes
+  }
+  520.1.1 = {
+    name = "Conomor"
+    culture = "breton"
+  }
+  546.1.1 = {
+    add_spouse = 252326
+  }
+  560.1.1 = {
+    death = yes
+  }
+}
 252339 = {
   name = "Trémeur"
   religion = "catholic"
@@ -4790,52 +4837,5 @@
   }
   625.1.1 = {
     death = yes
-  }
-}
-260481 = {
-  name = "Cynfawr"
-  religion = "catholic"
-  culture = "welsh"
-  dynasty = 1029040
-  father = 159441
-  502.1.1 = {
-    birth = yes
-  }
-  520.1.1 = {
-    name = "Conomor"
-    culture = "breton"
-  }
-  546.1.1 = {
-    add_spouse = 252326
-  }
-  560.1.1 = {
-    death = yes
-  }
-}
-455580 = {
-  name = "Janed"
-  female = yes
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 91258
-  1290.1.1 = {
-    birth = "1290.1.1"
-  }
-  1327.8.30 = {
-    death = "1327.8.30"
-  }
-}
-455581 = {
-  name = "ヘリ"  # Herri
-  dynasty = 317
-  religion = "catholic"
-  culture = "breton"
-  father = 91169
-  1247.1.1 = {
-    birth = "1247.1.1"
-  }
-  1301.1.1 = {
-    death = "1301.1.1"
   }
 }

@@ -252,1101 +252,6 @@
     death = yes
   }
 }
-74418 = {
-  name = "マハデーヴィ"  # Mahadevi
-  female = yes
-  religion = "hindu"
-  culture = "rajput"
-  trait = kshatriya
-  trait = shaivist_hindu
-  840.1.1 = {
-    birth = yes
-  }
-  919.1.1 = {
-    death = yes
-  }
-}
-170151 = {
-  name = "アナングパール"  # Anangpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  687.1.1 = {
-    birth = "687.1.1"
-  }
-  754.3.1 = {
-    death = "754.3.1"
-  }
-}
-170152 = {
-  name = "ヴァスデヴ"  # Vasudev
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170151
-  705.1.1 = {
-    birth = "705.1.1"
-  }
-  773.4.18 = {
-    death = "773.4.18"
-  }
-}
-170153 = {
-  name = "ガンゲヤ"  # Gangeya
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170152
-  735.1.1 = {
-    birth = "735.1.1"
-  }
-  794.8.16 = {
-    death = "794.8.16"
-  }
-}
-170154 = {
-  name = "プリットヴィマル"  # Prithvimal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170153
-  757.1.1 = {
-    birth = "757.1.1"
-  }
-  814.3.5 = {
-    death = "814.3.5"
-  }
-}
-170155 = {
-  name = "ジャグデヴ"  # Jagdev
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170154
-  782.1.1 = {
-    birth = "782.1.1"
-  }
-  834.11.3 = {
-    death = "834.11.3"
-  }
-}
-170156 = {
-  name = "ナルパル"  # Narpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170155
-  798.1.1 = {
-    birth = "798.1.1"
-  }
-  849.3.12 = {
-    death = "849.3.12"
-  }
-}
-170157 = {
-  name = "ウダイサング"  # Udaysangh
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170156
-  814.1.1 = {
-    birth = "814.1.1"
-  }
-  875.10.23 = {
-    death = "875.10.23"
-  }
-}
-170158 = {
-  name = "ジャイダス"  # Jaidas
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170157
-  830.1.1 = {
-    birth = "830.1.1"
-  }
-  897.1.1 = {
-    death = "897.1.1"
-  }
-}
-170159 = {
-  name = "ヴァシュハル"  # Vachhal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  865.1.1 = {
-    birth = "865.1.1"
-  }
-  919.4.22 = {
-    death = "919.4.22"
-  }
-}
-170160 = {
-  name = "バシュデヴ"  # Bacchdev
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170158
-  852.1.1 = {
-    birth = "852.1.1"
-  }
-  909.1.1 = {
-    death = "909.1.1"
-  }
-}
-170161 = {
-  name = "ナグデオ"  # Nagdeo
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  866.1.1 = {
-    birth = "866.1.1"
-  }
-  923.1.1 = {
-    death = "923.1.1"
-  }
-}
-170162 = {
-  name = "クリシュンライ"  # Krishnray
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  867.1.1 = {
-    birth = "867.1.1"
-  }
-  916.1.1 = {
-    death = "916.1.1"
-  }
-}
-170163 = {
-  name = "ニハル"  # Nihal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  869.1.1 = {
-    birth = "869.1.1"
-  }
-  933.1.1 = {
-    death = "933.1.1"
-  }
-}
-170164 = {
-  name = "ソマシ"  # Somasi
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  870.1.1 = {
-    birth = "870.1.1"
-  }
-  904.1.1 = {
-    death = "904.1.1"
-  }
-}
-170165 = {
-  name = "ハルパール"  # Harpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170169
-  872.1.1 = {
-    birth = "872.1.1"
-  }
-  913.1.1 = {
-    death = "913.1.1"
-  }
-}
-170166 = {
-  name = "パヴァク"  # Pavak
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170159
-  888.1.1 = {
-    birth = "888.1.1"
-  }
-  940.10.27 = {
-    death = "940.10.27"
-  }
-}
-170167 = {
-  name = "ヴィハングパール"  # Vihangpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170166
-  915.1.1 = {
-    birth = "915.1.1"
-  }
-  961.3.1 = {
-    death = "961.3.1"
-  }
-}
-170168 = {
-  name = "トルパール"  # Tolpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170167
-  932.1.1 = {
-    birth = "932.1.1"
-  }
-  979.6.16 = {
-    death = "979.6.16"
-  }
-}
-170169 = {
-  name = "カルンパール"  # Karnpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170158
-  849.1.1 = {
-    birth = "849.1.1"
-  }
-  882.1.1 = {
-    death = "882.1.1"
-  }
-}
-170170 = {
-  name = "スラクシャンパール"  # Sulakshanpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170168
-  960.1.1 = {
-    birth = "960.1.1"
-  }
-  1005.4.26 = {
-    death = "1005.4.26"
-  }
-}
-170171 = {
-  name = "ジャイパール"  # Jaipal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170170
-  976.1.1 = {
-    birth = "976.1.1"
-  }
-  1021.8.29 = {
-    death = "1021.8.29"
-  }
-}
-170172 = {
-  name = "ジェトパール"  # Jhetpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1046.1.1 = {
-    birth = "1052.1.1"
-  }
-  1095.1.1 = {
-    death = "1095.1.1"
-  }
-}
-170173 = {
-  name = "カンヴァルパール"  # Kanvarpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170171
-  999.1.1 = {
-    birth = "999.1.1"
-  }
-  1051.6.17 = {
-    death = "1051.6.17"
-  }
-}
-170174 = {
-  name = "アナングパール"  # Anangpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170173
-  1017.1.1 = {
-    birth = "1017.1.1"
-  }
-  1081.1.5 = {
-    death = "1081.1.5"
-  }
-}
-170175 = {
-  name = "ブンパール"  # Bhumpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1040.1.1 = {
-    birth = "1040.1.1"
-  }
-  1105.1.1 = {
-    death = "1105.1.1"
-  }
-}
-170176 = {
-  name = "インドラパール"  # Indrapal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1041.1.1 = {
-    birth = "1041.1.1"
-  }
-  1099.1.1 = {
-    death = "1099.1.1"
-  }
-}
-170177 = {
-  name = "ラングラジ"  # Rangraj
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1084.1.1 = {
-    death = "1084.1.1"
-  }
-}
-170178 = {
-  name = "アチャル"  # Achal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1043.1.1 = {
-    birth = "1043.1.1"
-  }
-  1102.1.1 = {
-    death = "1102.1.1"
-  }
-}
-170179 = {
-  name = "ドラウパッド"  # Draupad
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1044.1.1 = {
-    birth = "1044.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-170180 = {
-  name = "シシュパール"  # Sisupal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1083.1.1 = {
-    death = "1083.1.1"
-  }
-}
-170181 = {
-  name = "スラジャパール"  # Surajpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1046.1.1 = {
-    birth = "1046.1.1"
-  }
-  1093.1.1 = {
-    death = "1093.1.1"
-  }
-}
-170182 = {
-  name = "テジパール"  # Tejpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1039.1.1 = {
-    birth = "1047.1.1"
-  }
-  1105.2.11 = {
-    death = "1105.2.11"
-  }
-}
-170183 = {
-  name = "マヒパール"  # Mahipal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170182
-  1068.1.1 = {
-    birth = "1068.1.1"
-  }
-  1151.7.19 = {
-    death = "1151.7.19"
-  }
-}
-170184 = {
-  name = "アナングパール"  # Anangpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170183
-  1103.1.1 = {
-    birth = "1103.1.1"
-  }
-  1192.1.1 = {
-    death = "1192.1.1"
-  }
-}
-170185 = {
-  name = "ゴヴィンドラジ"  # Govindraj
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170184
-  1128.1.1 = {
-    birth = "1128.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-170186 = {
-  name = "ロープスンダリ"  # Roopsundari
-  female = yes
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1048.1.1 = {
-    birth = "1048.1.1"
-  }
-  1105.1.1 = {
-    death = "1105.1.1"
-  }
-}
-170187 = {
-  name = "カマラデーヴィ"  # Kamaladevi
-  female = yes
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170174
-  1049.1.1 = {
-    birth = "1049.1.1"
-  }
-  1102.1.1 = {
-    death = "1102.1.1"
-  }
-}
-170188 = {
-  name = "アウサ"  # Ausan
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170184
-  1129.1.1 = {
-    birth = "1129.1.1"
-  }
-  1208.1.1 = {
-    death = "1208.1.1"
-  }
-}
-170189 = {
-  name = "コサル"  # Kosal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170188
-  1153.1.1 = {
-    birth = "1153.1.1"
-  }
-  1229.1.1 = {
-    death = "1229.1.1"
-  }
-}
-170218 = {
-  name = "マヘーンドラ"  # Mahendra
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170175
-  1063.1.1 = {
-    birth = "1063.1.1"
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
-170219 = {
-  name = "ヒラパール"  # Hirapal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170218
-  1086.1.1 = {
-    birth = "1086.1.1"
-  }
-  1151.1.1 = {
-    death = "1151.1.1"
-  }
-}
-170220 = {
-  name = "バグパール"  # Baghpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170219
-  1107.1.1 = {
-    birth = "1107.1.1"
-  }
-  1175.1.1 = {
-    death = "1175.1.1"
-  }
-}
-170221 = {
-  name = "プリタンパール"  # Pritampal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170220
-  1136.1.1 = {
-    birth = "1136.1.1"
-  }
-  1200.1.1 = {
-    death = "1200.1.1"
-  }
-}
-170222 = {
-  name = "ディリッパール"  # Dilippal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170221
-  1155.1.1 = {
-    birth = "1155.1.1"
-  }
-  1211.1.1 = {
-    death = "1211.1.1"
-  }
-}
-170223 = {
-  name = "ビールパール"  # Birpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170222
-  1177.1.1 = {
-    birth = "1177.1.1"
-  }
-  1237.1.1 = {
-    death = "1237.1.1"
-  }
-}
-170224 = {
-  name = "アヌッパール"  # Anuppal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170223
-  1199.1.1 = {
-    birth = "1199.1.1"
-  }
-  1252.1.1 = {
-    death = "1252.1.1"
-  }
-}
-170225 = {
-  name = "ソンパール"  # Sonpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170224
-  1228.1.1 = {
-    birth = "1228.1.1"
-  }
-  1304.1.1 = {
-    death = "1304.1.1"
-  }
-}
-170226 = {
-  name = "スルタンパール"  # Sultanpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170225
-  1254.1.1 = {
-    birth = "1254.1.1"
-  }
-  1319.1.1 = {
-    death = "1319.1.1"
-  }
-}
-170227 = {
-  name = "クンワルパール"  # Kunwarpal
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170226
-  1278.1.1 = {
-    birth = "1278.1.1"
-  }
-  1350.1.1 = {
-    death = "1350.1.1"
-  }
-}
-170228 = {
-  name = "ブラームデヴ"  # Brahmdev
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170227
-  1298.1.1 = {
-    birth = "1298.1.1"
-  }
-  1356.1.1 = {
-    death = "1356.1.1"
-  }
-}
-170229 = {
-  name = "ケーターパール"  # Khetrapal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170172
-  1060.1.1 = {
-    birth = yes
-  }
-  1117.1.1 = {
-    death = "1117.1.1"
-  }
-}
-170230 = {
-  name = "スキーンパール"  # Sukhinpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170229
-  1076.1.1 = {
-    birth = "1076.1.1"
-  }
-  1134.1.1 = {
-    death = "1134.1.1"
-  }
-}
-170231 = {
-  name = "ジャガタパール"  # Jagatpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170230
-  1092.1.1 = {
-    birth = "1092.1.1"
-  }
-  1151.1.1 = {
-    death = "1151.1.1"
-  }
-}
-170232 = {
-  name = "ランパール"  # Rampal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170231
-  1108.1.1 = {
-    birth = "1108.1.1"
-  }
-  1168.1.1 = {
-    death = "1168.1.1"
-  }
-}
-170233 = {
-  name = "ゴパール"  # Gopal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170232
-  1125.1.1 = {
-    birth = "1125.1.1"
-  }
-  1185.1.1 = {
-    death = "1185.1.1"
-  }
-}
-170234 = {
-  name = "アルジュンパール"  # Arjunpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170233
-  1142.1.1 = {
-    birth = "1142.1.1"
-  }
-  1202.1.1 = {
-    death = "1202.1.1"
-  }
-}
-170235 = {
-  name = "ヴァルユパール"  # Varshpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170234
-  1159.1.1 = {
-    birth = "1159.1.1"
-  }
-  1219.1.1 = {
-    death = "1219.1.1"
-  }
-}
-170236 = {
-  name = "ジャタンパール"  # Jatanpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170235
-  1176.1.1 = {
-    birth = "1176.1.1"
-  }
-  1236.1.1 = {
-    death = "1236.1.1"
-  }
-}
-170237 = {
-  name = "ヴィドゥラスパール"  # Vidurathpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170236
-  1193.1.1 = {
-    birth = "1193.1.1"
-  }
-  1253.1.1 = {
-    death = "1253.1.1"
-  }
-}
-170238 = {
-  name = "ジャガンパール"  # Jaganpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170237
-  1210.1.1 = {
-    birth = "1210.1.1"
-  }
-  1270.1.1 = {
-    death = "1270.1.1"
-  }
-}
-170239 = {
-  name = "キラトパール"  # Kiratpal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170238
-  1227.1.1 = {
-    birth = "1227.1.1"
-  }
-  1287.1.1 = {
-    death = "1287.1.1"
-  }
-}
-170240 = {
-  name = "カコーパール"  # Kakhopal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170239
-  1253.1.1 = {
-    birth = "1253.1.1"
-  }
-  1313.1.1 = {
-    death = "1313.1.1"
-  }
-}
-170241 = {
-  name = "ジャスパール"  # Jaspal
-  dynasty = 1040206
-  religion = "hindu"
-  culture = "rajput"
-  father = 170240
-  1293.1.1 = {
-    birth = "1293.1.1"
-  }
-  1353.1.1 = {
-    death = "1353.1.1"
-  }
-}
-170288 = {
-  name = "サルニジ"  # Salunji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170184
-  1130.1.1 = {
-    birth = "1130.1.1"
-  }
-  1183.1.1 = {
-    death = "1183.1.1"
-  }
-}
-170289 = {
-  name = "ニハールジ"  # Nihaalji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170288
-  1152.1.1 = {
-    birth = "1152.1.1"
-  }
-  1195.1.1 = {
-    death = "1195.1.1"
-  }
-}
-170290 = {
-  name = "ドスジ"  # Dothji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170289
-  1178.1.1 = {
-    birth = "1178.1.1"
-  }
-  1237.1.1 = {
-    death = "1237.1.1"
-  }
-}
-170291 = {
-  name = "ポパトラッジ"  # Popatrajji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170290
-  1203.1.1 = {
-    birth = "1203.1.1"
-  }
-  1264.1.1 = {
-    death = "1264.1.1"
-  }
-}
-170292 = {
-  name = "ピーパルラッジ"  # Peepalrajji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170291
-  1229.1.1 = {
-    birth = "1229.1.1"
-  }
-  1292.1.1 = {
-    death = "1292.1.1"
-  }
-}
-170293 = {
-  name = "ラナジ"  # Ranaji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170292
-  1253.1.1 = {
-    birth = "1253.1.1"
-  }
-  1302.1.1 = {
-    death = "1302.1.1"
-  }
-}
-170294 = {
-  name = "アルシジ"  # Alsiji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170293
-  1272.1.1 = {
-    birth = "1272.1.1"
-  }
-  1323.1.1 = {
-    death = "1323.1.1"
-  }
-}
-170295 = {
-  name = "カマルジ"  # Kamalji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170294
-  1295.1.1 = {
-    birth = "1295.1.1"
-  }
-  1341.1.1 = {
-    death = "1341.1.1"
-  }
-}
-170296 = {
-  name = "マヒパルジ"  # Mahipalji
-  dynasty = 1040200
-  religion = "hindu"
-  culture = "rajput"
-  trait = vaishnavist_hindu
-  trait = kshatriya
-  father = 170295
-  1327.1.1 = {
-    birth = "1327.1.1"
-  }
-  1390.1.1 = {
-    death = "1390.1.1"
-  }
-}
-170299 = {
-  name = "カフール"  # Kafur
-  religion = "hindu"
-  culture = "rajput"
-  trait = "vaishnavist_hindu"
-  1280.1.1 = {
-    birth = "1280.1.1"
-  }
-  1296.1.1 = {
-    trait = elusive_shadow
-  }
-  1297.1.1 = {
-    religion = "sunni"
-    trait = eunuch
-    trait = ambitious
-    employer = 170246
-  }
-  1316.1.3 = {
-    employer = 170247
-  }
-  1316.4.1 = {
-    death = "1316.4.1"
-  }
-}
 188000 = {
   name = "チャンドゥカ"  # Chanduka
   dynasty = 1042066
@@ -2735,6 +1640,20 @@
     death = yes
   }
 }
+74418 = {
+  name = "マハデーヴィ"  # Mahadevi
+  female = yes
+  religion = "hindu"
+  culture = "rajput"
+  trait = kshatriya
+  trait = shaivist_hindu
+  840.1.1 = {
+    birth = yes
+  }
+  919.1.1 = {
+    death = yes
+  }
+}
 188099 = {
   name = "ジャヤ"  # Jaya
   dynasty = 1042071
@@ -3006,6 +1925,22 @@
     birth = yes
   }
   970.1.1 = {
+    death = yes
+  }
+}
+188138 = {
+  name = "マダーヴィ"  # Madhavi
+  female = yes
+  dynasty = 1042081
+  religion = "hindu"
+  culture = "rajput"
+  father = 188115
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  938.1.1 = {
+    birth = yes
+  }
+  1000.1.1 = {
     death = yes
   }
 }
@@ -3310,6 +2245,20 @@
     death = yes
   }
 }
+188140 = {
+  name = "スハヴァ"  # Suhava
+  female = yes
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1148.1.1 = {
+    birth = yes
+  }
+  1189.1.1 = {
+    death = yes
+  }
+}
 188136 = {
   name = "ヴィグラハラージャ"  # Vigraharaja
   dynasty = 1042081
@@ -3343,22 +2292,6 @@
     death = yes
   }
 }
-188138 = {
-  name = "マダーヴィ"  # Madhavi
-  female = yes
-  dynasty = 1042081
-  religion = "hindu"
-  culture = "rajput"
-  father = 188115
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  938.1.1 = {
-    birth = yes
-  }
-  1000.1.1 = {
-    death = yes
-  }
-}
 188139 = {
   name = "アマランゲヤ"  # Amarangeya
   dynasty = 1042081
@@ -3375,17 +2308,22 @@
     death = yes
   }
 }
-188140 = {
-  name = "スハヴァ"  # Suhava
-  female = yes
+188144 = {
+  name = "ナーガールジュナ"  # Nagarjuna
+  dynasty = 1042081
   religion = "hindu"
   culture = "rajput"
+  father = 188136
+  mother = 188137
   trait = "kshatriya"
   trait = "shaivist_hindu"
-  1148.1.1 = {
+  1153.1.1 = {
     birth = yes
   }
-  1189.1.1 = {
+  1180.1.1 = {
+    name = "ライマーナ"  # Raimana
+  }
+  1200.1.1 = {
     death = yes
   }
 }
@@ -3435,25 +2373,6 @@
     death = yes
   }
 }
-188144 = {
-  name = "ナーガールジュナ"  # Nagarjuna
-  dynasty = 1042081
-  religion = "hindu"
-  culture = "rajput"
-  father = 188136
-  mother = 188137
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1153.1.1 = {
-    birth = yes
-  }
-  1180.1.1 = {
-    name = "ライマーナ"  # Raimana
-  }
-  1200.1.1 = {
-    death = yes
-  }
-}
 188145 = {
   name = "ゴーヴィンダ"  # Govinda
   dynasty = 1042081
@@ -3484,19 +2403,1061 @@
     death = yes
   }
 }
-188147 = {
-  name = "イスカ"  # Isuka
-  dynasty = 1042081
+170151 = {
+  name = "アナングパール"  # Anangpal
+  dynasty = 1040200
   religion = "hindu"
   culture = "rajput"
-  father = 188106
-  trait = "kshatriya"
-  trait = "smartist_hindu"
-  750.1.1 = {
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  687.1.1 = {
+    birth = "687.1.1"
+  }
+  754.3.1 = {
+    death = "754.3.1"
+  }
+}
+170152 = {
+  name = "ヴァスデヴ"  # Vasudev
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170151
+  705.1.1 = {
+    birth = "705.1.1"
+  }
+  773.4.18 = {
+    death = "773.4.18"
+  }
+}
+170153 = {
+  name = "ガンゲヤ"  # Gangeya
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170152
+  735.1.1 = {
+    birth = "735.1.1"
+  }
+  794.8.16 = {
+    death = "794.8.16"
+  }
+}
+170154 = {
+  name = "プリットヴィマル"  # Prithvimal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170153
+  757.1.1 = {
+    birth = "757.1.1"
+  }
+  814.3.5 = {
+    death = "814.3.5"
+  }
+}
+170155 = {
+  name = "ジャグデヴ"  # Jagdev
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170154
+  782.1.1 = {
+    birth = "782.1.1"
+  }
+  834.11.3 = {
+    death = "834.11.3"
+  }
+}
+170156 = {
+  name = "ナルパル"  # Narpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170155
+  798.1.1 = {
+    birth = "798.1.1"
+  }
+  849.3.12 = {
+    death = "849.3.12"
+  }
+}
+170157 = {
+  name = "ウダイサング"  # Udaysangh
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170156
+  814.1.1 = {
+    birth = "814.1.1"
+  }
+  875.10.23 = {
+    death = "875.10.23"
+  }
+}
+170158 = {
+  name = "ジャイダス"  # Jaidas
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170157
+  830.1.1 = {
+    birth = "830.1.1"
+  }
+  897.1.1 = {
+    death = "897.1.1"
+  }
+}
+170159 = {
+  name = "ヴァシュハル"  # Vachhal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  865.1.1 = {
+    birth = "865.1.1"
+  }
+  919.4.22 = {
+    death = "919.4.22"
+  }
+}
+170160 = {
+  name = "バシュデヴ"  # Bacchdev
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170158
+  852.1.1 = {
+    birth = "852.1.1"
+  }
+  909.1.1 = {
+    death = "909.1.1"
+  }
+}
+170161 = {
+  name = "ナグデオ"  # Nagdeo
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  866.1.1 = {
+    birth = "866.1.1"
+  }
+  923.1.1 = {
+    death = "923.1.1"
+  }
+}
+170162 = {
+  name = "クリシュンライ"  # Krishnray
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  867.1.1 = {
+    birth = "867.1.1"
+  }
+  916.1.1 = {
+    death = "916.1.1"
+  }
+}
+170163 = {
+  name = "ニハル"  # Nihal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  869.1.1 = {
+    birth = "869.1.1"
+  }
+  933.1.1 = {
+    death = "933.1.1"
+  }
+}
+170164 = {
+  name = "ソマシ"  # Somasi
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  870.1.1 = {
+    birth = "870.1.1"
+  }
+  904.1.1 = {
+    death = "904.1.1"
+  }
+}
+170165 = {
+  name = "ハルパール"  # Harpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170169
+  872.1.1 = {
+    birth = "872.1.1"
+  }
+  913.1.1 = {
+    death = "913.1.1"
+  }
+}
+170166 = {
+  name = "パヴァク"  # Pavak
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170159
+  888.1.1 = {
+    birth = "888.1.1"
+  }
+  940.10.27 = {
+    death = "940.10.27"
+  }
+}
+170167 = {
+  name = "ヴィハングパール"  # Vihangpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170166
+  915.1.1 = {
+    birth = "915.1.1"
+  }
+  961.3.1 = {
+    death = "961.3.1"
+  }
+}
+170168 = {
+  name = "トルパール"  # Tolpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170167
+  932.1.1 = {
+    birth = "932.1.1"
+  }
+  979.6.16 = {
+    death = "979.6.16"
+  }
+}
+170169 = {
+  name = "カルンパール"  # Karnpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170158
+  849.1.1 = {
+    birth = "849.1.1"
+  }
+  882.1.1 = {
+    death = "882.1.1"
+  }
+}
+170170 = {
+  name = "スラクシャンパール"  # Sulakshanpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170168
+  960.1.1 = {
+    birth = "960.1.1"
+  }
+  1005.4.26 = {
+    death = "1005.4.26"
+  }
+}
+170171 = {
+  name = "ジャイパール"  # Jaipal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170170
+  976.1.1 = {
+    birth = "976.1.1"
+  }
+  1021.8.29 = {
+    death = "1021.8.29"
+  }
+}
+170172 = {
+  name = "ジェトパール"  # Jhetpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1046.1.1 = {
+    birth = "1052.1.1"
+  }
+  1095.1.1 = {
+    death = "1095.1.1"
+  }
+}
+170173 = {
+  name = "カンヴァルパール"  # Kanvarpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170171
+  999.1.1 = {
+    birth = "999.1.1"
+  }
+  1051.6.17 = {
+    death = "1051.6.17"
+  }
+}
+170174 = {
+  name = "アナングパール"  # Anangpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170173
+  1017.1.1 = {
+    birth = "1017.1.1"
+  }
+  1081.1.5 = {
+    death = "1081.1.5"
+  }
+}
+170175 = {
+  name = "ブンパール"  # Bhumpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1040.1.1 = {
+    birth = "1040.1.1"
+  }
+  1105.1.1 = {
+    death = "1105.1.1"
+  }
+}
+170176 = {
+  name = "インドラパール"  # Indrapal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1099.1.1 = {
+    death = "1099.1.1"
+  }
+}
+170177 = {
+  name = "ラングラジ"  # Rangraj
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1084.1.1 = {
+    death = "1084.1.1"
+  }
+}
+170178 = {
+  name = "アチャル"  # Achal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1043.1.1 = {
+    birth = "1043.1.1"
+  }
+  1102.1.1 = {
+    death = "1102.1.1"
+  }
+}
+170179 = {
+  name = "ドラウパッド"  # Draupad
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1044.1.1 = {
+    birth = "1044.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+170180 = {
+  name = "シシュパール"  # Sisupal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1045.1.1 = {
+    birth = "1045.1.1"
+  }
+  1083.1.1 = {
+    death = "1083.1.1"
+  }
+}
+170181 = {
+  name = "スラジャパール"  # Surajpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1046.1.1 = {
+    birth = "1046.1.1"
+  }
+  1093.1.1 = {
+    death = "1093.1.1"
+  }
+}
+170182 = {
+  name = "テジパール"  # Tejpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1039.1.1 = {
+    birth = "1047.1.1"
+  }
+  1105.2.11 = {
+    death = "1105.2.11"
+  }
+}
+170183 = {
+  name = "マヒパール"  # Mahipal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170182
+  1068.1.1 = {
+    birth = "1068.1.1"
+  }
+  1151.7.19 = {
+    death = "1151.7.19"
+  }
+}
+170184 = {
+  name = "アナングパール"  # Anangpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170183
+  1103.1.1 = {
+    birth = "1103.1.1"
+  }
+  1192.1.1 = {
+    death = "1192.1.1"
+  }
+}
+170185 = {
+  name = "ゴヴィンドラジ"  # Govindraj
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170184
+  1128.1.1 = {
+    birth = "1128.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+170186 = {
+  name = "ロープスンダリ"  # Roopsundari
+  female = yes
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1048.1.1 = {
+    birth = "1048.1.1"
+  }
+  1105.1.1 = {
+    death = "1105.1.1"
+  }
+}
+170187 = {
+  name = "カマラデーヴィ"  # Kamaladevi
+  female = yes
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170174
+  1049.1.1 = {
+    birth = "1049.1.1"
+  }
+  1102.1.1 = {
+    death = "1102.1.1"
+  }
+}
+170188 = {
+  name = "アウサ"  # Ausan
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170184
+  1129.1.1 = {
+    birth = "1129.1.1"
+  }
+  1208.1.1 = {
+    death = "1208.1.1"
+  }
+}
+170189 = {
+  name = "コサル"  # Kosal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170188
+  1153.1.1 = {
+    birth = "1153.1.1"
+  }
+  1229.1.1 = {
+    death = "1229.1.1"
+  }
+}
+170218 = {
+  name = "マヘーンドラ"  # Mahendra
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170175
+  1063.1.1 = {
+    birth = "1063.1.1"
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+170219 = {
+  name = "ヒラパール"  # Hirapal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170218
+  1086.1.1 = {
+    birth = "1086.1.1"
+  }
+  1151.1.1 = {
+    death = "1151.1.1"
+  }
+}
+170220 = {
+  name = "バグパール"  # Baghpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170219
+  1107.1.1 = {
+    birth = "1107.1.1"
+  }
+  1175.1.1 = {
+    death = "1175.1.1"
+  }
+}
+170221 = {
+  name = "プリタンパール"  # Pritampal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170220
+  1136.1.1 = {
+    birth = "1136.1.1"
+  }
+  1200.1.1 = {
+    death = "1200.1.1"
+  }
+}
+170222 = {
+  name = "ディリッパール"  # Dilippal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170221
+  1155.1.1 = {
+    birth = "1155.1.1"
+  }
+  1211.1.1 = {
+    death = "1211.1.1"
+  }
+}
+170223 = {
+  name = "ビールパール"  # Birpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170222
+  1177.1.1 = {
+    birth = "1177.1.1"
+  }
+  1237.1.1 = {
+    death = "1237.1.1"
+  }
+}
+170224 = {
+  name = "アヌッパール"  # Anuppal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170223
+  1199.1.1 = {
+    birth = "1199.1.1"
+  }
+  1252.1.1 = {
+    death = "1252.1.1"
+  }
+}
+170225 = {
+  name = "ソンパール"  # Sonpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170224
+  1228.1.1 = {
+    birth = "1228.1.1"
+  }
+  1304.1.1 = {
+    death = "1304.1.1"
+  }
+}
+170226 = {
+  name = "スルタンパール"  # Sultanpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170225
+  1254.1.1 = {
+    birth = "1254.1.1"
+  }
+  1319.1.1 = {
+    death = "1319.1.1"
+  }
+}
+170227 = {
+  name = "クンワルパール"  # Kunwarpal
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170226
+  1278.1.1 = {
+    birth = "1278.1.1"
+  }
+  1350.1.1 = {
+    death = "1350.1.1"
+  }
+}
+170228 = {
+  name = "ブラームデヴ"  # Brahmdev
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170227
+  1298.1.1 = {
+    birth = "1298.1.1"
+  }
+  1356.1.1 = {
+    death = "1356.1.1"
+  }
+}
+170229 = {
+  name = "ケーターパール"  # Khetrapal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170172
+  1060.1.1 = {
     birth = yes
   }
-  800.1.1 = {
-    death = yes
+  1117.1.1 = {
+    death = "1117.1.1"
+  }
+}
+170230 = {
+  name = "スキーンパール"  # Sukhinpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170229
+  1076.1.1 = {
+    birth = "1076.1.1"
+  }
+  1134.1.1 = {
+    death = "1134.1.1"
+  }
+}
+170231 = {
+  name = "ジャガタパール"  # Jagatpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170230
+  1092.1.1 = {
+    birth = "1092.1.1"
+  }
+  1151.1.1 = {
+    death = "1151.1.1"
+  }
+}
+170232 = {
+  name = "ランパール"  # Rampal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170231
+  1108.1.1 = {
+    birth = "1108.1.1"
+  }
+  1168.1.1 = {
+    death = "1168.1.1"
+  }
+}
+170233 = {
+  name = "ゴパール"  # Gopal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170232
+  1125.1.1 = {
+    birth = "1125.1.1"
+  }
+  1185.1.1 = {
+    death = "1185.1.1"
+  }
+}
+170234 = {
+  name = "アルジュンパール"  # Arjunpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170233
+  1142.1.1 = {
+    birth = "1142.1.1"
+  }
+  1202.1.1 = {
+    death = "1202.1.1"
+  }
+}
+170235 = {
+  name = "ヴァルユパール"  # Varshpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170234
+  1159.1.1 = {
+    birth = "1159.1.1"
+  }
+  1219.1.1 = {
+    death = "1219.1.1"
+  }
+}
+170236 = {
+  name = "ジャタンパール"  # Jatanpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170235
+  1176.1.1 = {
+    birth = "1176.1.1"
+  }
+  1236.1.1 = {
+    death = "1236.1.1"
+  }
+}
+170237 = {
+  name = "ヴィドゥラスパール"  # Vidurathpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170236
+  1193.1.1 = {
+    birth = "1193.1.1"
+  }
+  1253.1.1 = {
+    death = "1253.1.1"
+  }
+}
+170238 = {
+  name = "ジャガンパール"  # Jaganpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170237
+  1210.1.1 = {
+    birth = "1210.1.1"
+  }
+  1270.1.1 = {
+    death = "1270.1.1"
+  }
+}
+170239 = {
+  name = "キラトパール"  # Kiratpal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170238
+  1227.1.1 = {
+    birth = "1227.1.1"
+  }
+  1287.1.1 = {
+    death = "1287.1.1"
+  }
+}
+170240 = {
+  name = "カコーパール"  # Kakhopal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170239
+  1253.1.1 = {
+    birth = "1253.1.1"
+  }
+  1313.1.1 = {
+    death = "1313.1.1"
+  }
+}
+170241 = {
+  name = "ジャスパール"  # Jaspal
+  dynasty = 1040206
+  religion = "hindu"
+  culture = "rajput"
+  father = 170240
+  1293.1.1 = {
+    birth = "1293.1.1"
+  }
+  1353.1.1 = {
+    death = "1353.1.1"
+  }
+}
+170288 = {
+  name = "サルニジ"  # Salunji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170184
+  1130.1.1 = {
+    birth = "1130.1.1"
+  }
+  1183.1.1 = {
+    death = "1183.1.1"
+  }
+}
+170289 = {
+  name = "ニハールジ"  # Nihaalji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170288
+  1152.1.1 = {
+    birth = "1152.1.1"
+  }
+  1195.1.1 = {
+    death = "1195.1.1"
+  }
+}
+170290 = {
+  name = "ドスジ"  # Dothji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170289
+  1178.1.1 = {
+    birth = "1178.1.1"
+  }
+  1237.1.1 = {
+    death = "1237.1.1"
+  }
+}
+170291 = {
+  name = "ポパトラッジ"  # Popatrajji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170290
+  1203.1.1 = {
+    birth = "1203.1.1"
+  }
+  1264.1.1 = {
+    death = "1264.1.1"
+  }
+}
+170292 = {
+  name = "ピーパルラッジ"  # Peepalrajji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170291
+  1229.1.1 = {
+    birth = "1229.1.1"
+  }
+  1292.1.1 = {
+    death = "1292.1.1"
+  }
+}
+170293 = {
+  name = "ラナジ"  # Ranaji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170292
+  1253.1.1 = {
+    birth = "1253.1.1"
+  }
+  1302.1.1 = {
+    death = "1302.1.1"
+  }
+}
+170294 = {
+  name = "アルシジ"  # Alsiji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170293
+  1272.1.1 = {
+    birth = "1272.1.1"
+  }
+  1323.1.1 = {
+    death = "1323.1.1"
+  }
+}
+170295 = {
+  name = "カマルジ"  # Kamalji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170294
+  1295.1.1 = {
+    birth = "1295.1.1"
+  }
+  1341.1.1 = {
+    death = "1341.1.1"
+  }
+}
+170296 = {
+  name = "マヒパルジ"  # Mahipalji
+  dynasty = 1040200
+  religion = "hindu"
+  culture = "rajput"
+  trait = vaishnavist_hindu
+  trait = kshatriya
+  father = 170295
+  1327.1.1 = {
+    birth = "1327.1.1"
+  }
+  1390.1.1 = {
+    death = "1390.1.1"
   }
 }
 188148 = {
@@ -3582,6 +3543,24 @@
   trait = "smartist_hindu"
   1088.1.1 = {
     birth = yes
+  }
+  1145.1.1 = {
+    death = yes
+  }
+}
+188166 = {
+  name = "ダーヴァーラ"  # Dhavala
+  dynasty = 1042072
+  religion = "hindu"
+  culture = "rajput"
+  mother = 188153
+  trait = "kshatriya"
+  trait = "smartist_hindu"
+  1105.1.1 = {
+    birth = yes
+  }
+  1122.1.1 = {
+    add_spouse = 188153
   }
   1145.1.1 = {
     death = yes
@@ -3780,24 +3759,6 @@
     death = yes
   }
 }
-188166 = {
-  name = "ダーヴァーラ"  # Dhavala
-  dynasty = 1042072
-  religion = "hindu"
-  culture = "rajput"
-  mother = 188153
-  trait = "kshatriya"
-  trait = "smartist_hindu"
-  1105.1.1 = {
-    birth = yes
-  }
-  1122.1.1 = {
-    add_spouse = 188153
-  }
-  1145.1.1 = {
-    death = yes
-  }
-}
 188168 = {
   name = "スリマーラ"  # Srimala
   dynasty = 1042074
@@ -3912,442 +3873,6 @@
     birth = yes
   }
   1108.1.1 = {
-    death = yes
-  }
-}
-188176 = {
-  name = "ウペンドラ"  # Upendra
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  770.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    death = yes
-  }
-}
-188177 = {
-  name = "ヴェリシマ"  # Vairisimha
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188176
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  800.1.1 = {
-    birth = yes
-  }
-  843.1.1 = {
-    death = yes
-  }
-}
-188178 = {
-  name = "シヤカ"  # Siyaka
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188177
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  831.4.5 = {
-    birth = yes
-  }
-  893.1.1 = {
-    death = yes
-  }
-}
-188179 = {
-  name = "ヴァクパーティ"  # Vakpati
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188178
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  856.9.28 = {
-    birth = yes
-  }
-  918.1.1 = {
-    death = yes
-  }
-}
-188180 = {
-  name = "ヴェリシマ"  # Vairisimha
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188179
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  880.1.1 = {
-    birth = yes
-  }
-  948.1.1 = {
-    death = yes
-  }
-}
-188181 = {
-  name = "シヤカ"  # Siyaka
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188180
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  920.1.1 = {
-    birth = yes
-  }
-  973.1.1 = {
-    death = yes
-  }
-}
-188182 = {
-  name = "ヴァクパーティ"  # Vakpati
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188181
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  950.1.1 = {
-    birth = yes
-  }
-  995.1.1 = {
-    death = yes
-  }
-}
-188183 = {
-  name = "シンドゥ"  # Sindhu
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188181
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  956.1.1 = {
-    birth = yes
-  }
-  1010.1.1 = {
-    death = yes
-  }
-}
-188184 = {
-  name = "ボージャ"  # Bhoja
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188183
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  trait = scholar
-  997.1.1 = {
-    birth = yes
-  }
-  1055.1.1 = {
-    death = yes
-  }
-}
-188185 = {
-  name = "ジャヤシンハ"  # Jayasimha
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188184
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1035.1.1 = {
-    birth = yes
-  }
-  1069.1.1 = {
-    death = yes
-  }
-}
-188186 = {
-  name = "ウダヤディトヤ"  # Udayaditya
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188183
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  1008.1.1 = {
-    birth = yes
-  }
-  1087.1.1 = {
-    death = yes
-  }
-}
-188187 = {
-  name = "ラクシュマーナ"  # Lakshmana
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188186
-  trait = "kshatriya"
-  trait = "shaktist_hindu"
-  1043.3.6 = {
-    birth = yes
-  }
-  1094.1.1 = {
-    death = yes
-  }
-}
-188188 = {
-  name = "ナラヴァルマン"  # Naravarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188186
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1061.5.27 = {
-    birth = yes
-  }
-  1133.1.1 = {
-    death = yes
-  }
-}
-188189 = {
-  name = "ヤソヴァルマン"  # Yasovarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188188
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1080.1.1 = {
-    birth = yes
-  }
-  1142.1.1 = {
-    death = yes
-  }
-}
-188190 = {
-  name = "ジャヤヴァルマン"  # Jayavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188189
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1100.1.1 = {
-    birth = yes
-  }
-  1143.1.1 = {
-    death = yes
-  }
-}
-188192 = {
-  name = "ラクシュミヴァルマン"  # Lakshmivarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188189
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1103.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-188193 = {
-  name = "トライロクヤヴァルマン"  # Trailokyavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188189
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1102.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-188194 = {
-  name = "ハリスチャンドラ"  # Harischandra
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188192
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1130.1.1 = {
-    birth = yes
-  }
-  1200.1.1 = {
-    death = yes
-  }
-}
-188195 = {
-  name = "ウダヤヴァルマン"  # Udayavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188194
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1170.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-188196 = {
-  name = "デーヴァパーラ"  # Devapala
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188194
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1180.1.1 = {
-    birth = yes
-  }
-  1239.1.1 = {
-    death = yes
-  }
-}
-188197 = {
-  name = "ヴィンディヤヴァルマン"  # Vindhyavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188190
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1130.1.1 = {
-    birth = yes
-  }
-  1193.1.1 = {
-    death = yes
-  }
-}
-188198 = {
-  name = "スバータヴァルマン"  # Subhatavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188197
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1160.1.1 = {
-    birth = yes
-  }
-  1210.1.1 = {
-    death = yes
-  }
-}
-188199 = {
-  name = "アルジュナヴァルマン"  # Arjunavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188198
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  trait = "poet"
-  1180.1.1 = {
-    birth = yes
-  }
-  1218.1.1 = {
-    death = yes
-  }
-}
-188200 = {
-  name = "ジャイトゥギデーヴァ"  # Jaitugideva
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188196
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1200.1.1 = {
-    birth = yes
-  }
-  1256.1.1 = {
-    death = yes
-  }
-}
-188201 = {
-  name = "ジャヤヴァルマン"  # Jayavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188196
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1201.1.1 = {
-    birth = yes
-  }
-  1269.1.1 = {
-    death = yes
-  }
-}
-188202 = {
-  name = "ジャヤシンハ"  # Jayasimha
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188201
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1230.1.1 = {
-    birth = yes
-  }
-  1274.1.1 = {
-    death = yes
-  }
-}
-188203 = {
-  name = "アルジュナヴァルマン"  # Arjunavarman
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188202
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1250.1.1 = {
-    birth = yes
-  }
-  1283.1.1 = {
-    death = yes
-  }
-}
-188204 = {
-  name = "ボージャ"  # Bhoja
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188202
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1254.1.1 = {
-    birth = yes
-  }
-  1298.1.1 = {
-    death = yes
-  }
-}
-188205 = {
-  name = "マーラカデーヴァ"  # Mahlakadeva
-  dynasty = 1042077
-  religion = "hindu"
-  culture = "rajput"
-  father = 188204
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1282.1.1 = {
-    birth = yes
-  }
-  1305.1.1 = {
     death = yes
   }
 }
@@ -4897,6 +4422,480 @@
     death = yes
   }
 }
+170299 = {
+  name = "カフール"  # Kafur
+  religion = "hindu"
+  culture = "rajput"
+  trait = "vaishnavist_hindu"
+  1280.1.1 = {
+    birth = "1280.1.1"
+  }
+  1296.1.1 = {
+    trait = elusive_shadow
+  }
+  1297.1.1 = {
+    religion = "sunni"
+    trait = eunuch
+    trait = ambitious
+    employer = 170246
+  }
+  1316.1.3 = {
+    employer = 170247
+  }
+  1316.4.1 = {
+    death = "1316.4.1"
+  }
+}
+188176 = {
+  name = "ウペンドラ"  # Upendra
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  770.1.1 = {
+    birth = yes
+  }
+  818.1.1 = {
+    death = yes
+  }
+}
+188177 = {
+  name = "ヴェリシマ"  # Vairisimha
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188176
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  800.1.1 = {
+    birth = yes
+  }
+  843.1.1 = {
+    death = yes
+  }
+}
+188178 = {
+  name = "シヤカ"  # Siyaka
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188177
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  831.4.5 = {
+    birth = yes
+  }
+  893.1.1 = {
+    death = yes
+  }
+}
+188179 = {
+  name = "ヴァクパーティ"  # Vakpati
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188178
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  856.9.28 = {
+    birth = yes
+  }
+  918.1.1 = {
+    death = yes
+  }
+}
+188180 = {
+  name = "ヴェリシマ"  # Vairisimha
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188179
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  880.1.1 = {
+    birth = yes
+  }
+  948.1.1 = {
+    death = yes
+  }
+}
+188181 = {
+  name = "シヤカ"  # Siyaka
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188180
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  920.1.1 = {
+    birth = yes
+  }
+  973.1.1 = {
+    death = yes
+  }
+}
+188182 = {
+  name = "ヴァクパーティ"  # Vakpati
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188181
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  950.1.1 = {
+    birth = yes
+  }
+  995.1.1 = {
+    death = yes
+  }
+}
+188183 = {
+  name = "シンドゥ"  # Sindhu
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188181
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  956.1.1 = {
+    birth = yes
+  }
+  1010.1.1 = {
+    death = yes
+  }
+}
+188184 = {
+  name = "ボージャ"  # Bhoja
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188183
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  trait = scholar
+  997.1.1 = {
+    birth = yes
+  }
+  1055.1.1 = {
+    death = yes
+  }
+}
+188185 = {
+  name = "ジャヤシンハ"  # Jayasimha
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188184
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1035.1.1 = {
+    birth = yes
+  }
+  1069.1.1 = {
+    death = yes
+  }
+}
+188186 = {
+  name = "ウダヤディトヤ"  # Udayaditya
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188183
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  1008.1.1 = {
+    birth = yes
+  }
+  1087.1.1 = {
+    death = yes
+  }
+}
+188187 = {
+  name = "ラクシュマーナ"  # Lakshmana
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188186
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  1043.3.6 = {
+    birth = yes
+  }
+  1094.1.1 = {
+    death = yes
+  }
+}
+188188 = {
+  name = "ナラヴァルマン"  # Naravarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188186
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1061.5.27 = {
+    birth = yes
+  }
+  1133.1.1 = {
+    death = yes
+  }
+}
+188189 = {
+  name = "ヤソヴァルマン"  # Yasovarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188188
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1080.1.1 = {
+    birth = yes
+  }
+  1142.1.1 = {
+    death = yes
+  }
+}
+188190 = {
+  name = "ジャヤヴァルマン"  # Jayavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188189
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1100.1.1 = {
+    birth = yes
+  }
+  1143.1.1 = {
+    death = yes
+  }
+}
+188192 = {
+  name = "ラクシュミヴァルマン"  # Lakshmivarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188189
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1103.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+188193 = {
+  name = "トライロクヤヴァルマン"  # Trailokyavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188189
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1102.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+188194 = {
+  name = "ハリスチャンドラ"  # Harischandra
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188192
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1130.1.1 = {
+    birth = yes
+  }
+  1200.1.1 = {
+    death = yes
+  }
+}
+188195 = {
+  name = "ウダヤヴァルマン"  # Udayavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188194
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1170.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+188196 = {
+  name = "デーヴァパーラ"  # Devapala
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188194
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1180.1.1 = {
+    birth = yes
+  }
+  1239.1.1 = {
+    death = yes
+  }
+}
+188197 = {
+  name = "ヴィンディヤヴァルマン"  # Vindhyavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188190
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1130.1.1 = {
+    birth = yes
+  }
+  1193.1.1 = {
+    death = yes
+  }
+}
+188198 = {
+  name = "スバータヴァルマン"  # Subhatavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188197
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1160.1.1 = {
+    birth = yes
+  }
+  1210.1.1 = {
+    death = yes
+  }
+}
+188199 = {
+  name = "アルジュナヴァルマン"  # Arjunavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188198
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  trait = "poet"
+  1180.1.1 = {
+    birth = yes
+  }
+  1218.1.1 = {
+    death = yes
+  }
+}
+188200 = {
+  name = "ジャイトゥギデーヴァ"  # Jaitugideva
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188196
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1200.1.1 = {
+    birth = yes
+  }
+  1256.1.1 = {
+    death = yes
+  }
+}
+188201 = {
+  name = "ジャヤヴァルマン"  # Jayavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188196
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1201.1.1 = {
+    birth = yes
+  }
+  1269.1.1 = {
+    death = yes
+  }
+}
+188202 = {
+  name = "ジャヤシンハ"  # Jayasimha
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188201
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1230.1.1 = {
+    birth = yes
+  }
+  1274.1.1 = {
+    death = yes
+  }
+}
+188203 = {
+  name = "アルジュナヴァルマン"  # Arjunavarman
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188202
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1250.1.1 = {
+    birth = yes
+  }
+  1283.1.1 = {
+    death = yes
+  }
+}
+188204 = {
+  name = "ボージャ"  # Bhoja
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188202
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1254.1.1 = {
+    birth = yes
+  }
+  1298.1.1 = {
+    death = yes
+  }
+}
+188205 = {
+  name = "マーラカデーヴァ"  # Mahlakadeva
+  dynasty = 1042077
+  religion = "hindu"
+  culture = "rajput"
+  father = 188204
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1282.1.1 = {
+    birth = yes
+  }
+  1305.1.1 = {
+    death = yes
+  }
+}
+188277 = {
+  name = "チューダ"  # Chuda
+  dynasty = 1042088
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  845.1.1 = {
+    birth = yes
+  }
+  915.1.1 = {
+    death = yes
+  }
+}
 188243 = {
   name = "ハミール"  # Hamir
   dynasty = 1042088
@@ -5224,20 +5223,6 @@
     birth = yes
   }
   1348.1.1 = {
-    death = yes
-  }
-}
-188277 = {
-  name = "チューダ"  # Chuda
-  dynasty = 1042088
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  845.1.1 = {
-    birth = yes
-  }
-  915.1.1 = {
     death = yes
   }
 }
@@ -5659,6 +5644,35 @@
     birth = yes
   }
   885.1.1 = {
+    death = yes
+  }
+}
+242020 = {
+  name = "ジャム・ウナール"  # Jam Unar
+  dynasty = 1042086
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaktist_hindu"
+  1310.1.1 = {
+    birth = yes
+  }
+  1338.6.1 = {
+    death = yes
+  }
+}
+188147 = {
+  name = "イスカ"  # Isuka
+  dynasty = 1042081
+  religion = "hindu"
+  culture = "rajput"
+  father = 188106
+  trait = "kshatriya"
+  trait = "smartist_hindu"
+  750.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
     death = yes
   }
 }
@@ -7333,80 +7347,6 @@
     death = yes
   }
 }
-188892 = {
-  name = "バンドパール"  # Bandpal
-  dynasty = 1044366
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1216.1.1 = {
-    birth = yes
-  }
-  1270.1.1 = {
-    death = yes
-  }
-}
-188893 = {
-  name = "アインティパール"  # Aintipal
-  dynasty = 1044366
-  religion = "hindu"
-  culture = "rajput"
-  father = 188892
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1240.1.1 = {
-    birth = yes
-  }
-  1282.1.1 = {
-    death = yes
-  }
-}
-188894 = {
-  name = "アダーンパール"  # Adhanpal
-  dynasty = 1044366
-  religion = "hindu"
-  culture = "rajput"
-  father = 188893
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1270.1.1 = {
-    birth = yes
-  }
-  1329.1.1 = {
-    death = yes
-  }
-}
-188895 = {
-  name = "インサラージ"  # Insaraj
-  dynasty = 1044366
-  religion = "hindu"
-  culture = "rajput"
-  father = 188894
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1300.1.1 = {
-    birth = yes
-  }
-  1350.1.1 = {
-    death = yes
-  }
-}
-188896 = {
-  name = "ラカンパール"  # Lakhanpal
-  dynasty = 1044366
-  religion = "hindu"
-  culture = "rajput"
-  father = 188895
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1330.1.1 = {
-    birth = yes
-  }
-  1380.1.1 = {
-    death = yes
-  }
-}
 191009 = {
   name = "アラカーナ"  # Alakhana
   dynasty = 1044306
@@ -8736,6 +8676,20 @@
     death = yes
   }
 }
+191744 = {
+  name = "パドマラデーヴィ"  # Padmaladevi
+  female = yes
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1105.1.1 = {
+    birth = yes
+  }
+  1170.1.1 = {
+    death = yes
+  }
+}
 191716 = {
   name = "サハジャパーラ"  # Sahajapala
   dynasty = 1042081
@@ -9183,20 +9137,6 @@
     death = yes
   }
 }
-191744 = {
-  name = "パドマラデーヴィ"  # Padmaladevi
-  female = yes
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1105.1.1 = {
-    birth = yes
-  }
-  1170.1.1 = {
-    death = yes
-  }
-}
 191745 = {
   name = "ウダヤシンハ"  # Udayasimha
   dynasty = 1042081
@@ -9417,6 +9357,22 @@
     death = yes
   }
 }
+191777 = {
+  name = "ルナヴァルマン"  # Lunavarman
+  dynasty = 1042081
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191754
+  mother = 191755
+  1240.1.1 = {
+    birth = yes
+  }
+  1275.1.1 = {
+    death = yes
+  }
+}
 191759 = {
   name = "テジャシンハ"  # Tejasimha
   dynasty = 1042081
@@ -9489,6 +9445,21 @@
     birth = yes
   }
   1120.1.1 = {
+    death = yes
+  }
+}
+191778 = {
+  name = "ソビータ"  # Sobhita
+  dynasty = 1042081
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191763
+  1115.1.1 = {
+    birth = yes
+  }
+  1140.1.1 = {
     death = yes
   }
 }
@@ -9608,37 +9579,6 @@
     birth = yes
   }
   1098.1.1 = {
-    death = yes
-  }
-}
-191777 = {
-  name = "ルナヴァルマン"  # Lunavarman
-  dynasty = 1042081
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191754
-  mother = 191755
-  1240.1.1 = {
-    birth = yes
-  }
-  1275.1.1 = {
-    death = yes
-  }
-}
-191778 = {
-  name = "ソビータ"  # Sobhita
-  dynasty = 1042081
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191763
-  1115.1.1 = {
-    birth = yes
-  }
-  1140.1.1 = {
     death = yes
   }
 }
@@ -10201,6 +10141,20 @@
     death = yes
   }
 }
+191817 = {
+  name = "メララデーヴィ"  # Melaradevi
+  female = yes
+  religion = "hindu"
+  culture = "rajput"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1060.1.1 = {
+    birth = yes
+  }
+  1110.1.1 = {
+    death = yes
+  }
+}
 191815 = {
   name = "クンタパーラ"  # Kuntapala
   dynasty = 1042077
@@ -10237,20 +10191,6 @@
       death_reason = death_battle
       killer = 191730
     }
-  }
-}
-191817 = {
-  name = "メララデーヴィ"  # Melaradevi
-  female = yes
-  religion = "hindu"
-  culture = "rajput"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  1060.1.1 = {
-    birth = yes
-  }
-  1110.1.1 = {
-    death = yes
   }
 }
 191818 = {
@@ -11211,6 +11151,36 @@
     death = yes
   }
 }
+191912 = {
+  name = "ブープス"  # Bhupsu
+  dynasty = 1044388
+  religion = "hindu"
+  culture = "hindustani"
+  father = 191886
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  1263.1.1 = {
+    birth = yes
+  }
+  1280.1.1 = {
+    death = yes
+  }
+}
+191913 = {
+  name = "ダーンドゥル"  # Dhandul
+  dynasty = 1044388
+  religion = "hindu"
+  culture = "hindustani"
+  father = 191886
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  1264.1.1 = {
+    birth = yes
+  }
+  1299.1.1 = {
+    death = yes
+  }
+}
 191892 = {
   name = "ジャイトマール"  # Jaitmal
   dynasty = 1044388
@@ -11496,36 +11466,6 @@
     death = yes
   }
 }
-191912 = {
-  name = "ブープス"  # Bhupsu
-  dynasty = 1044388
-  religion = "hindu"
-  culture = "hindustani"
-  father = 191886
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  1263.1.1 = {
-    birth = yes
-  }
-  1280.1.1 = {
-    death = yes
-  }
-}
-191913 = {
-  name = "ダーンドゥル"  # Dhandul
-  dynasty = 1044388
-  religion = "hindu"
-  culture = "hindustani"
-  father = 191886
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  1264.1.1 = {
-    birth = yes
-  }
-  1299.1.1 = {
-    death = yes
-  }
-}
 191914 = {
   name = "ダーニカ"  # Dhanika
   dynasty = 1042077
@@ -11766,6 +11706,21 @@
     death = yes
   }
 }
+191959 = {
+  name = "シンハバーラ"  # Simhabala
+  dynasty = 1044391
+  religion = "hindu"
+  culture = "hindustani"
+  trait = "kshatriya"
+  trait = "vaishnavist_hindu"
+  father = 191948
+  910.1.1 = {
+    birth = yes
+  }
+  999.1.1 = {
+    death = yes
+  }
+}
 191949 = {
   name = "カチュチャ"  # Cachcha
   dynasty = 1044391
@@ -11916,32 +11871,77 @@
     death = yes
   }
 }
-191959 = {
-  name = "シンハバーラ"  # Simhabala
-  dynasty = 1044391
-  religion = "hindu"
-  culture = "hindustani"
-  trait = "kshatriya"
-  trait = "vaishnavist_hindu"
-  father = 191948
-  910.1.1 = {
-    birth = yes
-  }
-  999.1.1 = {
-    death = yes
-  }
-}
-242020 = {
-  name = "ジャム・ウナール"  # Jam Unar
-  dynasty = 1042086
+188892 = {
+  name = "バンドパール"  # Bandpal
+  dynasty = 1044366
   religion = "hindu"
   culture = "rajput"
   trait = "kshatriya"
-  trait = "shaktist_hindu"
-  1310.1.1 = {
+  trait = "shaivist_hindu"
+  1216.1.1 = {
     birth = yes
   }
-  1338.6.1 = {
+  1270.1.1 = {
+    death = yes
+  }
+}
+188893 = {
+  name = "アインティパール"  # Aintipal
+  dynasty = 1044366
+  religion = "hindu"
+  culture = "rajput"
+  father = 188892
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1240.1.1 = {
+    birth = yes
+  }
+  1282.1.1 = {
+    death = yes
+  }
+}
+188894 = {
+  name = "アダーンパール"  # Adhanpal
+  dynasty = 1044366
+  religion = "hindu"
+  culture = "rajput"
+  father = 188893
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1270.1.1 = {
+    birth = yes
+  }
+  1329.1.1 = {
+    death = yes
+  }
+}
+188895 = {
+  name = "インサラージ"  # Insaraj
+  dynasty = 1044366
+  religion = "hindu"
+  culture = "rajput"
+  father = 188894
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1300.1.1 = {
+    birth = yes
+  }
+  1350.1.1 = {
+    death = yes
+  }
+}
+188896 = {
+  name = "ラカンパール"  # Lakhanpal
+  dynasty = 1044366
+  religion = "hindu"
+  culture = "rajput"
+  father = 188895
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  1330.1.1 = {
+    birth = yes
+  }
+  1380.1.1 = {
     death = yes
   }
 }

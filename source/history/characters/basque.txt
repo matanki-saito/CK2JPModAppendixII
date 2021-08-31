@@ -1,90 +1,702 @@
-﻿7562 = {
+﻿106000 = {
   name = "アンツォ"  # Antso
-  dynasty = 388
+  dynasty = 442
+  martial = 5
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 7
   religion = "catholic"
   culture = "basque"
-  father = 7563
-  890.1.1 = {
-    birth = "890.1.1"
+  trait = "amateurish_plotter"
+  father = 106010
+  mother = 1079
+  1039.1.1 = {
+    birth = "1039.1.1"
   }
-  955.1.1 = {
-    death = "955.1.1"
+  1068.1.1 = {
+    add_spouse = 71535
+  }
+  1076.6.4 = {
+    death = "1076.6.4"
   }
 }
-7563 = {
+106010 = {
   name = "ガルツィア"  # Gartzia
-  dynasty = 388
-  religion = "catholic"
-  culture = "basque"
-  father = 163060
-  mother = 168126
-  850.1.1 = {
-    birth = "850.1.1"
-  }
-  920.1.1 = {
-    death = "920.1.1"
-  }
-}
-40011 = {
-  name = "Toda-Adalais"
-  female = yes
-  dynasty = 388
-  religion = "catholic"
-  culture = "basque"
-  father = 127049
-  985.1.1 = {
-    birth = "985.1.1"
-  }
-  1040.1.1 = {
-    death = "1040.1.1"
-  }
-}
-42023 = {
-  name = "ゴンツァル"  # Gontzal
   dynasty = 442
   martial = 4
   diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "diligent"
+  trait = "zealous"
+  trait = "skilled_tactician"
+  father = 106030
+  mother = 107650
+  1013.1.1 = {
+    birth = "1013.1.1"
+  }
+  1038.1.1 = {
+    add_spouse = 1079
+  }
+  1054.9.1 = {
+    death = "1054.9.1"
+  }
+}
+106012 = {
+  name = "フェルナンド"  # Fernando
+  dynasty = 442
+  martial = 7
+  diplomacy = 8
   intrigue = 5
-  stewardship = 3
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "zealous"
+  trait = "stutter"
+  trait = "lisp"
+  trait = "underhanded_rogue"
+  father = 106010
+  mother = 1079
+  1043.1.1 = {
+    birth = "1043.1.1"
+  }
+  1066.1.1 = {
+    employer = 106000
+  }
+  1068.1.1 = {
+    death = "1068.1.1"
+  }
+}
+106013 = {
+  name = "エルァムン"  # Erramun
+  dynasty = 442
+  martial = 5
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "chaste"
+  trait = "cynical"
+  trait = "flamboyant_schemer"
+  father = 106010
+  mother = 1079
+  1044.1.1 = {
+    birth = "1044.1.1"
+  }
+  1066.1.1 = {
+    employer = 106000
+  }
+  1079.1.1 = {
+    death = "1079.1.1"
+  }
+}
+106014 = {
+  name = "Ermesinda"
+  female = yes
+  dynasty = 442
+  martial = 7
+  diplomacy = 8
+  intrigue = 5
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "flamboyant_schemer"
+  father = 106010
+  mother = 1079
+  1041.1.1 = {
+    birth = "1041.1.1"
+  }
+  1066.1.1 = {
+    employer = 106000
+  }
+  1110.7.1 = {
+    death = "1110.7.1"
+  }
+}
+106015 = {
+  name = "マイオル"  # Maior
+  female = yes
+  dynasty = 442
+  martial = 6
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "diligent"
+  trait = "patient"
+  trait = "flamboyant_schemer"
+  father = 106010
+  mother = 1079
+  1046.1.1 = {
+    birth = "1046.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+106016 = {
+  name = "ウルァカ"  # Urraka
+  female = yes
+  dynasty = 442
+  martial = 5
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 5
   religion = "catholic"
   culture = "basque"
   trait = "wroth"
-  trait = "naive_appeaser"
-  father = 106030
-  mother = 107650
-  1020.1.1 = {
-    birth = "1020.1.1"
+  trait = "charismatic_negotiator"
+  father = 106010
+  mother = 1079
+  1040.1.1 = {
+    birth = "1040.1.1"
   }
-  1045.6.26 = {
-    death = "1045.6.26"
+  1066.1.1 = {
+    employer = 106000
+  }
+  1095.2.1 = {
+    death = "1095.2.1"
   }
 }
-54000 = {
-  name = "Gersenda"
-  dynasty = 388
+106017 = {
+  name = "シメナ"  # Ximena
   female = yes
+  dynasty = 442
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 4
   religion = "catholic"
   culture = "basque"
-  father = 7562
-  926.1.1 = {
-    birth = "926.1.1"
+  trait = "lustful"
+  trait = "gluttonous"
+  trait = "detached_priest"
+  father = 106010
+  mother = 1079
+  1045.1.1 = {
+    birth = "1045.1.1"
   }
+  1066.1.1 = {
+    employer = 106000
+  }
+  1085.5.27 = {
+    death = "1085.5.27"
+  }
+}
+106018 = {
+  name = "アンツォ"  # Antso
+  dynasty = 277
+  religion = "catholic"
+  culture = "basque"
+  trait = "lustful"
+  trait = "bastard"
+  trait = "flamboyant_schemer"
+  father = 106010
+  1035.1.1 = {
+    birth = yes
+  }
+  1052.1.1 = {
+    add_spouse = 106019
+  }
+  1066.1.1 = {
+    employer = 106011
+  }
+  1074.11.29 = {
+    death = yes
+  }
+}
+106019 = {
+  name = "コンスタンツィア"  # Konstantzia
+  female = yes
+  dynasty = 100152
+  martial = 8
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "gluttonous"
+  trait = "brave"
+  trait = "amateurish_plotter"
+  father = 70136
+  mother = 1079
+  1036.1.1 = {
+    birth = "1036.1.1"
+  }
+  1068.1.1 = {
+    death = "1068.1.1"
+  }
+}
+106021 = {
+  name = "ラミロ"  # Ramiro
+  dynasty = 277
+  martial = 8
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "gluttonous"
+  trait = "tough_soldier"
+  father = 106018
+  mother = 106019
+  1057.1.1 = {
+    birth = "1057.1.1"
+  }
+  1098.1.1 = {
+    add_spouse = 71542
+  }
+  1116.1.1 = {
+    death = "1116.1.1"
+  }
+}
+106022 = {
+  name = "アンツォ"  # Antso
+  dynasty = 277
+  martial = 5
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "diligent"
+  trait = "bastard"
+  trait = "misguided_warrior"
+  father = 106018
+  mother = 106020
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1120.1.1 = {
+    death = "1120.1.1"
+  }
+}
+106023 = {
+  name = "メンツィア"  # Mentzia
+  female = yes
+  dynasty = 442
+  martial = 4
+  diplomacy = 4
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "bastard"
+  trait = "indulgent_wastrel"
+  father = 106010
   1030.1.1 = {
-    death = "1030.1.1"
+    birth = "1030.1.1"
+  }
+  1066.1.1 = {
+    employer = 106011
+  }
+  1073.1.1 = {
+    death = "1073.1.1"
   }
 }
-54001 = {
-  name = "Azibella"
-  dynasty = 388
-  female = yes
+106030 = {
+  name = "アンツォ"  # Antso
+  dynasty = 442
+  martial = 6
+  diplomacy = 6
+  intrigue = 8
+  stewardship = 7
   religion = "catholic"
   culture = "basque"
-  father = 7563
-  883.1.1 = {
-    birth = "883.1.1"
+  trait = "chaste"
+  trait = "humble"
+  trait = "flamboyant_schemer"
+  father = 106040
+  mother = 106041
+  992.1.1 = {
+    birth = "992.1.1"
   }
-  905.1.1 = {
-    death = "905.1.1"
+  1011.6.27 = {
+    add_spouse = 107650
+  }
+  1027.1.1 = {
+    give_nickname = nick_the_great
+  }
+  1035.10.18 = {
+    death = "1035.10.18"
+  }
+}
+106040 = {
+  name = "ガルツィア"  # Gartzia
+  dynasty = 442
+  martial = 7
+  diplomacy = 8
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "amateurish_plotter"
+  father = 70124
+  mother = 107682
+  964.1.1 = {
+    birth = "964.1.1"
+  }
+  981.1.1 = {
+    add_spouse = 106041
+  }
+  999.12.8 = {
+    death = "999.12.8"
+  }
+}
+106041 = {
+  name = "シメナ"  # Ximena
+  female = yes
+  religion = catholic
+  culture = basque
+  966.1.1 = {
+    birth = yes
+  }
+  1035.1.1 = {
+    death = yes
+  }
+}
+106042 = {
+  name = "ウルァカ"  # Urraka
+  female = yes
+  dynasty = 442
+  martial = 8
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "lustful"
+  trait = "slothful"
+  trait = "fortune_builder"
+  father = 106040
+  mother = 106041
+  993.1.1 = {
+    birth = "993.1.1"
+  }
+  1031.8.6 = {
+    death = "1031.8.6"
+  }
+}
+107520 = {
+  name = "エネコ"  # Eneko
+  dynasty = 778
+  martial = 4
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "just"
+  trait = "lisp"
+  trait = "stutter"
+  trait = "amateurish_plotter"
+  father = 107530
+  1035.1.1 = {
+    birth = "1035.1.1"
+  }
+  1058.1.1 = {
+    add_spouse = 107521
+  }
+  1077.1.1 = {
+    death = "1077.1.1"
+  }
+}
+107521 = {
+  name = "トダ"  # Toda
+  female = yes
+  religion = catholic
+  culture = basque
+  1040.1.1 = {
+    birth = yes
+  }
+  1085.1.1 = {
+    death = yes
+  }
+}
+107523 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "thrifty_clerk"
+  father = 107520
+  mother = 107521
+  1060.1.1 = {
+    birth = "1060.1.1"
+  }
+  1079.3.4 = {
+    add_spouse = 71925
+  }
+  1094.1.1 = {
+    death = "1094.1.1"
+  }
+}
+107530 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 8
+  diplomacy = 5
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "tough_soldier"
+  1000.1.1 = {
+    birth = "1000.1.1"
+  }
+  1057.1.1 = {
+    death = "1057.1.1"
+  }
+}
+107550 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 8
+  diplomacy = 8
+  intrigue = 6
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "lustful"
+  trait = "flamboyant_schemer"
+  father = 70220
+  1065.1.1 = {
+    birth = "1065.1.1"
+  }
+  1110.1.1 = {
+    death = "1110.1.1"
+  }
+}
+206500 = {
+  name = "アンツォ"  # Antso
+  dynasty = 277
+  martial = 6
+  diplomacy = 7
+  intrigue = 6
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "humble"
+  trait = "patient"
+  trait = "intricate_webweaver"
+  father = 206510
+  mother = 206509
+  1132.1.1 = {
+    birth = "1132.1.1"
+  }
+  1153.7.20 = {
+    add_spouse = 207502
+  }
+  1158.8.31 = {
+    give_nickname = nick_the_wise
+  }
+  1194.6.27 = {
+    death = "1194.6.27"
+  }
+}
+206502 = {
+  name = "アンツォ"  # Antso
+  dynasty = 277
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "diligent"
+  trait = "tough_soldier"
+  trait = "strong"
+  father = 206500
+  mother = 207502
+  1170.1.1 = {
+    birth = yes
+  }
+  1194.6.27 = {
+    give_nickname = nick_the_strong
+  }
+  1195.1.1 = {
+    add_spouse = 127003
+  }
+  1200.1.1 = {
+    remove_spouse = 127003
+  }
+  1217.1.1 = {
+    trait = "sympathy_judaism"
+    trait = "just"
+    trait = "scholar"
+  }
+  1218.1.1 = {
+    trait = gout
+  }
+  1234.4.7 = {
+    death = yes
+  }
+}
+206510 = {
+  name = "ガルツィア"  # Gartzia
+  dynasty = 277
+  martial = 6
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "craven"
+  trait = "skilled_tactician"
+  father = 106021
+  mother = 71542
+  1105.1.1 = {
+    birth = "1105.1.1"
+  }
+  1130.1.1 = {
+    add_spouse = 206509
+  }
+  1134.9.27 = {
+    give_nickname = nick_the_restorer
+    create_bloodline = {
+      type = garcia
+      has_dlc = "Holy Fury"
+    }
+  }
+  1144.6.24 = {
+    add_spouse = 207501
+  }
+  1150.11.25 = {
+    death = "1150.11.25"
+  }
+}
+206511 = {
+  name = "アンツァ"  # Antsa
+  female = yes
+  dynasty = 277
+  religion = "catholic"
+  culture = "basque"
+  father = 206510
+  mother = 207501
+  1148.1.1 = {
+    birth = "1148.1.1"
+  }
+  1176.3.7 = {
+    death = "1176.3.7"
+  }
+}
+206512 = {
+  name = "Margarita"
+  female = yes
+  dynasty = 277
+  martial = 6
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "craven"
+  trait = "underhanded_rogue"
+  father = 206510
+  mother = 206509
+  1139.1.1 = {
+    birth = "1139.1.1"
+  }
+  1182.1.1 = {
+    death = "1182.1.1"
+  }
+}
+206513 = {
+  name = "ブランカ"  # Blanka
+  female = yes
+  dynasty = 277
+  martial = 8
+  diplomacy = 6
+  intrigue = 6
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "just"
+  trait = "charismatic_negotiator"
+  father = 206510
+  mother = 206509
+  1137.1.1 = {
+    birth = yes
+  }
+  1156.8.12 = {
+    death = {
+      death_reason = death_childbirth
+    }
+  }
+}
+457582 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  father = 457581
+  mother = 457610
+  1337.1.1 = {
+    birth = "1337.1.1"
+  }
+  1348.1.1 = {
+    death = "1348.1.1"
+  }
+}
+457610 = {
+  name = "マリア"  # Maria
+  female = yes
+  dynasty = 778
+  father = 457611
+  mother = 459524
+  religion = catholic
+  culture = basque
+  1316.1.1 = {
+    birth = yes
+  }
+  1349.1.1 = {
+    death = yes
+  }
+}
+457611 = {
+  name = "ホアネス"  # Joanes
+  dynasty = 778
+  father = 457561
+  mother = 71506
+  religion = catholic
+  culture = basque
+  1293.1.1 = {
+    birth = yes
+  }
+  1315.1.1 = {
+    add_spouse = 459524
+  }
+  1326.12.2 = {
+    death = yes
+  }
+}
+475551 = {
+  name = "アナ"  # Ana
+  female = yes
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "orthodox"
+  culture = "basque"
+  trait = "flamboyant_schemer"
+  1284.1.2 = {
+    birth = "1284.1.2"
+  }
+  1334.1.2 = {
+    death = "1334.1.2"
   }
 }
 70005 = {
@@ -99,21 +711,6 @@
     birth = yes
   }
   780.1.1 = {
-    death = yes
-  }
-}
-70033 = {
-  name = "オネカ"  # Oneka
-  female = yes
-  dynasty = 8779
-  father = 73034
-  mother = 73044
-  religion = catholic
-  culture = basque
-  1042.1.1 = {
-    birth = yes
-  }
-  1082.1.1 = {
     death = yes
   }
 }
@@ -260,56 +857,6 @@
   }
   1125.1.1 = {
     death = "1125.1.1"
-  }
-}
-70076 = {
-  name = "ヌーノ"  # Nuño
-  dynasty = 7000
-  father = 108570
-  trait = bastard
-  religion = catholic
-  culture = basque
-  1025.1.1 = {
-    birth = yes
-  }
-  1046.1.1 = {
-    add_spouse = 70077
-  }
-  1066.1.1 = {
-    employer = 108500
-  }
-  1075.1.1 = {
-    death = yes
-  }
-}
-70078 = {
-  name = "シメナ"  # Ximena
-  female = yes
-  dynasty = 7000
-  father = 70076
-  mother = 70077
-  religion = catholic
-  culture = basque
-  1048.1.1 = {
-    birth = yes
-  }
-  1098.1.1 = {
-    death = yes
-  }
-}
-70079 = {
-  name = "テレサ"  # Teresa
-  female = yes
-  dynasty = 7000
-  father = 70076
-  mother = 70077
-  religion = catholic
-  culture = basque
-  1050.1.1 = {
-    birth = yes
-  }
-  1100.1.1 = {
-    death = yes
   }
 }
 70120 = {
@@ -657,40 +1204,6 @@
     death = "1129.4.19"
   }
 }
-70136 = {
-  name = "アンツォ"  # Antso
-  dynasty = 100152
-  martial = 5
-  diplomacy = 4
-  intrigue = 6
-  stewardship = 3
-  religion = "catholic"
-  culture = "basque"
-  trait = "impaler"
-  trait = "slothful"
-  trait = "indulgent_wastrel"
-  1010.1.1 = {
-    birth = "1010.1.1"
-  }
-  1030.1.1 = {
-    add_spouse = 1079
-  }
-  1036.1.1 = {
-    death = "1036.1.1"
-  }
-}
-70211 = {
-  name = "シメナ"  # Ximena
-  female = yes
-  religion = catholic
-  culture = basque
-  1040.1.1 = {
-    birth = yes
-  }
-  1090.1.1 = {
-    death = yes
-  }
-}
 70220 = {
   name = "アンツォ"  # Antso
   dynasty = 778
@@ -907,157 +1420,6 @@
   }
   1070.1.1 = {
     death = "1070.1.1"
-  }
-}
-70269 = {
-  name = "エルァムン"  # Erramun
-  dynasty = 10024
-  religion = catholic
-  culture = basque
-  father = 70271
-  mother = 70273
-  921.1.1 = {
-    birth = yes
-  }
-  943.1.1 = {
-    add_spouse = 54000
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-70271 = {
-  name = "ベルナルト"  # Bernart
-  dynasty = 10024
-  father = 70272
-  religion = catholic
-  culture = basque
-  905.1.1 = {
-    birth = yes
-  }
-  921.1.1 = {
-    add_spouse = 70273
-  }
-  956.1.1 = {
-    death = yes
-  }
-}
-70272 = {
-  name = "エルァムン"  # Erramun
-  dynasty = 10024
-  religion = catholic
-  culture = basque
-  886.1.1 = {
-    birth = yes
-  }
-  936.1.1 = {
-    death = yes
-  }
-}
-70273 = {
-  name = "トダ"  # Toda
-  female = yes
-  dynasty = 788
-  martial = 5
-  diplomacy = 9
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "charitable"
-  trait = "just"
-  trait = "flamboyant_schemer"
-  father = 70274
-  mother = 54001
-  905.1.1 = {
-    birth = "905.1.1"
-  }
-  958.1.1 = {
-    death = "958.1.1"
-  }
-}
-70274 = {
-  name = "ガリンド"  # Galindo
-  dynasty = 788
-  martial = 4
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "ambitious"
-  trait = "diligent"
-  trait = "intricate_webweaver"
-  father = 70276
-  mother = 70299
-  865.1.1 = {
-    birth = "865.1.1"
-  }
-  900.1.1 = {
-    add_spouse = 54001
-  }
-  905.1.1 = {
-    add_spouse = 73770
-  }
-  922.1.1 = {
-    death = "922.1.1"
-  }
-}
-70275 = {
-  name = "アンドレゴト"  # Andregoto
-  female = yes
-  dynasty = 788
-  father = 70274
-  religion = catholic
-  culture = basque
-  917.1.1 = {
-    birth = yes
-  }
-  972.1.1 = {
-    death = yes
-  }
-}
-70276 = {
-  name = "アズナル"  # Aznar
-  dynasty = 788
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "wroth"
-  trait = "brave"
-  trait = "misguided_warrior"
-  father = 70277
-  838.1.1 = {
-    birth = "838.1.1"
-  }
-  863.1.1 = {
-    add_spouse = 70299
-  }
-  893.1.1 = {
-    death = "893.1.1"
-  }
-}
-70277 = {
-  name = "ガリンド"  # Galindo
-  dynasty = 788
-  martial = 4
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "craven"
-  trait = "content"
-  trait = "indulgent_wastrel"
-  father = 70300
-  807.1.1 = {
-    birth = "807.1.1"
-  }
-  867.1.1 = {
-    death = "867.1.1"
   }
 }
 70290 = {
@@ -1280,121 +1642,6 @@
     death = "912.6.1"
   }
 }
-70300 = {
-  name = "アズナル"  # Aznar
-  dynasty = 788
-  martial = 5
-  diplomacy = 6
-  intrigue = 3
-  stewardship = 6
-  religion = "catholic"
-  culture = "basque"
-  trait = "poet"
-  trait = "charitable"
-  trait = "tough_soldier"
-  father = 168106
-  785.1.1 = {
-    birth = "785.1.1"
-  }
-  839.1.1 = {
-    death = "839.1.1"
-  }
-}
-70301 = {
-  name = "Matrona"
-  female = yes
-  dynasty = 788
-  martial = 4
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "mystic"
-  trait = "depressed"
-  trait = "indulgent_wastrel"
-  father = 70300
-  802.1.1 = {
-    birth = "802.1.1"
-  }
-  870.1.1 = {
-    death = "870.1.1"
-  }
-}
-70302 = {
-  name = "ガルツィア"  # Gartzia
-  dynasty = 12285
-  father = 200193
-  religion = catholic
-  culture = basque
-  785.1.1 = {
-    birth = yes
-  }
-  818.1.1 = {
-    add_spouse = 70301
-  }
-  820.1.1 = {
-    remove_spouse = 70301
-  }
-  825.1.1 = {
-    add_spouse = 73777
-  }
-  833.1.1 = {
-    death = yes
-  }
-}
-70303 = {
-  name = "ガリンド"  # Galindo
-  dynasty = 12285
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "kind"
-  trait = "ill"
-  trait = "misguided_warrior"
-  father = 70302
-  mother = 70301
-  819.1.1 = {
-    birth = "819.1.1"
-  }
-  844.1.1 = {
-    death = "844.1.1"
-  }
-}
-71333 = {
-  name = "ペラヨ"  # Pelaio
-  dynasty = 8741
-  father = 200095
-  religion = catholic
-  culture = basque
-  1045.1.1 = {
-    birth = yes
-  }
-  1067.1.1 = {
-    add_spouse = 70049
-  }
-  1100.1.1 = {
-    death = yes
-  }
-}
-71334 = {
-  name = "Fronilde"
-  dynasty = 8741
-  female = yes
-  religion = "catholic"
-  culture = "basque"
-  father = 71333
-  mother = 70049
-  1070.1.1 = {
-    birth = "1070.1.1"
-  }
-  1128.1.1 = {
-    death = "1128.1.1"
-  }
-}
 71335 = {
   name = "ピアルェス"  # Piarres
   dynasty = 8742
@@ -1439,21 +1686,6 @@
     death = "1153.1.1"
   }
 }
-71338 = {
-  name = "シメナ"  # Ximena
-  dynasty = 8741
-  female = yes
-  religion = "catholic"
-  culture = "basque"
-  father = 71333
-  mother = 70049
-  1072.1.1 = {
-    birth = "1072.1.1"
-  }
-  1130.1.1 = {
-    death = "1130.1.1"
-  }
-}
 71340 = {
   name = "エギディオ"  # Egidio
   dynasty = 8614
@@ -1466,20 +1698,6 @@
   }
   1128.1.1 = {
     death = "1128.1.1"
-  }
-}
-71341 = {
-  name = "ラミロ"  # Ramiro
-  dynasty = 8614
-  religion = "catholic"
-  culture = "basque"
-  father = 70073
-  trait = "bastard"
-  1075.1.1 = {
-    birth = "1075.1.1"
-  }
-  1136.1.1 = {
-    death = "1136.1.1"
   }
 }
 71343 = {
@@ -1655,22 +1873,6 @@
   }
   1122.1.1 = {
     death = "1122.1.1"
-  }
-}
-71384 = {
-  name = "ディエゴ"  # Diego
-  dynasty = 101909
-  religion = "catholic"
-  culture = "basque"
-  father = 72051
-  1138.1.1 = {
-    birth = "1138.1.1"
-  }
-  1162.1.1 = {
-    add_spouse = 71383
-  }
-  1188.1.1 = {
-    death = "1188.1.1"
   }
 }
 71411 = {
@@ -1902,20 +2104,6 @@
     death = "1065.1.1"
   }
 }
-71543 = {
-  name = "フェルナンド"  # Fernando
-  dynasty = 442
-  religion = "catholic"
-  culture = "basque"
-  father = 106000
-  trait = "bastard"
-  1062.1.1 = {
-    birth = "1062.1.1"
-  }
-  1115.1.1 = {
-    death = "1115.1.1"
-  }
-}
 71551 = {
   name = "ラドロン"  # Ladron
   dynasty = 8779
@@ -2067,18 +2255,6 @@
     birth = yes
   }
   1311.1.1 = {
-    death = yes
-  }
-}
-71580 = {
-  name = "Beatritz"
-  female = yes
-  religion = catholic
-  culture = basque
-  1044.1.1 = {
-    birth = yes
-  }
-  1069.1.1 = {
     death = yes
   }
 }
@@ -2378,32 +2554,6 @@
   }
   1179.1.1 = {
     death = "1179.1.1"
-  }
-}
-71938 = {
-  name = "メンツィア"  # Mentzia
-  female = yes
-  religion = catholic
-  culture = basque
-  1129.1.1 = {
-    birth = yes
-  }
-  1150.1.1 = {
-    death = yes
-  }
-}
-71947 = {
-  name = "Armengol"
-  dynasty = 778
-  father = 207561
-  mother = 210575
-  religion = catholic
-  culture = basque
-  1174.1.1 = {
-    birth = yes
-  }
-  1217.1.1 = {
-    death = yes
   }
 }
 71948 = {
@@ -3850,6 +4000,177 @@
     death = "1216.1.16"
   }
 }
+207560 = {
+  name = "ディエゴ"  # Diego
+  dynasty = 778
+  martial = 6
+  diplomacy = 6
+  intrigue = 4
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "just"
+  trait = "zealous"
+  trait = "wroth"
+  father = 207570
+  mother = 207571
+  1152.1.1 = {
+    birth = "1152.1.1"
+  }
+  1190.1.1 = {
+    add_spouse = 207657
+  }
+  1192.1.1 = {
+    remove_spouse = 207657
+  }
+  1193.1.1 = {
+    add_spouse = 72050
+  }
+  1214.9.16 = {
+    death = "1214.9.16"
+  }
+}
+207561 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 7
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "envious"
+  father = 207570
+  mother = 207571
+  1153.1.1 = {
+    birth = "1153.1.1"
+  }
+  1172.1.1 = {
+    add_spouse = 210575
+  }
+  1178.1.1 = {
+    death = "1178.1.1"
+  }
+}
+207562 = {
+  name = "ウルァカ"  # Urraka
+  female = yes
+  dynasty = 778
+  martial = 8
+  diplomacy = 5
+  intrigue = 7
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "cynical"
+  father = 207570
+  mother = 207571
+  1159.1.1 = {
+    birth = "1159.1.1"
+  }
+  1223.1.1 = {
+    death = "1223.1.1"
+  }
+}
+207600 = {
+  name = "ディエゴ"  # Diego
+  dynasty = 778
+  martial = 4
+  diplomacy = 6
+  intrigue = 7
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "cynical"
+  trait = "tough_soldier"
+  father = 107523
+  mother = 71925
+  1080.1.1 = {
+    birth = "1080.1.1"
+  }
+  1116.1.1 = {
+    add_spouse = 207610
+  }
+  1126.3.1 = {
+    death = "1126.3.1"
+  }
+}
+207610 = {
+  name = "マリア"  # Maria
+  female = yes
+  martial = 5
+  diplomacy = 7
+  intrigue = 8
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  1095.1.1 = {
+    birth = "1095.1.1"
+  }
+  1147.1.1 = {
+    death = "1147.1.1"
+  }
+}
+71384 = {
+  name = "ディエゴ"  # Diego
+  dynasty = 101909
+  religion = "catholic"
+  culture = "basque"
+  father = 72051
+  1138.1.1 = {
+    birth = "1138.1.1"
+  }
+  1162.1.1 = {
+    add_spouse = 71383
+  }
+  1188.1.1 = {
+    death = "1188.1.1"
+  }
+}
+207563 = {
+  name = "メンツィア"  # Mentzia
+  female = yes
+  dynasty = 778
+  martial = 6
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  father = 207570
+  mother = 207571
+  1158.1.1 = {
+    birth = "1158.1.1"
+  }
+  1210.1.1 = {
+    death = "1210.1.1"
+  }
+}
+207570 = {
+  name = "ロペ"  # Lope
+  dynasty = 778
+  martial = 7
+  diplomacy = 7
+  intrigue = 4
+  stewardship = 4
+  religion = "catholic"
+  culture = "basque"
+  trait = "skilled_tactician"
+  father = 207600
+  mother = 207610
+  1120.1.2 = {
+    birth = "1120.1.2"
+  }
+  1145.1.1 = {
+    add_spouse = 71938
+  }
+  1151.1.1 = {
+    add_spouse = 207571
+  }
+  1170.5.6 = {
+    death = "1170.5.6"
+  }
+}
 72051 = {
   name = "ロペ"  # Lope
   dynasty = 101909
@@ -3872,18 +4193,6 @@
   }
   1303.1.1 = {
     death = "1303.1.1"
-  }
-}
-72487 = {
-  name = "テレサ"  # Teresa
-  female = yes
-  religion = catholic
-  culture = basque
-  1253.1.1 = {
-    birth = yes
-  }
-  1313.1.1 = {
-    death = yes
   }
 }
 72650 = {
@@ -3999,6 +4308,225 @@
     death = "1201.1.1"
   }
 }
+70136 = {
+  name = "アンツォ"  # Antso
+  dynasty = 100152
+  martial = 5
+  diplomacy = 4
+  intrigue = 6
+  stewardship = 3
+  religion = "catholic"
+  culture = "basque"
+  trait = "impaler"
+  trait = "slothful"
+  trait = "indulgent_wastrel"
+  1010.1.1 = {
+    birth = "1010.1.1"
+  }
+  1030.1.1 = {
+    add_spouse = 1079
+  }
+  1036.1.1 = {
+    death = "1036.1.1"
+  }
+}
+71333 = {
+  name = "ペラヨ"  # Pelaio
+  dynasty = 8741
+  father = 200095
+  religion = catholic
+  culture = basque
+  1045.1.1 = {
+    birth = yes
+  }
+  1067.1.1 = {
+    add_spouse = 70049
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+71334 = {
+  name = "Fronilde"
+  dynasty = 8741
+  female = yes
+  religion = "catholic"
+  culture = "basque"
+  father = 71333
+  mother = 70049
+  1070.1.1 = {
+    birth = "1070.1.1"
+  }
+  1128.1.1 = {
+    death = "1128.1.1"
+  }
+}
+71338 = {
+  name = "シメナ"  # Ximena
+  dynasty = 8741
+  female = yes
+  religion = "catholic"
+  culture = "basque"
+  father = 71333
+  mother = 70049
+  1072.1.1 = {
+    birth = "1072.1.1"
+  }
+  1130.1.1 = {
+    death = "1130.1.1"
+  }
+}
+71341 = {
+  name = "ラミロ"  # Ramiro
+  dynasty = 8614
+  religion = "catholic"
+  culture = "basque"
+  father = 70073
+  trait = "bastard"
+  1075.1.1 = {
+    birth = "1075.1.1"
+  }
+  1136.1.1 = {
+    death = "1136.1.1"
+  }
+}
+107681 = {
+  name = "アンツァ"  # Antsa
+  female = yes
+  dynasty = 442
+  martial = 8
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "temperate"
+  trait = "thrifty_clerk"
+  father = 70122
+  915.1.1 = {
+    birth = "915.1.1"
+  }
+  952.6.9 = {
+    death = "952.6.9"
+  }
+}
+107683 = {
+  name = "ウルァカ"  # Urraka
+  female = yes
+  dynasty = 442
+  father = 70123
+  religion = catholic
+  culture = basque
+  936.1.1 = {
+    birth = yes
+  }
+  1009.4.3 = {
+    death = yes
+  }
+}
+206501 = {
+  name = "ベレンガリア"  # Berengaria
+  female = yes
+  dynasty = 277
+  martial = 7
+  diplomacy = 5
+  intrigue = 4
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "brave"
+  trait = "underhanded_rogue"
+  father = 206500
+  mother = 207502
+  1165.1.1 = {
+    birth = "1165.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
+206503 = {
+  name = "ブランカ"  # Blanka
+  female = yes
+  dynasty = 277
+  martial = 6
+  diplomacy = 5
+  intrigue = 8
+  stewardship = 7
+  religion = "catholic"
+  culture = "basque"
+  trait = "naive_appeaser"
+  father = 206500
+  mother = 207502
+  1175.1.1 = {
+    birth = "1175.1.1"
+  }
+  1229.3.14 = {
+    death = "1229.3.14"
+  }
+}
+206504 = {
+  name = "フェルナンド"  # Fernando
+  dynasty = 277
+  martial = 6
+  diplomacy = 4
+  intrigue = 8
+  stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "wroth"
+  trait = "tough_soldier"
+  father = 206500
+  mother = 207502
+  1177.1.1 = {
+    birth = "1177.1.1"
+  }
+  1207.12.16 = {
+    death = "1207.12.16"
+  }
+}
+206506 = {
+  name = "コンスタンツィア"  # Konstantzia
+  female = yes
+  dynasty = 277
+  martial = 6
+  diplomacy = 4
+  intrigue = 5
+  stewardship = 8
+  religion = "catholic"
+  culture = "basque"
+  trait = "lustful"
+  trait = "cynical"
+  trait = "thrifty_clerk"
+  father = 206500
+  mother = 207502
+  1176.1.1 = {
+    birth = "1176.1.1"
+  }
+  1230.1.1 = {
+    death = "1230.1.1"
+  }
+}
+42023 = {
+  name = "ゴンツァル"  # Gontzal
+  dynasty = 442
+  martial = 4
+  diplomacy = 6
+  intrigue = 5
+  stewardship = 3
+  religion = "catholic"
+  culture = "basque"
+  trait = "wroth"
+  trait = "naive_appeaser"
+  father = 106030
+  mother = 107650
+  1020.1.1 = {
+    birth = "1020.1.1"
+  }
+  1045.6.26 = {
+    death = "1045.6.26"
+  }
+}
 73150 = {
   name = "ガルツィア"  # Gartzia
   religion = catholic
@@ -4050,38 +4578,6 @@
   }
   912.6.1 = {
     death = "912.6.1"
-  }
-}
-73774 = {
-  name = "ガリンド"  # Galindo
-  dynasty = 12315
-  father = 70291
-  religion = catholic
-  culture = basque
-  812.1.1 = {
-    birth = yes
-  }
-  840.1.1 = {
-    religion = sunni
-  }
-  843.1.1 = {
-    death = yes
-  }
-}
-73775 = {
-  name = "Muza"
-  dynasty = 12315
-  father = 73774
-  religion = sunni
-  culture = basque
-  843.1.1 = {
-    birth = yes
-  }
-  862.9.26 = {
-    employer = 73800
-  }
-  871.8.4 = {
-    death = yes
   }
 }
 73776 = {
@@ -4197,57 +4693,6 @@
     death = "910.1.1"
   }
 }
-73808 = {
-  name = "Kasio"
-  dynasty = 12293
-  religion = catholic
-  culture = basque
-  670.1.1 = {
-    birth = yes
-  }
-  714.1.1 = {
-    religion = sunni
-  }
-  723.1.1 = {
-    death = yes
-  }
-}
-73809 = {
-  name = "フォルトゥン"  # Fortun
-  dynasty = 12293
-  father = 73808
-  religion = sunni
-  culture = basque
-  710.1.1 = {
-    birth = yes
-  }
-  731.1.1 = {
-    add_spouse = 200202
-  }
-  768.1.1 = {
-    death = yes
-  }
-}
-73810 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73809
-  mother = 200202
-  religion = sunni
-  culture = basque
-  745.1.1 = {
-    birth = yes
-  }
-  768.1.1 = {
-    add_spouse = 200204
-  }
-  797.1.1 = {
-    add_spouse = 73811
-  }
-  802.12.1 = {
-    death = yes
-  }
-}
 73811 = {
   name = "オネカ"  # Oneka
   female = yes
@@ -4257,302 +4702,6 @@
     birth = yes
   }
   833.1.1 = {
-    death = yes
-  }
-}
-73812 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73810
-  mother = 73811
-  religion = sunni
-  culture = basque
-  800.1.1 = {
-    birth = yes
-  }
-  830.1.1 = {
-    add_spouse = 73776
-  }
-  862.9.26 = {
-    death = yes
-  }
-}
-73813 = {
-  name = "ロペ"  # Lope
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  831.1.1 = {
-    birth = yes
-  }
-  860.1.1 = {
-    add_spouse = 73814
-  }
-  875.4.27 = {
-    death = yes
-  }
-}
-73815 = {
-  name = "Mohamed"
-  dynasty = 12293
-  father = 73813
-  mother = 73814
-  religion = sunni
-  culture = basque
-  862.1.1 = {
-    birth = yes
-  }
-  898.10.2 = {
-    death = yes
-  }
-}
-73816 = {
-  name = "イーサー"  # Isa
-  dynasty = 12293
-  father = 73813
-  mother = 73814
-  religion = sunni
-  culture = basque
-  864.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-73817 = {
-  name = "Motarrif"
-  dynasty = 12293
-  father = 73813
-  mother = 73814
-  religion = sunni
-  culture = basque
-  866.1.1 = {
-    birth = yes
-  }
-  922.1.1 = {
-    death = yes
-  }
-}
-73818 = {
-  name = "イスマーイール"  # Ismail
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  833.1.1 = {
-    birth = yes
-  }
-  889.5.6 = {
-    add_spouse = 73819
-  }
-  889.10.10 = {
-    death = yes
-  }
-}
-73820 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73818
-  religion = sunni
-  culture = basque
-  858.1.1 = {
-    birth = yes
-  }
-  889.5.6 = {
-    death = yes
-  }
-}
-73821 = {
-  name = "Motarrif"
-  dynasty = 12293
-  father = 73818
-  religion = sunni
-  culture = basque
-  861.1.1 = {
-    birth = yes
-  }
-  891.1.1 = {
-    death = yes
-  }
-}
-73822 = {
-  name = "Saad"
-  dynasty = 12293
-  father = 73818
-  religion = sunni
-  culture = basque
-  863.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = "920.1.1"
-  }
-}
-73823 = {
-  name = "Mohamed"
-  dynasty = 12293
-  father = 73818
-  mother = 73819
-  religion = sunni
-  culture = basque
-  890.1.1 = {
-    birth = yes
-  }
-  907.1.1 = {
-    death = yes
-  }
-}
-73824 = {
-  name = "Motarrif"
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  835.1.1 = {
-    birth = yes
-  }
-  870.1.1 = {
-    add_spouse = 73778
-  }
-  906.1.1 = {
-    death = yes
-  }
-}
-73825 = {
-  name = "Mohamed"
-  dynasty = 12293
-  father = 73824
-  religion = sunni
-  culture = basque
-  860.1.1 = {
-    birth = yes
-  }
-  873.9.5 = {
-    death = yes
-  }
-}
-73826 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73824
-  religion = sunni
-  culture = basque
-  862.1.1 = {
-    birth = yes
-  }
-  873.9.5 = {
-    death = yes
-  }
-}
-73827 = {
-  name = "ロペ"  # Lope
-  dynasty = 12293
-  father = 73824
-  religion = sunni
-  culture = basque
-  864.1.1 = {
-    birth = yes
-  }
-  873.9.5 = {
-    death = yes
-  }
-}
-73828 = {
-  name = "Abdala"
-  dynasty = 12293
-  father = 73824
-  religion = sunni
-  culture = basque
-  866.1.1 = {
-    birth = yes
-  }
-  930.1.1 = {
-    death = yes
-  }
-}
-73829 = {
-  name = "フォルトゥン"  # Fortun
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  840.1.1 = {
-    birth = yes
-  }
-  874.3.23 = {
-    death = yes
-  }
-}
-73830 = {
-  name = "イスマーイール"  # Ismail
-  dynasty = 12293
-  father = 73829
-  religion = sunni
-  culture = basque
-  862.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-73831 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73829
-  religion = sunni
-  culture = basque
-  863.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-73832 = {
-  name = "Mohamed"
-  dynasty = 12293
-  father = 73829
-  religion = sunni
-  culture = basque
-  865.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-73833 = {
-  name = "ロペ"  # Lope
-  dynasty = 12293
-  father = 73829
-  religion = sunni
-  culture = basque
-  866.1.1 = {
-    birth = yes
-  }
-  882.1.1 = {
-    death = yes
-  }
-}
-73834 = {
-  name = "Awriya"
-  female = yes
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  842.1.1 = {
-    birth = yes
-  }
-  907.1.1 = {
     death = yes
   }
 }
@@ -4570,617 +4719,263 @@
     death = "859.1.1"
   }
 }
-73836 = {
-  name = "Muza"
-  dynasty = 12293
-  father = 73835
-  mother = 73834
-  religion = sunni
-  culture = basque
-  859.1.1 = {
-    birth = yes
-  }
-  915.1.1 = {
-    death = yes
-  }
-}
-73837 = {
-  name = "ムニア"  # Munia
+70273 = {
+  name = "トダ"  # Toda
   female = yes
-  dynasty = 12293
-  father = 73812
-  mother = 73776
-  religion = sunni
-  culture = basque
-  840.1.1 = {
-    birth = yes
-  }
-  903.1.1 = {
-    death = yes
-  }
-}
-73896 = {
-  name = "ベルムド"  # Bermudo
-  dynasty = 8779
-  father = 200163
-  religion = catholic
-  culture = basque
-  908.1.1 = {
-    birth = yes
-  }
-  955.8.1 = {
-    death = yes
-  }
-}
-73897 = {
-  name = "ヴェラ"  # Vela
-  dynasty = 8779
-  father = 200163
-  religion = catholic
-  culture = basque
-  900.1.1 = {
-    birth = yes
-  }
-  950.5.25 = {
-    death = yes
-  }
-}
-73898 = {
-  name = "ヴェラ"  # Vela
-  dynasty = 8779
-  father = 73896
-  religion = catholic
-  culture = basque
-  931.1.1 = {
-    birth = yes
-  }
-  976.3.27 = {
-    death = yes
-  }
-}
-106000 = {
-  name = "アンツォ"  # Antso
-  dynasty = 442
+  dynasty = 788
   martial = 5
-  diplomacy = 4
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "amateurish_plotter"
-  father = 106010
-  mother = 1079
-  1039.1.1 = {
-    birth = "1039.1.1"
-  }
-  1068.1.1 = {
-    add_spouse = 71535
-  }
-  1076.6.4 = {
-    death = "1076.6.4"
-  }
-}
-106010 = {
-  name = "ガルツィア"  # Gartzia
-  dynasty = 442
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "diligent"
-  trait = "zealous"
-  trait = "skilled_tactician"
-  father = 106030
-  mother = 107650
-  1013.1.1 = {
-    birth = "1013.1.1"
-  }
-  1038.1.1 = {
-    add_spouse = 1079
-  }
-  1054.9.1 = {
-    death = "1054.9.1"
-  }
-}
-106011 = {
-  name = "ラミロ"  # Ramiro
-  dynasty = 442
-  martial = 7
-  diplomacy = 8
-  intrigue = 4
-  stewardship = 6
-  religion = "catholic"
-  culture = "basque"
-  trait = "flamboyant_schemer"
-  father = 106010
-  mother = 1079
-  1042.1.1 = {
-    birth = "1042.1.1"
-  }
-  1083.1.6 = {
-    death = "1083.1.6"
-  }
-}
-106012 = {
-  name = "フェルナンド"  # Fernando
-  dynasty = 442
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "zealous"
-  trait = "stutter"
-  trait = "lisp"
-  trait = "underhanded_rogue"
-  father = 106010
-  mother = 1079
-  1043.1.1 = {
-    birth = "1043.1.1"
-  }
-  1066.1.1 = {
-    employer = 106000
-  }
-  1068.1.1 = {
-    death = "1068.1.1"
-  }
-}
-106013 = {
-  name = "エルァムン"  # Erramun
-  dynasty = 442
-  martial = 5
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "chaste"
-  trait = "cynical"
-  trait = "flamboyant_schemer"
-  father = 106010
-  mother = 1079
-  1044.1.1 = {
-    birth = "1044.1.1"
-  }
-  1066.1.1 = {
-    employer = 106000
-  }
-  1079.1.1 = {
-    death = "1079.1.1"
-  }
-}
-106014 = {
-  name = "Ermesinda"
-  female = yes
-  dynasty = 442
-  martial = 7
-  diplomacy = 8
-  intrigue = 5
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "flamboyant_schemer"
-  father = 106010
-  mother = 1079
-  1041.1.1 = {
-    birth = "1041.1.1"
-  }
-  1066.1.1 = {
-    employer = 106000
-  }
-  1110.7.1 = {
-    death = "1110.7.1"
-  }
-}
-106015 = {
-  name = "マイオル"  # Maior
-  female = yes
-  dynasty = 442
-  martial = 6
-  diplomacy = 4
+  diplomacy = 9
   intrigue = 6
   stewardship = 4
   religion = "catholic"
   culture = "basque"
-  trait = "diligent"
-  trait = "patient"
+  trait = "charitable"
+  trait = "just"
   trait = "flamboyant_schemer"
-  father = 106010
-  mother = 1079
-  1046.1.1 = {
-    birth = "1046.1.1"
+  father = 70274
+  mother = 54001
+  905.1.1 = {
+    birth = "905.1.1"
   }
-  1115.1.1 = {
-    death = "1115.1.1"
+  958.1.1 = {
+    death = "958.1.1"
   }
 }
-106016 = {
-  name = "ウルァカ"  # Urraka
-  female = yes
-  dynasty = 442
-  martial = 5
+70274 = {
+  name = "ガリンド"  # Galindo
+  dynasty = 788
+  martial = 4
   diplomacy = 6
   intrigue = 8
   stewardship = 5
+  religion = "catholic"
+  culture = "basque"
+  trait = "ambitious"
+  trait = "diligent"
+  trait = "intricate_webweaver"
+  father = 70276
+  mother = 70299
+  865.1.1 = {
+    birth = "865.1.1"
+  }
+  900.1.1 = {
+    add_spouse = 54001
+  }
+  905.1.1 = {
+    add_spouse = 73770
+  }
+  922.1.1 = {
+    death = "922.1.1"
+  }
+}
+70275 = {
+  name = "アンドレゴト"  # Andregoto
+  female = yes
+  dynasty = 788
+  father = 70274
+  religion = catholic
+  culture = basque
+  917.1.1 = {
+    birth = yes
+  }
+  972.1.1 = {
+    death = yes
+  }
+}
+70276 = {
+  name = "アズナル"  # Aznar
+  dynasty = 788
+  martial = 4
+  diplomacy = 4
+  intrigue = 4
+  stewardship = 4
   religion = "catholic"
   culture = "basque"
   trait = "wroth"
-  trait = "charismatic_negotiator"
-  father = 106010
-  mother = 1079
-  1040.1.1 = {
-    birth = "1040.1.1"
-  }
-  1066.1.1 = {
-    employer = 106000
-  }
-  1095.2.1 = {
-    death = "1095.2.1"
-  }
-}
-106017 = {
-  name = "シメナ"  # Ximena
-  female = yes
-  dynasty = 442
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "lustful"
-  trait = "gluttonous"
-  trait = "detached_priest"
-  father = 106010
-  mother = 1079
-  1045.1.1 = {
-    birth = "1045.1.1"
-  }
-  1066.1.1 = {
-    employer = 106000
-  }
-  1085.5.27 = {
-    death = "1085.5.27"
-  }
-}
-106018 = {
-  name = "アンツォ"  # Antso
-  dynasty = 277
-  religion = "catholic"
-  culture = "basque"
-  trait = "lustful"
-  trait = "bastard"
-  trait = "flamboyant_schemer"
-  father = 106010
-  1035.1.1 = {
-    birth = yes
-  }
-  1052.1.1 = {
-    add_spouse = 106019
-  }
-  1066.1.1 = {
-    employer = 106011
-  }
-  1074.11.29 = {
-    death = yes
-  }
-}
-106019 = {
-  name = "コンスタンツィア"  # Konstantzia
-  female = yes
-  dynasty = 100152
-  martial = 8
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "gluttonous"
   trait = "brave"
-  trait = "amateurish_plotter"
-  father = 70136
-  mother = 1079
-  1036.1.1 = {
-    birth = "1036.1.1"
+  trait = "misguided_warrior"
+  father = 70277
+  838.1.1 = {
+    birth = "838.1.1"
   }
-  1068.1.1 = {
-    death = "1068.1.1"
+  863.1.1 = {
+    add_spouse = 70299
   }
-}
-106021 = {
-  name = "ラミロ"  # Ramiro
-  dynasty = 277
-  martial = 8
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "gluttonous"
-  trait = "tough_soldier"
-  father = 106018
-  mother = 106019
-  1057.1.1 = {
-    birth = "1057.1.1"
-  }
-  1098.1.1 = {
-    add_spouse = 71542
-  }
-  1116.1.1 = {
-    death = "1116.1.1"
+  893.1.1 = {
+    death = "893.1.1"
   }
 }
-106022 = {
-  name = "アンツォ"  # Antso
-  dynasty = 277
-  martial = 5
+70277 = {
+  name = "ガリンド"  # Galindo
+  dynasty = 788
+  martial = 4
   diplomacy = 4
   intrigue = 4
   stewardship = 4
   religion = "catholic"
   culture = "basque"
-  trait = "diligent"
-  trait = "bastard"
-  trait = "misguided_warrior"
-  father = 106018
-  mother = 106020
-  1070.1.1 = {
-    birth = "1070.1.1"
+  trait = "craven"
+  trait = "content"
+  trait = "indulgent_wastrel"
+  father = 70300
+  807.1.1 = {
+    birth = "807.1.1"
   }
-  1120.1.1 = {
-    death = "1120.1.1"
+  867.1.1 = {
+    death = "867.1.1"
   }
 }
-106023 = {
-  name = "メンツィア"  # Mentzia
+70300 = {
+  name = "アズナル"  # Aznar
+  dynasty = 788
+  martial = 5
+  diplomacy = 6
+  intrigue = 3
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "poet"
+  trait = "charitable"
+  trait = "tough_soldier"
+  father = 168106
+  785.1.1 = {
+    birth = "785.1.1"
+  }
+  839.1.1 = {
+    death = "839.1.1"
+  }
+}
+70301 = {
+  name = "Matrona"
   female = yes
-  dynasty = 442
+  dynasty = 788
   martial = 4
-  diplomacy = 4
-  intrigue = 7
+  diplomacy = 7
+  intrigue = 4
   stewardship = 5
   religion = "catholic"
   culture = "basque"
-  trait = "bastard"
+  trait = "mystic"
+  trait = "depressed"
   trait = "indulgent_wastrel"
-  father = 106010
-  1030.1.1 = {
-    birth = "1030.1.1"
+  father = 70300
+  802.1.1 = {
+    birth = "802.1.1"
   }
-  1066.1.1 = {
-    employer = 106011
-  }
-  1073.1.1 = {
-    death = "1073.1.1"
+  870.1.1 = {
+    death = "870.1.1"
   }
 }
-106030 = {
-  name = "アンツォ"  # Antso
-  dynasty = 442
-  martial = 6
-  diplomacy = 6
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "chaste"
-  trait = "humble"
-  trait = "flamboyant_schemer"
-  father = 106040
-  mother = 106041
-  992.1.1 = {
-    birth = "992.1.1"
-  }
-  1011.6.27 = {
-    add_spouse = 107650
-  }
-  1027.1.1 = {
-    give_nickname = nick_the_great
-  }
-  1035.10.18 = {
-    death = "1035.10.18"
-  }
-}
-106040 = {
+70302 = {
   name = "ガルツィア"  # Gartzia
-  dynasty = 442
-  martial = 7
-  diplomacy = 8
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "amateurish_plotter"
-  father = 70124
-  mother = 107682
-  964.1.1 = {
-    birth = "964.1.1"
-  }
-  981.1.1 = {
-    add_spouse = 106041
-  }
-  999.12.8 = {
-    death = "999.12.8"
-  }
-}
-106041 = {
-  name = "シメナ"  # Ximena
-  female = yes
+  dynasty = 12285
+  father = 200193
   religion = catholic
   culture = basque
-  966.1.1 = {
+  785.1.1 = {
     birth = yes
   }
-  1035.1.1 = {
+  818.1.1 = {
+    add_spouse = 70301
+  }
+  820.1.1 = {
+    remove_spouse = 70301
+  }
+  825.1.1 = {
+    add_spouse = 73777
+  }
+  833.1.1 = {
     death = yes
   }
 }
-106042 = {
-  name = "ウルァカ"  # Urraka
-  female = yes
-  dynasty = 442
-  martial = 8
+70303 = {
+  name = "ガリンド"  # Galindo
+  dynasty = 12285
+  martial = 6
   diplomacy = 5
-  intrigue = 7
+  intrigue = 4
   stewardship = 7
   religion = "catholic"
   culture = "basque"
-  trait = "lustful"
-  trait = "slothful"
-  trait = "fortune_builder"
-  father = 106040
-  mother = 106041
-  993.1.1 = {
-    birth = "993.1.1"
+  trait = "kind"
+  trait = "ill"
+  trait = "misguided_warrior"
+  father = 70302
+  mother = 70301
+  819.1.1 = {
+    birth = "819.1.1"
   }
-  1031.8.6 = {
-    death = "1031.8.6"
+  844.1.1 = {
+    death = "844.1.1"
   }
 }
-107520 = {
-  name = "エネコ"  # Eneko
-  dynasty = 778
-  martial = 4
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 6
+7562 = {
+  name = "アンツォ"  # Antso
+  dynasty = 388
   religion = "catholic"
   culture = "basque"
-  trait = "just"
-  trait = "lisp"
-  trait = "stutter"
-  trait = "amateurish_plotter"
-  father = 107530
-  1035.1.1 = {
-    birth = "1035.1.1"
+  father = 7563
+  890.1.1 = {
+    birth = "890.1.1"
   }
-  1058.1.1 = {
-    add_spouse = 107521
-  }
-  1077.1.1 = {
-    death = "1077.1.1"
+  955.1.1 = {
+    death = "955.1.1"
   }
 }
-107521 = {
-  name = "トダ"  # Toda
+7563 = {
+  name = "ガルツィア"  # Gartzia
+  dynasty = 388
+  religion = "catholic"
+  culture = "basque"
+  father = 163060
+  mother = 168126
+  850.1.1 = {
+    birth = "850.1.1"
+  }
+  920.1.1 = {
+    death = "920.1.1"
+  }
+}
+40011 = {
+  name = "Toda-Adalais"
   female = yes
-  religion = catholic
-  culture = basque
+  dynasty = 388
+  religion = "catholic"
+  culture = "basque"
+  father = 127049
+  985.1.1 = {
+    birth = "985.1.1"
+  }
   1040.1.1 = {
-    birth = yes
-  }
-  1085.1.1 = {
-    death = yes
+    death = "1040.1.1"
   }
 }
-107523 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "thrifty_clerk"
-  father = 107520
-  mother = 107521
-  1060.1.1 = {
-    birth = "1060.1.1"
-  }
-  1079.3.4 = {
-    add_spouse = 71925
-  }
-  1094.1.1 = {
-    death = "1094.1.1"
-  }
-}
-107530 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 8
-  diplomacy = 5
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "basque"
-  trait = "tough_soldier"
-  1000.1.1 = {
-    birth = "1000.1.1"
-  }
-  1057.1.1 = {
-    death = "1057.1.1"
-  }
-}
-107550 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 8
-  diplomacy = 8
-  intrigue = 6
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "lustful"
-  trait = "flamboyant_schemer"
-  father = 70220
-  1065.1.1 = {
-    birth = "1065.1.1"
-  }
-  1110.1.1 = {
-    death = "1110.1.1"
-  }
-}
-107671 = {
-  name = "Ava"
+54000 = {
+  name = "Gersenda"
+  dynasty = 388
   female = yes
-  dynasty = 10024
-  father = 70269
-  mother = 54000
-  religion = catholic
-  culture = basque
-  944.1.1 = {
-    birth = yes
-  }
-  995.1.1 = {
-    death = yes
-  }
-}
-107681 = {
-  name = "アンツァ"  # Antsa
-  female = yes
-  dynasty = 442
-  martial = 8
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 6
   religion = "catholic"
   culture = "basque"
-  trait = "temperate"
-  trait = "thrifty_clerk"
-  father = 70122
-  915.1.1 = {
-    birth = "915.1.1"
+  father = 7562
+  926.1.1 = {
+    birth = "926.1.1"
   }
-  952.6.9 = {
-    death = "952.6.9"
+  1030.1.1 = {
+    death = "1030.1.1"
   }
 }
-107683 = {
-  name = "ウルァカ"  # Urraka
+54001 = {
+  name = "Azibella"
+  dynasty = 388
   female = yes
-  dynasty = 442
-  father = 70123
-  religion = catholic
-  culture = basque
-  936.1.1 = {
-    birth = yes
+  religion = "catholic"
+  culture = "basque"
+  father = 7563
+  883.1.1 = {
+    birth = "883.1.1"
   }
-  1009.4.3 = {
-    death = yes
+  905.1.1 = {
+    death = "905.1.1"
   }
 }
 127017 = {
@@ -5655,6 +5450,658 @@
   }
   855.1.1 = {
     death = "855.1.1"
+  }
+}
+106011 = {
+  name = "ラミロ"  # Ramiro
+  dynasty = 442
+  martial = 7
+  diplomacy = 8
+  intrigue = 4
+  stewardship = 6
+  religion = "catholic"
+  culture = "basque"
+  trait = "flamboyant_schemer"
+  father = 106010
+  mother = 1079
+  1042.1.1 = {
+    birth = "1042.1.1"
+  }
+  1083.1.6 = {
+    death = "1083.1.6"
+  }
+}
+71543 = {
+  name = "フェルナンド"  # Fernando
+  dynasty = 442
+  religion = "catholic"
+  culture = "basque"
+  father = 106000
+  trait = "bastard"
+  1062.1.1 = {
+    birth = "1062.1.1"
+  }
+  1115.1.1 = {
+    death = "1115.1.1"
+  }
+}
+73774 = {
+  name = "ガリンド"  # Galindo
+  dynasty = 12315
+  father = 70291
+  religion = catholic
+  culture = basque
+  812.1.1 = {
+    birth = yes
+  }
+  840.1.1 = {
+    religion = sunni
+  }
+  843.1.1 = {
+    death = yes
+  }
+}
+73775 = {
+  name = "Muza"
+  dynasty = 12315
+  father = 73774
+  religion = sunni
+  culture = basque
+  843.1.1 = {
+    birth = yes
+  }
+  862.9.26 = {
+    employer = 73800
+  }
+  871.8.4 = {
+    death = yes
+  }
+}
+73808 = {
+  name = "Kasio"
+  dynasty = 12293
+  religion = catholic
+  culture = basque
+  670.1.1 = {
+    birth = yes
+  }
+  714.1.1 = {
+    religion = sunni
+  }
+  723.1.1 = {
+    death = yes
+  }
+}
+73809 = {
+  name = "フォルトゥン"  # Fortun
+  dynasty = 12293
+  father = 73808
+  religion = sunni
+  culture = basque
+  710.1.1 = {
+    birth = yes
+  }
+  731.1.1 = {
+    add_spouse = 200202
+  }
+  768.1.1 = {
+    death = yes
+  }
+}
+73810 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73809
+  mother = 200202
+  religion = sunni
+  culture = basque
+  745.1.1 = {
+    birth = yes
+  }
+  768.1.1 = {
+    add_spouse = 200204
+  }
+  797.1.1 = {
+    add_spouse = 73811
+  }
+  802.12.1 = {
+    death = yes
+  }
+}
+73812 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73810
+  mother = 73811
+  religion = sunni
+  culture = basque
+  800.1.1 = {
+    birth = yes
+  }
+  830.1.1 = {
+    add_spouse = 73776
+  }
+  862.9.26 = {
+    death = yes
+  }
+}
+73813 = {
+  name = "ロペ"  # Lope
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  831.1.1 = {
+    birth = yes
+  }
+  860.1.1 = {
+    add_spouse = 73814
+  }
+  875.4.27 = {
+    death = yes
+  }
+}
+73815 = {
+  name = "Mohamed"
+  dynasty = 12293
+  father = 73813
+  mother = 73814
+  religion = sunni
+  culture = basque
+  862.1.1 = {
+    birth = yes
+  }
+  898.10.2 = {
+    death = yes
+  }
+}
+73816 = {
+  name = "イーサー"  # Isa
+  dynasty = 12293
+  father = 73813
+  mother = 73814
+  religion = sunni
+  culture = basque
+  864.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+73817 = {
+  name = "Motarrif"
+  dynasty = 12293
+  father = 73813
+  mother = 73814
+  religion = sunni
+  culture = basque
+  866.1.1 = {
+    birth = yes
+  }
+  922.1.1 = {
+    death = yes
+  }
+}
+73818 = {
+  name = "イスマーイール"  # Ismail
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  833.1.1 = {
+    birth = yes
+  }
+  889.5.6 = {
+    add_spouse = 73819
+  }
+  889.10.10 = {
+    death = yes
+  }
+}
+73820 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73818
+  religion = sunni
+  culture = basque
+  858.1.1 = {
+    birth = yes
+  }
+  889.5.6 = {
+    death = yes
+  }
+}
+73821 = {
+  name = "Motarrif"
+  dynasty = 12293
+  father = 73818
+  religion = sunni
+  culture = basque
+  861.1.1 = {
+    birth = yes
+  }
+  891.1.1 = {
+    death = yes
+  }
+}
+73822 = {
+  name = "Saad"
+  dynasty = 12293
+  father = 73818
+  religion = sunni
+  culture = basque
+  863.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = "920.1.1"
+  }
+}
+73823 = {
+  name = "Mohamed"
+  dynasty = 12293
+  father = 73818
+  mother = 73819
+  religion = sunni
+  culture = basque
+  890.1.1 = {
+    birth = yes
+  }
+  907.1.1 = {
+    death = yes
+  }
+}
+73824 = {
+  name = "Motarrif"
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  835.1.1 = {
+    birth = yes
+  }
+  870.1.1 = {
+    add_spouse = 73778
+  }
+  906.1.1 = {
+    death = yes
+  }
+}
+73825 = {
+  name = "Mohamed"
+  dynasty = 12293
+  father = 73824
+  religion = sunni
+  culture = basque
+  860.1.1 = {
+    birth = yes
+  }
+  873.9.5 = {
+    death = yes
+  }
+}
+73826 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73824
+  religion = sunni
+  culture = basque
+  862.1.1 = {
+    birth = yes
+  }
+  873.9.5 = {
+    death = yes
+  }
+}
+73827 = {
+  name = "ロペ"  # Lope
+  dynasty = 12293
+  father = 73824
+  religion = sunni
+  culture = basque
+  864.1.1 = {
+    birth = yes
+  }
+  873.9.5 = {
+    death = yes
+  }
+}
+73828 = {
+  name = "Abdala"
+  dynasty = 12293
+  father = 73824
+  religion = sunni
+  culture = basque
+  866.1.1 = {
+    birth = yes
+  }
+  930.1.1 = {
+    death = yes
+  }
+}
+73829 = {
+  name = "フォルトゥン"  # Fortun
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  840.1.1 = {
+    birth = yes
+  }
+  874.3.23 = {
+    death = yes
+  }
+}
+73830 = {
+  name = "イスマーイール"  # Ismail
+  dynasty = 12293
+  father = 73829
+  religion = sunni
+  culture = basque
+  862.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+73831 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73829
+  religion = sunni
+  culture = basque
+  863.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+73832 = {
+  name = "Mohamed"
+  dynasty = 12293
+  father = 73829
+  religion = sunni
+  culture = basque
+  865.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+73833 = {
+  name = "ロペ"  # Lope
+  dynasty = 12293
+  father = 73829
+  religion = sunni
+  culture = basque
+  866.1.1 = {
+    birth = yes
+  }
+  882.1.1 = {
+    death = yes
+  }
+}
+73834 = {
+  name = "Awriya"
+  female = yes
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  842.1.1 = {
+    birth = yes
+  }
+  907.1.1 = {
+    death = yes
+  }
+}
+73836 = {
+  name = "Muza"
+  dynasty = 12293
+  father = 73835
+  mother = 73834
+  religion = sunni
+  culture = basque
+  859.1.1 = {
+    birth = yes
+  }
+  915.1.1 = {
+    death = yes
+  }
+}
+73837 = {
+  name = "ムニア"  # Munia
+  female = yes
+  dynasty = 12293
+  father = 73812
+  mother = 73776
+  religion = sunni
+  culture = basque
+  840.1.1 = {
+    birth = yes
+  }
+  903.1.1 = {
+    death = yes
+  }
+}
+71947 = {
+  name = "Armengol"
+  dynasty = 778
+  father = 207561
+  mother = 210575
+  religion = catholic
+  culture = basque
+  1174.1.1 = {
+    birth = yes
+  }
+  1217.1.1 = {
+    death = yes
+  }
+}
+70033 = {
+  name = "オネカ"  # Oneka
+  female = yes
+  dynasty = 8779
+  father = 73034
+  mother = 73044
+  religion = catholic
+  culture = basque
+  1042.1.1 = {
+    birth = yes
+  }
+  1082.1.1 = {
+    death = yes
+  }
+}
+70076 = {
+  name = "ヌーノ"  # Nuño
+  dynasty = 7000
+  father = 108570
+  trait = bastard
+  religion = catholic
+  culture = basque
+  1025.1.1 = {
+    birth = yes
+  }
+  1046.1.1 = {
+    add_spouse = 70077
+  }
+  1066.1.1 = {
+    employer = 108500
+  }
+  1075.1.1 = {
+    death = yes
+  }
+}
+70078 = {
+  name = "シメナ"  # Ximena
+  female = yes
+  dynasty = 7000
+  father = 70076
+  mother = 70077
+  religion = catholic
+  culture = basque
+  1048.1.1 = {
+    birth = yes
+  }
+  1098.1.1 = {
+    death = yes
+  }
+}
+70079 = {
+  name = "テレサ"  # Teresa
+  female = yes
+  dynasty = 7000
+  father = 70076
+  mother = 70077
+  religion = catholic
+  culture = basque
+  1050.1.1 = {
+    birth = yes
+  }
+  1100.1.1 = {
+    death = yes
+  }
+}
+70211 = {
+  name = "シメナ"  # Ximena
+  female = yes
+  religion = catholic
+  culture = basque
+  1040.1.1 = {
+    birth = yes
+  }
+  1090.1.1 = {
+    death = yes
+  }
+}
+70269 = {
+  name = "エルァムン"  # Erramun
+  dynasty = 10024
+  religion = catholic
+  culture = basque
+  father = 70271
+  mother = 70273
+  921.1.1 = {
+    birth = yes
+  }
+  943.1.1 = {
+    add_spouse = 54000
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+70271 = {
+  name = "ベルナルト"  # Bernart
+  dynasty = 10024
+  father = 70272
+  religion = catholic
+  culture = basque
+  905.1.1 = {
+    birth = yes
+  }
+  921.1.1 = {
+    add_spouse = 70273
+  }
+  956.1.1 = {
+    death = yes
+  }
+}
+70272 = {
+  name = "エルァムン"  # Erramun
+  dynasty = 10024
+  religion = catholic
+  culture = basque
+  886.1.1 = {
+    birth = yes
+  }
+  936.1.1 = {
+    death = yes
+  }
+}
+71580 = {
+  name = "Beatritz"
+  female = yes
+  religion = catholic
+  culture = basque
+  1044.1.1 = {
+    birth = yes
+  }
+  1069.1.1 = {
+    death = yes
+  }
+}
+71938 = {
+  name = "メンツィア"  # Mentzia
+  female = yes
+  religion = catholic
+  culture = basque
+  1129.1.1 = {
+    birth = yes
+  }
+  1150.1.1 = {
+    death = yes
+  }
+}
+72487 = {
+  name = "テレサ"  # Teresa
+  female = yes
+  religion = catholic
+  culture = basque
+  1253.1.1 = {
+    birth = yes
+  }
+  1313.1.1 = {
+    death = yes
+  }
+}
+73896 = {
+  name = "ベルムド"  # Bermudo
+  dynasty = 8779
+  father = 200163
+  religion = catholic
+  culture = basque
+  908.1.1 = {
+    birth = yes
+  }
+  955.8.1 = {
+    death = yes
+  }
+}
+73897 = {
+  name = "ヴェラ"  # Vela
+  dynasty = 8779
+  father = 200163
+  religion = catholic
+  culture = basque
+  900.1.1 = {
+    birth = yes
+  }
+  950.5.25 = {
+    death = yes
+  }
+}
+73898 = {
+  name = "ヴェラ"  # Vela
+  dynasty = 8779
+  father = 73896
+  religion = catholic
+  culture = basque
+  931.1.1 = {
+    birth = yes
+  }
+  976.3.27 = {
+    death = yes
   }
 }
 200026 = {
@@ -6406,465 +6853,18 @@
     death = yes
   }
 }
-206500 = {
-  name = "アンツォ"  # Antso
-  dynasty = 277
-  martial = 6
-  diplomacy = 7
-  intrigue = 6
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "humble"
-  trait = "patient"
-  trait = "intricate_webweaver"
-  father = 206510
-  mother = 206509
-  1132.1.1 = {
-    birth = "1132.1.1"
-  }
-  1153.7.20 = {
-    add_spouse = 207502
-  }
-  1158.8.31 = {
-    give_nickname = nick_the_wise
-  }
-  1194.6.27 = {
-    death = "1194.6.27"
-  }
-}
-206501 = {
-  name = "ベレンガリア"  # Berengaria
+107671 = {
+  name = "Ava"
   female = yes
-  dynasty = 277
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "brave"
-  trait = "underhanded_rogue"
-  father = 206500
-  mother = 207502
-  1165.1.1 = {
-    birth = "1165.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
-  }
-}
-206502 = {
-  name = "アンツォ"  # Antso
-  dynasty = 277
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "diligent"
-  trait = "tough_soldier"
-  trait = "strong"
-  father = 206500
-  mother = 207502
-  1170.1.1 = {
-    birth = yes
-  }
-  1194.6.27 = {
-    give_nickname = nick_the_strong
-  }
-  1195.1.1 = {
-    add_spouse = 127003
-  }
-  1200.1.1 = {
-    remove_spouse = 127003
-  }
-  1217.1.1 = {
-    trait = "sympathy_judaism"
-    trait = "just"
-    trait = "scholar"
-  }
-  1218.1.1 = {
-    trait = gout
-  }
-  1234.4.7 = {
-    death = yes
-  }
-}
-206503 = {
-  name = "ブランカ"  # Blanka
-  female = yes
-  dynasty = 277
-  martial = 6
-  diplomacy = 5
-  intrigue = 8
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "naive_appeaser"
-  father = 206500
-  mother = 207502
-  1175.1.1 = {
-    birth = "1175.1.1"
-  }
-  1229.3.14 = {
-    death = "1229.3.14"
-  }
-}
-206504 = {
-  name = "フェルナンド"  # Fernando
-  dynasty = 277
-  martial = 6
-  diplomacy = 4
-  intrigue = 8
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "wroth"
-  trait = "tough_soldier"
-  father = 206500
-  mother = 207502
-  1177.1.1 = {
-    birth = "1177.1.1"
-  }
-  1207.12.16 = {
-    death = "1207.12.16"
-  }
-}
-206506 = {
-  name = "コンスタンツィア"  # Konstantzia
-  female = yes
-  dynasty = 277
-  martial = 6
-  diplomacy = 4
-  intrigue = 5
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "lustful"
-  trait = "cynical"
-  trait = "thrifty_clerk"
-  father = 206500
-  mother = 207502
-  1176.1.1 = {
-    birth = "1176.1.1"
-  }
-  1230.1.1 = {
-    death = "1230.1.1"
-  }
-}
-206510 = {
-  name = "ガルツィア"  # Gartzia
-  dynasty = 277
-  martial = 6
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "craven"
-  trait = "skilled_tactician"
-  father = 106021
-  mother = 71542
-  1105.1.1 = {
-    birth = "1105.1.1"
-  }
-  1130.1.1 = {
-    add_spouse = 206509
-  }
-  1134.9.27 = {
-    give_nickname = nick_the_restorer
-    create_bloodline = {
-      type = garcia
-      has_dlc = "Holy Fury"
-    }
-  }
-  1144.6.24 = {
-    add_spouse = 207501
-  }
-  1150.11.25 = {
-    death = "1150.11.25"
-  }
-}
-206511 = {
-  name = "アンツァ"  # Antsa
-  female = yes
-  dynasty = 277
-  religion = "catholic"
-  culture = "basque"
-  father = 206510
-  mother = 207501
-  1148.1.1 = {
-    birth = "1148.1.1"
-  }
-  1176.3.7 = {
-    death = "1176.3.7"
-  }
-}
-206512 = {
-  name = "Margarita"
-  female = yes
-  dynasty = 277
-  martial = 6
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "craven"
-  trait = "underhanded_rogue"
-  father = 206510
-  mother = 206509
-  1139.1.1 = {
-    birth = "1139.1.1"
-  }
-  1182.1.1 = {
-    death = "1182.1.1"
-  }
-}
-206513 = {
-  name = "ブランカ"  # Blanka
-  female = yes
-  dynasty = 277
-  martial = 8
-  diplomacy = 6
-  intrigue = 6
-  stewardship = 6
-  religion = "catholic"
-  culture = "basque"
-  trait = "just"
-  trait = "charismatic_negotiator"
-  father = 206510
-  mother = 206509
-  1137.1.1 = {
-    birth = yes
-  }
-  1156.8.12 = {
-    death = {
-      death_reason = death_childbirth
-    }
-  }
-}
-207560 = {
-  name = "ディエゴ"  # Diego
-  dynasty = 778
-  martial = 6
-  diplomacy = 6
-  intrigue = 4
-  stewardship = 8
-  religion = "catholic"
-  culture = "basque"
-  trait = "just"
-  trait = "zealous"
-  trait = "wroth"
-  father = 207570
-  mother = 207571
-  1152.1.1 = {
-    birth = "1152.1.1"
-  }
-  1190.1.1 = {
-    add_spouse = 207657
-  }
-  1192.1.1 = {
-    remove_spouse = 207657
-  }
-  1193.1.1 = {
-    add_spouse = 72050
-  }
-  1214.9.16 = {
-    death = "1214.9.16"
-  }
-}
-207561 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 7
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  trait = "envious"
-  father = 207570
-  mother = 207571
-  1153.1.1 = {
-    birth = "1153.1.1"
-  }
-  1172.1.1 = {
-    add_spouse = 210575
-  }
-  1178.1.1 = {
-    death = "1178.1.1"
-  }
-}
-207562 = {
-  name = "ウルァカ"  # Urraka
-  female = yes
-  dynasty = 778
-  martial = 8
-  diplomacy = 5
-  intrigue = 7
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  trait = "cynical"
-  father = 207570
-  mother = 207571
-  1159.1.1 = {
-    birth = "1159.1.1"
-  }
-  1223.1.1 = {
-    death = "1223.1.1"
-  }
-}
-207563 = {
-  name = "メンツィア"  # Mentzia
-  female = yes
-  dynasty = 778
-  martial = 6
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 5
-  religion = "catholic"
-  culture = "basque"
-  father = 207570
-  mother = 207571
-  1158.1.1 = {
-    birth = "1158.1.1"
-  }
-  1210.1.1 = {
-    death = "1210.1.1"
-  }
-}
-207570 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 7
-  diplomacy = 7
-  intrigue = 4
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "skilled_tactician"
-  father = 207600
-  mother = 207610
-  1120.1.2 = {
-    birth = "1120.1.2"
-  }
-  1145.1.1 = {
-    add_spouse = 71938
-  }
-  1151.1.1 = {
-    add_spouse = 207571
-  }
-  1170.5.6 = {
-    death = "1170.5.6"
-  }
-}
-207600 = {
-  name = "ディエゴ"  # Diego
-  dynasty = 778
-  martial = 4
-  diplomacy = 6
-  intrigue = 7
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  trait = "cynical"
-  trait = "tough_soldier"
-  father = 107523
-  mother = 71925
-  1080.1.1 = {
-    birth = "1080.1.1"
-  }
-  1116.1.1 = {
-    add_spouse = 207610
-  }
-  1126.3.1 = {
-    death = "1126.3.1"
-  }
-}
-207610 = {
-  name = "マリア"  # Maria
-  female = yes
-  martial = 5
-  diplomacy = 7
-  intrigue = 8
-  stewardship = 4
-  religion = "catholic"
-  culture = "basque"
-  1095.1.1 = {
-    birth = "1095.1.1"
-  }
-  1147.1.1 = {
-    death = "1147.1.1"
-  }
-}
-457582 = {
-  name = "ロペ"  # Lope
-  dynasty = 778
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "catholic"
-  culture = "basque"
-  father = 457581
-  mother = 457610
-  1337.1.1 = {
-    birth = "1337.1.1"
-  }
-  1348.1.1 = {
-    death = "1348.1.1"
-  }
-}
-457610 = {
-  name = "マリア"  # Maria
-  female = yes
-  dynasty = 778
-  father = 457611
-  mother = 459524
+  dynasty = 10024
+  father = 70269
+  mother = 54000
   religion = catholic
   culture = basque
-  1316.1.1 = {
+  944.1.1 = {
     birth = yes
   }
-  1349.1.1 = {
+  995.1.1 = {
     death = yes
-  }
-}
-457611 = {
-  name = "ホアネス"  # Joanes
-  dynasty = 778
-  father = 457561
-  mother = 71506
-  religion = catholic
-  culture = basque
-  1293.1.1 = {
-    birth = yes
-  }
-  1315.1.1 = {
-    add_spouse = 459524
-  }
-  1326.12.2 = {
-    death = yes
-  }
-}
-475551 = {
-  name = "アナ"  # Ana
-  female = yes
-  martial = 7
-  diplomacy = 5
-  intrigue = 4
-  stewardship = 7
-  religion = "orthodox"
-  culture = "basque"
-  trait = "flamboyant_schemer"
-  1284.1.2 = {
-    birth = "1284.1.2"
-  }
-  1334.1.2 = {
-    death = "1334.1.2"
   }
 }

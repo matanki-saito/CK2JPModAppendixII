@@ -1,68 +1,4 @@
-﻿242400 = {
-  name = "ザズ"  # Zazu
-  dynasty = 1053200
-  female = yes
-  culture = zhangzhung
-  religion = bon
-  744.1.1 = {
-    birth = yes
-  }
-  796.1.1 = {
-    death = yes
-  }
-}
-242401 = {
-  name = "ダク"  # Duk
-  dynasty = 1053201
-  female = yes
-  culture = zhangzhung
-  religion = bon
-  745.1.1 = {
-    birth = yes
-  }
-  794.1.1 = {
-    death = yes
-  }
-}
-242402 = {
-  name = "ズチ"  # Zutse
-  dynasty = 1053202
-  culture = zhangzhung
-  religion = bon
-  753.1.1 = {
-    birth = yes
-  }
-  843.1.1 = {
-    death = yes
-  }
-}
-242404 = {
-  name = "ヤム"  # Yum
-  dynasty = 1053202
-  female = yes
-  father = 242402
-  culture = zhangzhung
-  religion = bon
-  842.1.1 = {
-    birth = yes
-  }
-  900.1.1 = {
-    death = yes
-  }
-}
-243007 = {
-  name = "ムカオ"  # Mukhö
-  dynasty = 1053026
-  culture = zhangzhung
-  religion = bon
-  840.1.1 = {
-    birth = yes
-  }
-  910.1.1 = {
-    death = yes
-  }
-}
-247000 = {
+﻿247000 = {
   name = "リニュイヤ"  # Liknyirhya
   dynasty = 105809
   religion = "bon"
@@ -120,17 +56,67 @@
     death = yes
   }
 }
-247074 = {
-  name = "ディゼ・トーカマ"  # Driza Tökarma
-  female = yes
-  dynasty = 105861
-  religion = "bon"
-  culture = "zhangzhung"
-  father = 252007
-  588.1.1 = {
+243007 = {
+  name = "ムカオ"  # Mukhö
+  dynasty = 1053026
+  culture = zhangzhung
+  religion = bon
+  840.1.1 = {
     birth = yes
   }
-  645.1.1 = {
+  910.1.1 = {
+    death = yes
+  }
+}
+242400 = {
+  name = "ザズ"  # Zazu
+  dynasty = 1053200
+  female = yes
+  culture = zhangzhung
+  religion = bon
+  744.1.1 = {
+    birth = yes
+  }
+  796.1.1 = {
+    death = yes
+  }
+}
+242401 = {
+  name = "ダク"  # Duk
+  dynasty = 1053201
+  female = yes
+  culture = zhangzhung
+  religion = bon
+  745.1.1 = {
+    birth = yes
+  }
+  794.1.1 = {
+    death = yes
+  }
+}
+242402 = {
+  name = "ズチ"  # Zutse
+  dynasty = 1053202
+  culture = zhangzhung
+  religion = bon
+  753.1.1 = {
+    birth = yes
+  }
+  843.1.1 = {
+    death = yes
+  }
+}
+242404 = {
+  name = "ヤム"  # Yum
+  dynasty = 1053202
+  female = yes
+  father = 242402
+  culture = zhangzhung
+  religion = bon
+  842.1.1 = {
+    birth = yes
+  }
+  900.1.1 = {
     death = yes
   }
 }
@@ -155,19 +141,6 @@
     add_trait = zealous
   }
   804.1.1 = {
-    death = yes
-  }
-}
-247107 = {
-  name = "ドランゴレク"  # Dronglek
-  female = yes
-  dynasty = 105899
-  religion = "bon"
-  culture = "zhangzhung"
-  752.1.1 = {
-    birth = yes
-  }
-  795.1.1 = {
     death = yes
   }
 }
@@ -212,47 +185,6 @@
     birth = yes
   }
   747.1.1 = {
-    death = yes
-  }
-}
-252002 = {
-  name = "ギャルワ"  # Gyalwa
-  dynasty = 105861
-  religion = "bon"
-  culture = "zhangzhung"
-  father = 252011
-  704.1.1 = {
-    birth = yes
-  }
-  770.1.1 = {
-    death = yes
-  }
-}
-252003 = {
-  name = "ザングザ"  # Zangza
-  female = yes
-  dynasty = 105861
-  religion = "bon"
-  culture = "zhangzhung"
-  father = 252002
-  744.1.1 = {
-    birth = yes
-  }
-  792.1.1 = {
-    death = yes
-  }
-}
-252004 = {
-  name = "チョウギョ"  # Tshogyal
-  female = yes
-  dynasty = 105860
-  religion = "bon"
-  culture = "zhangzhung"
-  trait = zealous
-  737.1.1 = {
-    birth = yes
-  }
-  784.1.1 = {
     death = yes
   }
 }
@@ -334,6 +266,60 @@
     death = yes
   }
 }
+252002 = {
+  name = "ギャルワ"  # Gyalwa
+  dynasty = 105861
+  religion = "bon"
+  culture = "zhangzhung"
+  father = 252011
+  704.1.1 = {
+    birth = yes
+  }
+  770.1.1 = {
+    death = yes
+  }
+}
+252003 = {
+  name = "ザングザ"  # Zangza
+  female = yes
+  dynasty = 105861
+  religion = "bon"
+  culture = "zhangzhung"
+  father = 252002
+  744.1.1 = {
+    birth = yes
+  }
+  792.1.1 = {
+    death = yes
+  }
+}
+252004 = {
+  name = "チョウギョ"  # Tshogyal
+  female = yes
+  dynasty = 105860
+  religion = "bon"
+  culture = "zhangzhung"
+  trait = zealous
+  737.1.1 = {
+    birth = yes
+  }
+  784.1.1 = {
+    death = yes
+  }
+}
+247107 = {
+  name = "ドランゴレク"  # Dronglek
+  female = yes
+  dynasty = 105899
+  religion = "bon"
+  culture = "zhangzhung"
+  752.1.1 = {
+    birth = yes
+  }
+  795.1.1 = {
+    death = yes
+  }
+}
 252006 = {
   name = "ナンジャー・レポ"  # Nangzher Löpo
   dynasty = 105900
@@ -344,6 +330,20 @@
     birth = yes
   }
   798.1.1 = {
+    death = yes
+  }
+}
+247074 = {
+  name = "ディゼ・トーカマ"  # Driza Tökarma
+  female = yes
+  dynasty = 105861
+  religion = "bon"
+  culture = "zhangzhung"
+  father = 252007
+  588.1.1 = {
+    birth = yes
+  }
+  645.1.1 = {
     death = yes
   }
 }

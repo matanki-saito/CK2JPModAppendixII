@@ -1,4 +1,19 @@
-﻿74400 = {
+﻿175030 = {
+  name = "アモーガヴァルシャ"  # Amoghavarsha
+  dynasty = 1043003
+  religion = "jain"
+  culture = "kannada"
+  father = 74416
+  trait = kshatriya
+  trait = digambara_jain
+  800.1.1 = {
+    birth = yes
+  }
+  878.1.1 = {
+    death = yes
+  }
+}
+74400 = {
   name = "バーヴァナ"  # Bhavana
   dynasty = 12318
   religion = "hindu"
@@ -1155,164 +1170,6 @@
     birth = yes
   }
   1200.1.1 = {
-    death = yes
-  }
-}
-74526 = {
-  name = "サナプラ"  # Sanahapulla
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  trait = kshatriya
-  trait = shaivist_hindu
-  father = 191999
-  710.1.1 = {
-    birth = yes
-  }
-  780.1.1 = {
-    death = yes
-  }
-}
-74527 = {
-  name = "ダミヤラ"  # Dhammayira
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74526
-  trait = kshatriya
-  trait = shaivist_hindu
-  730.1.1 = {
-    birth = yes
-  }
-  800.1.1 = {
-    death = yes
-  }
-}
-74528 = {
-  name = "アイヤパラージャ"  # Aiyapa
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74527
-  trait = kshatriya
-  trait = shaivist_hindu
-  780.1.1 = {
-    birth = yes
-  }
-  845.1.1 = {
-    death = yes
-  }
-}
-74529 = {
-  name = "アヴァサラ"  # Avasara
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74528
-  trait = kshatriya
-  trait = shaivist_hindu
-  804.1.1 = {
-    birth = yes
-  }
-  825.1.1 = {
-    add_spouse = 74536
-  }
-  870.1.1 = {
-    death = yes
-  }
-}
-74530 = {
-  name = "アディトヤヴァルマ"  # Adityavarma
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74529
-  mother = 74536
-  trait = kshatriya
-  trait = shaivist_hindu
-  827.1.1 = {
-    birth = yes
-  }
-  850.1.1 = {
-    add_spouse = 74537
-  }
-  895.1.1 = {
-    death = yes
-  }
-}
-74531 = {
-  name = "アヴァサラ"  # Avasara
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74530
-  mother = 74537
-  trait = kshatriya
-  trait = shaivist_hindu
-  851.1.1 = {
-    birth = yes
-  }
-  920.1.1 = {
-    death = yes
-  }
-}
-74532 = {
-  name = "インドララージャ"  # Indra
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74531
-  trait = kshatriya
-  trait = shaivist_hindu
-  876.1.1 = {
-    birth = yes
-  }
-  945.1.1 = {
-    death = yes
-  }
-}
-74533 = {
-  name = "ビーマ"  # Bhima
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74532
-  trait = kshatriya
-  trait = shaivist_hindu
-  904.1.1 = {
-    birth = yes
-  }
-  970.1.1 = {
-    death = yes
-  }
-}
-74534 = {
-  name = "アヴァサラ"  # Avasara
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74533
-  trait = kshatriya
-  trait = shaivist_hindu
-  930.1.1 = {
-    birth = yes
-  }
-  995.1.1 = {
-    death = yes
-  }
-}
-74535 = {
-  name = "ラッタラージャ"  # Rattaraja
-  dynasty = 12323
-  religion = "hindu"
-  culture = "kannada"
-  father = 74534
-  trait = kshatriya
-  trait = shaivist_hindu
-  953.1.1 = {
-    birth = yes
-  }
-  1020.1.1 = {
     death = yes
   }
 }
@@ -3834,6 +3691,20 @@
     death = yes
   }
 }
+188191 = {
+  name = "バッラーラ"  # Ballala
+  dynasty = 1042078
+  religion = "hindu"
+  culture = "kannada"
+  trait = "kshatriya"
+  trait = "smartist_hindu"
+  1104.1.1 = {
+    birth = yes
+  }
+  1151.1.1 = {
+    death = yes
+  }
+}
 74775 = {
   name = "ゴーヴィンダ"  # Govinda
   dynasty = 1043003
@@ -4651,35 +4522,6 @@
     death = yes
   }
 }
-175030 = {
-  name = "アモーガヴァルシャ"  # Amoghavarsha
-  dynasty = 1043003
-  religion = "jain"
-  culture = "kannada"
-  father = 74416
-  trait = kshatriya
-  trait = digambara_jain
-  800.1.1 = {
-    birth = yes
-  }
-  878.1.1 = {
-    death = yes
-  }
-}
-188191 = {
-  name = "バッラーラ"  # Ballala
-  dynasty = 1042078
-  religion = "hindu"
-  culture = "kannada"
-  trait = "kshatriya"
-  trait = "smartist_hindu"
-  1104.1.1 = {
-    birth = yes
-  }
-  1151.1.1 = {
-    death = yes
-  }
-}
 191302 = {
   name = "ランナデーヴィ"  # Rannadevi
   female = yes
@@ -5337,6 +5179,164 @@
     birth = yes
   }
   800.1.1 = {
+    death = yes
+  }
+}
+74526 = {
+  name = "サナプラ"  # Sanahapulla
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  trait = kshatriya
+  trait = shaivist_hindu
+  father = 191999
+  710.1.1 = {
+    birth = yes
+  }
+  780.1.1 = {
+    death = yes
+  }
+}
+74527 = {
+  name = "ダミヤラ"  # Dhammayira
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74526
+  trait = kshatriya
+  trait = shaivist_hindu
+  730.1.1 = {
+    birth = yes
+  }
+  800.1.1 = {
+    death = yes
+  }
+}
+74528 = {
+  name = "アイヤパラージャ"  # Aiyapa
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74527
+  trait = kshatriya
+  trait = shaivist_hindu
+  780.1.1 = {
+    birth = yes
+  }
+  845.1.1 = {
+    death = yes
+  }
+}
+74529 = {
+  name = "アヴァサラ"  # Avasara
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74528
+  trait = kshatriya
+  trait = shaivist_hindu
+  804.1.1 = {
+    birth = yes
+  }
+  825.1.1 = {
+    add_spouse = 74536
+  }
+  870.1.1 = {
+    death = yes
+  }
+}
+74530 = {
+  name = "アディトヤヴァルマ"  # Adityavarma
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74529
+  mother = 74536
+  trait = kshatriya
+  trait = shaivist_hindu
+  827.1.1 = {
+    birth = yes
+  }
+  850.1.1 = {
+    add_spouse = 74537
+  }
+  895.1.1 = {
+    death = yes
+  }
+}
+74531 = {
+  name = "アヴァサラ"  # Avasara
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74530
+  mother = 74537
+  trait = kshatriya
+  trait = shaivist_hindu
+  851.1.1 = {
+    birth = yes
+  }
+  920.1.1 = {
+    death = yes
+  }
+}
+74532 = {
+  name = "インドララージャ"  # Indra
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74531
+  trait = kshatriya
+  trait = shaivist_hindu
+  876.1.1 = {
+    birth = yes
+  }
+  945.1.1 = {
+    death = yes
+  }
+}
+74533 = {
+  name = "ビーマ"  # Bhima
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74532
+  trait = kshatriya
+  trait = shaivist_hindu
+  904.1.1 = {
+    birth = yes
+  }
+  970.1.1 = {
+    death = yes
+  }
+}
+74534 = {
+  name = "アヴァサラ"  # Avasara
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74533
+  trait = kshatriya
+  trait = shaivist_hindu
+  930.1.1 = {
+    birth = yes
+  }
+  995.1.1 = {
+    death = yes
+  }
+}
+74535 = {
+  name = "ラッタラージャ"  # Rattaraja
+  dynasty = 12323
+  religion = "hindu"
+  culture = "kannada"
+  father = 74534
+  trait = kshatriya
+  trait = shaivist_hindu
+  953.1.1 = {
+    birth = yes
+  }
+  1020.1.1 = {
     death = yes
   }
 }

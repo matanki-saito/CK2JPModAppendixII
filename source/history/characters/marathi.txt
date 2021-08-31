@@ -2434,6 +2434,65 @@
     death = yes
   }
 }
+191377 = {
+  name = "ドゥルガラージャ"  # Durgaraja
+  dynasty = 1044339
+  religion = "hindu"
+  culture = "marathi"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  580.1.1 = {
+    birth = yes
+  }
+  650.1.1 = {
+    death = yes
+  }
+}
+191378 = {
+  name = "ゴヴィンダラージャ"  # Govindaraja
+  dynasty = 1044339
+  religion = "hindu"
+  culture = "marathi"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191377
+  620.1.1 = {
+    birth = yes
+  }
+  680.1.1 = {
+    death = yes
+  }
+}
+191379 = {
+  name = "スヴァミカラージャ"  # Svamikaraja
+  dynasty = 1044339
+  religion = "hindu"
+  culture = "marathi"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191378
+  640.1.1 = {
+    birth = yes
+  }
+  700.1.1 = {
+    death = yes
+  }
+}
+191380 = {
+  name = "ナンダラージャ"  # Nandaraja
+  dynasty = 1044339
+  religion = "hindu"
+  culture = "marathi"
+  trait = "kshatriya"
+  trait = "shaivist_hindu"
+  father = 191379
+  680.1.1 = {
+    birth = yes
+  }
+  775.1.1 = {
+    death = yes
+  }
+}
 191362 = {
   name = "ブリジナス"  # Brijnath
   dynasty = 1044340
@@ -2658,65 +2717,6 @@
     birth = yes
   }
   1274.1.1 = {
-    death = yes
-  }
-}
-191377 = {
-  name = "ドゥルガラージャ"  # Durgaraja
-  dynasty = 1044339
-  religion = "hindu"
-  culture = "marathi"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  580.1.1 = {
-    birth = yes
-  }
-  650.1.1 = {
-    death = yes
-  }
-}
-191378 = {
-  name = "ゴヴィンダラージャ"  # Govindaraja
-  dynasty = 1044339
-  religion = "hindu"
-  culture = "marathi"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191377
-  620.1.1 = {
-    birth = yes
-  }
-  680.1.1 = {
-    death = yes
-  }
-}
-191379 = {
-  name = "スヴァミカラージャ"  # Svamikaraja
-  dynasty = 1044339
-  religion = "hindu"
-  culture = "marathi"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191378
-  640.1.1 = {
-    birth = yes
-  }
-  700.1.1 = {
-    death = yes
-  }
-}
-191380 = {
-  name = "ナンダラージャ"  # Nandaraja
-  dynasty = 1044339
-  religion = "hindu"
-  culture = "marathi"
-  trait = "kshatriya"
-  trait = "shaivist_hindu"
-  father = 191379
-  680.1.1 = {
-    birth = yes
-  }
-  775.1.1 = {
     death = yes
   }
 }
