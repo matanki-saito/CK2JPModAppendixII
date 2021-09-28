@@ -48268,7 +48268,7 @@
   religion = "norse_pagan"
 }
 1061019 = {
-  name = "Tivertsi"
+  name = "チヴェルツィ"  # Tivertsi
   culture = "volhynian"
   religion = "slavic_pagan"
 }
@@ -50075,7 +50075,7 @@
   culture = "breton"
 }
 105946 = {
-  name = "Builth"
+  name = "ビルス"  # Builth
   culture = "welsh"
   religion = "catholic"
 }
@@ -51523,7 +51523,7 @@
   religion = shiite
 }
 1062442 = {
-  name = "Ifranid"
+  name = "イフラン"  # Ifranid
   culture = maghreb_arabic
   religion = ibadi
 }
@@ -52361,7 +52361,7 @@
   religion = catholic
 }
 1062594 = {
-  name = "Khursid"
+  name = "クルス"  # Khursid
   culture = "persian"
   religion = "zoroastrian"
 }

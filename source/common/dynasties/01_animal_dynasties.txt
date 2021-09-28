@@ -527,7 +527,7 @@
   culture = "duck_culture"
 }
 2000131 = {
-  name = "mcDucker"
+  name = "マクダッカー"  # mcDucker
   culture = "duck_culture"
 }
 2000132 = {
@@ -711,11 +711,11 @@
   culture = "dog_culture"
 }
 2000176 = {
-  name = "Maltese"
+  name = "マルチーズ"  # Maltese
   culture = "dog_culture"
 }
 2000176 = {
-  name = "Maltipoo"
+  name = "マルチプー"  # Maltipoo
   culture = "dog_culture"
 }
 2000177 = {
