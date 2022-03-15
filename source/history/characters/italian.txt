@@ -371,7 +371,7 @@
   }
 }
 144595 = {
-  name = "ニーダルタ"  # Nitard
+  name = "ニタール"  # Nitard
   religion = "catholic"
   culture = "italian"
   1185.1.1 = {
@@ -404,7 +404,7 @@
   }
 }
 144598 = {
-  name = "ベルナルド・チャバウト"  # Bernard Chabaud
+  name = "ベルナール・シャボー"  # Bernard Chabaud
   religion = "catholic"
   culture = "italian"
   1231.1.1 = {
@@ -1309,7 +1309,7 @@
   }
 }
 213026 = {
-  name = "モンテフェリタラーノ"  # Montefeltrano
+  name = "モンテフェルトラーノ"  # Montefeltrano
   dynasty = 13068
   martial = 5
   diplomacy = 6
@@ -1338,7 +1338,7 @@
   }
 }
 213031 = {
-  name = "ウーベルト"  # Uberto
+  name = "ウベルト"  # Uberto
   dynasty = 234
   martial = 5
   diplomacy = 7
@@ -8908,7 +8908,7 @@
   }
 }
 70811 = {
-  name = "マリシーリョ"  # Marsiglio
+  name = "マルシーリョ"  # Marsiglio
   dynasty = 101823
   martial = 5
   diplomacy = 4
@@ -19384,7 +19384,7 @@
   }
 }
 91143 = {
-  name = "ベアトリチェ"  # Béatrice
+  name = "ベアトリーチェ"  # Béatrice
   female = yes
   dynasty = 206
   religion = "catholic"
@@ -20510,7 +20510,7 @@
   }
 }
 31498 = {
-  name = "ウーベルト"  # Uberto
+  name = "ウベルト"  # Uberto
   dynasty = 8669
   religion = "catholic"
   culture = "italian"
@@ -20524,7 +20524,7 @@
   }
 }
 31499 = {
-  name = "ウーベルト"  # Uberto
+  name = "ウベルト"  # Uberto
   dynasty = 8669
   religion = "catholic"
   culture = "italian"
@@ -21983,7 +21983,7 @@
   }
 }
 145063 = {
-  name = "ジェルバージオ"  # Gervasio
+  name = "ジェルヴァジオ"  # Gervasio
   religion = "catholic"
   culture = "italian"
   trait = "martial_cleric"
@@ -22007,7 +22007,7 @@
   }
 }
 145065 = {
-  name = "シモンヌ"  # Simon
+  name = "シモン"  # Simon
   religion = "catholic"
   culture = "italian"
   trait = "martial_cleric"
@@ -22032,7 +22032,7 @@
   }
 }
 145067 = {
-  name = "パンタレオンヌ"  # Pantaleon
+  name = "パンタレオン"  # Pantaleon
   dynasty = 13010
   religion = "catholic"
   culture = "italian"
@@ -22492,7 +22492,7 @@
   }
 }
 73410 = {
-  name = "シェーザレ"  # Cesare
+  name = "チェーザレ"  # Cesare
   religion = "catholic"
   culture = "italian"
   1215.1.1 = {
@@ -22558,7 +22558,7 @@
   }
 }
 73416 = {
-  name = "ジョジント"  # Giacinto
+  name = "ジャチント"  # Giacinto
   religion = "catholic"
   culture = "italian"
   1088.1.1 = {
@@ -22646,7 +22646,7 @@
   }
 }
 73424 = {
-  name = "ファブリッチィオ"  # Fabrizio
+  name = "ファブリツィオ"  # Fabrizio
   religion = "catholic"
   culture = "italian"
   1260.1.1 = {
@@ -22657,7 +22657,7 @@
   }
 }
 73425 = {
-  name = "ウゴチョーネ"  # Ugoccione
+  name = "ウゴッチョーネ"  # Ugoccione
   dynasty = 101826
   religion = "catholic"
   culture = "italian"
@@ -22669,7 +22669,7 @@
   }
 }
 73426 = {
-  name = "カストゥルーチョ"  # Castruccio
+  name = "カストルッチョ"  # Castruccio
   dynasty = 101817
   religion = "catholic"
   culture = "italian"
@@ -22707,7 +22707,7 @@
   }
 }
 73429 = {
-  name = "マリシーリョ"  # Marsiglio
+  name = "マルシーリョ"  # Marsiglio
   dynasty = 101841
   religion = "catholic"
   culture = "italian"
@@ -22799,7 +22799,7 @@
   }
 }
 73442 = {
-  name = "ラザロ"  # Lazzaro
+  name = "ラッザロ"  # Lazzaro
   religion = "catholic"
   culture = "italian"
   1046.1.1 = {
@@ -22971,7 +22971,7 @@
   }
 }
 73456 = {
-  name = "ウゴチョーネ"  # Ugoccione
+  name = "ウゴッチョーネ"  # Ugoccione
   dynasty = 13031
   religion = "catholic"
   culture = "italian"
@@ -22997,7 +22997,7 @@
   }
 }
 73458 = {
-  name = "アンセルムーチョ"  # Anselmuccio
+  name = "アンセルムッチョ"  # Anselmuccio
   dynasty = 13031
   religion = "catholic"
   culture = "italian"
@@ -23010,7 +23010,7 @@
   }
 }
 73459 = {
-  name = "エリミーニア"  # Erminia
+  name = "エルミニア"  # Erminia
   female = yes
   dynasty = 13031
   religion = "catholic"
@@ -23088,7 +23088,7 @@
   }
 }
 73464 = {
-  name = "グワティエーロ"  # Gualtiero
+  name = "グァルティエーロ"  # Gualtiero
   dynasty = 12249
   religion = "catholic"
   culture = "italian"
@@ -23147,7 +23147,7 @@
   }
 }
 73478 = {
-  name = "グレゴーリオ"  # Gregorio
+  name = "グレゴリオ"  # Gregorio
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -23195,7 +23195,7 @@
   }
 }
 73482 = {
-  name = "ロンヴァルド"  # Lombardo
+  name = "ロンバルド"  # Lombardo
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -23219,7 +23219,7 @@
   }
 }
 73485 = {
-  name = "カポフェロ"  # Capoferro
+  name = "カポフェッロ"  # Capoferro
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -23303,7 +23303,7 @@
   }
 }
 73492 = {
-  name = "ジョジント"  # Giacinto
+  name = "ジャチント"  # Giacinto
   religion = "catholic"
   culture = "italian"
   1024.1.1 = {
@@ -23374,7 +23374,7 @@
   }
 }
 73501 = {
-  name = "アラファエッロ"  # Rafaello
+  name = "ラファエッロ"  # Rafaello
   religion = "catholic"
   culture = "italian"
   dynasty = 5061090
@@ -23493,7 +23493,7 @@
   }
 }
 73511 = {
-  name = "スペニェット"  # Spinetto
+  name = "スピネット"  # Spinetto
   religion = "catholic"
   culture = "italian"
   1045.1.1 = {
@@ -23515,7 +23515,7 @@
   }
 }
 73513 = {
-  name = "トッマゾ"  # Tommaso
+  name = "トンマーゾ"  # Tommaso
   religion = "catholic"
   culture = "italian"
   1085.1.1 = {
@@ -23548,7 +23548,7 @@
   }
 }
 73516 = {
-  name = "ウゴチョーネ"  # Ugoccione
+  name = "ウゴッチョーネ"  # Ugoccione
   religion = "catholic"
   culture = "italian"
   1178.1.1 = {
@@ -23559,7 +23559,7 @@
   }
 }
 73517 = {
-  name = "カシオ"  # Cassio
+  name = "カッシオ"  # Cassio
   religion = "catholic"
   culture = "italian"
   1196.1.1 = {
@@ -23617,7 +23617,7 @@
   }
 }
 73522 = {
-  name = "ラヌーチョ"  # Ranuccio
+  name = "ラヌッチョ"  # Ranuccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -23630,7 +23630,7 @@
   }
 }
 73523 = {
-  name = "ペトルーチョ"  # Petruccio
+  name = "ペトルッチョ"  # Petruccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -23771,7 +23771,7 @@
   }
 }
 73534 = {
-  name = "グワティエーロ"  # Gualtiero
+  name = "グァルティエーロ"  # Gualtiero
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -23867,7 +23867,7 @@
   }
 }
 73543 = {
-  name = "エジリオ"  # Egidio
+  name = "エジーディオ"  # Egidio
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -23891,7 +23891,7 @@
   }
 }
 73545 = {
-  name = "ピーチニーノ"  # Piccinino
+  name = "ピッチニーノ"  # Piccinino
   religion = "catholic"
   culture = "italian"
   trait = detached_priest
@@ -24030,7 +24030,7 @@
   }
 }
 73556 = {
-  name = "ラヌーチョ"  # Ranuccio
+  name = "ラヌッチョ"  # Ranuccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24095,7 +24095,7 @@
   }
 }
 73561 = {
-  name = "ラヌーチョ"  # Ranuccio
+  name = "ラヌッチョ"  # Ranuccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24108,7 +24108,7 @@
   }
 }
 73562 = {
-  name = "ペトルーチョ"  # Petruccio
+  name = "ペトルッチョ"  # Petruccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24173,7 +24173,7 @@
   }
 }
 73567 = {
-  name = "ピエルトルード"  # Pierbertoldo
+  name = "ピエルベルトルド"  # Pierbertoldo
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24186,7 +24186,7 @@
   }
 }
 73568 = {
-  name = "プーチョ"  # Puccio
+  name = "プッチョ"  # Puccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24199,7 +24199,7 @@
   }
 }
 73569 = {
-  name = "ラヌーチョ"  # Ranuccio
+  name = "ラヌッチョ"  # Ranuccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24320,7 +24320,7 @@
   }
 }
 73578 = {
-  name = "ペトルーチョ"  # Petruccio
+  name = "ペトルッチョ"  # Petruccio
   dynasty = 13047
   religion = "catholic"
   culture = "italian"
@@ -24359,7 +24359,7 @@
   }
 }
 73581 = {
-  name = "モンテフェリタラーノ"  # Montefeltrano
+  name = "モンテフェルトラーノ"  # Montefeltrano
   dynasty = 13068
   religion = "catholic"
   culture = "italian"
@@ -24527,7 +24527,7 @@
   }
 }
 73593 = {
-  name = "ボレンディジア"  # Polentesia
+  name = "ボレンテシア"  # Polentesia
   female = yes
   religion = "catholic"
   culture = "italian"
@@ -24539,7 +24539,7 @@
   }
 }
 73594 = {
-  name = "レガルダ"  # Rengarda
+  name = "レンガルダ"  # Rengarda
   female = yes
   dynasty = 13059
   religion = "catholic"
@@ -24702,7 +24702,7 @@
   }
 }
 73606 = {
-  name = "ウーベルト"  # Uberto
+  name = "ウベルト"  # Uberto
   religion = "catholic"
   culture = "italian"
   1055.1.1 = {
@@ -24864,7 +24864,7 @@
   }
 }
 93619 = {
-  name = "ムンフリート"  # Monfiorito
+  name = "モンフィオリート"  # Monfiorito
   dynasty = 7377
   religion = "catholic"
   culture = "italian"
@@ -25345,7 +25345,7 @@
   }
 }
 73702 = {
-  name = "ルバルト"  # Rubaldo
+  name = "ルバルド"  # Rubaldo
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -25384,7 +25384,7 @@
   }
 }
 73705 = {
-  name = "ブルツァニート"  # Bulzaneto
+  name = "ブルツァネート"  # Bulzaneto
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -25689,7 +25689,7 @@
   }
 }
 73727 = {
-  name = "ルーカ"  # Luca
+  name = "ルカ"  # Luca
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -25703,7 +25703,7 @@
   }
 }
 73728 = {
-  name = "ガブリエレ"  # Gabriele
+  name = "ガブリエーレ"  # Gabriele
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -25744,7 +25744,7 @@
   }
 }
 73731 = {
-  name = "ルーカ"  # Luca
+  name = "ルカ"  # Luca
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -25770,7 +25770,7 @@
   }
 }
 73733 = {
-  name = "アラベッラ"  # Rabella
+  name = "ラベッラ"  # Rabella
   dynasty = 13016
   female = yes
   religion = "catholic"
@@ -25784,7 +25784,7 @@
   }
 }
 73734 = {
-  name = "ボヴァレッオ"  # Bovarello
+  name = "ボヴァレッロ"  # Bovarello
   dynasty = 13016
   religion = "catholic"
   culture = "italian"
@@ -26088,7 +26088,7 @@
   }
 }
 170055 = {
-  name = "ガブリエレ"  # Gabriele
+  name = "ガブリエーレ"  # Gabriele
   dynasty = 13027
   religion = "catholic"
   culture = "italian"
@@ -26549,7 +26549,7 @@
   }
 }
 91356 = {
-  name = "ルケジィオ"  # Lucchesio
+  name = "ルッケシオ"  # Lucchesio
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26562,7 +26562,7 @@
   }
 }
 91357 = {
-  name = "グイド"  # Guido
+  name = "グイード"  # Guido
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26671,7 +26671,7 @@
   }
 }
 91365 = {
-  name = "ガブリエレ"  # Gabriele
+  name = "ガブリエーレ"  # Gabriele
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26697,7 +26697,7 @@
   }
 }
 91367 = {
-  name = "グイド"  # Guido
+  name = "グイード"  # Guido
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26723,7 +26723,7 @@
   }
 }
 91369 = {
-  name = "シプリアーノ"  # Cipriano
+  name = "チプリアーノ"  # Cipriano
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26736,7 +26736,7 @@
   }
 }
 91370 = {
-  name = "ルチャーノ"  # Luciano
+  name = "ルチアーノ"  # Luciano
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -26855,7 +26855,7 @@
   }
 }
 91379 = {
-  name = "ロドヴィコ"  # Lodovico
+  name = "ロドヴィーコ"  # Lodovico
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -31346,7 +31346,7 @@
   }
 }
 180075 = {
-  name = "ウーベルト"  # Uberto
+  name = "ウベルト"  # Uberto
   dynasty = 13031
   religion = "catholic"
   culture = "italian"
@@ -33330,7 +33330,7 @@
   }
 }
 91383 = {
-  name = "アルドゥアンヌ"  # Hardouin
+  name = "アルドゥアン"  # Hardouin
   dynasty = 680
   religion = "catholic"
   culture = "frankish"
@@ -33342,7 +33342,7 @@
   }
 }
 91384 = {
-  name = "ウッデ"  # Eudes
+  name = "ウード"  # Eudes
   dynasty = 680
   religion = "catholic"
   culture = "frankish"
@@ -33369,7 +33369,7 @@
   }
 }
 91408 = {
-  name = "アルドゥアンヌ"  # Hardouin
+  name = "アルドゥアン"  # Hardouin
   dynasty = 680
   religion = "catholic"
   culture = "frankish"
@@ -33464,7 +33464,7 @@
   }
 }
 91415 = {
-  name = "アルドゥアンヌ"  # Hardouin
+  name = "アルドゥアン"  # Hardouin
   dynasty = 680
   religion = "catholic"
   culture = "frankish"
@@ -33531,7 +33531,7 @@
   }
 }
 91420 = {
-  name = "バヴィラーノ"  # Babilano
+  name = "バビラーノ"  # Babilano
   dynasty = 13041
   religion = "catholic"
   culture = "italian"
@@ -33742,7 +33742,7 @@
   }
 }
 91436 = {
-  name = "シェーザレ"  # Cesare
+  name = "チェーザレ"  # Cesare
   dynasty = 13041
   religion = "catholic"
   culture = "italian"
@@ -33876,7 +33876,7 @@
   }
 }
 91446 = {
-  name = "アリッツァルド"  # Rizzardo
+  name = "リッツァルド"  # Rizzardo
   dynasty = 13041
   religion = "catholic"
   culture = "italian"
@@ -33889,7 +33889,7 @@
   }
 }
 91455 = {
-  name = "バヴィラーノ"  # Babilano
+  name = "バビラーノ"  # Babilano
   dynasty = 13041
   religion = "catholic"
   culture = "italian"
@@ -33928,7 +33928,7 @@
   }
 }
 91449 = {
-  name = "プレチバッレ"  # Precivalle
+  name = "プレチヴァッレ"  # Precivalle
   dynasty = 13041
   religion = "catholic"
   culture = "italian"
@@ -34086,7 +34086,7 @@
   }
 }
 180503 = {
-  name = "エリミーニア"  # Erminia
+  name = "エルミニア"  # Erminia
   female = yes
   dynasty = 1042035
   religion = "catholic"
@@ -34310,7 +34310,7 @@
   }
 }
 91342 = {
-  name = "グイド"  # Guido
+  name = "グイード"  # Guido
   dynasty = 50
   religion = "catholic"
   culture = "italian"
@@ -34323,7 +34323,7 @@
   }
 }
 91343 = {
-  name = "グイド"  # Guido
+  name = "グイード"  # Guido
   dynasty = 50
   religion = "catholic"
   culture = "italian"

@@ -40957,7 +40957,7 @@
   }
 }
 167952 = {
-  name = "アードゥワン"  # Hardouin
+  name = "アルドゥアン"  # Hardouin
   dynasty = 680
   religion = "catholic"
   culture = "frankish"
@@ -41074,7 +41074,7 @@
   }
 }
 168016 = {
-  name = "ビットゥ"  # Betto
+  name = "ベット"  # Betto
   dynasty = 9568
   religion = "catholic"
   culture = "frankish"
@@ -41087,7 +41087,7 @@
   }
 }
 168018 = {
-  name = "アダルツィ"  # Adaltrud
+  name = "アダルトリュ"  # Adaltrud
   female = yes
   dynasty = 9569
   religion = "catholic"
@@ -41102,7 +41102,7 @@
   }
 }
 168019 = {
-  name = "グズベ－"  # Gauzbert
+  name = "ゴズベール"  # Gauzbert
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41134,7 +41134,7 @@
   }
 }
 168021 = {
-  name = "デオドハッド"  # Theodrad
+  name = "テオドラ"  # Theodrad
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41147,7 +41147,7 @@
   }
 }
 168022 = {
-  name = "グズラン"  # Gauzlin
+  name = "ゴズラン"  # Gauzlin
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41160,7 +41160,7 @@
   }
 }
 168023 = {
-  name = "エリッシェルド"  # Richilde
+  name = "リシルド"  # Richilde
   female = yes
   dynasty = 9569
   religion = "catholic"
@@ -41245,7 +41245,7 @@
   }
 }
 168029 = {
-  name = "グズラン"  # Gauzlin
+  name = "ゴズラン"  # Gauzlin
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41274,7 +41274,7 @@
   }
 }
 168035 = {
-  name = "グズベ－"  # Gauzbert
+  name = "ゴズベール"  # Gauzbert
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41288,7 +41288,7 @@
   }
 }
 168036 = {
-  name = "グズベ－"  # Gauzbert
+  name = "ゴズベール"  # Gauzbert
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41301,7 +41301,7 @@
   }
 }
 168037 = {
-  name = "グズラン"  # Gauzlin
+  name = "ゴズラン"  # Gauzlin
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -41392,7 +41392,7 @@
   }
 }
 168044 = {
-  name = "グズベ－"  # Gauzbert
+  name = "ゴズベール"  # Gauzbert
   dynasty = 9569
   religion = "catholic"
   culture = "frankish"
@@ -42020,7 +42020,7 @@
   }
 }
 163179 = {
-  name = "エリッシェルド"  # Richilde
+  name = "リシルド"  # Richilde
   female = yes
   dynasty = 9306
   religion = "catholic"
