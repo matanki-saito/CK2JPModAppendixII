@@ -7474,7 +7474,7 @@
   used_for_random = no
 }
 902 = {
-  name = "Groth"
+  name = "フロツ"  # Groth
   culture = "dutch"
   religion = "catholic"
   is_modified = yes
@@ -7632,7 +7632,7 @@
   used_for_random = no
 }
 909 = {
-  name = "der Leegar"
+  name = "デア・リーガー"  # der Leegar
   culture = "german"
   religion = "orthodox"
   coat_of_arms = {
@@ -8034,7 +8034,7 @@
   used_for_random = no
 }
 922 = {
-  name = "van der Veer"
+  name = "ファン・デア・フェール"  # van der Veer
   culture = "dutch"
   religion = "catholic"
   coat_of_arms = {
@@ -8160,7 +8160,7 @@
   used_for_random = no
 }
 926 = {
-  name = "Schneider"
+  name = "シュナイダー"  # Schneider
   culture = "old_saxon"
   religion = "norse_pagan"
   coat_of_arms = {
@@ -46749,12 +46749,12 @@
   religion = "sunni"
 }
 1059003 = {
-  name = "Roshan"
+  name = "ローシャン"  # Roshan
   culture = "persian"
   religion = "sunni"
 }
 1059004 = {
-  name = "Gorno"
+  name = "ゴルノ"  # Gorno
   culture = "persian"
   religion = "sunni"
 }
@@ -46814,7 +46814,7 @@
   religion = "zoroastrian"
 }
 1059009 = {
-  name = "Shina"
+  name = "シナ"  # Shina
   culture = "panjabi"
   religion = "bon"
 }
@@ -46824,7 +46824,7 @@
   religion = "shiite"
 }
 1059011 = {
-  name = "Hunza"
+  name = "ハンザ"  # Hunza
   culture = "panjabi"
   religion = "buddhist"
 }
@@ -46844,7 +46844,7 @@
   religion = "nestorian"
 }
 1059015 = {
-  name = "Gazarta"
+  name = "ガザルタ"  # Gazarta
   culture = "assyrian"
   religion = "nestorian"
 }
@@ -46969,7 +46969,7 @@
   religion = "tengri_pagan"
 }
 1059035 = {
-  name = "Beshbalik"
+  name = "ビシュバリク"  # Beshbalik
   culture = "uyghur"
   religion = "buddhist"
 }
@@ -48473,22 +48473,22 @@
   religion = "orthodox"
 }
 1059036 = {
-  name = "Haroun"
+  name = "ハロウン"  # Haroun
   culture = coptic
   religion = "miaphysite"
 }
 1059037 = {
-  name = "Zaia"
+  name = "ザイア"  # Zaia
   culture = coptic
   religion = "miaphysite"
 }
 1059038 = {
-  name = "Abderahman"
+  name = "アブデッラマーン"  # Abderahman
   culture = coptic
   religion = "miaphysite"
 }
 1059039 = {
-  name = "Merkourios"
+  name = "メルクリオス"  # Merkourios
   culture = coptic
   religion = "miaphysite"
 }

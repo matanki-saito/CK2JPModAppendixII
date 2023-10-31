@@ -1310,54 +1310,54 @@ central_germanic = {
       "アジウルフ_Agiulf"  # Agiulf
       "アイルベルト_Ailbert"  # Ailbert
       "アルブリック_Albric"  # Albric
-      "Aldedramn"
+      "アルデドラム"  # Aldedramn
       "Andica"
       "Ansovald"
       "アルカンヴァルド"  # Arcambald
-      "Aregisel"
-      "Arnegisel"
+      "アレゼセル"  # Aregisel
+      "アルネギセル"  # Arnegisel
       "アルヌルフ"  # Arnulf_Arnulf
       "アスカリック"  # Ascaric
       "Audovald"
-      "Austregisel"
+      "アウストレギセル"  # Austregisel
       "Autbert"
-      "Autgari"
+      "アウトガリ"  # Autgari
       "Autgeri"
-      "Avremar"
+      "アヴレマル"  # Avremar
       "Badegisel"
       "Balduin_Baldwin"
-      "Barnard"
-      "Berald"
+      "バーナード"  # Barnard
+      "ベラルド"  # Berald
       "ベルナルド"  # Bernard_Bernard
       "ベルネリ"  # Berneri
       "ベロ"  # Bero
       "ベロール"  # Berold
-      "Berthefried"
-      "Bertlin"
+      "ベルテフリート"  # Berthefried
+      "ベルトリン"  # Bertlin
       "Bertram_Bertrand"
       "ベルトラン"  # Bertrand
       "Burchard_Bouchard"
       "カールマン_Carloman"  # Karloman_Carloman
-      "Ceslin"
+      "ケスリン"  # Ceslin
       "Chararic"
-      "Charibert"
+      "シャリベール"  # Charibert
       "Childebert"
       "Childeric"
-      "Chilperic"
+      "キルペリク"  # Chilperic
       "Chlodomer"
       "Chlothar_Lothair"
       "Chramnesind"
-      "Clodio"
+      "クロディオ"  # Clodio
       "Clodion"
-      "Clovis"
-      "Creat"
+      "クロヴィス"  # Clovis
+      "クレアト"  # Creat
       "Dagaric"
-      "Dagobert"
+      "ダゴベルト"  # Dagobert
       "Drogo_Drogo"
-      "Eberulf"
+      "エベルルフ"  # Eberulf
       "Ebregisel"
       "Engilbert"
-      "Euric"
+      "エウリック"  # Euric
       "Everard_Everard"
       "ファーロアー"  # Faroard
       "ファロン"  # Faroin
@@ -1365,30 +1365,30 @@ central_germanic = {
       "Feroard"
       "Foroen"
       "Frobert"
-      "Frotari"
-      "Frothard"
-      "Frothari"
+      "フロタリ"  # Frotari
+      "フロタルト"  # Frothard
+      "フロタリ"  # Frothari
       "Frotlaic"
       "Fulcari"
       "Fulcrad"
-      "Galteri"
-      "Gararic"
-      "Garivald"
-      "Gaucelm"
-      "Gaudulf"
+      "ガルテリ"  # Galteri
+      "ガラリック"  # Gararic
+      "ガリヴァルド"  # Garivald
+      "ガウセルム"  # Gaucelm
+      "ガウドゥルフ"  # Gaudulf
       "Gaujoin"
-      "Gausbert"
+      "ガウスベルト"  # Gausbert
       "Gausbold"
-      "Gautmar"
-      "Gauzbert"
-      "Gedalbert"
-      "Gedalca"
-      "Genobaud"
-      "Gerbert"
+      "ガウトマル"  # Gautmar
+      "ゴズベール"  # Gauzbert
+      "ゲダルベルト"  # Gedalbert
+      "ゲダルカ"  # Gedalca
+      "ゲンノバウド"  # Genobaud
+      "ジェルベール"  # Gerbert
       "Gerhard_Gerard"
       "ゲロルド_Gerald"  # Gerold_Gerald
-      "Gislari"
-      "Gislevert"
+      "ギスラリ"  # Gislari
+      "ギスレヴェルト"  # Gislevert
       "Gocelm"
       "Godalbert"
       "Godomar"
@@ -1413,7 +1413,7 @@ central_germanic = {
       "Hugbert_Hubert"
       "Imnachar"
       "Ingalbert_Engelbrecht"
-      "Ingomer"
+      "インゴメル"  # Ingomer
       "カール_Charles"  # Karl_Charles
       "ランバート_Lambert"  # Lambert_Lambert
       "Lantbert_Lambert"
@@ -1422,37 +1422,37 @@ central_germanic = {
       "Magnachar"
       "Magneric"
       "メナ"  # Mainard
-      "Mallobaudes"
-      "Marachar"
-      "Marcomer"
-      "Marell"
+      "メロバウドゥス"  # Mallobaudes
+      "マラヒャル"  # Marachar
+      "マルコメール"  # Marcomer
+      "マレル"  # Marell
       "Martin_Martin"
       "Maurifi"
       "メインハルド"  # Meginhard
-      "Merogais"
-      "Merovech"
-      "Munderic"
+      "メロガイス"  # Merogais
+      "メロヴィクス"  # Merovech
+      "ムンデリック"  # Munderic
       "Niebelung"
       "Odelric"
       "Odolric"
-      "Otbert"
-      "Otgeri"
-      "Otker"
+      "オツベル"  # Otbert
+      "オトゲリ"  # Otgeri
+      "オトケ"  # Otker
       "Pepin_Pepin"
       "Pharamond_Faramond"
       "Pippin_Pepin"
       "ラデュルフ_Ralph"  # Radulf_Ralph
-      "Ragambald"
+      "ラガンバルド"  # Ragambald
       "ラギーナ"  # Ragena
       "Ragenard_Rainer"
       "Raginari_Rainer"
       "Ragnachar_Rainer"
       "Ragnald_Ragnvald"
       "Ragno"
-      "Raimbold"
+      "ライムボルド"  # Raimbold
       "Rainald_Reinhold"
-      "Ramnulf"
-      "Rathar"
+      "ランヌルフ"  # Ramnulf
+      "ラザー"  # Rathar
       "Raynold_Reinhold"
       "Reginari_Rainer"
       "Ricchar"
@@ -1460,10 +1460,10 @@ central_germanic = {
       "Roland_Roland"
       "ロバート_Robert"  # Robert_Robert
       "Rotbert_Robert"
-      "Segoin"
-      "Seguin"
+      "セゴイン"  # Segoin
+      "セグイン"  # Seguin
       "Sicbald"
-      "Sichar"
+      "シシャール"  # Sichar
       "Sicland"
       "Sicleard"
       "Siclevold"
@@ -21954,18 +21954,18 @@ indo_aryan_group = {
       "カリヤーン"  # Kalyan
       "カプール"  # Kapur
       "ケハール"  # Kehar
-      "Kharak"
+      "カーラク"  # Kharak
       "カスホール"  # Khushal
       "ラーナ"  # Lahna
-      "Lakhmichand"
-      "Laxman"
+      "ラクミチャンド"  # Lakhmichand
+      "ラクスマン"  # Laxman
       "マハーデヴァ"  # Mahadev
       "モハン"  # Mohan
       "モーリ"  # Mohri
       "ナナク"  # Nanak
-      "Narayan"
-      "Nodha"
-      "Partap"
+      "ナラヤン"  # Narayan
+      "ノーダ"  # Nodha
+      "パルタプ"  # Partap
       "フェール"  # Pheru
       "プリティチャンド"  # Prithichand
       "プリットヴィー"  # Prithvi
@@ -21974,33 +21974,33 @@ indo_aryan_group = {
       "ロンジョア"  # Ranjor
       "サディフ"  # Sahdev
       "シャムシェール"  # Shamsher
-      "Sher"
-      "Srichand"
+      "シェール"  # Sher
+      "スリチャンド"  # Srichand
       "テーグ・バハードゥル"  # Tegh Bahadur
-      "Tej Bhan"
+      "テジ・バーン"  # Tej Bhan
       "タークル"  # Thakur
       "ゾラワール"  # Zorawar
     }
     female_names = {
       "アムロ"  # Amro
       "アノキー"  # Anokhi
-      "Anup"
+      "アヌプ"  # Anup
       "ベグム"  # Begum
-      "Bhani"
+      "バーニ"  # Bhani
       "ダニー"  # Dani
       "グジュリ"  # Gujri
       "ジョーダーバーイー"  # Jodhabai
       "キーヴィ"  # Khivi
-      "Kishan"
+      "キシャン"  # Kishan
       "ラチミー"  # Lachmi
       "ナナキ"  # Nanaki
-      "Nihal"
-      "Ramo"
+      "ニハル"  # Nihal
+      "ラモ"  # Ramo
       "サブライ"  # Sabhirai
-      "Sahib"
-      "Sulakhni"
+      "サーヒブ"  # Sahib
+      "スラフニ"  # Sulakhni
       "スンダリ"  # Sundari
-      "Tripta"
+      "トリプータ"  # Tripta
     }
     dynasty_title_names = yes
     founder_named_dynasties = yes
@@ -22021,7 +22021,7 @@ indo_aryan_group = {
     male_names = {
       "アシャルライ_Achalraja"  # Achalraj_Achalraja
       "アチャルラージャ_Achalraja"  # Achalraja_Achalraja
-      "Adhandev"
+      "アダーンデーヴ"  # Adhandev
       "アディテヤデーヴァ"  # Adityadeva
       "アジマル"  # Ajmal
       "アルシ"  # Alsi
@@ -22034,40 +22034,40 @@ indo_aryan_group = {
       "Arjunpal_Arjunpala"
       "Arjunpala_Arjunpala"
       "アルジュナヴァルマン"  # Arjunavarman
-      "Bacchdev"
-      "Bachraj"
+      "バシュデヴ"  # Bacchdev
+      "バッチュラージ"  # Bachraj
       "Baghpal_Baghpala"
       "Baghpala_Baghpala"
       "Bahadur-Singh"
       "ビージパール_Beejpala"  # Beejpal_Beejpala
       "ビージパーラ_Beejpala"  # Beejpala_Beejpala
-      "Bhaadar"
+      "バーダール"  # Bhaadar
       "Bhilpala"
       "Bhoj_Bhoja"
       "ボージャ_Bhoja"  # Bhoja_Bhoja
       "Bhojavarman_Bhoja"
-      "Bhopal"
+      "ボーパル"  # Bhopal
       "Bhumpal_Bhumpala"
       "Bhumpala_Bhumpala"
       "ビールパール_Birpala"  # Birpal_Birpala
       "ビールパーラ"  # Birpala_Birpala
-      "Bisaldeva"
+      "ビーサルデーヴァ"  # Bisaldeva
       "バラーマデーヴァ"  # Brahmadeva
       "ブラーマパーラ"  # Brahmapala
-      "Brahmdevpal"
+      "ブランデーヴパール"  # Brahmdevpal
       "チャンド"  # Chand
-      "Devapala"
-      "Devavarman"
+      "デーヴァパーラ"  # Devapala
+      "デーヴァヴァルマン"  # Devavarman
       "Dhanga_Dhanga"
       "Dhangadeva_Dhanga"
-      "Dharmapala"
-      "Dhaulshaya"
+      "ダルマパーラ"  # Dharmapala
+      "ダーウルシャヤ"  # Dhaulshaya
       "Dilipapala_Dilipapala"
       "Dilippal_Dilipapala"
       "ドス"  # Doth
       "Draupad_Draupada"
       "Draupada_Draupada"
-      "Dugarendra"
+      "ドゥガレンドラ"  # Dugarendra
       "Gambhir"
       "Ganapatideva"
       "Gandadeva"
@@ -22107,71 +22107,71 @@ indo_aryan_group = {
       "Jayasimha"
       "Jhetpal_Jhetpala"
       "Jhetpala_Jhetpala"
-      "Junpala"
+      "ジュンパラ"  # Junpala
       "Kailaspal_Kailaspala"
       "Kailaspala_Kailaspala"
-      "Kalkurna"
-      "Kalyanachandra"
+      "カルクルナ"  # Kalkurna
+      "カリャーナチャンドラ"  # Kalyanachandra
       "Kakhopal_Kakhopala"
       "Kakhopala_Kakhopala"
       "カマル"  # Kamal
-      "Kanhad"
+      "カナード"  # Kanhad
       "Kanvarpal_Kanvarpala"
       "Kanvarpala_Kanvarpala"
-      "Karnpal"
-      "Keeratdeva"
-      "Khadag"
+      "カルンパール"  # Karnpal
+      "ケーラトデーヴァ"  # Keeratdeva
+      "カダグ"  # Khadag
       "ケーターパール_Khetrapala"  # Khetrapal_Khetrapala
       "ケーターパーラ_Khetrapala"  # Khetrapala_Khetrapala
       "Kiratpal_Kiratpala"
       "Kiratpala_Kiratpala"
-      "Krishnray"
-      "Krsnapa"
+      "クリシュンライ"  # Krishnray
+      "クルスナパ"  # Krsnapa
       "クマーラパーラ"  # Kumarapala
       "Kunwar_Kunwar"
       "Kunwarpal_Kunwar"
-      "Ladahachandra"
+      "ラダハチャンドラ"  # Ladahachandra
       "ラクシュマンデーヴァ"  # Lakshmandeva
       "Lokpala"
-      "Madanapala"
-      "Madanavarman"
-      "Maharana"
+      "マダナパーラ"  # Madanapala
+      "マダナヴァルマン"  # Madanavarman
+      "マハーラーナ"  # Maharana
       "Mahendrapal_Mahendrapala"
       "Mahendrapala_Mahendrapala"
       "Mahipal_Mahipala"
       "Mahipala_Mahipala"
-      "Mahipata"
-      "Mahlakadeva"
+      "マヒパタ"  # Mahipata
+      "マーラカデーヴァ"  # Mahlakadeva
       "Mandandeva"
-      "Mangaldeva"
-      "Margdeva"
-      "Mihira"
-      "Nagapala"
-      "Nagdeo"
-      "Nannuka"
+      "マンガルデーヴァ"  # Mangaldeva
+      "マルグデーヴァ"  # Margdeva
+      "ミヒラ"  # Mihira
+      "ナーガパーラ"  # Nagapala
+      "ナグデオ"  # Nagdeo
+      "ナンヌーカ"  # Nannuka
       "ナラヴァルマン"  # Naravarman
-      "Narayanapala"
-      "Narpal"
-      "Nayapala"
+      "ナーラーヤナパーラ"  # Narayanapala
+      "ナルパル"  # Narpal
+      "ナヤパーラ"  # Nayapala
       "ニハール"  # Nihaal
-      "Nihalray"
-      "Paramardideva"
+      "ニハルレイ"  # Nihalray
+      "パラマーディデーヴァ"  # Paramardideva
       "パヴァク"  # Pavak
-      "Peepalraj"
-      "Popatraj"
+      "ピーパルラジ"  # Peepalraj
+      "ポパトラジ"  # Popatraj
       "プリタンパール_Pritampala"  # Pritampal_Pritampala
       "プリタンパーラ_Pritampala"  # Pritampala_Pritampala
-      "Prithipala"
+      "プリシパーラ"  # Prithipala
       "プリトヴィー_Prithvi"  # Prithvi_Prithvi
       "プリットヴィパール_Prithvi"  # Prithvipal_Prithvi
       "プリットヴィラジ_Prithviraja"  # Prithviraj_Prithviraja
       "プリットヴィラージャ_Prithviraja"  # Prithviraja_Prithviraja
       "プリットヴィヴァルマン"  # Prithvivarman
-      "Rahila"
+      "ラヒラ"  # Rahila
       "ラジャパラ"  # Rajapala
-      "Rajyapala"
+      "ラージヤパーラ"  # Rajyapala
       "ラーマバドラ"  # Ramabhadra
-      "Ramachandra"
+      "ラーマチャンドラ"  # Ramachandra
       "Rampal_Rampala"
       "Rampala_Rampala"
       "ラーナー"  # Rana
@@ -22217,9 +22217,9 @@ indo_aryan_group = {
       "ヴァスデヴ"  # Vasudev
       "Vidurathpal_Vidurathpala"
       "Vidurathpala_Vidurathpala"
-      "Vidyadhara"
-      "Vigrahapala"
-      "Vigraharaja"
+      "ヴィドヤダーラ"  # Vidyadhara
+      "ヴィグラハパーラ"  # Vigrahapala
+      "ヴィグラハラージャ"  # Vigraharaja
       "Vihangpal"
       "Vijayapala"
       "Vijayasakti"
