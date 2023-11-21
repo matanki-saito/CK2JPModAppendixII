@@ -1066,8 +1066,8 @@ dog_group = {
       "Tavi"
       "Naevia"
       "アリス"  # Alice
-      "Berta"
-      "Domino"
+      "ベルタ"  # Berta
+      "ドミノ"  # Domino
       "Blondi"
       "ベラ"  # Bella
       "Lottie"

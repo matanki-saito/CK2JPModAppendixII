@@ -18087,7 +18087,7 @@
   }
 }
 4427 = {
-  name = "Bény"
+  name = "ベーニ"  # Bény
   dynasty = 19053
   martial = 5
   diplomacy = 5
@@ -18106,7 +18106,7 @@
   }
 }
 4428 = {
-  name = "Lampert"
+  name = "ランペルト"  # Lampert
   dynasty = 19053
   martial = 5
   diplomacy = 6
@@ -26142,7 +26142,7 @@
   }
 }
 6639 = {
-  name = "Ermessinde"
+  name = "エルメシンド"  # Ermessinde
   female = yes
   dynasty = 667
   martial = 8

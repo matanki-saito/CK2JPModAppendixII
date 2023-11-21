@@ -1312,17 +1312,17 @@ central_germanic = {
       "アルブリック_Albric"  # Albric
       "アルデドラム"  # Aldedramn
       "Andica"
-      "Ansovald"
+      "アンゾヴァルド"  # Ansovald
       "アルカンヴァルド"  # Arcambald
       "アレゼセル"  # Aregisel
       "アルネギセル"  # Arnegisel
       "アルヌルフ"  # Arnulf_Arnulf
       "アスカリック"  # Ascaric
-      "Audovald"
+      "アウドヴァルド"  # Audovald
       "アウストレギセル"  # Austregisel
       "Autbert"
       "アウトガリ"  # Autgari
-      "Autgeri"
+      "アウトゲリ"  # Autgeri
       "アヴレマル"  # Avremar
       "Badegisel"
       "Balduin_Baldwin"
@@ -1341,10 +1341,10 @@ central_germanic = {
       "ケスリン"  # Ceslin
       "Chararic"
       "シャリベール"  # Charibert
-      "Childebert"
-      "Childeric"
+      "キルデベルト"  # Childebert
+      "キルデリク"  # Childeric
       "キルペリク"  # Chilperic
-      "Chlodomer"
+      "クロドメール"  # Chlodomer
       "Chlothar_Lothair"
       "Chramnesind"
       "クロディオ"  # Clodio
@@ -1356,12 +1356,12 @@ central_germanic = {
       "Drogo_Drogo"
       "エベルルフ"  # Eberulf
       "Ebregisel"
-      "Engilbert"
+      "アンジルベール"  # Engilbert
       "エウリック"  # Euric
       "Everard_Everard"
       "ファーロアー"  # Faroard
       "ファロン"  # Faroin
-      "Feremund"
+      "フェレムンド"  # Feremund
       "Feroard"
       "Foroen"
       "Frobert"
@@ -1370,7 +1370,7 @@ central_germanic = {
       "フロタリ"  # Frothari
       "Frotlaic"
       "Fulcari"
-      "Fulcrad"
+      "フュルクラド"  # Fulcrad
       "ガルテリ"  # Galteri
       "ガラリック"  # Gararic
       "ガリヴァルド"  # Garivald
@@ -1378,19 +1378,19 @@ central_germanic = {
       "ガウドゥルフ"  # Gaudulf
       "Gaujoin"
       "ガウスベルト"  # Gausbert
-      "Gausbold"
+      "ガウスボルド"  # Gausbold
       "ガウトマル"  # Gautmar
       "ゴズベール"  # Gauzbert
       "ゲダルベルト"  # Gedalbert
       "ゲダルカ"  # Gedalca
       "ゲンノバウド"  # Genobaud
       "ジェルベール"  # Gerbert
-      "Gerhard_Gerard"
+      "イェルハルド_Gerard"  # Gerhard_Gerard
       "ゲロルド_Gerald"  # Gerold_Gerald
       "ギスラリ"  # Gislari
       "ギスレヴェルト"  # Gislevert
       "Gocelm"
-      "Godalbert"
+      "ゴダルベルト"  # Godalbert
       "Godomar"
       "Gozhelm"
       "Grimald"
@@ -1398,12 +1398,12 @@ central_germanic = {
       "Gualtari_Walter"
       "Gualter_Walter"
       "Guillabert"
-      "Guitard"
-      "Gundobad"
+      "ギタール"  # Guitard
+      "グンドバド"  # Gundobad
       "ギュンター_Günther"  # Gunthar_Günther
       "グントラム"  # Guntram
-      "Haldemar"
-      "Hartmut"
+      "ハルデマール"  # Haldemar
+      "ハルトムット"  # Hartmut
       "Hildebald"
       "Hildebold"
       "Hildegaud"

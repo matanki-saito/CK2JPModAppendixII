@@ -278,7 +278,7 @@
   }
 }
 223030 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   martial = 7
   diplomacy = 8
@@ -297,7 +297,7 @@
   }
 }
 223031 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   martial = 5
   diplomacy = 5
@@ -358,7 +358,7 @@
   }
 }
 223034 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   martial = 6
   diplomacy = 5
@@ -545,7 +545,7 @@
   }
 }
 232566 = {
-  name = "Beatrice"
+  name = "ベアトリス"  # Beatrice
   female = yes
   dynasty = 190
   martial = 4
@@ -682,7 +682,7 @@
   }
 }
 232574 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   martial = 4
   diplomacy = 4
@@ -701,7 +701,7 @@
   }
 }
 232575 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   martial = 4
   diplomacy = 4
@@ -1019,7 +1019,7 @@
   }
 }
 232592 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23000
   martial = 4
   diplomacy = 4
@@ -1079,7 +1079,7 @@
   }
 }
 232595 = {
-  name = "Vahram"
+  name = "ヴァフラム"  # Vahram
   dynasty = 23010
   martial = 4
   diplomacy = 4
@@ -1161,7 +1161,7 @@
   }
 }
 232758 = {
-  name = "Sargis"
+  name = "サルギス"  # Sargis
   dynasty = 1029018
   martial = 4
   diplomacy = 4
@@ -1200,7 +1200,7 @@
   }
 }
 232760 = {
-  name = "Ivane"
+  name = "イヴァネ"  # Ivane
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -1283,7 +1283,7 @@
   }
 }
 30991 = {
-  name = "Tomas"
+  name = "トマス"  # Tomas
   dynasty = 190
   religion = "miaphysite"
   culture = "armenian"
@@ -1310,7 +1310,7 @@
   }
 }
 30993 = {
-  name = "Stephanie"
+  name = "ステファニー"  # Stephanie
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -1355,7 +1355,7 @@
   }
 }
 30999 = {
-  name = "Rita"
+  name = "リタ"  # Rita
   female = yes
   dynasty = 190
   religion = "miaphysite"
@@ -1384,7 +1384,7 @@
   }
 }
 41336 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 507
   martial = 5
   diplomacy = 5
@@ -1442,7 +1442,7 @@
   }
 }
 41501 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1501,7 +1501,7 @@
   }
 }
 41504 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1538,7 +1538,7 @@
   }
 }
 41506 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1610,7 +1610,7 @@
   }
 }
 41510 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1644,7 +1644,7 @@
   }
 }
 41512 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1678,7 +1678,7 @@
   }
 }
 41514 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1698,7 +1698,7 @@
   }
 }
 41517 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 507
   martial = 6
   diplomacy = 10
@@ -1717,7 +1717,7 @@
   }
 }
 41518 = {
-  name = "Mara"
+  name = "マーラ"  # Mara
   female = yes
   dynasty = 507
   martial = 8
@@ -1736,7 +1736,7 @@
   }
 }
 41519 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1753,7 +1753,7 @@
   }
 }
 41520 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1787,7 +1787,7 @@
   }
 }
 41522 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 507
   martial = 8
   diplomacy = 8
@@ -1808,7 +1808,7 @@
   }
 }
 41524 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 507
   martial = 6
   diplomacy = 6
@@ -1842,7 +1842,7 @@
   }
 }
 41526 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 507
   martial = 3
   diplomacy = 6
@@ -1881,7 +1881,7 @@
   }
 }
 41528 = {
-  name = "Mara"
+  name = "マーラ"  # Mara
   female = yes
   dynasty = 507
   martial = 6
@@ -2070,7 +2070,7 @@
   }
 }
 41556 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 101743
   martial = 7
   diplomacy = 5
@@ -2112,7 +2112,7 @@
   }
 }
 41558 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 101743
   martial = 6
   diplomacy = 4
@@ -2136,7 +2136,7 @@
   }
 }
 41559 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2212,7 +2212,7 @@
   }
 }
 41563 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2264,7 +2264,7 @@
   }
 }
 41566 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2336,7 +2336,7 @@
   }
 }
 41570 = {
-  name = "Abusahl Hamazasp"
+  name = "アブサール＝ハマザスプ"  # Abusahl Hamazasp
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2370,7 +2370,7 @@
   }
 }
 41572 = {
-  name = "Gurgen Khachik"
+  name = "ギュールゲン＝カチク"  # Gurgen Khachik
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2387,7 +2387,7 @@
   }
 }
 41573 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2404,7 +2404,7 @@
   }
 }
 41574 = {
-  name = "Gurgen"
+  name = "ギュールゲン"  # Gurgen
   dynasty = 101736
   martial = 6
   diplomacy = 6
@@ -2421,7 +2421,7 @@
   }
 }
 41575 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   martial = 5
   diplomacy = 7
@@ -2459,7 +2459,7 @@
   }
 }
 41578 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 101736
   martial = 2
   diplomacy = 1
@@ -2497,7 +2497,7 @@
   }
 }
 41580 = {
-  name = "Atom"
+  name = "アトム"  # Atom
   dynasty = 101736
   martial = 6
   diplomacy = 4
@@ -2516,7 +2516,7 @@
   }
 }
 41581 = {
-  name = "Abusahl"
+  name = "アブサール"  # Abusahl
   dynasty = 101736
   martial = 7
   diplomacy = 3
@@ -2599,7 +2599,7 @@
   }
 }
 41586 = {
-  name = "Sarkis"
+  name = "サルキス"  # Sarkis
   dynasty = 23002
   martial = 6
   diplomacy = 6
@@ -2683,7 +2683,7 @@
   }
 }
 41590 = {
-  name = "Toros"
+  name = "トロス"  # Toros
   dynasty = 23002
   martial = 7
   diplomacy = 8
@@ -2704,7 +2704,7 @@
   }
 }
 41591 = {
-  name = "Oshim"
+  name = "オシム"  # Oshim
   dynasty = 23002
   martial = 7
   diplomacy = 7
@@ -2729,7 +2729,7 @@
   }
 }
 4554 = {
-  name = "Kohar"
+  name = "コハール"  # Kohar
   female = yes
   dynasty = 44
   martial = 4
@@ -2767,7 +2767,7 @@
   }
 }
 461799 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -2851,7 +2851,7 @@
   }
 }
 461803 = {
-  name = "Oshim"
+  name = "オシム"  # Oshim
   dynasty = 23003
   martial = 6
   diplomacy = 6
@@ -2874,7 +2874,7 @@
   }
 }
 461804 = {
-  name = "Maria"
+  name = "マリア"  # Maria
   female = yes
   dynasty = 23003
   martial = 6
@@ -2937,7 +2937,7 @@
   }
 }
 70440 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23002
   martial = 5
   diplomacy = 9
@@ -2956,7 +2956,7 @@
   }
 }
 70445 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 507
   martial = 5
   diplomacy = 4
@@ -2977,7 +2977,7 @@
   }
 }
 70446 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 507
   martial = 6
   diplomacy = 3
@@ -2998,7 +2998,7 @@
   }
 }
 70447 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   martial = 6
   diplomacy = 4
@@ -3038,7 +3038,7 @@
   }
 }
 70450 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   martial = 7
   diplomacy = 4
@@ -3101,7 +3101,7 @@
   }
 }
 70453 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   martial = 4
   diplomacy = 5
@@ -3121,7 +3121,7 @@
   }
 }
 70454 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   martial = 5
   diplomacy = 7
@@ -3141,7 +3141,7 @@
   }
 }
 70455 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 23006
   martial = 6
   diplomacy = 5
@@ -3165,7 +3165,7 @@
   }
 }
 85001 = {
-  name = "Vahram"
+  name = "ヴァフラム"  # Vahram
   dynasty = 20063
   martial = 9
   diplomacy = 5
@@ -3223,7 +3223,7 @@
   }
 }
 90026 = {
-  name = "Beatrice"
+  name = "ベアトリス"  # Beatrice
   female = yes
   dynasty = 100706
   martial = 4
@@ -3317,7 +3317,7 @@
   }
 }
 9955 = {
-  name = "Helena"
+  name = "ヘレナ"  # Helena
   female = yes
   dynasty = 507
   martial = 8
@@ -3338,7 +3338,7 @@
   }
 }
 31830 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3367,7 +3367,7 @@
   }
 }
 31831 = {
-  name = "Stephanie"
+  name = "ステファニー"  # Stephanie
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3381,7 +3381,7 @@
   }
 }
 31832 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3405,7 +3405,7 @@
   }
 }
 31833 = {
-  name = "Oshim"
+  name = "オシム"  # Oshim
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3422,7 +3422,7 @@
   }
 }
 31834 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3435,7 +3435,7 @@
   }
 }
 31835 = {
-  name = "Maria"
+  name = "マリア"  # Maria
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3450,7 +3450,7 @@
   }
 }
 31836 = {
-  name = "Emeline"
+  name = "エメライン"  # Emeline
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3493,7 +3493,7 @@
   }
 }
 31839 = {
-  name = "Hripsimeh"
+  name = "フリプシメ"  # Hripsimeh
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3547,7 +3547,7 @@
   }
 }
 31843 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3586,7 +3586,7 @@
   }
 }
 31847 = {
-  name = "Euphemia"
+  name = "エウフェミア"  # Euphemia
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3601,7 +3601,7 @@
   }
 }
 31848 = {
-  name = "Maria"
+  name = "マリア"  # Maria
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3616,7 +3616,7 @@
   }
 }
 31849 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3678,7 +3678,7 @@
   }
 }
 31854 = {
-  name = "Oshin"
+  name = "オシン"  # Oshin
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3692,7 +3692,7 @@
   }
 }
 31855 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3705,7 +3705,7 @@
   }
 }
 31856 = {
-  name = "Raymond"
+  name = "レイモンド"  # Raymond
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3719,7 +3719,7 @@
   }
 }
 31857 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3756,7 +3756,7 @@
   }
 }
 31860 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3816,7 +3816,7 @@
   }
 }
 31864 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3842,7 +3842,7 @@
   }
 }
 31866 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3855,7 +3855,7 @@
   }
 }
 31867 = {
-  name = "Marie"
+  name = "マリー"  # Marie
   female = yes
   dynasty = 23003
   religion = "miaphysite"
@@ -3869,7 +3869,7 @@
   }
 }
 31868 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3898,7 +3898,7 @@
   }
 }
 31870 = {
-  name = "Oshin"
+  name = "オシン"  # Oshin
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3926,7 +3926,7 @@
   }
 }
 31872 = {
-  name = "Oshin"
+  name = "オシン"  # Oshin
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -3965,7 +3965,7 @@
   }
 }
 31875 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -4035,7 +4035,7 @@
   }
 }
 31882 = {
-  name = "Hethum"
+  name = "ヘトゥム"  # Hethum
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -4077,7 +4077,7 @@
   }
 }
 31885 = {
-  name = "Geoffroy"
+  name = "ジョフロワ"  # Geoffroy
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -4164,7 +4164,7 @@
   }
 }
 31891 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -4178,7 +4178,7 @@
   }
 }
 31892 = {
-  name = "Oshin"
+  name = "オシン"  # Oshin
   dynasty = 23003
   religion = "miaphysite"
   culture = "armenian"
@@ -4225,7 +4225,7 @@
   }
 }
 41554 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 101743
   martial = 7
   diplomacy = 5
@@ -4336,7 +4336,7 @@
   }
 }
 159212 = {
-  name = "Vakhtank"
+  name = "ヴァフタンク"  # Vakhtank
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4417,7 +4417,7 @@
   }
 }
 159217 = {
-  name = "Atabeg"
+  name = "アタベク"  # Atabeg
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4473,7 +4473,7 @@
   }
 }
 159221 = {
-  name = "Ivane"
+  name = "イヴァネ"  # Ivane
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4487,7 +4487,7 @@
   }
 }
 159222 = {
-  name = "Vakhtank"
+  name = "ヴァフタンク"  # Vakhtank
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4526,7 +4526,7 @@
   }
 }
 159225 = {
-  name = "Avag"
+  name = "アヴァグ"  # Avag
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4539,7 +4539,7 @@
   }
 }
 159226 = {
-  name = "Sargis"
+  name = "サルギス"  # Sargis
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4552,7 +4552,7 @@
   }
 }
 159227 = {
-  name = "Artashir"
+  name = "アルタシル"  # Artashir
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4565,7 +4565,7 @@
   }
 }
 159228 = {
-  name = "Ivane"
+  name = "イヴァネ"  # Ivane
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4578,7 +4578,7 @@
   }
 }
 159229 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4592,7 +4592,7 @@
   }
 }
 159230 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4618,7 +4618,7 @@
   }
 }
 159236 = {
-  name = "Kata"
+  name = "カタ"  # Kata
   dynasty = 1029025
   female = yes
   religion = "miaphysite"
@@ -4635,7 +4635,7 @@
   }
 }
 159237 = {
-  name = "Sarkis"
+  name = "サルキス"  # Sarkis
   dynasty = 1029018
   religion = "miaphysite"
   culture = "armenian"
@@ -4691,7 +4691,7 @@
   }
 }
 159241 = {
-  name = "Senekerim"
+  name = "セネケリム"  # Senekerim
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -4704,7 +4704,7 @@
   }
 }
 159242 = {
-  name = "Senekerim"
+  name = "セネケリム"  # Senekerim
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -4730,7 +4730,7 @@
   }
 }
 159244 = {
-  name = "Philipo"
+  name = "フィリポ"  # Philipo
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -4847,7 +4847,7 @@
   }
 }
 159253 = {
-  name = "Philipo"
+  name = "フィリポ"  # Philipo
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -4860,7 +4860,7 @@
   }
 }
 159254 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -4925,7 +4925,7 @@
   }
 }
 159259 = {
-  name = "Vakhtank"
+  name = "ヴァフタンク"  # Vakhtank
   dynasty = 1029023
   religion = "miaphysite"
   culture = "armenian"
@@ -4970,7 +4970,7 @@
   }
 }
 159262 = {
-  name = "Vahram"
+  name = "ヴァフラム"  # Vahram
   dynasty = 23002
   religion = "miaphysite"
   culture = "armenian"
@@ -5032,7 +5032,7 @@
   }
 }
 159267 = {
-  name = "Senekerim"
+  name = "セネケリム"  # Senekerim
   dynasty = 190
   religion = "miaphysite"
   culture = "armenian"
@@ -5058,7 +5058,7 @@
   }
 }
 159280 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -5119,7 +5119,7 @@
   }
 }
 159285 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 507
   religion = "miaphysite"
   culture = "armenian"
@@ -5161,7 +5161,7 @@
   }
 }
 159288 = {
-  name = "Maria"
+  name = "マリア"  # Maria
   female = yes
   dynasty = 507
   religion = "miaphysite"
@@ -5225,7 +5225,7 @@
     birth = "1003.1.1"
   }
   1025.1.1 = {
-    name = "Maria"
+    name = "マリア"  # Maria
     religion = "catholic"
     culture = "portuguese"
     add_spouse = 142587
@@ -5370,7 +5370,7 @@
   }
 }
 159628 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 1029027
   religion = "miaphysite"
   culture = "armenian"
@@ -6022,7 +6022,7 @@
   }
 }
 159841 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "zoroastrian"
   culture = "armenian"
@@ -6061,7 +6061,7 @@
   }
 }
 159844 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6126,7 +6126,7 @@
   }
 }
 159849 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6220,7 +6220,7 @@
   }
 }
 159856 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6233,7 +6233,7 @@
   }
 }
 159857 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6246,7 +6246,7 @@
   }
 }
 159858 = {
-  name = "Vahram"
+  name = "ヴァフラム"  # Vahram
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6259,7 +6259,7 @@
   }
 }
 159859 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6337,7 +6337,7 @@
   }
 }
 159865 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6353,7 +6353,7 @@
   }
 }
 159866 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6381,7 +6381,7 @@
   }
 }
 159868 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6458,7 +6458,7 @@
   }
 }
 159871 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6474,7 +6474,7 @@
   }
 }
 159872 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6487,7 +6487,7 @@
   }
 }
 159873 = {
-  name = "Mushel"
+  name = "ムシェル"  # Mushel
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6513,7 +6513,7 @@
   }
 }
 159875 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6565,7 +6565,7 @@
   }
 }
 159879 = {
-  name = "Davit"
+  name = "ダヴィト"  # Davit
   dynasty = 23006
   religion = "miaphysite"
   culture = "armenian"
@@ -6912,7 +6912,7 @@
   }
 }
 159905 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 101736
   religion = "miaphysite"
   culture = "armenian"
@@ -6925,7 +6925,7 @@
   }
 }
 159906 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   religion = "miaphysite"
   culture = "armenian"
@@ -6938,7 +6938,7 @@
   }
 }
 159907 = {
-  name = "Hamazasp"
+  name = "ハマザスプ"  # Hamazasp
   dynasty = 101736
   religion = "miaphysite"
   culture = "armenian"
@@ -6966,7 +6966,7 @@
   }
 }
 160014 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 101736
   religion = "miaphysite"
   culture = "armenian"
@@ -7014,7 +7014,7 @@
   }
 }
 159919 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   religion = "miaphysite"
   culture = "armenian"
@@ -7030,7 +7030,7 @@
   }
 }
 159920 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   religion = "zoroastrian"
   culture = "armenian"
@@ -7059,7 +7059,7 @@
   }
 }
 159922 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   religion = "miaphysite"
   culture = "armenian"
@@ -7085,7 +7085,7 @@
   }
 }
 159924 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 507
   religion = "miaphysite"
   culture = "armenian"
@@ -7245,7 +7245,7 @@
   }
 }
 159972 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -7323,7 +7323,7 @@
   }
 }
 159979 = {
-  name = "Gagik"
+  name = "ガギク"  # Gagik
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -7366,7 +7366,7 @@
   }
 }
 159976 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -7432,7 +7432,7 @@
   }
 }
 159986 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 1029025
   religion = "miaphysite"
   culture = "armenian"
@@ -7561,7 +7561,7 @@
   }
 }
 159996 = {
-  name = "Vahram"
+  name = "ヴァフラム"  # Vahram
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7587,7 +7587,7 @@
   }
 }
 159998 = {
-  name = "Artashir"
+  name = "アルタシル"  # Artashir
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7613,7 +7613,7 @@
   }
 }
 160000 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7652,7 +7652,7 @@
   }
 }
 160003 = {
-  name = "Artashir"
+  name = "アルタシル"  # Artashir
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7678,7 +7678,7 @@
   }
 }
 160005 = {
-  name = "Sargis"
+  name = "サルギス"  # Sargis
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7730,7 +7730,7 @@
   }
 }
 160009 = {
-  name = "Hovhannes"
+  name = "ホヴハンネス"  # Hovhannes
   dynasty = 101743
   religion = "miaphysite"
   culture = "armenian"
@@ -7851,7 +7851,7 @@
   }
 }
 145997 = {
-  name = "Maria"
+  name = "マリア"  # Maria
   dynasty = 1022355
   female = yes
   religion = "miaphysite"
@@ -8074,7 +8074,7 @@
   }
 }
 214078 = {
-  name = "Artashir"
+  name = "アルタシル"  # Artashir
   dynasty = 100685
   religion = "miaphysite"
   culture = "armenian"
@@ -8177,7 +8177,7 @@
   }
 }
 145110 = {
-  name = "Theophylaktos"
+  name = "テオフィラクトス"  # Theophylaktos
   dynasty = 642
   religion = "orthodox"
   culture = "armenian"
@@ -8261,7 +8261,7 @@
   }
 }
 262882 = {
-  name = "Smbat"
+  name = "スムバト"  # Smbat
   dynasty = 1063112
   religion = miaphysite
   culture = armenian

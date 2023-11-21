@@ -13854,7 +13854,7 @@ e_scandinavia = {
         welsh = "アナソウィズ・ケイリアウィ"  # Ynysoedd Ceiliau
         irish = "イーンシェ・キーラ"  # Innse Caora
         b_skansin = {
-          pictish = "Lam"
+          pictish = "ラム"  # Lam
           welsh = "サム"  # Llam
           irish = "Leum"
         }
