@@ -8940,7 +8940,7 @@
   }
 }
 273079 = {
-  name = "AbdAllâh" #ibn Muhammad"
+  name = "AbdAllâh\" #ibn Muhammad"
   dynasty = 1069080
   religion = sunni
   culture = maghreb_arabic
